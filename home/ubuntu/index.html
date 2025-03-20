@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PolicySpace2 - Adaptación al Contexto Español</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f8f9fa;
+        }
+        .header {
+            background-color: #0d6efd;
+            color: white;
+            padding: 2rem 0;
+            margin-bottom: 2rem;
+        }
+        .section {
+            padding: 2rem 0;
+            border-bottom: 1px solid #dee2e6;
+        }
+        .card {
+            margin-bottom: 1.5rem;
+            box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+            transition: all 0.3s;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+        }
+        .table-responsive {
+            margin-top: 1.5rem;
+        }
+        .footer {
+            background-color: #343a40;
+            color: white;
+            padding: 1.5rem 0;
+            margin-top: 2rem;
+        }
+        .btn-primary {
+            background-color: #0d6efd;
+            border-color: #0d6efd;
+        }
+        .btn-primary:hover {
+            background-color: #0b5ed7;
+            border-color: #0a58ca;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-8">
+                    <h1>PolicySpace2</h1>
+                    <p class="lead">Adaptación al Contexto Español</p>
+                </div>
+                <div class="col-md-4 text-md-end">
+                    <a href="#descargas" class="btn btn-light">Descargar Scripts</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <section id="introduccion" class="section">
+            <h2>Introducción</h2>
+            <p>Este proyecto proporciona herramientas para adaptar PolicySpace2 al contexto español, permitiendo obtener datos españoles equivalentes a los utilizados en el proyecto original brasileño. Se han desarrollado varios módulos Python que conectan con APIs oficiales y descargan datos alternativos cuando es necesario.</p>
+            <div class="row mt-4">
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Objetivo</h5>
+                            <p class="card-text">Adaptar el proyecto PolicySpace2 al mercado español, recopilando datos equivalentes a los utilizados en el contexto brasileño original.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Metodología</h5>
+                            <p class="card-text">Identificación de fuentes de datos españolas, creación de conexiones API y desarrollo de scripts para automatizar la obtención de datos.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="fuentes-datos" class="section">
+            <h2>Fuentes de Datos</h2>
+            <p>Se han identificado las siguientes fuentes oficiales para obtener datos españoles equivalentes a los utilizados en PolicySpace2:</p>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">INE</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Instituto Nacional de Estadística</h6>
+                            <p class="card-text">Proporciona datos demográficos, económicos y sociales oficiales de España a través de su API JSON.</p>
+                            <a href="https://www.ine.es/dyngs/DAB/index.htm?cid=1099" class="card-link" target="_blank">Acceder a la API</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">DataBank</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Banco Mundial</h6>
+                            <p class="card-text">Proporciona indicadores económicos y de desarrollo para España y otros países.</p>
+                            <a href="https://datos.bancomundial.org/" class="card-link" target="_blank">Acceder a DataBank</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Ministerio de Hacienda</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Gobierno de España</h6>
+                            <p class="card-text">Proporciona datos de financiación municipal y otros indicadores fiscales.</p>
+                            <a href="https://www.hacienda.gob.es/es-ES/CDI/Paginas/SistemasFinanciacionDeuda/InformacionEELLs/DatosFinanciacionEL.aspx" class="card-link" target="_blank">Acceder a los datos</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="equivalencias" class="section">
+            <h2>Equivalencias de Datos</h2>
+            <p>A continuación se muestra una tabla con las equivalencias entre los archivos originales de PolicySpace2 y sus contrapartes españolas:</p>
+            <div class="table-responsive">
+                <table class="table table-striped table-hover">
+                    <thead class="table-primary">
+                        <tr>
+                            <th>Archivo Original</th>
+                            <th>Archivo Español</th>
+                            <th>Fuente</th>
+                            <th>Descripción</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>ACPs_BR.csv</td>
+                            <td>municipios_codigos_espana.csv</td>
+                            <td>INE API</td>
+                            <td>Códigos de comunidades autónomas y provincias</td>
+                        </tr>
+                        <tr>
+                            <td>ACPs_MUN_CODES.csv</td>
+                            <td>municipios_codigos_espana.csv</td>
+                            <td>INE API</td>
+                            <td>Códigos de municipios</td>
+                        </tr>
+                        <tr>
+                            <td>RM_BR_STATES.csv</td>
+                            <td>municipios_codigos_espana.csv</td>
+                            <td>INE API</td>
+                            <td>Relación de municipios por provincias</td>
+                        </tr>
+                        <tr>
+                            <td>estimativas_pop.csv</td>
+                            <td>poblacion_municipio_sexo_edad_2021.csv</td>
+                            <td>INE API</td>
+                            <td>Cifras de población por municipios</td>
+                        </tr>
+                        <tr>
+                            <td>firms_by_APs*.csv</td>
+                            <td>empresas_por_municipio.csv</td>
+                            <td>INE API</td>
+                            <td>Empresas por municipio</td>
+                        </tr>
+                        <tr>
+                            <td>idhm_2000_2010.csv</td>
+                            <td>indicador_desarrollo_espana.csv</td>
+                            <td>DataBank API</td>
+                            <td>Indicadores de desarrollo humano</td>
+                        </tr>
+                        <tr>
+                            <td>interest_*.csv</td>
+                            <td>tasas_interes_espana.csv</td>
+                            <td>DataBank API</td>
+                            <td>Tipos de interés</td>
+                        </tr>
+                        <tr>
+                            <td>marriage_age_*.csv</td>
+                            <td>matrimonio_edad_espana.csv</td>
+                            <td>INE Web</td>
+                            <td>Edad media al matrimonio por sexo</td>
+                        </tr>
+                        <tr>
+                            <td>fertility_*.csv</td>
+                            <td>fertilidad_ccaa_espana.csv</td>
+                            <td>INE API</td>
+                            <td>Indicadores de fecundidad por comunidades autónomas</td>
+                        </tr>
+                        <tr>
+                            <td>mortality_*.csv</td>
+                            <td>mortalidad_*_ccaa_espana.csv</td>
+                            <td>INE API</td>
+                            <td>Indicadores de mortalidad por comunidades autónomas</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <p class="mt-3">Para ver la lista completa de equivalencias, descargue el archivo <a href="equivalencias_archivos.csv" download>equivalencias_archivos.csv</a>.</p>
+        </section>
+
+        <section id="scripts" class="section">
+            <h2>Scripts Desarrollados</h2>
+            <p>Se han desarrollado los siguientes scripts Python para automatizar la obtención de datos españoles:</p>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">adaptar_policyspace2_espana.py</h5>
+                            <p class="card-text">Script principal que integra todos los módulos con una interfaz de línea de comandos.</p>
+                            <pre class="bg-light p-2"><code>python adaptar_policyspace2_espana.py</code></pre>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">ine_api.py</h5>
+                            <p class="card-text">Módulo para conectar con la API JSON del INE (Instituto Nacional de Estadística).</p>
+                            <pre class="bg-light p-2"><code>from ine_api import INE_API
+ine = INE_API()
+municipios = ine.get_municipalities()</code></pre>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">databank_api.py</h5>
+                            <p class="card-text">Módulo para conectar con la API de DataBank del Banco Mundial.</p>
+                            <pre class="bg-light p-2"><code>from databank_api import DataBankAPI
+databank = DataBankAPI()
+gdp = databank.get_gdp_data()</code></pre>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">descargar_documentos_alternativos.py</h5>
+                            <p class="card-text">Módulo para descargar datos no disponibles mediante APIs.</p>
+                            <pre class="bg-light p-2"><code>import descargar_documentos_alternativos
+descargar_documentos_alternativos.main()</code></pre>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="descargas" class="section">
+            <h2>Descargas</h2>
+            <p>Descargue los scripts y documentación necesarios para adaptar PolicySpace2 al contexto español:</p>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">Scripts Python</h5>
+                            <p class="card-text">Todos los scripts Python desarrollados para el proyecto.</p>
+                            <a href="scripts_policyspace2_espana.zip" class="btn btn-primary" download>Descargar Scripts</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">Documentación</h5>
+                            <p class="card-text">Guía de uso y documentación del proyecto.</p>
+                            <a href="guia_uso.md" class="btn btn-primary" download>Descargar Guía</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">Fuentes de Datos</h5>
+                            <p class="card-text">Documento con las equivalencias entre datos brasileños y españoles.</p>
+                            <a href="fuentes_datos_espanolas.md" class="btn btn-primary" download>Descargar Documento</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="uso" class="section">
+            <h2>Guía de Uso</h2>
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Requisitos Previos</h5>
+                    <ul>
+                        <li>Python 3.6 o superior</li>
+                        <li>Bibliotecas requeridas: pandas, requests, beautifulsoup4</li>
+                        <li>Conexión a Internet para acceder a las APIs</li>
+                    </ul>
+                    <h5 class="card-title mt-4">Instalación</h5>
+                    <ol>
+                        <li>Descargue todos los archivos Python en un mismo directorio</li>
+                        <li>Instale las dependencias necesarias:</li>
+                    </ol>
+                    <pre class="bg-light p-2"><code>pip install pandas requests beautifulsoup4</code></pre>
+                    <h5 class="card-title mt-4">Uso del Script Principal</h5>
+                    <p>Para obtener todos los datos españoles equivalentes a los utilizados en PolicySpace2:</p>
+                    <pre class="bg-light p-2"><code>python adaptar_policyspace2_espana.py</code></pre>
+                    <p>Esto ejecutará todos los módulos y guardará los resultados en el directorio <code>datos_espana</code>.</p>
+                    <h5 class="card-title mt-4">Opciones Adicionales</h5>
+                    <p>El script acepta varios argumentos de línea de comandos:</p>
+                    <ul>
+                        <li><code>--output DIRECTORIO</code>: Especifica el directorio de salida (por defecto: datos_espana)</li>
+                        <li><code>--ine-only</code>: Obtiene solo datos del INE</li>
+                        <li><code>--databank-only</code>: Obtiene solo datos de DataBank</li>
+                        <li><code>--alt-only<response clipped><NOTE>To save on context only part of this file has been shown to you. You should retry this tool after you have searched inside the file with `grep -n` in order to find the line numbers of what you are looking for.</NOTE>
