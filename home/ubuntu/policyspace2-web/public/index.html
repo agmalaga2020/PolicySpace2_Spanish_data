@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Equivalencias de Datos España-Brasil para PolicySpace2</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 0; 
+            padding: 20px; 
+            color: #333; 
+            line-height: 1.6;
+        }
+        h1, h2, h3 { 
+            color: #2c3e50; 
+            margin-top: 30px;
+        }
+        .container { 
+            max-width: 1200px; 
+            margin: 0 auto; 
+            padding: 20px;
+        }
+        table { 
+            width: 100%; 
+            border-collapse: collapse; 
+            margin-bottom: 30px; 
+            font-size: 14px;
+        }
+        th, td { 
+            padding: 12px; 
+            text-align: left; 
+            border-bottom: 1px solid #ddd; 
+        }
+        th { 
+            background-color: #f2f2f2; 
+            font-weight: bold;
+        }
+        tr:hover { 
+            background-color: #f5f5f5; 
+        }
+        .summary { 
+            background-color: #e8f4f8; 
+            padding: 20px; 
+            border-radius: 8px; 
+            margin-bottom: 30px; 
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .category { 
+            background-color: #f8f9fa; 
+            padding: 20px; 
+            margin-top: 30px; 
+            border-radius: 8px; 
+            border-left: 5px solid #3498db;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .btn { 
+            display: inline-block; 
+            padding: 10px 20px; 
+            background-color: #3498db; 
+            color: white; 
+            text-decoration: none; 
+            border-radius: 4px; 
+            margin-right: 15px; 
+            margin-bottom: 15px; 
+            transition: background-color 0.3s;
+            font-weight: bold;
+        }
+        .btn:hover { 
+            background-color: #2980b9; 
+        }
+        .timestamp { 
+            font-size: 0.9em; 
+            color: #777; 
+            margin-top: 40px; 
+            border-top: 1px solid #eee;
+            padding-top: 20px;
+        }
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 30px 0;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        header h1 {
+            color: white;
+            margin: 0;
+        }
+        .source-link {
+            color: #3498db;
+            text-decoration: none;
+        }
+        .source-link:hover {
+            text-decoration: underline;
+        }
+        .download-section {
+            background-color: #f0f7fb;
+            padding: 25px;
+            border-radius: 8px;
+            margin: 40px 0;
+            text-align: center;
+        }
+        .intro {
+            font-size: 16px;
+            line-height: 1.7;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Equivalencias de Datos entre Brasil y España para PolicySpace2</h1>
+            <p>Adaptación completa de fuentes de datos para el contexto español</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="intro">
+            <p>Este sitio web proporciona una guía completa para adaptar el proyecto PolicySpace2 al contexto español. Hemos identificado todas las fuentes de datos españolas equivalentes a las utilizadas en el proyecto original brasileño, incluyendo enlaces directos a las APIs y recursos necesarios.</p>
+            <p>La información está organizada por categorías para facilitar la adaptación del proyecto, y se proporciona código Python para conectar con las APIs y fuentes de datos españolas.</p>
+        </div>
+        
+        <div class="summary">
+            <h2>Resumen de Equivalencias</h2>
+            <p>Se han identificado equivalencias para los 138 documentos originales del proyecto PolicySpace2, agrupados en las siguientes categorías:</p>
+            <ul>
+                <li><strong>Datos Geográficos y Administrativos:</strong> Códigos territoriales, relaciones entre municipios y provincias</li>
+                <li><strong>Datos Demográficos:</strong> Población, fertilidad, mortalidad y matrimonio</li>
+                <li><strong>Datos Económicos:</strong> Empresas, financiación municipal e indicadores económicos</li>
+                <li><strong>Datos Educativos:</strong> Nivel educativo por municipio</li>
+            </ul>
+        </div>
+        
+        <h2>Principales Fuentes de Datos Españolas</h2>
+        <table>
+            <tr>
+                <th>Fuente</th>
+                <th>Tipo de Datos</th>
+                <th>Acceso</th>
+            </tr>
+            <tr>
+                <td>Instituto Nacional de Estadística (INE)</td>
+                <td>Datos demográficos, estadísticos y geográficos</td>
+                <td><a href="https://www.ine.es/dyngs/DAB/index.htm?cid=1099" class="source-link" target="_blank">API JSON</a></td>
+            </tr>
+            <tr>
+                <td>Ministerio de Hacienda</td>
+                <td>Datos de financiación municipal</td>
+                <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" class="source-link" target="_blank">Oficina Virtual</a></td>
+            </tr>
+            <tr>
+                <td>DIRCE (INE)</td>
+                <td>Datos de empresas por municipio</td>
+                <td><a href="https://www.ine.es/jaxiT3/Tabla.htm?t=4721" class="source-link" target="_blank">Consulta de Tablas</a></td>
+            </tr>
+            <tr>
+                <td>Banco de España</td>
+                <td>Tipos de interés e indicadores financieros</td>
+                <td><a href="https://www.bde.es/webbde/es/estadis/infoest/tipos/tipos.html" class="source-link" target="_blank">Estadísticas</a></td>
+            </tr>
+            <tr>
+                <td>DataBank (Banco Mundial)</td>
+                <td>Indicadores de desarrollo</td>
+                <td><a href="https://databank.worldbank.org/source/world-development-indicators" class="source-link" target="_blank">World Development Indicators</a></td>
+            </tr>
+        </table>
+        
+        <div class="category">
+            <h3>Datos Geográficos y Administrativos</h3>
+            <p>Los datos geográficos y administrativos brasileños tienen su equivalente en los códigos territoriales del INE español.</p>
+            <table>
+                <tr>
+                    <th>Documento Original (Brasil)</th>
+                    <th>Equivalente Español</th>
+                    <th>Fuente</th>
+                </tr>
+                <tr>
+                    <td>ACPs_BR.csv</td>
+                    <td>Secciones Censales</td>
+                    <td>INE - API JSON</td>
+                </tr>
+                <tr>
+                    <td>ACPs_MUN_CODES.csv</td>
+                    <td>Relación Secciones-Municipios</td>
+                    <td>INE - API JSON</td>
+                </tr>
+                <tr>
+                    <td>RM_BR_STATES.csv</td>
+                    <td>Relación Municipios-Provincias</td>
+                    <td>INE - Códigos Territoriales</td>
+                </tr>
+                <tr>
+                    <td>STATES_ID_NUM.csv</td>
+                    <td>Códigos Numéricos Territoriales</td>
+                    <td>INE - Códigos Territoriales</td>
+                </tr>
+                <tr>
+                    <td>names_and_codes_municipalities.csv</td>
+                    <td>Relación de Municipios y Códigos</td>
+                    <td>INE - Códigos Territoriales</td>
+                </tr>
+            </table>
+        </div>
+        
+        <div class="category">
+            <h3>Datos Demográficos - Población</h3>
+            <p>Los datos de población brasileños tienen su equivalente en las estadísticas del Padrón y Censos de Población del INE.</p>
+            <table>
+                <tr>
+                    <th>Documento Original (Brasil)</th>
+                    <th>Equivalente Español</th>
+                    <th>Fuente</th>
+                </tr>
+                <tr>
+                    <td>estimativas_pop.csv</td>
+                    <td>Cifras de Población por Municipio</td>
+                    <td>INE - API JSON</td>
+                </tr>
+                <tr>
+                    <td>pop_men_2000.csv / pop_men_2010.csv</td>
+                    <td>Población Masculina por Edad y Municipio</td>
+                    <td>INE - API JSON</td>
+                </tr>
+                <tr>
+                    <td>pop_women_2000.csv / pop_women_2010.csv</td>
+                    <td>Población Femenina por Edad y Municipio</td>
+                    <td>INE - API JSON</td>
+                </tr>
+                <tr>
+                    <td>average_num_members_families_2010.csv</td>
+                    <td>Tamaño Medio de los Hogares</td>
+                    <td>INE - Censos de Población</td>
+                </tr>
+                <tr>
+                    <td>prop_urban_2000_2010.csv</td>
+                    <td>Distribución de Población Urbana/Rural</td>
+                    <td>INE - Censos de Población</td>
+                </tr>
+            </table>
+        </div>
+        
+        <div class="category">
+            <h3>Datos Demográficos - Fertilidad y Mortalidad</h3>
+            <p>Los datos de fertilidad y mortalidad por estados brasileños tienen su equivalente en los indicadores demográficos por Comunidades Autónomas del INE.</p>
+            <table>
+                <tr>
+                    <th>Documento Original (Brasil)</th>
+                    <th>Equivalente Español</th>
+                    <th>Fuente</th>
+                </tr>
+                <tr>
+                    <td>fertility_[ESTADO].csv (27 archivos)</td>
+                    <td>Indicadores de Fecundidad por CCAA</td>
+                    <td>INE - Indicadores Demográficos Básicos</td>
+                </tr>
+                <tr>
+                    <td>mortality_men_[ESTADO].csv (27 archivos)</td>
+                    <td>Tablas de Mortalidad Masculina por CCAA</td>
+                    <td>INE - Tablas de Mortalidad</td>
+                </tr>
+                <tr>
+                    <td>mortality_women_[ESTADO].csv (27 archivos)</td>
+                    <td>Tablas de Mortalidad Femenina por CCAA</td>
+                    <td>INE - Tablas de Mortalidad</td>
+                </tr>
+            </table>
+        </div>
+        
+        <div class="category">
+            <h3>Datos Económicos</h3>
+            <p>Los datos económicos brasileños tienen su equivalente en diversas fuentes españolas como el DIRCE, el Ministerio de Hacienda y el Banco de España.</p>
+            <table>
+                <tr>
+                    <th>Documento Original (Brasil)</th>
+                    <th>Equivalente Español</th>
+                    <th>Fuente</th>
+                </tr>
+                <tr>
+                    <td>firms_by_APs*.csv (4 archivos)</td>
+                    <td>Empresas por Municipio y Actividad Principal</td>
+                    <td>INE - DIRCE</td>
+                </tr>
+                <tr>
+                    <td>[ESTADO].csv (27 archivos)</td>
+                    <td>Datos de Financiación Municipal</td>
+                    <td>Ministerio de Hacienda - Oficina Virtual</td>
+                </tr>
+                <tr>
+                    <td>interest_*.csv (3 archivos)</td>
+                    <td>Tipos de Interés</td>
+                    <td>Banco de España</td>
+                </tr>
+                <tr>
+                    <td>idhm_2000_2010.csv</td>
+                    <td>Indicadores de Desarrollo Humano Municipal</td>
+                    <td>DataBank - Banco Mundial</td>
+                </tr>
+            </table>
+        </div>
+        
+        <div class="download-section">
+            <h2>Descargar Recursos</h2>
+            <p>Descargue los siguientes archivos para adaptar PolicySpace2 al contexto español:</p>
+            <a href="downloads/equivalencias_datos_espana.csv" class="btn">CSV de Equivalencias</a>
+            <a href="downloads/ine_api_actualizado.py" class="btn">Código Python para API INE</a>
+            <a href="downloads/equivalencias_detalladas.md" class="btn">Documentación Detallada</a>
+        </div>
+        
+        <h2>Código de Ejemplo para Conexión con API del INE</h2>
+        <p>El siguiente fragmento de código muestra cómo conectar con la API JSON del INE para obtener datos demográficos:</p>
+        <pre style="background-color: #f8f9fa; padding: 15px; border-radius: 5px; overflow-x: auto;">
+import requests
+import pandas as pd
+
+def obtener_datos_ine(funcion, input_id, idioma="ES", parametros=None):
+    """
+    Obtiene datos de la API JSON del INE
+    
+    Args:
+        funcion (str): Función a utilizar (DATOS_TABLA, DATOS_SERIE, etc.)
+        input_id (str): ID de entrada para la función
+        idioma (str): Idioma (ES o EN)
+        parametros (dict): Parámetros adicionales
+        
+    Returns:
+        dict: Datos en formato JSON
+    """
+    base_url = f"https://servicios.ine.es/wstempus/js/{idioma}/{funcion}/{input_id}"
+    
+    if parametros:
+        params_str = "&".join([f"{k}={v}" for k, v in parametros.items()])
+        base_url += f"?{params_str}"
+    
+    response = requests.get(base_url)
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f"Error {response.status_code}: {response.text}")
+        return None
+
+# Ejemplo: Obtener datos de población
+datos_poblacion = obtener_datos_ine("DATOS_TABLA", "t1", parametros={"year": "2023"})
+
+# Convertir a DataFrame
+if datos_poblacion and "Data" in datos_poblacion:
+    df = pd.DataFrame(datos_poblacion["Data"])
+    print(df.head())
+    
+    # Guardar a CSV
+    df.to_csv("poblacion_municipios_2023.csv", index=False)
+    print("Datos guardados en: poblacion_municipios_2023.csv")
+</pre>
+
+        <div class="timestamp">
+            <p>Última actualización: 20/03/2025 18:34</p>
+            <p>Desarrollado para la adaptación de PolicySpace2 al contexto español</p>
+        </div>
+    </div>
+</body>
+</html>
