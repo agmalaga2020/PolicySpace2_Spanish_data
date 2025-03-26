@@ -1,0 +1,1199 @@
+
+        <!DOCTYPE html>
+        <html lang="es">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Equivalencias de Datos España-Brasil</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 0; padding: 20px; color: #333; }
+                h1, h2, h3 { color: #2c3e50; }
+                .container { max-width: 1200px; margin: 0 auto; }
+                table { width: 100%; border-collapse: collapse; margin-bottom: 20px; }
+                th, td { padding: 10px; text-align: left; border-bottom: 1px solid #ddd; }
+                th { background-color: #f2f2f2; }
+                tr:hover { background-color: #f5f5f5; }
+                .summary { background-color: #eef; padding: 15px; border-radius: 5px; margin-bottom: 20px; }
+                .category { background-color: #e7f4e4; padding: 10px; margin-top: 20px; border-radius: 5px; }
+                .btn { display: inline-block; padding: 8px 16px; background-color: #3498db; color: white; 
+                       text-decoration: none; border-radius: 4px; margin-right: 10px; margin-bottom: 10px; }
+                .btn:hover { background-color: #2980b9; }
+                .timestamp { font-size: 0.8em; color: #777; margin-top: 30px; }
+            </style>
+        </head>
+        <body>
+            <div class="container">
+                <h1>Equivalencias de Datos entre Brasil y España para PolicySpace2</h1>
+                
+                <div class="summary">
+                    <h2>Resumen</h2>
+                    <p>Total de documentos: 138</p>
+                    <p>Fuentes de datos españolas utilizadas: 10</p>
+                </div>
+                
+                <h2>Fuentes de Datos</h2>
+                <table>
+                    <tr>
+                        <th>Fuente</th>
+                        <th>Cantidad de Documentos</th>
+                    </tr>
+        
+                    <tr>
+                        <td>INE - Tablas de Mortalidad</td>
+                        <td>54</td>
+                    </tr>
+            
+                    <tr>
+                        <td>INE - Indicadores Demográficos Básicos</td>
+                        <td>27</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Ministerio de Hacienda - Oficina Virtual</td>
+                        <td>27</td>
+                    </tr>
+            
+                    <tr>
+                        <td>INE - API JSON</td>
+                        <td>7</td>
+                    </tr>
+            
+                    <tr>
+                        <td>INE - Censos de Población</td>
+                        <td>6</td>
+                    </tr>
+            
+                    <tr>
+                        <td>INE - Códigos Territoriales</td>
+                        <td>5</td>
+                    </tr>
+            
+                    <tr>
+                        <td>INE - DIRCE</td>
+                        <td>4</td>
+                    </tr>
+            
+                    <tr>
+                        <td>INE - Estadística de Matrimonios</td>
+                        <td>4</td>
+                    </tr>
+            
+                    <tr>
+                        <td>Banco de España</td>
+                        <td>3</td>
+                    </tr>
+            
+                    <tr>
+                        <td>DataBank - Banco Mundial</td>
+                        <td>1</td>
+                    </tr>
+            
+                </table>
+                
+                <h2>Categorías de Datos</h2>
+        
+                <div class="category">
+                    <h3>Geográficos y Administrativos</h3>
+                    <p>Documentos: 7</p>
+                    <table>
+                        <tr>
+                            <th>Documento Original (Brasil)</th>
+                            <th>Equivalente Español</th>
+                            <th>Fuente Española</th>
+                            <th>URL/API</th>
+                        </tr>
+            
+                        <tr>
+                            <td>ACPs_BR.csv</td>
+                            <td>Secciones Censales</td>
+                            <td>INE - API JSON</td>
+                            <td><a href="https://www.ine.es/dyngs/DAB/index.htm?cid=1099" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>ACPs_MUN_CODES.csv</td>
+                            <td>Relación Secciones-Municipios</td>
+                            <td>INE - API JSON</td>
+                            <td><a href="https://www.ine.es/dyngs/DAB/index.htm?cid=1099" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>RM_BR_STATES.csv</td>
+                            <td>Relación Municipios-Provincias</td>
+                            <td>INE - Códigos Territoriales</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177031&menu=ultiDatos&idp=1254734710990" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>STATES_ID_NUM.csv</td>
+                            <td>Códigos Numéricos Territoriales</td>
+                            <td>INE - Códigos Territoriales</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177031&menu=ultiDatos&idp=1254734710990" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>names_and_codes_municipalities.csv</td>
+                            <td>Relación de Municipios y Códigos</td>
+                            <td>INE - Códigos Territoriales</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177031&menu=ultiDatos&idp=1254734710990" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>single_aps_2000.csv</td>
+                            <td>Listado de Códigos Municipales</td>
+                            <td>INE - Códigos Territoriales</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177031&menu=ultiDatos&idp=1254734710990" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>single_aps_2010.csv</td>
+                            <td>Listado de Códigos Municipales</td>
+                            <td>INE - Códigos Territoriales</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177031&menu=ultiDatos&idp=1254734710990" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="category">
+                    <h3>Demográficos - Población</h3>
+                    <p>Documentos: 9</p>
+                    <table>
+                        <tr>
+                            <th>Documento Original (Brasil)</th>
+                            <th>Equivalente Español</th>
+                            <th>Fuente Española</th>
+                            <th>URL/API</th>
+                        </tr>
+            
+                        <tr>
+                            <td>average_num_members_families_2010.csv</td>
+                            <td>Tamaño Medio de los Hogares</td>
+                            <td>INE - Censos de Población</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176952&menu=resultados&idp=1254735572981" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>estimativas_pop.csv</td>
+                            <td>Cifras de Población por Municipio</td>
+                            <td>INE - API JSON</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177011&menu=resultados&idp=1254734710990" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>num_people_age_gender_AP_2000.csv</td>
+                            <td>Población por Sección Censal Género y Edad</td>
+                            <td>INE - Censos de Población</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177012&menu=resultados&idp=1254734710990" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>num_people_age_gender_AP_2010.csv</td>
+                            <td>Población por Sección Censal Género y Edad</td>
+                            <td>INE - Censos de Población</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177012&menu=resultados&idp=1254734710990" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>pop_men_2000.csv</td>
+                            <td>Población Masculina por Edad y Municipio</td>
+                            <td>INE - API JSON</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177012&menu=resultados&idp=1254734710990" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>pop_men_2010.csv</td>
+                            <td>Población Masculina por Edad y Municipio</td>
+                            <td>INE - API JSON</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177012&menu=resultados&idp=1254734710990" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>pop_women_2000.csv</td>
+                            <td>Población Femenina por Edad y Municipio</td>
+                            <td>INE - API JSON</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177012&menu=resultados&idp=1254734710990" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>pop_women_2010.csv</td>
+                            <td>Población Femenina por Edad y Municipio</td>
+                            <td>INE - API JSON</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177012&menu=resultados&idp=1254734710990" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>prop_urban_2000_2010.csv</td>
+                            <td>Distribución de Población Urbana/Rural</td>
+                            <td>INE - Censos de Población</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176951&menu=resultados&idp=1254735572981" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="category">
+                    <h3>Demográficos - Fertilidad</h3>
+                    <p>Documentos: 27</p>
+                    <table>
+                        <tr>
+                            <th>Documento Original (Brasil)</th>
+                            <th>Equivalente Español</th>
+                            <th>Fuente Española</th>
+                            <th>URL/API</th>
+                        </tr>
+            
+                        <tr>
+                            <td>fertility_AC.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_AL.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_AM.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_AP.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_BA.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_CE.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_DF.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_ES.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_GO.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_MA.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_MG.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_MS.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_MT.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_PA.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_PB.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_PE.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_PI.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_PR.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_RJ.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_RN.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_RO.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_RR.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_RS.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_SC.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_SE.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_SP.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>fertility_TO.csv</td>
+                            <td>Indicadores de Fecundidad por CCAA</td>
+                            <td>INE - Indicadores Demográficos Básicos</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177003&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="category">
+                    <h3>Demográficos - Mortalidad</h3>
+                    <p>Documentos: 54</p>
+                    <table>
+                        <tr>
+                            <th>Documento Original (Brasil)</th>
+                            <th>Equivalente Español</th>
+                            <th>Fuente Española</th>
+                            <th>URL/API</th>
+                        </tr>
+            
+                        <tr>
+                            <td>mortality_men_AC.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_AL.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_AM.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_AP.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_BA.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_CE.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_DF.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_ES.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_GO.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_MA.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_MG.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_MS.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_MT.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_PA.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_PB.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_PE.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_PI.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_PR.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_RJ.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_RN.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_RO.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_RR.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_RS.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_SC.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_SE.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_SP.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_men_TO.csv</td>
+                            <td>Tablas de Mortalidad Masculina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_AC.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_AL.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_AM.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_AP.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_BA.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_CE.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_DF.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_ES.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_GO.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_MA.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_MG.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_MS.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_MT.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_PA.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_PB.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_PE.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_PI.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_PR.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_RJ.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_RN.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_RO.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_RR.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_RS.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_SC.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_SE.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_SP.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>mortality_women_TO.csv</td>
+                            <td>Tablas de Mortalidad Femenina por CCAA</td>
+                            <td>INE - Tablas de Mortalidad</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177004&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="category">
+                    <h3>Demográficos - Matrimonio</h3>
+                    <p>Documentos: 4</p>
+                    <table>
+                        <tr>
+                            <th>Documento Original (Brasil)</th>
+                            <th>Equivalente Español</th>
+                            <th>Fuente Española</th>
+                            <th>URL/API</th>
+                        </tr>
+            
+                        <tr>
+                            <td>marriage_age_men.csv</td>
+                            <td>Matrimonios por Edad del Esposo</td>
+                            <td>INE - Estadística de Matrimonios</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176999&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>marriage_age_men_original.csv</td>
+                            <td>Matrimonios por Edad del Esposo</td>
+                            <td>INE - Estadística de Matrimonios</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176999&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>marriage_age_women.csv</td>
+                            <td>Matrimonios por Edad de la Esposa</td>
+                            <td>INE - Estadística de Matrimonios</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176999&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>marriage_age_women_original.csv</td>
+                            <td>Matrimonios por Edad de la Esposa</td>
+                            <td>INE - Estadística de Matrimonios</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176999&menu=resultados&idp=1254735573002" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="category">
+                    <h3>Económicos - Empresas</h3>
+                    <p>Documentos: 4</p>
+                    <table>
+                        <tr>
+                            <th>Documento Original (Brasil)</th>
+                            <th>Equivalente Español</th>
+                            <th>Fuente Española</th>
+                            <th>URL/API</th>
+                        </tr>
+            
+                        <tr>
+                            <td>firms_by_APs2000_t0_full.csv</td>
+                            <td>Empresas por Municipio y Actividad Principal</td>
+                            <td>INE - DIRCE</td>
+                            <td><a href="https://www.ine.es/jaxiT3/Tabla.htm?t=4721" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>firms_by_APs2000_t1_full.csv</td>
+                            <td>Empresas por Municipio y Actividad Principal</td>
+                            <td>INE - DIRCE</td>
+                            <td><a href="https://www.ine.es/jaxiT3/Tabla.htm?t=4721" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>firms_by_APs2010_t0_full.csv</td>
+                            <td>Empresas por Municipio y Actividad Principal</td>
+                            <td>INE - DIRCE</td>
+                            <td><a href="https://www.ine.es/jaxiT3/Tabla.htm?t=4721" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>firms_by_APs2010_t1_full.csv</td>
+                            <td>Empresas por Municipio y Actividad Principal</td>
+                            <td>INE - DIRCE</td>
+                            <td><a href="https://www.ine.es/jaxiT3/Tabla.htm?t=4721" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="category">
+                    <h3>Económicos - Financiación Municipal</h3>
+                    <p>Documentos: 27</p>
+                    <table>
+                        <tr>
+                            <th>Documento Original (Brasil)</th>
+                            <th>Equivalente Español</th>
+                            <th>Fuente Española</th>
+                            <th>URL/API</th>
+                        </tr>
+            
+                        <tr>
+                            <td>AC.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>AL.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>AM.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>AP.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>BA.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>CE.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>DF.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>ES.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>GO.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>MA.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>MG.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>MS.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>MT.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>PA.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>PB.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>PE.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>PI.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>PR.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>RJ.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>RN.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>RO.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>RR.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>RS.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>SC.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>SE.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>SP.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>TO.csv</td>
+                            <td>Datos de Financiación Municipal</td>
+                            <td>Ministerio de Hacienda - Oficina Virtual</td>
+                            <td><a href="https://www.hacienda.gob.es/es-ES/Areas%20Tematicas/Administracion%20Electronica/OVEELL/Paginas/OVEntidadesLocales.aspx" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="category">
+                    <h3>Económicos - Indicadores</h3>
+                    <p>Documentos: 4</p>
+                    <table>
+                        <tr>
+                            <th>Documento Original (Brasil)</th>
+                            <th>Equivalente Español</th>
+                            <th>Fuente Española</th>
+                            <th>URL/API</th>
+                        </tr>
+            
+                        <tr>
+                            <td>idhm_2000_2010.csv</td>
+                            <td>Indicadores de Desarrollo Humano Municipal</td>
+                            <td>DataBank - Banco Mundial</td>
+                            <td><a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>interest_fixed.csv</td>
+                            <td>Tipos de Interés</td>
+                            <td>Banco de España</td>
+                            <td><a href="https://www.bde.es/webbde/es/estadis/infoest/tipos/tipos.html" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>interest_nominal.csv</td>
+                            <td>Tipos de Interés</td>
+                            <td>Banco de España</td>
+                            <td><a href="https://www.bde.es/webbde/es/estadis/infoest/tipos/tipos.html" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>interest_real.csv</td>
+                            <td>Tipos de Interés</td>
+                            <td>Banco de España</td>
+                            <td><a href="https://www.bde.es/webbde/es/estadis/infoest/tipos/tipos.html" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="category">
+                    <h3>Educativos</h3>
+                    <p>Documentos: 2</p>
+                    <table>
+                        <tr>
+                            <th>Documento Original (Brasil)</th>
+                            <th>Equivalente Español</th>
+                            <th>Fuente Española</th>
+                            <th>URL/API</th>
+                        </tr>
+            
+                        <tr>
+                            <td>qualification_APs_2000.csv</td>
+                            <td>Nivel Educativo por Municipio</td>
+                            <td>INE - Censos de Población</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=resultados&idp=1254735976595" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                        <tr>
+                            <td>qualification_APs_2010.csv</td>
+                            <td>Nivel Educativo por Municipio</td>
+                            <td>INE - Censos de Población</td>
+                            <td><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=resultados&idp=1254735976595" target="_blank">Enlace</a></td>
+                        </tr>
+                
+                    </table>
+                </div>
+            
+                <h2>Descargar Datos</h2>
+                <p>Puede descargar los siguientes archivos:</p>
+                <a href="downloads/equivalencias_datos_espana.csv" class="btn">CSV de Equivalencias</a>
+                <a href="downloads/ine_api_actualizado.py" class="btn">Código Python para API INE</a>
+                <a href="downloads/scripts_policyspace2_espana.zip" class="btn">Scripts Completos</a>
+                
+                <div class="timestamp">
+                    <p>Última actualización: 20/03/2025 20:24:36</p>
+                </div>
+            </div>
+        </body>
+        </html>
+        
