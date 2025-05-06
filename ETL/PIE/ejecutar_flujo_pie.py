@@ -16,3 +16,5 @@ if __name__ == "__main__":
     run_script("./ETL/PIE/count_liquidaciones_by_year.py")
     # 4. Procesar y unificar datos finales
     run_script("./ETL/PIE/procesar_liquidacion_pie_final.py")
+    # 5. Filtrar datos de PIE para eliminar registros de 2005
+    run_script("./ETL/PIE/procesar_pie.py")
