@@ -1,4 +1,3 @@
-
 ---
 
 # Proyecto de Procesamiento de Liquidaciones Municipales (PIE) para PolicySpace2
@@ -29,7 +28,13 @@ Esta carpeta contiene scripts para descargar, organizar, limpiar y unificar los 
   - Crea un archivo de estadísticas con resúmenes anuales.
   - Los resultados se guardan en el directorio de salida configurado.
 
-### 5. **Visualización final**
+### 5. **Filtrado adicional de datos PIE**
+- **`./PIE/procesar_pie.py`**
+  - Lee el archivo `pie_final.csv` (generado por `procesar_liquidacion_pie_final.py`).
+  - Filtra los registros para excluir aquellos correspondientes al año 2005.
+  - Guarda el resultado en `pie_final_final.csv` dentro del mismo subdirectorio (`./PIE/data/raw/finanzas/liquidaciones/preprocess/`).
+
+### 6. **Visualización final**
 - **PIE_solo_visualizacion.ipynb**: https://colab.research.google.com/drive/1ohhMYhB0jQyMdA9TV6y9UTfwVbh76Db5#scrollTo=QECBFbR2Zss9
 
 ---
@@ -40,6 +45,7 @@ Esta carpeta contiene scripts para descargar, organizar, limpiar y unificar los 
 2. Ejecuta `./PIE/select_liquidaciones_regimen_general.py` para seleccionar, convertir y renombrar los archivos homogéneos.
 3. (Opcional) Ejecuta `./PIE/count_liquidaciones_by_year.py` para verificar la cobertura anual.
 4. Ejecuta `./PIE/procesar_liquidacion_pie_final.py` para procesar y unificar los datos, generando un conjunto de datos final.
+5. Ejecuta `./PIE/procesar_pie.py` para filtrar los datos y excluir los registros del año 2005.
 
 ---
 
@@ -48,5 +54,5 @@ Esta carpeta contiene scripts para descargar, organizar, limpiar y unificar los 
 - Todos los scripts están preparados para ejecutarse en orden, pero pueden adaptarse a nuevas fuentes o años si se actualizan los enlaces o formatos.
 - El resultado final es una tabla homogénea de municipios y participaciones PIE por año, lista para análisis comparativo o modelización.
 
---- 
+---
 
