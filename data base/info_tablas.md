@@ -33,4 +33,8 @@ Este documento resume las tablas principales cargadas en la base de datos `dataw
 * `year` representa el año al que se refieren los datos.
 * Algunas tablas pueden tener más columnas no listadas aquí por brevedad.
 
+**Notas Adicionales:**
+
+TODO: Mejorar esquema relacional.
+
 Este resumen debería facilitar la comprensión y el uso de las tablas en el data warehouse. ¡Feliz análisis de datos! 🚀
