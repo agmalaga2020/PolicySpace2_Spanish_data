@@ -1,0 +1,36 @@
+digraph ER_Diagram_Record {
+	rankdir=LR
+	node [fontname=Helvetica fontsize=10]
+	tabla_equivalencias [label="{tabla_equivalencias|CODAUTO TEXT PK\lCPRO TEXT\lCMUN TEXT\lDC TEXT\lNOMBRE TEXT\lmun_code TEXT\l}" shape=record]
+	cifras_poblacion_municipio [label="{cifras_poblacion_municipio|mun_code TEXT PK\l1996 FLOAT\l1998 FLOAT\l1999 FLOAT\l2000 FLOAT\l2001 FLOAT\l2002 FLOAT\l2003 FLOAT\l2004 FLOAT\l2005 FLOAT\l2006 FLOAT\l2007 FLOAT\l2008 FLOAT\l2009 FLOAT\l2010 FLOAT\l2011 FLOAT\l2012 FLOAT\l2013 FLOAT\l2014 FLOAT\l2015 FLOAT\l2016 FLOAT\l2017 FLOAT\l2018 FLOAT\l2019 FLOAT\l2020 FLOAT\l2021 FLOAT\l2022 FLOAT\l2023 FLOAT\l2024 FLOAT\lnum_outliers BIGINT\l}" shape=record]
+	df_mortalidad_ccaa_sexo [label="{df_mortalidad_ccaa_sexo|ccaa_code TEXT\lccaa_name TEXT\lEdad BIGINT\lyear BIGINT\lsex TEXT\ltotal_muertes FLOAT\l}" shape=record]
+	distribucion_urbana [label="{distribucion_urbana|mun_code TEXT\lyear TEXT\lproporcion_urbana FLOAT\l}" shape=record]
+	empresas_municipio_actividad_principal [label="{empresas_municipio_actividad_principal|mun_code TEXT\lmunicipio_name TEXT\lyear BIGINT\ltotal_empresas FLOAT\l}" shape=record]
+	estimativas_pop [label="{estimativas_pop|mun_code TEXT PK\l1996–2024 FLOAT each\l}" shape=record]
+	idhm_indice_desarrollo_humano_municipal [label="{idhm_indice_desarrollo_humano_municipal|year BIGINT\lcodigo_aeat BIGINT\lpopulation FLOAT\lrenta_bruta_total FLOAT\lrenta_disponible_total FLOAT\lrenta_disponible_per_capita FLOAT\lmun_code TEXT\lNOMBRE TEXT\lCODAUTO BIGINT\lEV0 FLOAT\lI_salud FLOAT\lI_educ FLOAT\lI_ingresos FLOAT\lIDHM FLOAT\l}" shape=record]
+	indicadores_fecundidad_municipio_provincias [label="{indicadores_fecundidad_municipio_provincias|provincias_name TEXT\lyear TEXT\ledad TEXT\ltotal_interpolado TEXT\lCODAUTO TEXT\lComunidad Autónoma TEXT\ltasa_fert_prov TEXT\lcpro TEXT\l}" shape=record]
+	interest_data_ETL [label="{interest_data_ETL|date DATETIME PK\linterest_fixed FLOAT\lmortgage_x FLOAT\linterest_nominal FLOAT\lmortgage_y FLOAT\linterest_real FLOAT\lmortgage FLOAT\l}" shape=record]
+	nivel_educativo_comunidades [label="{nivel_educativo_comunidades|ccaa_code TEXT\lccaa_name TEXT\laño BIGINT
+ivel_formacion TEXT
+media_total FLOAT
+nivel_formacion_code FLOAT\l}" shape=record]
+	PIE [label="{PIE|codigo_provincia FLOAT
+mun_code TEXT
+nombre_municipio TEXT
+total_participacion_variables FLOAT
+year BIGINT
+poblacion FLOAT
+esfuerzo_fiscal FLOAT
+inverso_capacidad_tributaria FLOAT\l}" shape=record]
+	vista_equivalencias_unicas [label="{vista_equivalencias_unicas|CMUN TEXT PK\lNOMBRE TEXT\lCPRO TEXT\l}" shape=record]
+	tabla_equivalencias -> cifras_poblacion_municipio [label=mun_code]
+	cifras_poblacion_municipio -> distribucion_urbana [label=mun_code]
+	cifras_poblacion_municipio -> empresas_municipio_actividad_principal [label=mun_code]
+	cifras_poblacion_municipio -> estimativas_pop [label=mun_code]
+	cifras_poblacion_municipio -> idhm_indice_desarrollo_humano_municipal [label=mun_code]
+	cifras_poblacion_municipio -> PIE [label=mun_code]
+	tabla_equivalencias -> vista_equivalencias_unicas [label=CMUN]
+	tabla_equivalencias -> indicadores_fecundidad_municipio_provincias [label="CODAUTO/CPRO"]
+	nivel_educativo_comunidades -> df_mortalidad_ccaa_sexo [label=ccaa_code]
+	indicadores_fecundidad_municipio_provincias -> idhm_indice_desarrollo_humano_municipal [label=CODAUTO]
+}
