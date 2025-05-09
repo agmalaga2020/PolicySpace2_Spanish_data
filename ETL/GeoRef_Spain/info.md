@@ -34,6 +34,9 @@ Este documento describe el flujo de trabajo para obtener, procesar y visualizar 
     *   **Acción**: Lee el archivo GeoJSON `georef-spain-comunidad-autonoma.geojson` y utiliza Folium para crear un mapa HTML interactivo que muestra los polígonos reales de cada comunidad autónoma.
     *   **Resultado**: Un archivo HTML llamado `mapa_poligonos_comunidades.html`.
 
+  **🏞️ TODO**
+
+    * [] Añadir datos provinciales. 
 ---
 
 ¡Sigue estos pasos en orden para asegurar que los datos se procesan correctamente y las visualizaciones se generan con la información esperada! ✨
