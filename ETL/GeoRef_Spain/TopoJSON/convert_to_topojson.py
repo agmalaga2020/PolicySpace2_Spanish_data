@@ -62,13 +62,14 @@ def convert_geojson_to_topojson(geojson_path, topojson_path, simplification_tole
             prequantize=quantization if quantization > 0 else False,
             toposimplify=simplification_tolerance if simplification_tolerance > 0 else False
         )
-        print(f"Conversión a objeto TopoJSON completada. Claves de objetos: {list(topo.objects.keys()) if hasattr(topo, 'objects') else 'No objects attribute'}")
+        print(f"Conversión a objeto TopoJSON completada.")
 
         # Guardar el TopoJSON
         print(f"Preparando para guardar TopoJSON en: {topojson_path}...")
-        topo_data = topo.to_json_data() # Obtener el diccionario de datos
         
-        # Verificar si el directorio de salida existe, si no, crearlo
+        # Cambio: Intentar con topo.to_json() que devuelve un string JSON
+        topo_json_string = topo.to_json() 
+        
         output_dir = os.path.dirname(topojson_path)
         if not os.path.exists(output_dir):
             print(f"El directorio de salida {output_dir} no existe. Creándolo...")
@@ -76,7 +77,7 @@ def convert_geojson_to_topojson(geojson_path, topojson_path, simplification_tole
             print(f"Directorio {output_dir} creado.")
 
         with open(topojson_path, 'w', encoding='utf-8') as f:
-            json.dump(topo_data, f)
+            f.write(topo_json_string) # Escribir el string JSON directamente
         print(f"Archivo TopoJSON guardado exitosamente en {topojson_path}")
 
         if os.path.exists(topojson_path):
@@ -98,7 +99,6 @@ def convert_geojson_to_topojson(geojson_path, topojson_path, simplification_tole
 
 if __name__ == "__main__":
     print("Ejecutando bloque __main__ del script...")
-    # Crear el directorio TopoJSON si no existe (ya se maneja en la función, pero es una doble verificación)
     output_dir_main = os.path.dirname(TOPOJSON_PATH)
     if not os.path.exists(output_dir_main):
         print(f"Bloque __main__: Creando directorio de salida {output_dir_main} si no existe...")
