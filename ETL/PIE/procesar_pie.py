@@ -63,6 +63,24 @@ def main():
         print("\nExcluyendo registros del año 2005...")
         df_filtered = df[df['año'] != 2005]
         print(f"Registros después del filtrado: {df_filtered.shape[0]} (eliminados: {df.shape[0] - df_filtered.shape[0]})")
+
+        # --- Crear columna mun_code ---
+        print("\nCreando columna 'mun_code'...")
+        # Asegurar que las columnas son string para poder usar .str y .split
+        # Es importante manejar el caso de que ya sean strings o sean numéricos (float/int)
+        df_filtered['codigo_provincia'] = df_filtered['codigo_provincia'].astype(str)
+        df_filtered['codigo_municipio'] = df_filtered['codigo_municipio'].astype(str)
+
+        df_filtered['codigo_provincia_fmt'] = df_filtered['codigo_provincia'].apply(lambda x: x.split('.')[0]).str.zfill(2)
+        df_filtered['codigo_municipio_fmt'] = df_filtered['codigo_municipio'].apply(lambda x: x.split('.')[0]).str.zfill(3)
+        df_filtered['mun_code'] = df_filtered['codigo_provincia_fmt'] + df_filtered['codigo_municipio_fmt']
+        
+        print("Columna 'mun_code' creada.")
+        # Mostrar una muestra para verificar, si el dataframe no es muy grande o seleccionar unas pocas columnas
+        if not df_filtered.empty:
+            print(f"Muestra de columnas relevantes con mun_code:\n{df_filtered[['codigo_provincia', 'codigo_municipio', 'mun_code', 'año']].head()}")
+        else:
+            print("DataFrame filtrado está vacío, no se puede mostrar muestra de mun_code.")
         
         # Guardar el dataset procesado
         df_filtered.to_csv(OUTPUT_FILE, index=False, encoding='utf-8')
