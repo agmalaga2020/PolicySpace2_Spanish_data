@@ -5,3 +5,8 @@ sqlalchemy
 plotly
 matplotlib
 openpyxl
+geopandas
+fiona
+pyproj
+shapely
+rtree
