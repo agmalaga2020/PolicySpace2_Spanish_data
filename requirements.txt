@@ -8,6 +8,7 @@ sqlalchemy     # motor ORM
 # Para manejo de datos
 pandas
 openpyxl
+plotly
 
 # GeoPandas y dependencias
 geopandas
