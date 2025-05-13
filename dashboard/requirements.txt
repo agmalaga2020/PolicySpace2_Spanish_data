@@ -17,3 +17,4 @@ shapely
 rtree
 folium
 streamlit-folium
+topojson
