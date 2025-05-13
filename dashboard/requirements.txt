@@ -1,12 +1,19 @@
+# Dependencias básicas de Streamlit
 streamlit
 streamlit-option-menu
+
+# Conexión a bases de datos
+sqlalchemy     # motor ORM
+
+# Para manejo de datos
 pandas
-sqlalchemy
-plotly
-matplotlib
 openpyxl
+
+# GeoPandas y dependencias
 geopandas
 fiona
 pyproj
 shapely
 rtree
+folium
+streamlit-folium
