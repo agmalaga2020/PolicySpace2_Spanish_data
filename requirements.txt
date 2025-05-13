@@ -15,3 +15,5 @@ fiona
 pyproj
 shapely
 rtree
+folium
+streamlit-folium
