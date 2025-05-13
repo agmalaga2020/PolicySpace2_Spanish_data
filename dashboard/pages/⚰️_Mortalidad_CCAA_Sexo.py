@@ -59,19 +59,42 @@ if engine:
             (df_mort['ccaa_name'] == selected_ccaa) &
             (df_mort['sex'] == selected_sexo) &
             (df_mort['Edad'].isin(selected_edades))
-        ]
+        ].copy() # Usar .copy() para evitar SettingWithCopyWarning al modificar df_filtered
 
         if not df_filtered.empty:
+            # Asegurar que 'year' y 'Edad' son numéricos para una correcta ordenación y graficación
+            # Si 'Edad' es un rango o texto, se necesitaría un preprocesamiento más complejo para ordenarlo lógicamente.
+            # Por ahora, intentaremos convertir a numérico. Si falla, se tratará como categoría.
+            try:
+                df_filtered['year'] = pd.to_numeric(df_filtered['year'])
+                df_filtered['Edad'] = pd.to_numeric(df_filtered['Edad']) # Asumiendo que 'Edad' puede ser numérico
+                # Ordenar los datos para que las líneas se dibujen correctamente
+                df_filtered = df_filtered.sort_values(by=['Edad', 'year'])
+            except ValueError:
+                st.warning("No se pudo convertir 'Edad' a numérico. Se tratará como categoría. El orden en la leyenda podría no ser el esperado.")
+                # Si 'Edad' no es numérico, ordenar solo por año, y Plotly tratará 'Edad' como categórico.
+                # Para un orden específico de categorías de edad, se necesitaría pd.CategoricalDtype.
+                df_filtered = df_filtered.sort_values(by=['year'])
+
+
             fig = px.line(
                 df_filtered,
                 x='year',
                 y='total_muertes',
-                color='Edad',
-                labels={'total_muertes': 'Total Muertes', 'year': 'Año', 'Edad': 'Edad'},
+                color='Edad', # Plotly tratará 'Edad' como categórica si no es numérica o si tiene muchos valores discretos
+                category_orders={"Edad": sorted(df_filtered['Edad'].unique())}, # Asegura un orden consistente en la leyenda si 'Edad' es tratada como categoría
+                labels={'total_muertes': 'Total Muertes (Absoluto)', 'year': 'Año', 'Edad': 'Grupo de Edad'},
                 title=f"Evolución de la mortalidad en {selected_ccaa} ({selected_sexo})"
             )
+            fig.update_layout(legend_title_text='Grupo de Edad')
             st.plotly_chart(fig, use_container_width=True)
-            st.header("Datos detallados")
+
+            st.markdown("""
+            **Nota sobre los datos:** "Total Muertes" representa el número absoluto de defunciones registradas para cada grupo.
+            No es una tasa de mortalidad, por lo que los grupos de edad con mayor población pueden mostrar un mayor número de muertes.
+            """)
+
+            st.header("Datos detallados (filtrados)")
             st.dataframe(df_filtered)
         else:
             st.warning("No hay datos para la selección actual.")

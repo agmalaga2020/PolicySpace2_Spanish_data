@@ -1,0 +1,100 @@
+LOG ETL LOAD DATA V2 - 2025-05-13 22:33:01.623419
+
+[tabla_equivalencias] OK: 8132 filas, 6 columnas. Path: /home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/ETL/tabla_equivalencias/data/df_equivalencias_municipio_CORRECTO.csv
+Ejemplo CODAUTO normalizado en df_eq: ['16' '08' '10' '01' '07']
+
+[codigos_ccaa_provincias] Cargado: 53 filas, 4 columnas. Path: /home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/ETL/indicadores_fecundidad_municipio_provincias/codigos_ccaa_provincias.csv
+Columnas: CODAUTO, Comunidad Autónoma, CPRO, provincia_name
+  CODAUTO Comunidad Autónoma  CPRO provincia_name
+0      01          Andalucía   4.0        Almería
+1      01          Andalucía  11.0          Cádiz
+2      01          Andalucía  14.0        Córdoba
+3      01          Andalucía  18.0        Granada
+4      01          Andalucía  21.0         Huelva
+ADVERTENCIA: La columna 'year' no se encontró en el DataFrame. No se aplicó filtro de año.
+
+[cifras_poblacion_municipio] OK: 8156 filas, 30 columnas. Path: /home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/ETL/cifras_poblacion_municipio/cifras_poblacion_municipio.csv
+Filtrado por años: 2014-2020. Filas antes: 26334, Filas después: 5586
+
+[mortalidad_municipio_sexo] OK (mapeada): 2390808 filas, 8 columnas.
+[df_mortalidad_ccaa_sexo_original] OK: 5586 filas, 6 columnas. Path: /home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/ETL/df_mortalidad_ccaa_sexo/df_mortalidad_final.csv
+Filtrado por años: 2014-2020. Filas antes: 162520, Filas después: 56882
+
+[distribucion_urbana] OK: 56882 filas, 3 columnas. Path: /home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/ETL/distribucion_urbana/data_final/distribucion_urbana_municipios_2003_to_2022.csv
+Filtrado por años: 2014-2020. Filas antes: 105495, Filas después: 56805
+
+[empresas_municipio_actividad_principal] OK: 56805 filas, 4 columnas. Path: /home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/ETL/empresas_municipio_actividad_principal/preprocesados/empresas_municipio_actividad_principal.csv
+ADVERTENCIA: La columna 'year' no se encontró en el DataFrame. No se aplicó filtro de año.
+
+[estimativas_pop] OK: 8156 filas, 29 columnas. Path: /home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/ETL/estimativas_pop/preprocesados/cifras_poblacion_municipio.csv
+Filtrado por años: 2014-2020. Filas antes: 28370, Filas después: 19859
+
+[idhm_indice_desarrollo_humano_municipal] OK: 19859 filas, 14 columnas. Path: /home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/ETL/idhm_indice_desarrollo_humano_municipal/IRPFmunicipios_final_IDHM.csv
+
+[indicadores_fecundidad] Provincias en datos:
+['Albacete', 'Alicante/Alacant', 'Almería', 'Araba/Álava', 'Asturias', 'Badajoz', 'Balears, Illes', 'Barcelona', 'Bizkaia', 'Burgos']
+Filtrado por años: 2014-2020. Filas antes: 104468, Filas después: 14924
+ADVERTENCIA en fecundidad_municipio: 14924 filas no pudieron mapear mun_code.
+
+[fecundidad_municipio] OK (mapeada): 14924 filas, 10 columnas.
+[indicadores_fecundidad_provincia_original] OK: 14924 filas, 8 columnas. Path: /home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/ETL/indicadores_fecundidad_municipio_provincias/df_total_interpolado_full_tasa_estandarizada.csv
+Filtrado por años: 2014-2020. Filas antes: 304, Filas después: 84
+
+[interest_data_nacional] OK: 84 filas, 8 columnas. Paths: /home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/ETL/interest_data_ETL/imputados/interest_fixed_imputado.csv, /home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/ETL/interest_data_ETL/imputados/interest_nominal_imputado.csv, /home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/ETL/interest_data_ETL/imputados/interest_real_imputado.csv
+Filtrado por años: 2014-2020. Filas antes: 1596, Filas después: 931
+
+[nivel_educativo_municipio] OK (mapeada): 398468 filas, 8 columnas.
+[nivel_educativo_ccaa_original] OK: 931 filas, 6 columnas. Path: /home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/ETL/nivel_educativo_comunidades/data_final/nivel_educativo_comunidades_completo.csv
+Filtrado por años: 2014-2020. Filas antes: 128414, Filas después: 56187
+
+ERROR GENERAL DURANTE LA CARGA ETL: A column with name 'mun_code' is already present in table 'pie_liquidaciones_municipales'.
+Traceback (most recent call last):
+  File "/home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/database 2/etl_load_data.py", line 282, in <module>
+    df_pie.to_sql('pie_liquidaciones_municipales', engine, if_exists='replace', index=False) # Renombrado para claridad
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/.venv/lib/python3.12/site-packages/pandas/util/_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/.venv/lib/python3.12/site-packages/pandas/core/generic.py", line 3087, in to_sql
+    return sql.to_sql(
+           ^^^^^^^^^^^
+  File "/home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/.venv/lib/python3.12/site-packages/pandas/io/sql.py", line 842, in to_sql
+    return pandas_sql.to_sql(
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/.venv/lib/python3.12/site-packages/pandas/io/sql.py", line 2008, in to_sql
+    table = self.prep_table(
+            ^^^^^^^^^^^^^^^^
+  File "/home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/.venv/lib/python3.12/site-packages/pandas/io/sql.py", line 1902, in prep_table
+    table = SQLTable(
+            ^^^^^^^^^
+  File "/home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/.venv/lib/python3.12/site-packages/pandas/io/sql.py", line 958, in __init__
+    self.table = self._create_table_setup()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/.venv/lib/python3.12/site-packages/pandas/io/sql.py", line 1285, in _create_table_setup
+    return Table(self.name, meta, *columns, schema=schema)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in __new__
+  File "/home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/.venv/lib/python3.12/site-packages/sqlalchemy/util/deprecations.py", line 281, in warned
+    return fn(*args, **kwargs)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/.venv/lib/python3.12/site-packages/sqlalchemy/sql/schema.py", line 430, in __new__
+    return cls._new(*args, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/.venv/lib/python3.12/site-packages/sqlalchemy/sql/schema.py", line 484, in _new
+    with util.safe_reraise():
+  File "/home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/.venv/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/.venv/lib/python3.12/site-packages/sqlalchemy/sql/schema.py", line 480, in _new
+    table.__init__(name, metadata, *args, _no_init=False, **kw)
+  File "/home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/.venv/lib/python3.12/site-packages/sqlalchemy/sql/schema.py", line 874, in __init__
+    self._init_items(
+  File "/home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/.venv/lib/python3.12/site-packages/sqlalchemy/sql/schema.py", line 234, in _init_items
+    spwd(self, **kw)
+  File "/home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/.venv/lib/python3.12/site-packages/sqlalchemy/sql/base.py", line 1324, in _set_parent_with_dispatch
+    self._set_parent(parent, **kw)
+  File "/home/agmalaga/Documentos/GitHub/PolicySpace2_Spanish_data/.venv/lib/python3.12/site-packages/sqlalchemy/sql/schema.py", line 2360, in _set_parent
+    raise exc.DuplicateColumnError(
+sqlalchemy.exc.DuplicateColumnError: A column with name 'mun_code' is already present in table 'pie_liquidaciones_municipales'.
+
+
+--- Fin del proceso de carga ETL V2 ---

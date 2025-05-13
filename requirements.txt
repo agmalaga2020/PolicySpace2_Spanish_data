@@ -19,3 +19,4 @@ rtree
 folium
 streamlit-folium
 topojson
+scikit-learn
