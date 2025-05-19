@@ -39,5 +39,6 @@ TODO:
 
 - Mejorar esquema relacional.
 - Verificar base de datos, pie_final_final.csv variable nueva creada mun_code
+- Migrar a azure pendiente
 
 Este resumen debería facilitar la comprensión y el uso de las tablas en el data warehouse. ¡Feliz análisis de datos! 🚀

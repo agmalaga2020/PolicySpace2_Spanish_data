@@ -1,0 +1,14 @@
+LOG ETL LOAD DATA - 2025-05-17 19:37:45.846147
+
+[tabla_equivalencias] OK: 8132 filas, 6 columnas
+
+[codigos_ccaa_provincias] Cargado: 53 filas, 4 columnas
+Columnas: CODAUTO, Comunidad Autónoma, CPRO, provincia_name
+  CODAUTO Comunidad Autónoma  CPRO provincia_name
+0      01          Andalucía   4.0        Almería
+1      01          Andalucía  11.0          Cádiz
+2      01          Andalucía  14.0        Córdoba
+3      01          Andalucía  18.0        Granada
+4      01          Andalucía  21.0         Huelva
+
+[cifras_poblacion_municipio] OK: 8156 filas, 30 columnas
