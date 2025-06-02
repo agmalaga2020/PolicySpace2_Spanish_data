@@ -1,0 +1,1329 @@
+month;metric_value;municipality_id;municipality_name;policy_scenario;metric_name
+2014-01-01;10830,232;10201;Valdemorales;Pol:All (C0);regional_house_values
+2014-02-01;15861,699;10201;Valdemorales;Pol:All (C0);regional_house_values
+2014-03-01;21103,234;10201;Valdemorales;Pol:All (C0);regional_house_values
+2014-04-01;26122,473;10201;Valdemorales;Pol:All (C0);regional_house_values
+2014-05-01;30066,837;10201;Valdemorales;Pol:All (C0);regional_house_values
+2014-06-01;34528,88;10201;Valdemorales;Pol:All (C0);regional_house_values
+2014-07-01;34721,428;10201;Valdemorales;Pol:All (C0);regional_house_values
+2014-08-01;38780,85;10201;Valdemorales;Pol:All (C0);regional_house_values
+2014-09-01;46207,643;10201;Valdemorales;Pol:All (C0);regional_house_values
+2014-10-01;49841,939;10201;Valdemorales;Pol:All (C0);regional_house_values
+2014-11-01;50842,474;10201;Valdemorales;Pol:All (C0);regional_house_values
+2014-12-01;53635,971;10201;Valdemorales;Pol:All (C0);regional_house_values
+2015-01-01;46317,105;10201;Valdemorales;Pol:All (C0);regional_house_values
+2015-02-01;53846,095;10201;Valdemorales;Pol:All (C0);regional_house_values
+2015-03-01;73463,131;10201;Valdemorales;Pol:All (C0);regional_house_values
+2015-04-01;92937,61;10201;Valdemorales;Pol:All (C0);regional_house_values
+2015-05-01;118265,294;10201;Valdemorales;Pol:All (C0);regional_house_values
+2015-06-01;120303,174;10201;Valdemorales;Pol:All (C0);regional_house_values
+2015-07-01;85702,036;10201;Valdemorales;Pol:All (C0);regional_house_values
+2015-08-01;89108,858;10201;Valdemorales;Pol:All (C0);regional_house_values
+2015-09-01;99992,431;10201;Valdemorales;Pol:All (C0);regional_house_values
+2015-10-01;109073,798;10201;Valdemorales;Pol:All (C0);regional_house_values
+2015-11-01;92300,464;10201;Valdemorales;Pol:All (C0);regional_house_values
+2015-12-01;95933,374;10201;Valdemorales;Pol:All (C0);regional_house_values
+2016-01-01;73461,955;10201;Valdemorales;Pol:All (C0);regional_house_values
+2016-02-01;77367,835;10201;Valdemorales;Pol:All (C0);regional_house_values
+2016-03-01;106461,324;10201;Valdemorales;Pol:All (C0);regional_house_values
+2016-04-01;119168,389;10201;Valdemorales;Pol:All (C0);regional_house_values
+2016-05-01;167930,563;10201;Valdemorales;Pol:All (C0);regional_house_values
+2016-06-01;185636,237;10201;Valdemorales;Pol:All (C0);regional_house_values
+2016-07-01;149712,789;10201;Valdemorales;Pol:All (C0);regional_house_values
+2016-08-01;160665,473;10201;Valdemorales;Pol:All (C0);regional_house_values
+2016-09-01;193358,041;10201;Valdemorales;Pol:All (C0);regional_house_values
+2016-10-01;198848,931;10201;Valdemorales;Pol:All (C0);regional_house_values
+2016-11-01;203373,921;10201;Valdemorales;Pol:All (C0);regional_house_values
+2016-12-01;221732,537;10201;Valdemorales;Pol:All (C0);regional_house_values
+2017-01-01;215233,854;10201;Valdemorales;Pol:All (C0);regional_house_values
+2017-02-01;229813,209;10201;Valdemorales;Pol:All (C0);regional_house_values
+2017-03-01;235277,644;10201;Valdemorales;Pol:All (C0);regional_house_values
+2017-04-01;235544,532;10201;Valdemorales;Pol:All (C0);regional_house_values
+2017-05-01;239739,092;10201;Valdemorales;Pol:All (C0);regional_house_values
+2017-06-01;243223,896;10201;Valdemorales;Pol:All (C0);regional_house_values
+2017-07-01;247994,764;10201;Valdemorales;Pol:All (C0);regional_house_values
+2017-08-01;253812,7;10201;Valdemorales;Pol:All (C0);regional_house_values
+2017-09-01;263207,572;10201;Valdemorales;Pol:All (C0);regional_house_values
+2017-10-01;270626,346;10201;Valdemorales;Pol:All (C0);regional_house_values
+2017-11-01;274632,126;10201;Valdemorales;Pol:All (C0);regional_house_values
+2017-12-01;284736,331;10201;Valdemorales;Pol:All (C0);regional_house_values
+2018-01-01;280844,453;10201;Valdemorales;Pol:All (C0);regional_house_values
+2018-02-01;287972,556;10201;Valdemorales;Pol:All (C0);regional_house_values
+2018-03-01;303188,392;10201;Valdemorales;Pol:All (C0);regional_house_values
+2018-04-01;309060,705;10201;Valdemorales;Pol:All (C0);regional_house_values
+2018-05-01;311769,482;10201;Valdemorales;Pol:All (C0);regional_house_values
+2018-06-01;308146,466;10201;Valdemorales;Pol:All (C0);regional_house_values
+2018-07-01;345519,233;10201;Valdemorales;Pol:All (C0);regional_house_values
+2018-08-01;335940,511;10201;Valdemorales;Pol:All (C0);regional_house_values
+2018-09-01;312731,46;10201;Valdemorales;Pol:All (C0);regional_house_values
+2018-10-01;294582,454;10201;Valdemorales;Pol:All (C0);regional_house_values
+2018-11-01;339287,13;10201;Valdemorales;Pol:All (C0);regional_house_values
+2018-12-01;351551,871;10201;Valdemorales;Pol:All (C0);regional_house_values
+2019-01-01;365775,452;10201;Valdemorales;Pol:All (C0);regional_house_values
+2019-02-01;371553,61;10201;Valdemorales;Pol:All (C0);regional_house_values
+2019-03-01;339575,307;10201;Valdemorales;Pol:All (C0);regional_house_values
+2019-04-01;325915,731;10201;Valdemorales;Pol:All (C0);regional_house_values
+2019-05-01;312257,286;10201;Valdemorales;Pol:All (C0);regional_house_values
+2019-06-01;327988,116;10201;Valdemorales;Pol:All (C0);regional_house_values
+2019-07-01;338397,576;10201;Valdemorales;Pol:All (C0);regional_house_values
+2019-08-01;346482,059;10201;Valdemorales;Pol:All (C0);regional_house_values
+2019-09-01;324846,272;10201;Valdemorales;Pol:All (C0);regional_house_values
+2019-10-01;350169,847;10201;Valdemorales;Pol:All (C0);regional_house_values
+2019-11-01;351577,536;10201;Valdemorales;Pol:All (C0);regional_house_values
+2019-12-01;356475,49;10201;Valdemorales;Pol:All (C0);regional_house_values
+2020-01-01;397861,191;10201;Valdemorales;Pol:All (C0);regional_house_values
+2020-02-01;376289,084;10201;Valdemorales;Pol:All (C0);regional_house_values
+2020-03-01;356096,114;10201;Valdemorales;Pol:All (C0);regional_house_values
+2020-04-01;365716,673;10201;Valdemorales;Pol:All (C0);regional_house_values
+2020-05-01;364719,366;10201;Valdemorales;Pol:All (C0);regional_house_values
+2020-06-01;387437,431;10201;Valdemorales;Pol:All (C0);regional_house_values
+2020-07-01;377433,589;10201;Valdemorales;Pol:All (C0);regional_house_values
+2020-08-01;381210,173;10201;Valdemorales;Pol:All (C0);regional_house_values
+2020-09-01;384815,585;10201;Valdemorales;Pol:All (C0);regional_house_values
+2020-10-01;398886,123;10201;Valdemorales;Pol:All (C0);regional_house_values
+2020-11-01;398048,383;10201;Valdemorales;Pol:All (C0);regional_house_values
+2014-01-01;1268,08;12002;Aín;Pol:All (C0);regional_house_values
+2014-02-01;1582,577;12002;Aín;Pol:All (C0);regional_house_values
+2014-03-01;1925,462;12002;Aín;Pol:All (C0);regional_house_values
+2014-04-01;2237,61;12002;Aín;Pol:All (C0);regional_house_values
+2014-05-01;2450,739;12002;Aín;Pol:All (C0);regional_house_values
+2014-06-01;2725,124;12002;Aín;Pol:All (C0);regional_house_values
+2014-07-01;2642,561;12002;Aín;Pol:All (C0);regional_house_values
+2014-08-01;2943,076;12002;Aín;Pol:All (C0);regional_house_values
+2014-09-01;3529,669;12002;Aín;Pol:All (C0);regional_house_values
+2014-10-01;3814,681;12002;Aín;Pol:All (C0);regional_house_values
+2014-11-01;3887,841;12002;Aín;Pol:All (C0);regional_house_values
+2014-12-01;4121,677;12002;Aín;Pol:All (C0);regional_house_values
+2015-01-01;3415,533;12002;Aín;Pol:All (C0);regional_house_values
+2015-02-01;3973,79;12002;Aín;Pol:All (C0);regional_house_values
+2015-03-01;5533,521;12002;Aín;Pol:All (C0);regional_house_values
+2015-04-01;7069,386;12002;Aín;Pol:All (C0);regional_house_values
+2015-05-01;8995,47;12002;Aín;Pol:All (C0);regional_house_values
+2015-06-01;9092,179;12002;Aín;Pol:All (C0);regional_house_values
+2015-07-01;6175,132;12002;Aín;Pol:All (C0);regional_house_values
+2015-08-01;6400,241;12002;Aín;Pol:All (C0);regional_house_values
+2015-09-01;7189,995;12002;Aín;Pol:All (C0);regional_house_values
+2015-10-01;7843,789;12002;Aín;Pol:All (C0);regional_house_values
+2015-11-01;6462,909;12002;Aín;Pol:All (C0);regional_house_values
+2015-12-01;6680,122;12002;Aín;Pol:All (C0);regional_house_values
+2016-01-01;4916,666;12002;Aín;Pol:All (C0);regional_house_values
+2016-02-01;5247,009;12002;Aín;Pol:All (C0);regional_house_values
+2016-03-01;7591,49;12002;Aín;Pol:All (C0);regional_house_values
+2016-04-01;8777,694;12002;Aín;Pol:All (C0);regional_house_values
+2016-05-01;13033,7;12002;Aín;Pol:All (C0);regional_house_values
+2016-06-01;14913,746;12002;Aín;Pol:All (C0);regional_house_values
+2016-07-01;11649,319;12002;Aín;Pol:All (C0);regional_house_values
+2016-08-01;12867,629;12002;Aín;Pol:All (C0);regional_house_values
+2016-09-01;16265,006;12002;Aín;Pol:All (C0);regional_house_values
+2016-10-01;16714,972;12002;Aín;Pol:All (C0);regional_house_values
+2016-11-01;17165,301;12002;Aín;Pol:All (C0);regional_house_values
+2016-12-01;17618,39;12002;Aín;Pol:All (C0);regional_house_values
+2017-01-01;18065,898;12002;Aín;Pol:All (C0);regional_house_values
+2017-02-01;18517,956;12002;Aín;Pol:All (C0);regional_house_values
+2017-03-01;18967,955;12002;Aín;Pol:All (C0);regional_house_values
+2017-04-01;19426,097;12002;Aín;Pol:All (C0);regional_house_values
+2017-05-01;19875,094;12002;Aín;Pol:All (C0);regional_house_values
+2017-06-01;20328,496;12002;Aín;Pol:All (C0);regional_house_values
+2017-07-01;20779,746;12002;Aín;Pol:All (C0);regional_house_values
+2017-08-01;21230,778;12002;Aín;Pol:All (C0);regional_house_values
+2017-09-01;21678,169;12002;Aín;Pol:All (C0);regional_house_values
+2017-10-01;22126,371;12002;Aín;Pol:All (C0);regional_house_values
+2017-11-01;22574,622;12002;Aín;Pol:All (C0);regional_house_values
+2017-12-01;23028,735;12002;Aín;Pol:All (C0);regional_house_values
+2018-01-01;23476,206;12002;Aín;Pol:All (C0);regional_house_values
+2018-02-01;23931,428;12002;Aín;Pol:All (C0);regional_house_values
+2018-03-01;24206,496;12002;Aín;Pol:All (C0);regional_house_values
+2018-04-01;24664,455;12002;Aín;Pol:All (C0);regional_house_values
+2018-05-01;25119,125;12002;Aín;Pol:All (C0);regional_house_values
+2018-06-01;25377,745;12002;Aín;Pol:All (C0);regional_house_values
+2018-07-01;25259,541;12002;Aín;Pol:All (C0);regional_house_values
+2018-08-01;24981,299;12002;Aín;Pol:All (C0);regional_house_values
+2018-09-01;25431,107;12002;Aín;Pol:All (C0);regional_house_values
+2018-10-01;25880,41;12002;Aín;Pol:All (C0);regional_house_values
+2018-11-01;26347,407;12002;Aín;Pol:All (C0);regional_house_values
+2018-12-01;26797,731;12002;Aín;Pol:All (C0);regional_house_values
+2019-01-01;27252,401;12002;Aín;Pol:All (C0);regional_house_values
+2019-02-01;27505,449;12002;Aín;Pol:All (C0);regional_house_values
+2019-03-01;27948,789;12002;Aín;Pol:All (C0);regional_house_values
+2019-04-01;28387,84;12002;Aín;Pol:All (C0);regional_house_values
+2019-05-01;28822,121;12002;Aín;Pol:All (C0);regional_house_values
+2019-06-01;29256,048;12002;Aín;Pol:All (C0);regional_house_values
+2019-07-01;29698,448;12002;Aín;Pol:All (C0);regional_house_values
+2019-08-01;30140,202;12002;Aín;Pol:All (C0);regional_house_values
+2019-09-01;30579,312;12002;Aín;Pol:All (C0);regional_house_values
+2019-10-01;31015,856;12002;Aín;Pol:All (C0);regional_house_values
+2019-11-01;31495,953;12002;Aín;Pol:All (C0);regional_house_values
+2019-12-01;31927,926;12002;Aín;Pol:All (C0);regional_house_values
+2020-01-01;31915,124;12002;Aín;Pol:All (C0);regional_house_values
+2020-02-01;32377,43;12002;Aín;Pol:All (C0);regional_house_values
+2020-03-01;32822,587;12002;Aín;Pol:All (C0);regional_house_values
+2020-04-01;33269,615;12002;Aín;Pol:All (C0);regional_house_values
+2020-05-01;33717,394;12002;Aín;Pol:All (C0);regional_house_values
+2020-06-01;34164,396;12002;Aín;Pol:All (C0);regional_house_values
+2020-07-01;34375,407;12002;Aín;Pol:All (C0);regional_house_values
+2020-08-01;34829,179;12002;Aín;Pol:All (C0);regional_house_values
+2020-09-01;35283,301;12002;Aín;Pol:All (C0);regional_house_values
+2020-10-01;35734,496;12002;Aín;Pol:All (C0);regional_house_values
+2020-11-01;36185,854;12002;Aín;Pol:All (C0);regional_house_values
+2014-01-01;326,854;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2014-02-01;4225,304;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2014-03-01;8120,757;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2014-04-01;12006,013;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2014-05-01;15897,233;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2014-06-01;19776,458;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2014-07-01;23665,908;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2014-08-01;27467,826;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2014-09-01;31365,255;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2014-10-01;35255,348;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2014-11-01;39117,408;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2014-12-01;43005,253;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2015-01-01;46832,263;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2015-02-01;50708,565;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2015-03-01;54623,368;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2015-04-01;58509,975;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2015-05-01;62318,235;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2015-06-01;66174,703;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2015-07-01;69945,151;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2015-08-01;73741,118;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2015-09-01;77638,872;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2015-10-01;81571,487;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2015-11-01;85446,623;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2015-12-01;89094,368;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2016-01-01;92913,495;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2016-02-01;96757,607;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2016-03-01;100511,975;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2016-04-01;103976,555;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2016-05-01;107941,782;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2016-06-01;111820,642;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2016-07-01;115557,641;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2016-08-01;119442,016;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2016-09-01;123405,01;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2016-10-01;127204,261;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2016-11-01;131178,576;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2016-12-01;226952,16;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2017-01-01;142305,091;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2017-02-01;228159,132;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2017-03-01;238376,016;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2017-04-01;222371,809;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2017-05-01;228070,684;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2017-06-01;232022,071;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2017-07-01;250653,299;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2017-08-01;247735,53;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2017-09-01;221518,211;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2017-10-01;216933,905;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2017-11-01;255616,338;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2017-12-01;212202,291;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2018-01-01;278679,606;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2018-02-01;279922,23;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2018-03-01;246130,938;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2018-04-01;264427,662;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2018-05-01;317292,788;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2018-06-01;321462,741;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2018-07-01;321467,338;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2018-08-01;337073,163;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2018-09-01;351001,265;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2018-10-01;371722,576;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2018-11-01;351028,898;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2018-12-01;354751,919;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2019-01-01;304599,966;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2019-02-01;320963,855;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2019-03-01;382399,072;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2019-04-01;465594,193;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2019-05-01;481503,836;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2019-06-01;564495,583;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2019-07-01;464373,463;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2019-08-01;489527,157;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2019-09-01;524782,558;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2019-10-01;624480,702;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2019-11-01;508163,454;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2019-12-01;643191,401;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2020-01-01;484727,694;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2020-02-01;508096,97;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2020-03-01;548636,964;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2020-04-01;697489,351;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2020-05-01;661802,429;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2020-06-01;801795,423;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2020-07-01;659063,575;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2020-08-01;561638,897;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2020-09-01;585126,196;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2020-10-01;621100,36;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2020-11-01;584582,024;39057;Ramales de la Victoria;Pol:All (C0);regional_house_values
+2014-01-01;1282,944;39102;Voto;Pol:All (C0);regional_house_values
+2014-02-01;23874,585;39102;Voto;Pol:All (C0);regional_house_values
+2014-03-01;46450,945;39102;Voto;Pol:All (C0);regional_house_values
+2014-04-01;69117,956;39102;Voto;Pol:All (C0);regional_house_values
+2014-05-01;91781,67;39102;Voto;Pol:All (C0);regional_house_values
+2014-06-01;114241,33;39102;Voto;Pol:All (C0);regional_house_values
+2014-07-01;136910,741;39102;Voto;Pol:All (C0);regional_house_values
+2014-08-01;159653,969;39102;Voto;Pol:All (C0);regional_house_values
+2014-09-01;181854,199;39102;Voto;Pol:All (C0);regional_house_values
+2014-10-01;203997,593;39102;Voto;Pol:All (C0);regional_house_values
+2014-11-01;226407,053;39102;Voto;Pol:All (C0);regional_house_values
+2014-12-01;248715,283;39102;Voto;Pol:All (C0);regional_house_values
+2015-01-01;270896,847;39102;Voto;Pol:All (C0);regional_house_values
+2015-02-01;293183,519;39102;Voto;Pol:All (C0);regional_house_values
+2015-03-01;315514,024;39102;Voto;Pol:All (C0);regional_house_values
+2015-04-01;338017,692;39102;Voto;Pol:All (C0);regional_house_values
+2015-05-01;358872,168;39102;Voto;Pol:All (C0);regional_house_values
+2015-06-01;382796,379;39102;Voto;Pol:All (C0);regional_house_values
+2015-07-01;405420,981;39102;Voto;Pol:All (C0);regional_house_values
+2015-08-01;427172,375;39102;Voto;Pol:All (C0);regional_house_values
+2015-09-01;449335,114;39102;Voto;Pol:All (C0);regional_house_values
+2015-10-01;471105,934;39102;Voto;Pol:All (C0);regional_house_values
+2015-11-01;493227,985;39102;Voto;Pol:All (C0);regional_house_values
+2015-12-01;515351,947;39102;Voto;Pol:All (C0);regional_house_values
+2016-01-01;537437,969;39102;Voto;Pol:All (C0);regional_house_values
+2016-02-01;559623,881;39102;Voto;Pol:All (C0);regional_house_values
+2016-03-01;581203,998;39102;Voto;Pol:All (C0);regional_house_values
+2016-04-01;603370,95;39102;Voto;Pol:All (C0);regional_house_values
+2016-05-01;625809,475;39102;Voto;Pol:All (C0);regional_house_values
+2016-06-01;515403,449;39102;Voto;Pol:All (C0);regional_house_values
+2016-07-01;670354,825;39102;Voto;Pol:All (C0);regional_house_values
+2016-08-01;692512,688;39102;Voto;Pol:All (C0);regional_house_values
+2016-09-01;461404,666;39102;Voto;Pol:All (C0);regional_house_values
+2016-10-01;185338,121;39102;Voto;Pol:All (C0);regional_house_values
+2016-11-01;422969,017;39102;Voto;Pol:All (C0);regional_house_values
+2016-12-01;194918,644;39102;Voto;Pol:All (C0);regional_house_values
+2017-01-01;200507,046;39102;Voto;Pol:All (C0);regional_house_values
+2017-02-01;206088,338;39102;Voto;Pol:All (C0);regional_house_values
+2017-03-01;211190,401;39102;Voto;Pol:All (C0);regional_house_values
+2017-04-01;216775,198;39102;Voto;Pol:All (C0);regional_house_values
+2017-05-01;222253,214;39102;Voto;Pol:All (C0);regional_house_values
+2017-06-01;227850,47;39102;Voto;Pol:All (C0);regional_house_values
+2017-07-01;233285,34;39102;Voto;Pol:All (C0);regional_house_values
+2017-08-01;238691,767;39102;Voto;Pol:All (C0);regional_house_values
+2017-09-01;243890,968;39102;Voto;Pol:All (C0);regional_house_values
+2017-10-01;249471,513;39102;Voto;Pol:All (C0);regional_house_values
+2017-11-01;254863,762;39102;Voto;Pol:All (C0);regional_house_values
+2017-12-01;260273,624;39102;Voto;Pol:All (C0);regional_house_values
+2018-01-01;265423,259;39102;Voto;Pol:All (C0);regional_house_values
+2018-02-01;271025,131;39102;Voto;Pol:All (C0);regional_house_values
+2018-03-01;276404,811;39102;Voto;Pol:All (C0);regional_house_values
+2018-04-01;281681,004;39102;Voto;Pol:All (C0);regional_house_values
+2018-05-01;287311,554;39102;Voto;Pol:All (C0);regional_house_values
+2018-06-01;292894,555;39102;Voto;Pol:All (C0);regional_house_values
+2018-07-01;298517,502;39102;Voto;Pol:All (C0);regional_house_values
+2018-08-01;304068,876;39102;Voto;Pol:All (C0);regional_house_values
+2018-09-01;309251,502;39102;Voto;Pol:All (C0);regional_house_values
+2018-10-01;314865,289;39102;Voto;Pol:All (C0);regional_house_values
+2018-11-01;320294,094;39102;Voto;Pol:All (C0);regional_house_values
+2018-12-01;326045,861;39102;Voto;Pol:All (C0);regional_house_values
+2019-01-01;331571,891;39102;Voto;Pol:All (C0);regional_house_values
+2019-02-01;337317,98;39102;Voto;Pol:All (C0);regional_house_values
+2019-03-01;343045,568;39102;Voto;Pol:All (C0);regional_house_values
+2019-04-01;348369,207;39102;Voto;Pol:All (C0);regional_house_values
+2019-05-01;354026,553;39102;Voto;Pol:All (C0);regional_house_values
+2019-06-01;359721,686;39102;Voto;Pol:All (C0);regional_house_values
+2019-07-01;365326,658;39102;Voto;Pol:All (C0);regional_house_values
+2019-08-01;370986,467;39102;Voto;Pol:All (C0);regional_house_values
+2019-09-01;376084,326;39102;Voto;Pol:All (C0);regional_house_values
+2019-10-01;381424,831;39102;Voto;Pol:All (C0);regional_house_values
+2019-11-01;386853,128;39102;Voto;Pol:All (C0);regional_house_values
+2019-12-01;392278,582;39102;Voto;Pol:All (C0);regional_house_values
+2020-01-01;397048,311;39102;Voto;Pol:All (C0);regional_house_values
+2020-02-01;402166,209;39102;Voto;Pol:All (C0);regional_house_values
+2020-03-01;407709,031;39102;Voto;Pol:All (C0);regional_house_values
+2020-04-01;412906,588;39102;Voto;Pol:All (C0);regional_house_values
+2020-05-01;418432,615;39102;Voto;Pol:All (C0);regional_house_values
+2020-06-01;423919,806;39102;Voto;Pol:All (C0);regional_house_values
+2020-07-01;427847,255;39102;Voto;Pol:All (C0);regional_house_values
+2020-08-01;432267,841;39102;Voto;Pol:All (C0);regional_house_values
+2020-09-01;437113,847;39102;Voto;Pol:All (C0);regional_house_values
+2020-10-01;442708,987;39102;Voto;Pol:All (C0);regional_house_values
+2020-11-01;448070,488;39102;Voto;Pol:All (C0);regional_house_values
+2014-01-01;10830,232;10201;Valdemorales;Pol:None (C0);regional_house_values
+2014-02-01;15852,661;10201;Valdemorales;Pol:None (C0);regional_house_values
+2014-03-01;21110,041;10201;Valdemorales;Pol:None (C0);regional_house_values
+2014-04-01;26116,916;10201;Valdemorales;Pol:None (C0);regional_house_values
+2014-05-01;30115,558;10201;Valdemorales;Pol:None (C0);regional_house_values
+2014-06-01;34539,54;10201;Valdemorales;Pol:None (C0);regional_house_values
+2014-07-01;34600,934;10201;Valdemorales;Pol:None (C0);regional_house_values
+2014-08-01;38457,955;10201;Valdemorales;Pol:None (C0);regional_house_values
+2014-09-01;45504,866;10201;Valdemorales;Pol:None (C0);regional_house_values
+2014-10-01;48895,686;10201;Valdemorales;Pol:None (C0);regional_house_values
+2014-11-01;50080,385;10201;Valdemorales;Pol:None (C0);regional_house_values
+2014-12-01;52909,17;10201;Valdemorales;Pol:None (C0);regional_house_values
+2015-01-01;46278,301;10201;Valdemorales;Pol:None (C0);regional_house_values
+2015-02-01;52676,968;10201;Valdemorales;Pol:None (C0);regional_house_values
+2015-03-01;68619,216;10201;Valdemorales;Pol:None (C0);regional_house_values
+2015-04-01;86932,736;10201;Valdemorales;Pol:None (C0);regional_house_values
+2015-05-01;108189,692;10201;Valdemorales;Pol:None (C0);regional_house_values
+2015-06-01;109276,969;10201;Valdemorales;Pol:None (C0);regional_house_values
+2015-07-01;78329,848;10201;Valdemorales;Pol:None (C0);regional_house_values
+2015-08-01;81610,309;10201;Valdemorales;Pol:None (C0);regional_house_values
+2015-09-01;91734,688;10201;Valdemorales;Pol:None (C0);regional_house_values
+2015-10-01;99873,508;10201;Valdemorales;Pol:None (C0);regional_house_values
+2015-11-01;84079,941;10201;Valdemorales;Pol:None (C0);regional_house_values
+2015-12-01;85791,654;10201;Valdemorales;Pol:None (C0);regional_house_values
+2016-01-01;68721,258;10201;Valdemorales;Pol:None (C0);regional_house_values
+2016-02-01;72425,553;10201;Valdemorales;Pol:None (C0);regional_house_values
+2016-03-01;98377,332;10201;Valdemorales;Pol:None (C0);regional_house_values
+2016-04-01;110122,885;10201;Valdemorales;Pol:None (C0);regional_house_values
+2016-05-01;152883,03;10201;Valdemorales;Pol:None (C0);regional_house_values
+2016-06-01;186093,82;10201;Valdemorales;Pol:None (C0);regional_house_values
+2016-07-01;121277,192;10201;Valdemorales;Pol:None (C0);regional_house_values
+2016-08-01;131569,524;10201;Valdemorales;Pol:None (C0);regional_house_values
+2016-09-01;202150,078;10201;Valdemorales;Pol:None (C0);regional_house_values
+2016-10-01;208857,027;10201;Valdemorales;Pol:None (C0);regional_house_values
+2016-11-01;216926,912;10201;Valdemorales;Pol:None (C0);regional_house_values
+2016-12-01;226187,347;10201;Valdemorales;Pol:None (C0);regional_house_values
+2017-01-01;237226,013;10201;Valdemorales;Pol:None (C0);regional_house_values
+2017-02-01;241693,211;10201;Valdemorales;Pol:None (C0);regional_house_values
+2017-03-01;238367,968;10201;Valdemorales;Pol:None (C0);regional_house_values
+2017-04-01;240065,672;10201;Valdemorales;Pol:None (C0);regional_house_values
+2017-05-01;247037,047;10201;Valdemorales;Pol:None (C0);regional_house_values
+2017-06-01;250891,983;10201;Valdemorales;Pol:None (C0);regional_house_values
+2017-07-01;258433,098;10201;Valdemorales;Pol:None (C0);regional_house_values
+2017-08-01;258277,797;10201;Valdemorales;Pol:None (C0);regional_house_values
+2017-09-01;260606,365;10201;Valdemorales;Pol:None (C0);regional_house_values
+2017-10-01;266563,168;10201;Valdemorales;Pol:None (C0);regional_house_values
+2017-11-01;272154,453;10201;Valdemorales;Pol:None (C0);regional_house_values
+2017-12-01;274961,121;10201;Valdemorales;Pol:None (C0);regional_house_values
+2018-01-01;290180,334;10201;Valdemorales;Pol:None (C0);regional_house_values
+2018-02-01;293519,598;10201;Valdemorales;Pol:None (C0);regional_house_values
+2018-03-01;295150,155;10201;Valdemorales;Pol:None (C0);regional_house_values
+2018-04-01;262933,477;10201;Valdemorales;Pol:None (C0);regional_house_values
+2018-05-01;245919,22;10201;Valdemorales;Pol:None (C0);regional_house_values
+2018-06-01;248905,184;10201;Valdemorales;Pol:None (C0);regional_house_values
+2018-07-01;259978,821;10201;Valdemorales;Pol:None (C0);regional_house_values
+2018-08-01;262682,271;10201;Valdemorales;Pol:None (C0);regional_house_values
+2018-09-01;253233,921;10201;Valdemorales;Pol:None (C0);regional_house_values
+2018-10-01;243782,745;10201;Valdemorales;Pol:None (C0);regional_house_values
+2018-11-01;268332,828;10201;Valdemorales;Pol:None (C0);regional_house_values
+2018-12-01;276237,058;10201;Valdemorales;Pol:None (C0);regional_house_values
+2019-01-01;318682,109;10201;Valdemorales;Pol:None (C0);regional_house_values
+2019-02-01;312586,37;10201;Valdemorales;Pol:None (C0);regional_house_values
+2019-03-01;263600,948;10201;Valdemorales;Pol:None (C0);regional_house_values
+2019-04-01;261649,614;10201;Valdemorales;Pol:None (C0);regional_house_values
+2019-05-01;287375,471;10201;Valdemorales;Pol:None (C0);regional_house_values
+2019-06-01;306585,248;10201;Valdemorales;Pol:None (C0);regional_house_values
+2019-07-01;272836,29;10201;Valdemorales;Pol:None (C0);regional_house_values
+2019-08-01;286627,734;10201;Valdemorales;Pol:None (C0);regional_house_values
+2019-09-01;319784,912;10201;Valdemorales;Pol:None (C0);regional_house_values
+2019-10-01;335249,259;10201;Valdemorales;Pol:None (C0);regional_house_values
+2019-11-01;302478,512;10201;Valdemorales;Pol:None (C0);regional_house_values
+2019-12-01;344664,95;10201;Valdemorales;Pol:None (C0);regional_house_values
+2020-01-01;341178,723;10201;Valdemorales;Pol:None (C0);regional_house_values
+2020-02-01;344715,152;10201;Valdemorales;Pol:None (C0);regional_house_values
+2020-03-01;325770,54;10201;Valdemorales;Pol:None (C0);regional_house_values
+2020-04-01;369792,231;10201;Valdemorales;Pol:None (C0);regional_house_values
+2020-05-01;363497,67;10201;Valdemorales;Pol:None (C0);regional_house_values
+2020-06-01;388128,485;10201;Valdemorales;Pol:None (C0);regional_house_values
+2020-07-01;367135,634;10201;Valdemorales;Pol:None (C0);regional_house_values
+2020-08-01;323152,986;10201;Valdemorales;Pol:None (C0);regional_house_values
+2020-09-01;327445,719;10201;Valdemorales;Pol:None (C0);regional_house_values
+2020-10-01;357631,47;10201;Valdemorales;Pol:None (C0);regional_house_values
+2020-11-01;351692,088;10201;Valdemorales;Pol:None (C0);regional_house_values
+2014-01-01;1268,08;12002;Aín;Pol:None (C0);regional_house_values
+2014-02-01;1582,112;12002;Aín;Pol:None (C0);regional_house_values
+2014-03-01;1924,219;12002;Aín;Pol:None (C0);regional_house_values
+2014-04-01;2235,953;12002;Aín;Pol:None (C0);regional_house_values
+2014-05-01;2438,52;12002;Aín;Pol:None (C0);regional_house_values
+2014-06-01;2712,388;12002;Aín;Pol:None (C0);regional_house_values
+2014-07-01;2637,367;12002;Aín;Pol:None (C0);regional_house_values
+2014-08-01;2905,583;12002;Aín;Pol:None (C0);regional_house_values
+2014-09-01;3414,309;12002;Aín;Pol:None (C0);regional_house_values
+2014-10-01;3635,27;12002;Aín;Pol:None (C0);regional_house_values
+2014-11-01;3687,679;12002;Aín;Pol:None (C0);regional_house_values
+2014-12-01;3843,487;12002;Aín;Pol:None (C0);regional_house_values
+2015-01-01;3261,5;12002;Aín;Pol:None (C0);regional_house_values
+2015-02-01;3723,132;12002;Aín;Pol:None (C0);regional_house_values
+2015-03-01;5136,761;12002;Aín;Pol:None (C0);regional_house_values
+2015-04-01;6626,547;12002;Aín;Pol:None (C0);regional_house_values
+2015-05-01;8272,112;12002;Aín;Pol:None (C0);regional_house_values
+2015-06-01;8344,71;12002;Aín;Pol:None (C0);regional_house_values
+2015-07-01;5923,966;12002;Aín;Pol:None (C0);regional_house_values
+2015-08-01;6127,835;12002;Aín;Pol:None (C0);regional_house_values
+2015-09-01;6902,971;12002;Aín;Pol:None (C0);regional_house_values
+2015-10-01;7485,679;12002;Aín;Pol:None (C0);regional_house_values
+2015-11-01;6223,863;12002;Aín;Pol:None (C0);regional_house_values
+2015-12-01;6463,027;12002;Aín;Pol:None (C0);regional_house_values
+2016-01-01;4812,798;12002;Aín;Pol:None (C0);regional_house_values
+2016-02-01;5078,343;12002;Aín;Pol:None (C0);regional_house_values
+2016-03-01;7107,242;12002;Aín;Pol:None (C0);regional_house_values
+2016-04-01;8050,582;12002;Aín;Pol:None (C0);regional_house_values
+2016-05-01;11438,597;12002;Aín;Pol:None (C0);regional_house_values
+2016-06-01;14686,141;12002;Aín;Pol:None (C0);regional_house_values
+2016-07-01;9422,451;12002;Aín;Pol:None (C0);regional_house_values
+2016-08-01;10234,327;12002;Aín;Pol:None (C0);regional_house_values
+2016-09-01;16054,603;12002;Aín;Pol:None (C0);regional_house_values
+2016-10-01;16507,583;12002;Aín;Pol:None (C0);regional_house_values
+2016-11-01;16962,828;12002;Aín;Pol:None (C0);regional_house_values
+2016-12-01;17418,368;12002;Aín;Pol:None (C0);regional_house_values
+2017-01-01;17872,271;12002;Aín;Pol:None (C0);regional_house_values
+2017-02-01;18330,431;12002;Aín;Pol:None (C0);regional_house_values
+2017-03-01;18655,697;12002;Aín;Pol:None (C0);regional_house_values
+2017-04-01;19114,822;12002;Aín;Pol:None (C0);regional_house_values
+2017-05-01;19578,568;12002;Aín;Pol:None (C0);regional_house_values
+2017-06-01;20047,732;12002;Aín;Pol:None (C0);regional_house_values
+2017-07-01;20511,052;12002;Aín;Pol:None (C0);regional_house_values
+2017-08-01;20826,615;12002;Aín;Pol:None (C0);regional_house_values
+2017-09-01;21288,507;12002;Aín;Pol:None (C0);regional_house_values
+2017-10-01;21749,083;12002;Aín;Pol:None (C0);regional_house_values
+2017-11-01;22216,946;12002;Aín;Pol:None (C0);regional_house_values
+2017-12-01;22686,428;12002;Aín;Pol:None (C0);regional_house_values
+2018-01-01;23148,023;12002;Aín;Pol:None (C0);regional_house_values
+2018-02-01;23604,414;12002;Aín;Pol:None (C0);regional_house_values
+2018-03-01;23665,982;12002;Aín;Pol:None (C0);regional_house_values
+2018-04-01;23962,679;12002;Aín;Pol:None (C0);regional_house_values
+2018-05-01;24417,634;12002;Aín;Pol:None (C0);regional_house_values
+2018-06-01;24875,367;12002;Aín;Pol:None (C0);regional_house_values
+2018-07-01;25337,351;12002;Aín;Pol:None (C0);regional_house_values
+2018-08-01;25793,68;12002;Aín;Pol:None (C0);regional_house_values
+2018-09-01;26266,966;12002;Aín;Pol:None (C0);regional_house_values
+2018-10-01;26539,603;12002;Aín;Pol:None (C0);regional_house_values
+2018-11-01;26997,25;12002;Aín;Pol:None (C0);regional_house_values
+2018-12-01;27456,123;12002;Aín;Pol:None (C0);regional_house_values
+2019-01-01;27923,451;12002;Aín;Pol:None (C0);regional_house_values
+2019-02-01;28366,395;12002;Aín;Pol:None (C0);regional_house_values
+2019-03-01;28802,512;12002;Aín;Pol:None (C0);regional_house_values
+2019-04-01;29253,755;12002;Aín;Pol:None (C0);regional_house_values
+2019-05-01;29485,786;12002;Aín;Pol:None (C0);regional_house_values
+2019-06-01;29930,59;12002;Aín;Pol:None (C0);regional_house_values
+2019-07-01;30385,271;12002;Aín;Pol:None (C0);regional_house_values
+2019-08-01;30619,698;12002;Aín;Pol:None (C0);regional_house_values
+2019-09-01;31065,965;12002;Aín;Pol:None (C0);regional_house_values
+2019-10-01;31525,83;12002;Aín;Pol:None (C0);regional_house_values
+2019-11-01;31984,408;12002;Aín;Pol:None (C0);regional_house_values
+2019-12-01;32432,583;12002;Aín;Pol:None (C0);regional_house_values
+2020-01-01;32653,663;12002;Aín;Pol:None (C0);regional_house_values
+2020-02-01;33143,021;12002;Aín;Pol:None (C0);regional_house_values
+2020-03-01;33619,577;12002;Aín;Pol:None (C0);regional_house_values
+2020-04-01;34088,091;12002;Aín;Pol:None (C0);regional_house_values
+2020-05-01;34554,963;12002;Aín;Pol:None (C0);regional_house_values
+2020-06-01;35022,533;12002;Aín;Pol:None (C0);regional_house_values
+2020-07-01;35519,062;12002;Aín;Pol:None (C0);regional_house_values
+2020-08-01;35987,209;12002;Aín;Pol:None (C0);regional_house_values
+2020-09-01;36449,811;12002;Aín;Pol:None (C0);regional_house_values
+2020-10-01;36911,922;12002;Aín;Pol:None (C0);regional_house_values
+2020-11-01;37372,226;12002;Aín;Pol:None (C0);regional_house_values
+2014-01-01;326,854;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2014-02-01;4221,64;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2014-03-01;8112,068;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2014-04-01;11986,899;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2014-05-01;15871,42;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2014-06-01;19770,914;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2014-07-01;23632,105;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2014-08-01;27491,083;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2014-09-01;31421,322;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2014-10-01;35282,511;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2014-11-01;39190,45;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2014-12-01;42994,429;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2015-01-01;46791,256;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2015-02-01;50391,312;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2015-03-01;54268,132;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2015-04-01;58186,025;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2015-05-01;61829,442;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2015-06-01;65717,847;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2015-07-01;69568,865;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2015-08-01;73451,776;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2015-09-01;77227,169;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2015-10-01;81152,56;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2015-11-01;85074,913;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2015-12-01;88716,148;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2016-01-01;92521,339;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2016-02-01;96418,535;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2016-03-01;100287,115;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2016-04-01;104082,551;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2016-05-01;107954,828;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2016-06-01;111821,959;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2016-07-01;115690,172;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2016-08-01;119555,595;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2016-09-01;123509,712;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2016-10-01;127281,851;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2016-11-01;131141,942;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2016-12-01;249979,992;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2017-01-01;251429,122;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2017-02-01;283997,263;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2017-03-01;249731,777;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2017-04-01;190141,801;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2017-05-01;219049,789;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2017-06-01;189642,05;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2017-07-01;261796,763;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2017-08-01;228547,682;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2017-09-01;195729,779;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2017-10-01;197113,053;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2017-11-01;210999,783;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2017-12-01;221044,136;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2018-01-01;296430,255;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2018-02-01;266883,643;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2018-03-01;280838,73;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2018-04-01;302895,824;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2018-05-01;339498,471;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2018-06-01;352544,632;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2018-07-01;343174,045;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2018-08-01;352370,038;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2018-09-01;382803,081;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2018-10-01;403055,495;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2018-11-01;376603,552;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2018-12-01;378394,193;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2019-01-01;318878,013;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2019-02-01;353493,964;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2019-03-01;417952,013;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2019-04-01;463890,304;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2019-05-01;533559,306;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2019-06-01;583698,842;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2019-07-01;476043,218;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2019-08-01;493624,484;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2019-09-01;599533,286;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2019-10-01;642225,977;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2019-11-01;519367,517;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2019-12-01;667888,023;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2020-01-01;525640,183;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2020-02-01;545614,905;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2020-03-01;576666,423;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2020-04-01;739003,963;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2020-05-01;702920,468;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2020-06-01;829022,549;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2020-07-01;707825,464;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2020-08-01;602438,074;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2020-09-01;578474,048;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2020-10-01;656263,776;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2020-11-01;622753,946;39057;Ramales de la Victoria;Pol:None (C0);regional_house_values
+2014-01-01;1282,944;39102;Voto;Pol:None (C0);regional_house_values
+2014-02-01;23891,826;39102;Voto;Pol:None (C0);regional_house_values
+2014-03-01;46463,579;39102;Voto;Pol:None (C0);regional_house_values
+2014-04-01;69307,226;39102;Voto;Pol:None (C0);regional_house_values
+2014-05-01;91836,995;39102;Voto;Pol:None (C0);regional_house_values
+2014-06-01;114670,732;39102;Voto;Pol:None (C0);regional_house_values
+2014-07-01;137441,624;39102;Voto;Pol:None (C0);regional_house_values
+2014-08-01;160318,574;39102;Voto;Pol:None (C0);regional_house_values
+2014-09-01;182678,395;39102;Voto;Pol:None (C0);regional_house_values
+2014-10-01;204932,839;39102;Voto;Pol:None (C0);regional_house_values
+2014-11-01;227412,94;39102;Voto;Pol:None (C0);regional_house_values
+2014-12-01;249875,986;39102;Voto;Pol:None (C0);regional_house_values
+2015-01-01;271627,109;39102;Voto;Pol:None (C0);regional_house_values
+2015-02-01;294161,233;39102;Voto;Pol:None (C0);regional_house_values
+2015-03-01;316536,862;39102;Voto;Pol:None (C0);regional_house_values
+2015-04-01;338600,074;39102;Voto;Pol:None (C0);regional_house_values
+2015-05-01;361128,519;39102;Voto;Pol:None (C0);regional_house_values
+2015-06-01;382994,754;39102;Voto;Pol:None (C0);regional_house_values
+2015-07-01;405200,648;39102;Voto;Pol:None (C0);regional_house_values
+2015-08-01;427014,948;39102;Voto;Pol:None (C0);regional_house_values
+2015-09-01;449440,825;39102;Voto;Pol:None (C0);regional_house_values
+2015-10-01;471641,22;39102;Voto;Pol:None (C0);regional_house_values
+2015-11-01;493470,292;39102;Voto;Pol:None (C0);regional_house_values
+2015-12-01;515683,864;39102;Voto;Pol:None (C0);regional_house_values
+2016-01-01;536233,103;39102;Voto;Pol:None (C0);regional_house_values
+2016-02-01;557702,417;39102;Voto;Pol:None (C0);regional_house_values
+2016-03-01;579644,734;39102;Voto;Pol:None (C0);regional_house_values
+2016-04-01;601796,138;39102;Voto;Pol:None (C0);regional_house_values
+2016-05-01;624166,023;39102;Voto;Pol:None (C0);regional_house_values
+2016-06-01;611858,281;39102;Voto;Pol:None (C0);regional_house_values
+2016-07-01;667645,639;39102;Voto;Pol:None (C0);regional_house_values
+2016-08-01;689574,244;39102;Voto;Pol:None (C0);regional_house_values
+2016-09-01;669537,011;39102;Voto;Pol:None (C0);regional_house_values
+2016-10-01;236267,377;39102;Voto;Pol:None (C0);regional_house_values
+2016-11-01;559985,788;39102;Voto;Pol:None (C0);regional_house_values
+2016-12-01;194513,342;39102;Voto;Pol:None (C0);regional_house_values
+2017-01-01;199969,878;39102;Voto;Pol:None (C0);regional_house_values
+2017-02-01;205482,634;39102;Voto;Pol:None (C0);regional_house_values
+2017-03-01;210972,546;39102;Voto;Pol:None (C0);regional_house_values
+2017-04-01;216484,809;39102;Voto;Pol:None (C0);regional_house_values
+2017-05-01;222162,37;39102;Voto;Pol:None (C0);regional_house_values
+2017-06-01;227590,023;39102;Voto;Pol:None (C0);regional_house_values
+2017-07-01;233208,32;39102;Voto;Pol:None (C0);regional_house_values
+2017-08-01;238817,503;39102;Voto;Pol:None (C0);regional_house_values
+2017-09-01;244133,738;39102;Voto;Pol:None (C0);regional_house_values
+2017-10-01;249639,586;39102;Voto;Pol:None (C0);regional_house_values
+2017-11-01;255248,256;39102;Voto;Pol:None (C0);regional_house_values
+2017-12-01;260454,333;39102;Voto;Pol:None (C0);regional_house_values
+2018-01-01;265653,836;39102;Voto;Pol:None (C0);regional_house_values
+2018-02-01;271267,458;39102;Voto;Pol:None (C0);regional_house_values
+2018-03-01;276853,749;39102;Voto;Pol:None (C0);regional_house_values
+2018-04-01;282208,561;39102;Voto;Pol:None (C0);regional_house_values
+2018-05-01;287589,503;39102;Voto;Pol:None (C0);regional_house_values
+2018-06-01;293320,307;39102;Voto;Pol:None (C0);regional_house_values
+2018-07-01;298639,003;39102;Voto;Pol:None (C0);regional_house_values
+2018-08-01;304185,082;39102;Voto;Pol:None (C0);regional_house_values
+2018-09-01;309952,307;39102;Voto;Pol:None (C0);regional_house_values
+2018-10-01;315602,984;39102;Voto;Pol:None (C0);regional_house_values
+2018-11-01;320967,859;39102;Voto;Pol:None (C0);regional_house_values
+2018-12-01;326196,796;39102;Voto;Pol:None (C0);regional_house_values
+2019-01-01;331830,605;39102;Voto;Pol:None (C0);regional_house_values
+2019-02-01;337211,519;39102;Voto;Pol:None (C0);regional_house_values
+2019-03-01;342670,19;39102;Voto;Pol:None (C0);regional_house_values
+2019-04-01;348448,996;39102;Voto;Pol:None (C0);regional_house_values
+2019-05-01;353775,048;39102;Voto;Pol:None (C0);regional_house_values
+2019-06-01;359449,489;39102;Voto;Pol:None (C0);regional_house_values
+2019-07-01;364970,557;39102;Voto;Pol:None (C0);regional_house_values
+2019-08-01;370506,227;39102;Voto;Pol:None (C0);regional_house_values
+2019-09-01;376304,941;39102;Voto;Pol:None (C0);regional_house_values
+2019-10-01;381735,545;39102;Voto;Pol:None (C0);regional_house_values
+2019-11-01;387021,957;39102;Voto;Pol:None (C0);regional_house_values
+2019-12-01;392805,74;39102;Voto;Pol:None (C0);regional_house_values
+2020-01-01;398002,084;39102;Voto;Pol:None (C0);regional_house_values
+2020-02-01;403384,893;39102;Voto;Pol:None (C0);regional_house_values
+2020-03-01;408413,939;39102;Voto;Pol:None (C0);regional_house_values
+2020-04-01;413934,563;39102;Voto;Pol:None (C0);regional_house_values
+2020-05-01;419720,228;39102;Voto;Pol:None (C0);regional_house_values
+2020-06-01;425665,516;39102;Voto;Pol:None (C0);regional_house_values
+2020-07-01;431170,504;39102;Voto;Pol:None (C0);regional_house_values
+2020-08-01;436988,436;39102;Voto;Pol:None (C0);regional_house_values
+2020-09-01;442613,305;39102;Voto;Pol:None (C0);regional_house_values
+2020-10-01;448215,995;39102;Voto;Pol:None (C0);regional_house_values
+2020-11-01;453572,394;39102;Voto;Pol:None (C0);regional_house_values
+2014-01-01;10830,232;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2014-02-01;15862,49;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2014-03-01;21110,181;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2014-04-01;26167,646;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2014-05-01;30159,444;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2014-06-01;34801,717;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2014-07-01;34893,015;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2014-08-01;38932,427;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2014-09-01;46433,677;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2014-10-01;50291,082;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2014-11-01;51906,151;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2014-12-01;55065,231;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2015-01-01;48654,024;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2015-02-01;55260,953;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2015-03-01;75908,487;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2015-04-01;96920,287;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2015-05-01;125065,478;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2015-06-01;127517,806;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2015-07-01;90092,735;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2015-08-01;94125,834;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2015-09-01;105500,982;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2015-10-01;115043,479;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2015-11-01;96848,614;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2015-12-01;100636,309;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2016-01-01;77268,509;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2016-02-01;81290,452;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2016-03-01;111666,886;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2016-04-01;125771,489;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2016-05-01;180705,342;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2016-06-01;215013,707;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2016-07-01;154728,52;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2016-08-01;166534,614;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2016-09-01;235011,304;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2016-10-01;241057,118;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2016-11-01;248060,4;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2016-12-01;255074,264;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2017-01-01;262032,342;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2017-02-01;269038,351;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2017-03-01;274928,75;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2017-04-01;280018,654;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2017-05-01;286880,22;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2017-06-01;292379,64;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2017-07-01;300896,075;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2017-08-01;307935,556;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2017-09-01;304552,02;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2017-10-01;309209,635;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2017-11-01;324701,845;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2017-12-01;312771,342;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2018-01-01;342004,953;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2018-02-01;347863,852;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2018-03-01;322266,11;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2018-04-01;311400,332;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2018-05-01;276140,615;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2018-06-01;282258,252;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2018-07-01;291898,412;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2018-08-01;288810,818;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2018-09-01;266762,133;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2018-10-01;279421,006;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2018-11-01;308979,693;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2018-12-01;309644,824;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2019-01-01;386076,182;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2019-02-01;369973,224;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2019-03-01;282995,801;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2019-04-01;283726,169;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2019-05-01;301791,17;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2019-06-01;313160,254;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2019-07-01;305091,502;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2019-08-01;315711,09;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2019-09-01;332392,039;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2019-10-01;340067,147;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2019-11-01;325736,112;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2019-12-01;351547,927;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2020-01-01;343472,672;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2020-02-01;339740,139;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2020-03-01;354257,7;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2020-04-01;368210,605;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2020-05-01;377287,013;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2020-06-01;409179,304;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2020-07-01;381272,742;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2020-08-01;382281,102;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2020-09-01;377081,829;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2020-10-01;375884,145;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2020-11-01;387054,202;10201;Valdemorales;Pol:Buy (C0);regional_house_values
+2014-01-01;1268,08;12002;Aín;Pol:Buy (C0);regional_house_values
+2014-02-01;1582,541;12002;Aín;Pol:Buy (C0);regional_house_values
+2014-03-01;1925,848;12002;Aín;Pol:Buy (C0);regional_house_values
+2014-04-01;2253,019;12002;Aín;Pol:Buy (C0);regional_house_values
+2014-05-01;2471,625;12002;Aín;Pol:Buy (C0);regional_house_values
+2014-06-01;2746,305;12002;Aín;Pol:Buy (C0);regional_house_values
+2014-07-01;2654,701;12002;Aín;Pol:Buy (C0);regional_house_values
+2014-08-01;2874,089;12002;Aín;Pol:Buy (C0);regional_house_values
+2014-09-01;3395,811;12002;Aín;Pol:Buy (C0);regional_house_values
+2014-10-01;3600,819;12002;Aín;Pol:Buy (C0);regional_house_values
+2014-11-01;3641,293;12002;Aín;Pol:Buy (C0);regional_house_values
+2014-12-01;3810,249;12002;Aín;Pol:Buy (C0);regional_house_values
+2015-01-01;3245,561;12002;Aín;Pol:Buy (C0);regional_house_values
+2015-02-01;3689,395;12002;Aín;Pol:Buy (C0);regional_house_values
+2015-03-01;5075,269;12002;Aín;Pol:Buy (C0);regional_house_values
+2015-04-01;6446,824;12002;Aín;Pol:Buy (C0);regional_house_values
+2015-05-01;8267,894;12002;Aín;Pol:Buy (C0);regional_house_values
+2015-06-01;8341,21;12002;Aín;Pol:Buy (C0);regional_house_values
+2015-07-01;5745,292;12002;Aín;Pol:Buy (C0);regional_house_values
+2015-08-01;5963,225;12002;Aín;Pol:Buy (C0);regional_house_values
+2015-09-01;6685,052;12002;Aín;Pol:Buy (C0);regional_house_values
+2015-10-01;7285,035;12002;Aín;Pol:Buy (C0);regional_house_values
+2015-11-01;6061,229;12002;Aín;Pol:Buy (C0);regional_house_values
+2015-12-01;6279,654;12002;Aín;Pol:Buy (C0);regional_house_values
+2016-01-01;4764,817;12002;Aín;Pol:Buy (C0);regional_house_values
+2016-02-01;5006,07;12002;Aín;Pol:Buy (C0);regional_house_values
+2016-03-01;6789,765;12002;Aín;Pol:Buy (C0);regional_house_values
+2016-04-01;7653,24;12002;Aín;Pol:Buy (C0);regional_house_values
+2016-05-01;11055,431;12002;Aín;Pol:Buy (C0);regional_house_values
+2016-06-01;13282,224;12002;Aín;Pol:Buy (C0);regional_house_values
+2016-07-01;9283,754;12002;Aín;Pol:Buy (C0);regional_house_values
+2016-08-01;10037,47;12002;Aín;Pol:Buy (C0);regional_house_values
+2016-09-01;14356,471;12002;Aín;Pol:Buy (C0);regional_house_values
+2016-10-01;15162,293;12002;Aín;Pol:Buy (C0);regional_house_values
+2016-11-01;14839,067;12002;Aín;Pol:Buy (C0);regional_house_values
+2016-12-01;16630,191;12002;Aín;Pol:Buy (C0);regional_house_values
+2017-01-01;15240,836;12002;Aín;Pol:Buy (C0);regional_house_values
+2017-02-01;16792,107;12002;Aín;Pol:Buy (C0);regional_house_values
+2017-03-01;18456,617;12002;Aín;Pol:Buy (C0);regional_house_values
+2017-04-01;19146,064;12002;Aín;Pol:Buy (C0);regional_house_values
+2017-05-01;19599,54;12002;Aín;Pol:Buy (C0);regional_house_values
+2017-06-01;20059,82;12002;Aín;Pol:Buy (C0);regional_house_values
+2017-07-01;20315,238;12002;Aín;Pol:Buy (C0);regional_house_values
+2017-08-01;20958,635;12002;Aín;Pol:Buy (C0);regional_house_values
+2017-09-01;21422,321;12002;Aín;Pol:Buy (C0);regional_house_values
+2017-10-01;21876,583;12002;Aín;Pol:Buy (C0);regional_house_values
+2017-11-01;22330,413;12002;Aín;Pol:Buy (C0);regional_house_values
+2017-12-01;22785,482;12002;Aín;Pol:Buy (C0);regional_house_values
+2018-01-01;23068,216;12002;Aín;Pol:Buy (C0);regional_house_values
+2018-02-01;23627,068;12002;Aín;Pol:Buy (C0);regional_house_values
+2018-03-01;24141,155;12002;Aín;Pol:Buy (C0);regional_house_values
+2018-04-01;24591,575;12002;Aín;Pol:Buy (C0);regional_house_values
+2018-05-01;25037,801;12002;Aín;Pol:Buy (C0);regional_house_values
+2018-06-01;25506,3;12002;Aín;Pol:Buy (C0);regional_house_values
+2018-07-01;25962,893;12002;Aín;Pol:Buy (C0);regional_house_values
+2018-08-01;26420,716;12002;Aín;Pol:Buy (C0);regional_house_values
+2018-09-01;26871,654;12002;Aín;Pol:Buy (C0);regional_house_values
+2018-10-01;27123,856;12002;Aín;Pol:Buy (C0);regional_house_values
+2018-11-01;27380,711;12002;Aín;Pol:Buy (C0);regional_house_values
+2018-12-01;27848,582;12002;Aín;Pol:Buy (C0);regional_house_values
+2019-01-01;28307,496;12002;Aín;Pol:Buy (C0);regional_house_values
+2019-02-01;28745,662;12002;Aín;Pol:Buy (C0);regional_house_values
+2019-03-01;28974,746;12002;Aín;Pol:Buy (C0);regional_house_values
+2019-04-01;29443,346;12002;Aín;Pol:Buy (C0);regional_house_values
+2019-05-01;29670,569;12002;Aín;Pol:Buy (C0);regional_house_values
+2019-06-01;30120,607;12002;Aín;Pol:Buy (C0);regional_house_values
+2019-07-01;30565,626;12002;Aín;Pol:Buy (C0);regional_house_values
+2019-08-01;31020,657;12002;Aín;Pol:Buy (C0);regional_house_values
+2019-09-01;31242,164;12002;Aín;Pol:Buy (C0);regional_house_values
+2019-10-01;31706,386;12002;Aín;Pol:Buy (C0);regional_house_values
+2019-11-01;32149,512;12002;Aín;Pol:Buy (C0);regional_house_values
+2019-12-01;32591,927;12002;Aín;Pol:Buy (C0);regional_house_values
+2020-01-01;33050,224;12002;Aín;Pol:Buy (C0);regional_house_values
+2020-02-01;33511,685;12002;Aín;Pol:Buy (C0);regional_house_values
+2020-03-01;33980,937;12002;Aín;Pol:Buy (C0);regional_house_values
+2020-04-01;34494,782;12002;Aín;Pol:Buy (C0);regional_house_values
+2020-05-01;34946,684;12002;Aín;Pol:Buy (C0);regional_house_values
+2020-06-01;35413,695;12002;Aín;Pol:Buy (C0);regional_house_values
+2020-07-01;35864,17;12002;Aín;Pol:Buy (C0);regional_house_values
+2020-08-01;36333,004;12002;Aín;Pol:Buy (C0);regional_house_values
+2020-09-01;36542,276;12002;Aín;Pol:Buy (C0);regional_house_values
+2020-10-01;36998,531;12002;Aín;Pol:Buy (C0);regional_house_values
+2020-11-01;37193,42;12002;Aín;Pol:Buy (C0);regional_house_values
+2014-01-01;326,854;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2014-02-01;4225,436;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2014-03-01;8121,093;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2014-04-01;12019,496;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2014-05-01;15880,639;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2014-06-01;19773,651;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2014-07-01;23679,632;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2014-08-01;27543,328;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2014-09-01;31416,891;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2014-10-01;35305,266;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2014-11-01;39192,9;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2014-12-01;43081,875;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2015-01-01;46964,183;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2015-02-01;50828,396;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2015-03-01;54734,342;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2015-04-01;58538,018;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2015-05-01;62337,159;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2015-06-01;66276,678;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2015-07-01;70042,59;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2015-08-01;73986,317;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2015-09-01;77658,146;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2015-10-01;81534,766;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2015-11-01;85258,212;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2015-12-01;88776,612;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2016-01-01;92651,579;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2016-02-01;96027,144;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2016-03-01;99835,99;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2016-04-01;103709,523;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2016-05-01;107299,478;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2016-06-01;111175,891;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2016-07-01;114978,84;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2016-08-01;118938,608;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2016-09-01;122651,433;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2016-10-01;135883,106;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2016-11-01;130485,521;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2016-12-01;248971,908;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2017-01-01;187195,238;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2017-02-01;266051,182;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2017-03-01;254850,871;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2017-04-01;231831,202;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2017-05-01;245730,601;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2017-06-01;239891,68;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2017-07-01;272779,629;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2017-08-01;269076,529;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2017-09-01;204014,186;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2017-10-01;207426,778;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2017-11-01;219282,535;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2017-12-01;209973,314;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2018-01-01;305290,463;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2018-02-01;303020,782;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2018-03-01;258131,301;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2018-04-01;298651,24;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2018-05-01;337513,925;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2018-06-01;348301,723;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2018-07-01;336440,136;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2018-08-01;355194,742;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2018-09-01;380583,722;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2018-10-01;399151,545;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2018-11-01;377773,931;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2018-12-01;372092,879;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2019-01-01;304029,277;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2019-02-01;346469,631;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2019-03-01;419681,847;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2019-04-01;486756,788;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2019-05-01;531603,243;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2019-06-01;600173,333;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2019-07-01;498792,625;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2019-08-01;521881,933;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2019-09-01;594917,578;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2019-10-01;653693,375;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2019-11-01;550107,763;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2019-12-01;683883,59;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2020-01-01;520578,729;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2020-02-01;542095,734;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2020-03-01;586583,779;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2020-04-01;730354,75;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2020-05-01;710691,814;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2020-06-01;837412,848;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2020-07-01;720485,433;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2020-08-01;611811,046;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2020-09-01;583559,559;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2020-10-01;626885,376;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2020-11-01;610276,57;39057;Ramales de la Victoria;Pol:Buy (C0);regional_house_values
+2014-01-01;1282,944;39102;Voto;Pol:Buy (C0);regional_house_values
+2014-02-01;23876,619;39102;Voto;Pol:Buy (C0);regional_house_values
+2014-03-01;46451,539;39102;Voto;Pol:Buy (C0);regional_house_values
+2014-04-01;69171,282;39102;Voto;Pol:Buy (C0);regional_house_values
+2014-05-01;91691,747;39102;Voto;Pol:Buy (C0);regional_house_values
+2014-06-01;114165,791;39102;Voto;Pol:Buy (C0);regional_house_values
+2014-07-01;136591,552;39102;Voto;Pol:Buy (C0);regional_house_values
+2014-08-01;159029,934;39102;Voto;Pol:Buy (C0);regional_house_values
+2014-09-01;181386,299;39102;Voto;Pol:Buy (C0);regional_house_values
+2014-10-01;203730,72;39102;Voto;Pol:Buy (C0);regional_house_values
+2014-11-01;226116,723;39102;Voto;Pol:Buy (C0);regional_house_values
+2014-12-01;248496,823;39102;Voto;Pol:Buy (C0);regional_house_values
+2015-01-01;270479,37;39102;Voto;Pol:Buy (C0);regional_house_values
+2015-02-01;292856,092;39102;Voto;Pol:Buy (C0);regional_house_values
+2015-03-01;315298,897;39102;Voto;Pol:Buy (C0);regional_house_values
+2015-04-01;337186,476;39102;Voto;Pol:Buy (C0);regional_house_values
+2015-05-01;359589,08;39102;Voto;Pol:Buy (C0);regional_house_values
+2015-06-01;381733,019;39102;Voto;Pol:Buy (C0);regional_house_values
+2015-07-01;403765,453;39102;Voto;Pol:Buy (C0);regional_house_values
+2015-08-01;425749,524;39102;Voto;Pol:Buy (C0);regional_house_values
+2015-09-01;448250,633;39102;Voto;Pol:Buy (C0);regional_house_values
+2015-10-01;470546,858;39102;Voto;Pol:Buy (C0);regional_house_values
+2015-11-01;492998,256;39102;Voto;Pol:Buy (C0);regional_house_values
+2015-12-01;515485,389;39102;Voto;Pol:Buy (C0);regional_house_values
+2016-01-01;537352,383;39102;Voto;Pol:Buy (C0);regional_house_values
+2016-02-01;559750,681;39102;Voto;Pol:Buy (C0);regional_house_values
+2016-03-01;582039,814;39102;Voto;Pol:Buy (C0);regional_house_values
+2016-04-01;604084,631;39102;Voto;Pol:Buy (C0);regional_house_values
+2016-05-01;626340,78;39102;Voto;Pol:Buy (C0);regional_house_values
+2016-06-01;558627,038;39102;Voto;Pol:Buy (C0);regional_house_values
+2016-07-01;670111,235;39102;Voto;Pol:Buy (C0);regional_house_values
+2016-08-01;692410,34;39102;Voto;Pol:Buy (C0);regional_house_values
+2016-09-01;561230,633;39102;Voto;Pol:Buy (C0);regional_house_values
+2016-10-01;184226,79;39102;Voto;Pol:Buy (C0);regional_house_values
+2016-11-01;441816,936;39102;Voto;Pol:Buy (C0);regional_house_values
+2016-12-01;195367,571;39102;Voto;Pol:Buy (C0);regional_house_values
+2017-01-01;200713,46;39102;Voto;Pol:Buy (C0);regional_house_values
+2017-02-01;205949,945;39102;Voto;Pol:Buy (C0);regional_house_values
+2017-03-01;211485,762;39102;Voto;Pol:Buy (C0);regional_house_values
+2017-04-01;216475,932;39102;Voto;Pol:Buy (C0);regional_house_values
+2017-05-01;222115,726;39102;Voto;Pol:Buy (C0);regional_house_values
+2017-06-01;227685,873;39102;Voto;Pol:Buy (C0);regional_house_values
+2017-07-01;233334,263;39102;Voto;Pol:Buy (C0);regional_house_values
+2017-08-01;238797,596;39102;Voto;Pol:Buy (C0);regional_house_values
+2017-09-01;244253,579;39102;Voto;Pol:Buy (C0);regional_house_values
+2017-10-01;249708,135;39102;Voto;Pol:Buy (C0);regional_house_values
+2017-11-01;254970,021;39102;Voto;Pol:Buy (C0);regional_house_values
+2017-12-01;260427,048;39102;Voto;Pol:Buy (C0);regional_house_values
+2018-01-01;265977,344;39102;Voto;Pol:Buy (C0);regional_house_values
+2018-02-01;271434,997;39102;Voto;Pol:Buy (C0);regional_house_values
+2018-03-01;277097,825;39102;Voto;Pol:Buy (C0);regional_house_values
+2018-04-01;282772,562;39102;Voto;Pol:Buy (C0);regional_house_values
+2018-05-01;288305,663;39102;Voto;Pol:Buy (C0);regional_house_values
+2018-06-01;294021,717;39102;Voto;Pol:Buy (C0);regional_house_values
+2018-07-01;299656,543;39102;Voto;Pol:Buy (C0);regional_house_values
+2018-08-01;304777,731;39102;Voto;Pol:Buy (C0);regional_house_values
+2018-09-01;310137,513;39102;Voto;Pol:Buy (C0);regional_house_values
+2018-10-01;315588,12;39102;Voto;Pol:Buy (C0);regional_house_values
+2018-11-01;320918,561;39102;Voto;Pol:Buy (C0);regional_house_values
+2018-12-01;326623,78;39102;Voto;Pol:Buy (C0);regional_house_values
+2019-01-01;331945,926;39102;Voto;Pol:Buy (C0);regional_house_values
+2019-02-01;337543,352;39102;Voto;Pol:Buy (C0);regional_house_values
+2019-03-01;342851,561;39102;Voto;Pol:Buy (C0);regional_house_values
+2019-04-01;348394,149;39102;Voto;Pol:Buy (C0);regional_house_values
+2019-05-01;354090,292;39102;Voto;Pol:Buy (C0);regional_house_values
+2019-06-01;359692,448;39102;Voto;Pol:Buy (C0);regional_house_values
+2019-07-01;365166,773;39102;Voto;Pol:Buy (C0);regional_house_values
+2019-08-01;370632,159;39102;Voto;Pol:Buy (C0);regional_house_values
+2019-09-01;375987,284;39102;Voto;Pol:Buy (C0);regional_house_values
+2019-10-01;381402,801;39102;Voto;Pol:Buy (C0);regional_house_values
+2019-11-01;386530,809;39102;Voto;Pol:Buy (C0);regional_house_values
+2019-12-01;391992,809;39102;Voto;Pol:Buy (C0);regional_house_values
+2020-01-01;397746,364;39102;Voto;Pol:Buy (C0);regional_house_values
+2020-02-01;403231,841;39102;Voto;Pol:Buy (C0);regional_house_values
+2020-03-01;407841,659;39102;Voto;Pol:Buy (C0);regional_house_values
+2020-04-01;413185,179;39102;Voto;Pol:Buy (C0);regional_house_values
+2020-05-01;418623,649;39102;Voto;Pol:Buy (C0);regional_house_values
+2020-06-01;423826,094;39102;Voto;Pol:Buy (C0);regional_house_values
+2020-07-01;428668,306;39102;Voto;Pol:Buy (C0);regional_house_values
+2020-08-01;434120,033;39102;Voto;Pol:Buy (C0);regional_house_values
+2020-09-01;439830,46;39102;Voto;Pol:Buy (C0);regional_house_values
+2020-10-01;444439,317;39102;Voto;Pol:Buy (C0);regional_house_values
+2020-11-01;449643,137;39102;Voto;Pol:Buy (C0);regional_house_values
+2014-01-01;10830,232;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2014-02-01;15865,99;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2014-03-01;21106,629;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2014-04-01;25988,209;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2014-05-01;30002,908;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2014-06-01;34463,842;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2014-07-01;34572,843;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2014-08-01;38542,261;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2014-09-01;45893,322;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2014-10-01;49497,589;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2014-11-01;50527,391;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2014-12-01;52912,806;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2015-01-01;45593,304;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2015-02-01;52521,804;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2015-03-01;70882,949;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2015-04-01;91002,419;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2015-05-01;115272,445;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2015-06-01;117821,602;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2015-07-01;84728,751;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2015-08-01;89012,263;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2015-09-01;100327,449;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2015-10-01;109423,515;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2015-11-01;90233,258;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2015-12-01;92956,29;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2016-01-01;70548,758;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2016-02-01;74016,437;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2016-03-01;103236,522;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2016-04-01;117582,926;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2016-05-01;171330,024;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2016-06-01;212371,232;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2016-07-01;148835,315;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2016-08-01;166221,341;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2016-09-01;238235,002;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2016-10-01;245210,367;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2016-11-01;251304,425;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2016-12-01;258376,103;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2017-01-01;265376,287;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2017-02-01;272424,332;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2017-03-01;276365,622;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2017-04-01;283456,491;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2017-05-01;290638,463;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2017-06-01;297741,43;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2017-07-01;304911,58;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2017-08-01;309814,475;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2017-09-01;312438,94;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2017-10-01;318560,208;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2017-11-01;331363,435;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2017-12-01;327498,967;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2018-01-01;345708,069;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2018-02-01;352886,652;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2018-03-01;335204,385;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2018-04-01;330146,732;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2018-05-01;305135,975;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2018-06-01;304783,469;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2018-07-01;317958,892;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2018-08-01;324105,433;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2018-09-01;305710,236;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2018-10-01;306492,197;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2018-11-01;326607,439;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2018-12-01;338059,483;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2019-01-01;400106,498;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2019-02-01;395359,312;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2019-03-01;325280,323;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2019-04-01;282594,865;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2019-05-01;289954,81;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2019-06-01;308701,127;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2019-07-01;280368,848;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2019-08-01;292354,125;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2019-09-01;300774,189;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2019-10-01;332073,98;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2019-11-01;301815,105;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2019-12-01;345677,752;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2020-01-01;383422,159;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2020-02-01;382870,838;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2020-03-01;329935,123;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2020-04-01;372672,014;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2020-05-01;364675,873;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2020-06-01;428424,138;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2020-07-01;379560,36;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2020-08-01;402803,275;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2020-09-01;392018,934;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2020-10-01;361219,726;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2020-11-01;420738,605;10201;Valdemorales;Pol:Wage (C0);regional_house_values
+2014-01-01;1268,08;12002;Aín;Pol:Wage (C0);regional_house_values
+2014-02-01;1582,576;12002;Aín;Pol:Wage (C0);regional_house_values
+2014-03-01;1916,709;12002;Aín;Pol:Wage (C0);regional_house_values
+2014-04-01;2231,931;12002;Aín;Pol:Wage (C0);regional_house_values
+2014-05-01;2436,821;12002;Aín;Pol:Wage (C0);regional_house_values
+2014-06-01;2711,334;12002;Aín;Pol:Wage (C0);regional_house_values
+2014-07-01;2632,279;12002;Aín;Pol:Wage (C0);regional_house_values
+2014-08-01;2885,339;12002;Aín;Pol:Wage (C0);regional_house_values
+2014-09-01;3415,903;12002;Aín;Pol:Wage (C0);regional_house_values
+2014-10-01;3639,315;12002;Aín;Pol:Wage (C0);regional_house_values
+2014-11-01;3692,252;12002;Aín;Pol:Wage (C0);regional_house_values
+2014-12-01;3845,682;12002;Aín;Pol:Wage (C0);regional_house_values
+2015-01-01;3215,049;12002;Aín;Pol:Wage (C0);regional_house_values
+2015-02-01;3735,656;12002;Aín;Pol:Wage (C0);regional_house_values
+2015-03-01;4570,846;12002;Aín;Pol:Wage (C0);regional_house_values
+2015-04-01;5643,804;12002;Aín;Pol:Wage (C0);regional_house_values
+2015-05-01;7030,57;12002;Aín;Pol:Wage (C0);regional_house_values
+2015-06-01;7036,094;12002;Aín;Pol:Wage (C0);regional_house_values
+2015-07-01;4972,615;12002;Aín;Pol:Wage (C0);regional_house_values
+2015-08-01;5179,94;12002;Aín;Pol:Wage (C0);regional_house_values
+2015-09-01;5804,915;12002;Aín;Pol:Wage (C0);regional_house_values
+2015-10-01;6309,266;12002;Aín;Pol:Wage (C0);regional_house_values
+2015-11-01;5248,316;12002;Aín;Pol:Wage (C0);regional_house_values
+2015-12-01;5295,338;12002;Aín;Pol:Wage (C0);regional_house_values
+2016-01-01;3943,002;12002;Aín;Pol:Wage (C0);regional_house_values
+2016-02-01;4193,389;12002;Aín;Pol:Wage (C0);regional_house_values
+2016-03-01;7287,842;12002;Aín;Pol:Wage (C0);regional_house_values
+2016-04-01;8243,183;12002;Aín;Pol:Wage (C0);regional_house_values
+2016-05-01;11958,652;12002;Aín;Pol:Wage (C0);regional_house_values
+2016-06-01;14179,289;12002;Aín;Pol:Wage (C0);regional_house_values
+2016-07-01;9573,876;12002;Aín;Pol:Wage (C0);regional_house_values
+2016-08-01;10294,919;12002;Aín;Pol:Wage (C0);regional_house_values
+2016-09-01;14152,907;12002;Aín;Pol:Wage (C0);regional_house_values
+2016-10-01;14506,369;12002;Aín;Pol:Wage (C0);regional_house_values
+2016-11-01;14340,864;12002;Aín;Pol:Wage (C0);regional_house_values
+2016-12-01;15764,732;12002;Aín;Pol:Wage (C0);regional_house_values
+2017-01-01;14504,305;12002;Aín;Pol:Wage (C0);regional_house_values
+2017-02-01;15904,242;12002;Aín;Pol:Wage (C0);regional_house_values
+2017-03-01;17382,116;12002;Aín;Pol:Wage (C0);regional_house_values
+2017-04-01;18637,032;12002;Aín;Pol:Wage (C0);regional_house_values
+2017-05-01;18865,316;12002;Aín;Pol:Wage (C0);regional_house_values
+2017-06-01;19573,207;12002;Aín;Pol:Wage (C0);regional_house_values
+2017-07-01;19209,105;12002;Aín;Pol:Wage (C0);regional_house_values
+2017-08-01;19929,354;12002;Aín;Pol:Wage (C0);regional_house_values
+2017-09-01;20648,839;12002;Aín;Pol:Wage (C0);regional_house_values
+2017-10-01;21101,72;12002;Aín;Pol:Wage (C0);regional_house_values
+2017-11-01;21550,487;12002;Aín;Pol:Wage (C0);regional_house_values
+2017-12-01;22019,164;12002;Aín;Pol:Wage (C0);regional_house_values
+2018-01-01;21358,555;12002;Aín;Pol:Wage (C0);regional_house_values
+2018-02-01;21865,959;12002;Aín;Pol:Wage (C0);regional_house_values
+2018-03-01;23391,603;12002;Aín;Pol:Wage (C0);regional_house_values
+2018-04-01;23853,159;12002;Aín;Pol:Wage (C0);regional_house_values
+2018-05-01;24309,539;12002;Aín;Pol:Wage (C0);regional_house_values
+2018-06-01;24770,652;12002;Aín;Pol:Wage (C0);regional_house_values
+2018-07-01;25227,491;12002;Aín;Pol:Wage (C0);regional_house_values
+2018-08-01;25689,524;12002;Aín;Pol:Wage (C0);regional_house_values
+2018-09-01;26145,504;12002;Aín;Pol:Wage (C0);regional_house_values
+2018-10-01;26603,154;12002;Aín;Pol:Wage (C0);regional_house_values
+2018-11-01;27066,075;12002;Aín;Pol:Wage (C0);regional_house_values
+2018-12-01;27524,328;12002;Aín;Pol:Wage (C0);regional_house_values
+2019-01-01;27979,073;12002;Aín;Pol:Wage (C0);regional_house_values
+2019-02-01;28427,151;12002;Aín;Pol:Wage (C0);regional_house_values
+2019-03-01;28863,772;12002;Aín;Pol:Wage (C0);regional_house_values
+2019-04-01;28738,927;12002;Aín;Pol:Wage (C0);regional_house_values
+2019-05-01;28199,767;12002;Aín;Pol:Wage (C0);regional_house_values
+2019-06-01;28643,323;12002;Aín;Pol:Wage (C0);regional_house_values
+2019-07-01;28893,716;12002;Aín;Pol:Wage (C0);regional_house_values
+2019-08-01;29342,768;12002;Aín;Pol:Wage (C0);regional_house_values
+2019-09-01;29840,304;12002;Aín;Pol:Wage (C0);regional_house_values
+2019-10-01;30291,777;12002;Aín;Pol:Wage (C0);regional_house_values
+2019-11-01;30751,387;12002;Aín;Pol:Wage (C0);regional_house_values
+2019-12-01;31197,139;12002;Aín;Pol:Wage (C0);regional_house_values
+2020-01-01;31430,529;12002;Aín;Pol:Wage (C0);regional_house_values
+2020-02-01;31885,701;12002;Aín;Pol:Wage (C0);regional_house_values
+2020-03-01;32129,388;12002;Aín;Pol:Wage (C0);regional_house_values
+2020-04-01;32586,514;12002;Aín;Pol:Wage (C0);regional_house_values
+2020-05-01;33043,57;12002;Aín;Pol:Wage (C0);regional_house_values
+2020-06-01;33500,027;12002;Aín;Pol:Wage (C0);regional_house_values
+2020-07-01;33955,637;12002;Aín;Pol:Wage (C0);regional_house_values
+2020-08-01;34412,983;12002;Aín;Pol:Wage (C0);regional_house_values
+2020-09-01;34871,892;12002;Aín;Pol:Wage (C0);regional_house_values
+2020-10-01;35330,887;12002;Aín;Pol:Wage (C0);regional_house_values
+2020-11-01;35821,347;12002;Aín;Pol:Wage (C0);regional_house_values
+2014-01-01;326,854;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2014-02-01;4225,874;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2014-03-01;8118,981;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2014-04-01;12007,478;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2014-05-01;15885,504;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2014-06-01;19760,555;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2014-07-01;23716,344;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2014-08-01;27606,286;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2014-09-01;31508,684;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2014-10-01;35365,24;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2014-11-01;39245,771;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2014-12-01;43048,249;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2015-01-01;46873,735;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2015-02-01;50739,105;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2015-03-01;54580,172;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2015-04-01;58422,306;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2015-05-01;62260,533;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2015-06-01;66022,634;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2015-07-01;69829,138;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2015-08-01;73718,325;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2015-09-01;77643,419;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2015-10-01;81566,427;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2015-11-01;85318,182;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2015-12-01;89301,367;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2016-01-01;92936,004;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2016-02-01;96567,75;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2016-03-01;100314,722;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2016-04-01;104060,422;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2016-05-01;107502,986;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2016-06-01;111453,208;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2016-07-01;115026,868;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2016-08-01;118826,322;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2016-09-01;122468,426;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2016-10-01;126268,598;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2016-11-01;130161,369;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2016-12-01;251250,284;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2017-01-01;137761,169;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2017-02-01;248745,362;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2017-03-01;275528,698;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2017-04-01;248630,821;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2017-05-01;259048,695;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2017-06-01;263490,943;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2017-07-01;296620,909;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2017-08-01;281177,803;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2017-09-01;210236,612;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2017-10-01;212522,511;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2017-11-01;264494,107;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2017-12-01;214521,543;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2018-01-01;309745,778;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2018-02-01;312876,731;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2018-03-01;233871,6;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2018-04-01;268159,167;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2018-05-01;308643,87;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2018-06-01;315586,65;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2018-07-01;322317,12;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2018-08-01;320612,675;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2018-09-01;350868,928;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2018-10-01;375780,813;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2018-11-01;341392,721;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2018-12-01;342443,378;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2019-01-01;301998,281;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2019-02-01;301539,164;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2019-03-01;410359,418;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2019-04-01;465269,39;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2019-05-01;481434,044;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2019-06-01;542001,381;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2019-07-01;462959,179;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2019-08-01;486166,347;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2019-09-01;507272,637;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2019-10-01;592751,753;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2019-11-01;496003,154;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2019-12-01;607868,864;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2020-01-01;483585,419;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2020-02-01;512899,315;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2020-03-01;535425,648;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2020-04-01;661854,104;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2020-05-01;623918,21;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2020-06-01;808565,116;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2020-07-01;646242,676;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2020-08-01;604999,465;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2020-09-01;589926,135;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2020-10-01;593310,329;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2020-11-01;602829,553;39057;Ramales de la Victoria;Pol:Wage (C0);regional_house_values
+2014-01-01;1282,944;39102;Voto;Pol:Wage (C0);regional_house_values
+2014-02-01;23872,667;39102;Voto;Pol:Wage (C0);regional_house_values
+2014-03-01;46425,737;39102;Voto;Pol:Wage (C0);regional_house_values
+2014-04-01;69040,188;39102;Voto;Pol:Wage (C0);regional_house_values
+2014-05-01;91558,711;39102;Voto;Pol:Wage (C0);regional_house_values
+2014-06-01;114153,225;39102;Voto;Pol:Wage (C0);regional_house_values
+2014-07-01;137028,622;39102;Voto;Pol:Wage (C0);regional_house_values
+2014-08-01;159464,068;39102;Voto;Pol:Wage (C0);regional_house_values
+2014-09-01;181879,365;39102;Voto;Pol:Wage (C0);regional_house_values
+2014-10-01;204803,67;39102;Voto;Pol:Wage (C0);regional_house_values
+2014-11-01;227230,222;39102;Voto;Pol:Wage (C0);regional_house_values
+2014-12-01;249698,293;39102;Voto;Pol:Wage (C0);regional_house_values
+2015-01-01;271864,387;39102;Voto;Pol:Wage (C0);regional_house_values
+2015-02-01;294083,997;39102;Voto;Pol:Wage (C0);regional_house_values
+2015-03-01;316248,666;39102;Voto;Pol:Wage (C0);regional_house_values
+2015-04-01;338737,511;39102;Voto;Pol:Wage (C0);regional_house_values
+2015-05-01;360560,866;39102;Voto;Pol:Wage (C0);regional_house_values
+2015-06-01;383043,972;39102;Voto;Pol:Wage (C0);regional_house_values
+2015-07-01;405530,78;39102;Voto;Pol:Wage (C0);regional_house_values
+2015-08-01;427834,987;39102;Voto;Pol:Wage (C0);regional_house_values
+2015-09-01;449950,77;39102;Voto;Pol:Wage (C0);regional_house_values
+2015-10-01;471814,439;39102;Voto;Pol:Wage (C0);regional_house_values
+2015-11-01;493637,676;39102;Voto;Pol:Wage (C0);regional_house_values
+2015-12-01;516238,595;39102;Voto;Pol:Wage (C0);regional_house_values
+2016-01-01;538202,931;39102;Voto;Pol:Wage (C0);regional_house_values
+2016-02-01;560807,896;39102;Voto;Pol:Wage (C0);regional_house_values
+2016-03-01;582934,147;39102;Voto;Pol:Wage (C0);regional_house_values
+2016-04-01;605236,669;39102;Voto;Pol:Wage (C0);regional_house_values
+2016-05-01;627403,638;39102;Voto;Pol:Wage (C0);regional_house_values
+2016-06-01;560696,15;39102;Voto;Pol:Wage (C0);regional_house_values
+2016-07-01;671531,24;39102;Voto;Pol:Wage (C0);regional_house_values
+2016-08-01;693939,651;39102;Voto;Pol:Wage (C0);regional_house_values
+2016-09-01;519960,609;39102;Voto;Pol:Wage (C0);regional_house_values
+2016-10-01;207195,405;39102;Voto;Pol:Wage (C0);regional_house_values
+2016-11-01;433106,612;39102;Voto;Pol:Wage (C0);regional_house_values
+2016-12-01;195608,699;39102;Voto;Pol:Wage (C0);regional_house_values
+2017-01-01;203472,787;39102;Voto;Pol:Wage (C0);regional_house_values
+2017-02-01;206566,642;39102;Voto;Pol:Wage (C0);regional_house_values
+2017-03-01;212133,829;39102;Voto;Pol:Wage (C0);regional_house_values
+2017-04-01;217308,27;39102;Voto;Pol:Wage (C0);regional_house_values
+2017-05-01;222730,934;39102;Voto;Pol:Wage (C0);regional_house_values
+2017-06-01;228263,625;39102;Voto;Pol:Wage (C0);regional_house_values
+2017-07-01;233797,403;39102;Voto;Pol:Wage (C0);regional_house_values
+2017-08-01;239212,454;39102;Voto;Pol:Wage (C0);regional_house_values
+2017-09-01;244880,672;39102;Voto;Pol:Wage (C0);regional_house_values
+2017-10-01;250376,436;39102;Voto;Pol:Wage (C0);regional_house_values
+2017-11-01;255784,025;39102;Voto;Pol:Wage (C0);regional_house_values
+2017-12-01;261469,938;39102;Voto;Pol:Wage (C0);regional_house_values
+2018-01-01;267144,648;39102;Voto;Pol:Wage (C0);regional_house_values
+2018-02-01;272744,151;39102;Voto;Pol:Wage (C0);regional_house_values
+2018-03-01;278241,016;39102;Voto;Pol:Wage (C0);regional_house_values
+2018-04-01;283636,246;39102;Voto;Pol:Wage (C0);regional_house_values
+2018-05-01;289282,578;39102;Voto;Pol:Wage (C0);regional_house_values
+2018-06-01;294692,683;39102;Voto;Pol:Wage (C0);regional_house_values
+2018-07-01;300450,708;39102;Voto;Pol:Wage (C0);regional_house_values
+2018-08-01;305616,173;39102;Voto;Pol:Wage (C0);regional_house_values
+2018-09-01;311245,363;39102;Voto;Pol:Wage (C0);regional_house_values
+2018-10-01;316769,459;39102;Voto;Pol:Wage (C0);regional_house_values
+2018-11-01;322163,356;39102;Voto;Pol:Wage (C0);regional_house_values
+2018-12-01;327436,682;39102;Voto;Pol:Wage (C0);regional_house_values
+2019-01-01;332949,875;39102;Voto;Pol:Wage (C0);regional_house_values
+2019-02-01;338592,424;39102;Voto;Pol:Wage (C0);regional_house_values
+2019-03-01;343414,974;39102;Voto;Pol:Wage (C0);regional_house_values
+2019-04-01;348905,448;39102;Voto;Pol:Wage (C0);regional_house_values
+2019-05-01;354426,018;39102;Voto;Pol:Wage (C0);regional_house_values
+2019-06-01;359974,62;39102;Voto;Pol:Wage (C0);regional_house_values
+2019-07-01;365545,323;39102;Voto;Pol:Wage (C0);regional_house_values
+2019-08-01;370963,373;39102;Voto;Pol:Wage (C0);regional_house_values
+2019-09-01;376855,286;39102;Voto;Pol:Wage (C0);regional_house_values
+2019-10-01;382694,257;39102;Voto;Pol:Wage (C0);regional_house_values
+2019-11-01;388282,061;39102;Voto;Pol:Wage (C0);regional_house_values
+2019-12-01;393770,899;39102;Voto;Pol:Wage (C0);regional_house_values
+2020-01-01;399591,576;39102;Voto;Pol:Wage (C0);regional_house_values
+2020-02-01;405215,331;39102;Voto;Pol:Wage (C0);regional_house_values
+2020-03-01;410638,4;39102;Voto;Pol:Wage (C0);regional_house_values
+2020-04-01;415965,746;39102;Voto;Pol:Wage (C0);regional_house_values
+2020-05-01;421717,076;39102;Voto;Pol:Wage (C0);regional_house_values
+2020-06-01;427357,021;39102;Voto;Pol:Wage (C0);regional_house_values
+2020-07-01;432806,599;39102;Voto;Pol:Wage (C0);regional_house_values
+2020-08-01;437610,594;39102;Voto;Pol:Wage (C0);regional_house_values
+2020-09-01;443237,547;39102;Voto;Pol:Wage (C0);regional_house_values
+2020-10-01;448828,489;39102;Voto;Pol:Wage (C0);regional_house_values
+2020-11-01;454124,647;39102;Voto;Pol:Wage (C0);regional_house_values

@@ -1,0 +1,1329 @@
+month;metric_value;municipality_id;municipality_name;policy_scenario;metric_name
+2014-01-01;0,0506;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2014-02-01;0,0447;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2014-03-01;0,0168;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2014-04-01;0,0169;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2014-05-01;0,0169;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2014-06-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2014-07-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2014-08-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2014-09-01;0,0057;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2014-10-01;0,0057;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2014-11-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2014-12-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2015-01-01;0,0056;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2015-02-01;0,0113;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2015-03-01;0,0113;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2015-04-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2015-05-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2015-06-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2015-07-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2015-08-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2015-09-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2015-10-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2015-11-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2015-12-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2016-01-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2016-02-01;0,0056;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2016-03-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2016-04-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2016-05-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2016-06-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2016-07-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2016-08-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2016-09-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2016-10-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2016-11-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2016-12-01;0,0056;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2017-01-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2017-02-01;0,0056;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2017-03-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2017-04-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2017-05-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2017-06-01;0,0056;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2017-07-01;0,0056;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2017-08-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2017-09-01;0,0056;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2017-10-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2017-11-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2017-12-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2018-01-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2018-02-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2018-03-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2018-04-01;0,0056;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2018-05-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2018-06-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2018-07-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2018-08-01;0,0057;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2018-09-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2018-10-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2018-11-01;0,0057;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2018-12-01;0,0057;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2019-01-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2019-02-01;0,0171;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2019-03-01;0,0057;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2019-04-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2019-05-01;0,0172;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2019-06-01;0,0116;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2019-07-01;0,0058;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2019-08-01;0,0058;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2019-09-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2019-10-01;0,0116;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2019-11-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2019-12-01;0,0058;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2020-01-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2020-02-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2020-03-01;0,0;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2020-04-01;0,0235;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2020-05-01;0,0118;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2020-06-01;0,0059;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2020-07-01;0,0118;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2020-08-01;0,0118;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2020-09-01;0,0059;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2020-10-01;0,0178;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2020-11-01;0,0059;10201;Valdemorales;Pol:All (C0);regional_unemployment
+2014-01-01;0,1075;12002;Aín;Pol:All (C0);regional_unemployment
+2014-02-01;0,086;12002;Aín;Pol:All (C0);regional_unemployment
+2014-03-01;0,0753;12002;Aín;Pol:All (C0);regional_unemployment
+2014-04-01;0,0323;12002;Aín;Pol:All (C0);regional_unemployment
+2014-05-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2014-06-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2014-07-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2014-08-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2014-09-01;0,0111;12002;Aín;Pol:All (C0);regional_unemployment
+2014-10-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2014-11-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2014-12-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2015-01-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2015-02-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2015-03-01;0,0222;12002;Aín;Pol:All (C0);regional_unemployment
+2015-04-01;0,0111;12002;Aín;Pol:All (C0);regional_unemployment
+2015-05-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2015-06-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2015-07-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2015-08-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2015-09-01;0,0111;12002;Aín;Pol:All (C0);regional_unemployment
+2015-10-01;0,0111;12002;Aín;Pol:All (C0);regional_unemployment
+2015-11-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2015-12-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2016-01-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2016-02-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2016-03-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2016-04-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2016-05-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2016-06-01;0,0112;12002;Aín;Pol:All (C0);regional_unemployment
+2016-07-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2016-08-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2016-09-01;0,0112;12002;Aín;Pol:All (C0);regional_unemployment
+2016-10-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2016-11-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2016-12-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2017-01-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2017-02-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2017-03-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2017-04-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2017-05-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2017-06-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2017-07-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2017-08-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2017-09-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2017-10-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2017-11-01;0,0118;12002;Aín;Pol:All (C0);regional_unemployment
+2017-12-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2018-01-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2018-02-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2018-03-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2018-04-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2018-05-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2018-06-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2018-07-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2018-08-01;0,0114;12002;Aín;Pol:All (C0);regional_unemployment
+2018-09-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2018-10-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2018-11-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2018-12-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2019-01-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2019-02-01;0,0118;12002;Aín;Pol:All (C0);regional_unemployment
+2019-03-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2019-04-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2019-05-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2019-06-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2019-07-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2019-08-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2019-09-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2019-10-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2019-11-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2019-12-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2020-01-01;0,0238;12002;Aín;Pol:All (C0);regional_unemployment
+2020-02-01;0,0238;12002;Aín;Pol:All (C0);regional_unemployment
+2020-03-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2020-04-01;0,0235;12002;Aín;Pol:All (C0);regional_unemployment
+2020-05-01;0,0118;12002;Aín;Pol:All (C0);regional_unemployment
+2020-06-01;0,0118;12002;Aín;Pol:All (C0);regional_unemployment
+2020-07-01;0,0118;12002;Aín;Pol:All (C0);regional_unemployment
+2020-08-01;0,0235;12002;Aín;Pol:All (C0);regional_unemployment
+2020-09-01;0,0118;12002;Aín;Pol:All (C0);regional_unemployment
+2020-10-01;0,0;12002;Aín;Pol:All (C0);regional_unemployment
+2020-11-01;0,0118;12002;Aín;Pol:All (C0);regional_unemployment
+2014-01-01;0,0634;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2014-02-01;0,0521;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2014-03-01;0,0428;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2014-04-01;0,0323;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2014-05-01;0,0136;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2014-06-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2014-07-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2014-08-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2014-09-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2014-10-01;0,0021;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2014-11-01;0,0031;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2014-12-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2015-01-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2015-02-01;0,0021;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2015-03-01;0,0021;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2015-04-01;0,0021;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2015-05-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2015-06-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2015-07-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2015-08-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2015-09-01;0,0021;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2015-10-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2015-11-01;0,0021;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2015-12-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2016-01-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2016-02-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2016-03-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2016-04-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2016-05-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2016-06-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2016-07-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2016-08-01;0,0021;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2016-09-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2016-10-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2016-11-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2016-12-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2017-01-01;0,0021;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2017-02-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2017-03-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2017-04-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2017-05-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2017-06-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2017-07-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2017-08-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2017-09-01;0,0021;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2017-10-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2017-11-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2017-12-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2018-01-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2018-02-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2018-03-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2018-04-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2018-05-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2018-06-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2018-07-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2018-08-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2018-09-01;0,0031;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2018-10-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2018-11-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2018-12-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2019-01-01;0,0031;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2019-02-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2019-03-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2019-04-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2019-05-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2019-06-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2019-07-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2019-08-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2019-09-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2019-10-01;0,0021;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2019-11-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2019-12-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2020-01-01;0,0;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2020-02-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2020-03-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2020-04-01;0,0021;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2020-05-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2020-06-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2020-07-01;0,001;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2020-08-01;0,0011;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2020-09-01;0,0021;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2020-10-01;0,0011;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2020-11-01;0,0011;39057;Ramales de la Victoria;Pol:All (C0);regional_unemployment
+2014-01-01;0,0632;39102;Voto;Pol:All (C0);regional_unemployment
+2014-02-01;0,049;39102;Voto;Pol:All (C0);regional_unemployment
+2014-03-01;0,0348;39102;Voto;Pol:All (C0);regional_unemployment
+2014-04-01;0,0217;39102;Voto;Pol:All (C0);regional_unemployment
+2014-05-01;0,0109;39102;Voto;Pol:All (C0);regional_unemployment
+2014-06-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2014-07-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2014-08-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2014-09-01;0,0017;39102;Voto;Pol:All (C0);regional_unemployment
+2014-10-01;0,0017;39102;Voto;Pol:All (C0);regional_unemployment
+2014-11-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2014-12-01;0,0023;39102;Voto;Pol:All (C0);regional_unemployment
+2015-01-01;0,0034;39102;Voto;Pol:All (C0);regional_unemployment
+2015-02-01;0,0011;39102;Voto;Pol:All (C0);regional_unemployment
+2015-03-01;0,0011;39102;Voto;Pol:All (C0);regional_unemployment
+2015-04-01;0,0028;39102;Voto;Pol:All (C0);regional_unemployment
+2015-05-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2015-06-01;0,0023;39102;Voto;Pol:All (C0);regional_unemployment
+2015-07-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2015-08-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2015-09-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2015-10-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2015-11-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2015-12-01;0,0029;39102;Voto;Pol:All (C0);regional_unemployment
+2016-01-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2016-02-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2016-03-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2016-04-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2016-05-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2016-06-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2016-07-01;0,0011;39102;Voto;Pol:All (C0);regional_unemployment
+2016-08-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2016-09-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2016-10-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2016-11-01;0,0011;39102;Voto;Pol:All (C0);regional_unemployment
+2016-12-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2017-01-01;0,0011;39102;Voto;Pol:All (C0);regional_unemployment
+2017-02-01;0,0011;39102;Voto;Pol:All (C0);regional_unemployment
+2017-03-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2017-04-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2017-05-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2017-06-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2017-07-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2017-08-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2017-09-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2017-10-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2017-11-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2017-12-01;0,0011;39102;Voto;Pol:All (C0);regional_unemployment
+2018-01-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2018-02-01;0,0011;39102;Voto;Pol:All (C0);regional_unemployment
+2018-03-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2018-04-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2018-05-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2018-06-01;0,0012;39102;Voto;Pol:All (C0);regional_unemployment
+2018-07-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2018-08-01;0,0012;39102;Voto;Pol:All (C0);regional_unemployment
+2018-09-01;0,0012;39102;Voto;Pol:All (C0);regional_unemployment
+2018-10-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2018-11-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2018-12-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2019-01-01;0,0012;39102;Voto;Pol:All (C0);regional_unemployment
+2019-02-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2019-03-01;0,0017;39102;Voto;Pol:All (C0);regional_unemployment
+2019-04-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2019-05-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2019-06-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2019-07-01;0,0012;39102;Voto;Pol:All (C0);regional_unemployment
+2019-08-01;0,0017;39102;Voto;Pol:All (C0);regional_unemployment
+2019-09-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2019-10-01;0,0012;39102;Voto;Pol:All (C0);regional_unemployment
+2019-11-01;0,0012;39102;Voto;Pol:All (C0);regional_unemployment
+2019-12-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2020-01-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2020-02-01;0,0012;39102;Voto;Pol:All (C0);regional_unemployment
+2020-03-01;0,0012;39102;Voto;Pol:All (C0);regional_unemployment
+2020-04-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2020-05-01;0,0017;39102;Voto;Pol:All (C0);regional_unemployment
+2020-06-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2020-07-01;0,0012;39102;Voto;Pol:All (C0);regional_unemployment
+2020-08-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2020-09-01;0,0;39102;Voto;Pol:All (C0);regional_unemployment
+2020-10-01;0,0012;39102;Voto;Pol:All (C0);regional_unemployment
+2020-11-01;0,0006;39102;Voto;Pol:All (C0);regional_unemployment
+2014-01-01;0,0506;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2014-02-01;0,0503;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2014-03-01;0,0279;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2014-04-01;0,0113;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2014-05-01;0,0056;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2014-06-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2014-07-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2014-08-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2014-09-01;0,0057;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2014-10-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2014-11-01;0,0171;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2014-12-01;0,0057;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2015-01-01;0,0057;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2015-02-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2015-03-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2015-04-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2015-05-01;0,0056;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2015-06-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2015-07-01;0,0056;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2015-08-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2015-09-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2015-10-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2015-11-01;0,0056;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2015-12-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2016-01-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2016-02-01;0,0056;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2016-03-01;0,0056;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2016-04-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2016-05-01;0,0056;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2016-06-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2016-07-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2016-08-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2016-09-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2016-10-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2016-11-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2016-12-01;0,0055;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2017-01-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2017-02-01;0,0055;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2017-03-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2017-04-01;0,0055;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2017-05-01;0,0055;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2017-06-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2017-07-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2017-08-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2017-09-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2017-10-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2017-11-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2017-12-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2018-01-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2018-02-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2018-03-01;0,0055;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2018-04-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2018-05-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2018-06-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2018-07-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2018-08-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2018-09-01;0,0055;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2018-10-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2018-11-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2018-12-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2019-01-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2019-02-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2019-03-01;0,0055;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2019-04-01;0,0055;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2019-05-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2019-06-01;0,0056;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2019-07-01;0,0056;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2019-08-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2019-09-01;0,0056;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2019-10-01;0,0056;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2019-11-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2019-12-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2020-01-01;0,0056;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2020-02-01;0,0056;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2020-03-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2020-04-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2020-05-01;0,0112;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2020-06-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2020-07-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2020-08-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2020-09-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2020-10-01;0,0;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2020-11-01;0,0055;10201;Valdemorales;Pol:None (C0);regional_unemployment
+2014-01-01;0,0968;12002;Aín;Pol:None (C0);regional_unemployment
+2014-02-01;0,0645;12002;Aín;Pol:None (C0);regional_unemployment
+2014-03-01;0,0323;12002;Aín;Pol:None (C0);regional_unemployment
+2014-04-01;0,0323;12002;Aín;Pol:None (C0);regional_unemployment
+2014-05-01;0,0109;12002;Aín;Pol:None (C0);regional_unemployment
+2014-06-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2014-07-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2014-08-01;0,0111;12002;Aín;Pol:None (C0);regional_unemployment
+2014-09-01;0,0111;12002;Aín;Pol:None (C0);regional_unemployment
+2014-10-01;0,0111;12002;Aín;Pol:None (C0);regional_unemployment
+2014-11-01;0,0111;12002;Aín;Pol:None (C0);regional_unemployment
+2014-12-01;0,0111;12002;Aín;Pol:None (C0);regional_unemployment
+2015-01-01;0,0111;12002;Aín;Pol:None (C0);regional_unemployment
+2015-02-01;0,0111;12002;Aín;Pol:None (C0);regional_unemployment
+2015-03-01;0,0222;12002;Aín;Pol:None (C0);regional_unemployment
+2015-04-01;0,0222;12002;Aín;Pol:None (C0);regional_unemployment
+2015-05-01;0,0111;12002;Aín;Pol:None (C0);regional_unemployment
+2015-06-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2015-07-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2015-08-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2015-09-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2015-10-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2015-11-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2015-12-01;0,0111;12002;Aín;Pol:None (C0);regional_unemployment
+2016-01-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2016-02-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2016-03-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2016-04-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2016-05-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2016-06-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2016-07-01;0,0112;12002;Aín;Pol:None (C0);regional_unemployment
+2016-08-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2016-09-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2016-10-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2016-11-01;0,0114;12002;Aín;Pol:None (C0);regional_unemployment
+2016-12-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2017-01-01;0,0115;12002;Aín;Pol:None (C0);regional_unemployment
+2017-02-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2017-03-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2017-04-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2017-05-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2017-06-01;0,0116;12002;Aín;Pol:None (C0);regional_unemployment
+2017-07-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2017-08-01;0,0118;12002;Aín;Pol:None (C0);regional_unemployment
+2017-09-01;0,0118;12002;Aín;Pol:None (C0);regional_unemployment
+2017-10-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2017-11-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2017-12-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2018-01-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2018-02-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2018-03-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2018-04-01;0,0118;12002;Aín;Pol:None (C0);regional_unemployment
+2018-05-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2018-06-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2018-07-01;0,012;12002;Aín;Pol:None (C0);regional_unemployment
+2018-08-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2018-09-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2018-10-01;0,0122;12002;Aín;Pol:None (C0);regional_unemployment
+2018-11-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2018-12-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2019-01-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2019-02-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2019-03-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2019-04-01;0,0247;12002;Aín;Pol:None (C0);regional_unemployment
+2019-05-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2019-06-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2019-07-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2019-08-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2019-09-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2019-10-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2019-11-01;0,0123;12002;Aín;Pol:None (C0);regional_unemployment
+2019-12-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2020-01-01;0,0123;12002;Aín;Pol:None (C0);regional_unemployment
+2020-02-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2020-03-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2020-04-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2020-05-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2020-06-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2020-07-01;0,0122;12002;Aín;Pol:None (C0);regional_unemployment
+2020-08-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2020-09-01;0,0122;12002;Aín;Pol:None (C0);regional_unemployment
+2020-10-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2020-11-01;0,0;12002;Aín;Pol:None (C0);regional_unemployment
+2014-01-01;0,0624;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2014-02-01;0,052;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2014-03-01;0,0396;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2014-04-01;0,0271;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2014-05-01;0,0135;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2014-06-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2014-07-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2014-08-01;0,0021;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2014-09-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2014-10-01;0,0021;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2014-11-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2014-12-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2015-01-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2015-02-01;0,0031;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2015-03-01;0,0021;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2015-04-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2015-05-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2015-06-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2015-07-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2015-08-01;0,0021;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2015-09-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2015-10-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2015-11-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2015-12-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2016-01-01;0,0021;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2016-02-01;0,0021;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2016-03-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2016-04-01;0,0021;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2016-05-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2016-06-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2016-07-01;0,0021;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2016-08-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2016-09-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2016-10-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2016-11-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2016-12-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2017-01-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2017-02-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2017-03-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2017-04-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2017-05-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2017-06-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2017-07-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2017-08-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2017-09-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2017-10-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2017-11-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2017-12-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2018-01-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2018-02-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2018-03-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2018-04-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2018-05-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2018-06-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2018-07-01;0,0021;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2018-08-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2018-09-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2018-10-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2018-11-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2018-12-01;0,0021;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2019-01-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2019-02-01;0,0031;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2019-03-01;0,0031;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2019-04-01;0,0021;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2019-05-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2019-06-01;0,0021;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2019-07-01;0,0021;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2019-08-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2019-09-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2019-10-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2019-11-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2019-12-01;0,0021;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2020-01-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2020-02-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2020-03-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2020-04-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2020-05-01;0,0021;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2020-06-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2020-07-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2020-08-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2020-09-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2020-10-01;0,0;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2020-11-01;0,001;39057;Ramales de la Victoria;Pol:None (C0);regional_unemployment
+2014-01-01;0,0644;39102;Voto;Pol:None (C0);regional_unemployment
+2014-02-01;0,0501;39102;Voto;Pol:None (C0);regional_unemployment
+2014-03-01;0,0382;39102;Voto;Pol:None (C0);regional_unemployment
+2014-04-01;0,0262;39102;Voto;Pol:None (C0);regional_unemployment
+2014-05-01;0,0126;39102;Voto;Pol:None (C0);regional_unemployment
+2014-06-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2014-07-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2014-08-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2014-09-01;0,0017;39102;Voto;Pol:None (C0);regional_unemployment
+2014-10-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2014-11-01;0,0017;39102;Voto;Pol:None (C0);regional_unemployment
+2014-12-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2015-01-01;0,0023;39102;Voto;Pol:None (C0);regional_unemployment
+2015-02-01;0,0011;39102;Voto;Pol:None (C0);regional_unemployment
+2015-03-01;0,0028;39102;Voto;Pol:None (C0);regional_unemployment
+2015-04-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2015-05-01;0,0011;39102;Voto;Pol:None (C0);regional_unemployment
+2015-06-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2015-07-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2015-08-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2015-09-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2015-10-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2015-11-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2015-12-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2016-01-01;0,0011;39102;Voto;Pol:None (C0);regional_unemployment
+2016-02-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2016-03-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2016-04-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2016-05-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2016-06-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2016-07-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2016-08-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2016-09-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2016-10-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2016-11-01;0,0011;39102;Voto;Pol:None (C0);regional_unemployment
+2016-12-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2017-01-01;0,0011;39102;Voto;Pol:None (C0);regional_unemployment
+2017-02-01;0,0017;39102;Voto;Pol:None (C0);regional_unemployment
+2017-03-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2017-04-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2017-05-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2017-06-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2017-07-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2017-08-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2017-09-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2017-10-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2017-11-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2017-12-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2018-01-01;0,0011;39102;Voto;Pol:None (C0);regional_unemployment
+2018-02-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2018-03-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2018-04-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2018-05-01;0,0012;39102;Voto;Pol:None (C0);regional_unemployment
+2018-06-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2018-07-01;0,0012;39102;Voto;Pol:None (C0);regional_unemployment
+2018-08-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2018-09-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2018-10-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2018-11-01;0,0017;39102;Voto;Pol:None (C0);regional_unemployment
+2018-12-01;0,0023;39102;Voto;Pol:None (C0);regional_unemployment
+2019-01-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2019-02-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2019-03-01;0,0012;39102;Voto;Pol:None (C0);regional_unemployment
+2019-04-01;0,0023;39102;Voto;Pol:None (C0);regional_unemployment
+2019-05-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2019-06-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2019-07-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2019-08-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2019-09-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2019-10-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2019-11-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2019-12-01;0,0012;39102;Voto;Pol:None (C0);regional_unemployment
+2020-01-01;0,0018;39102;Voto;Pol:None (C0);regional_unemployment
+2020-02-01;0,0018;39102;Voto;Pol:None (C0);regional_unemployment
+2020-03-01;0,0018;39102;Voto;Pol:None (C0);regional_unemployment
+2020-04-01;0,0018;39102;Voto;Pol:None (C0);regional_unemployment
+2020-05-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2020-06-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2020-07-01;0,0;39102;Voto;Pol:None (C0);regional_unemployment
+2020-08-01;0,0006;39102;Voto;Pol:None (C0);regional_unemployment
+2020-09-01;0,0018;39102;Voto;Pol:None (C0);regional_unemployment
+2020-10-01;0,0012;39102;Voto;Pol:None (C0);regional_unemployment
+2020-11-01;0,0018;39102;Voto;Pol:None (C0);regional_unemployment
+2014-01-01;0,0506;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2014-02-01;0,0391;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2014-03-01;0,0223;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2014-04-01;0,0226;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2014-05-01;0,0169;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2014-06-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2014-07-01;0,0056;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2014-08-01;0,0056;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2014-09-01;0,0114;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2014-10-01;0,017;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2014-11-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2014-12-01;0,0057;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2015-01-01;0,0113;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2015-02-01;0,0113;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2015-03-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2015-04-01;0,0056;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2015-05-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2015-06-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2015-07-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2015-08-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2015-09-01;0,0056;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2015-10-01;0,0056;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2015-11-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2015-12-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2016-01-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2016-02-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2016-03-01;0,0056;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2016-04-01;0,0056;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2016-05-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2016-06-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2016-07-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2016-08-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2016-09-01;0,0056;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2016-10-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2016-11-01;0,0056;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2016-12-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2017-01-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2017-02-01;0,0111;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2017-03-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2017-04-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2017-05-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2017-06-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2017-07-01;0,0056;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2017-08-01;0,0056;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2017-09-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2017-10-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2017-11-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2017-12-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2018-01-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2018-02-01;0,0056;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2018-03-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2018-04-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2018-05-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2018-06-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2018-07-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2018-08-01;0,0057;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2018-09-01;0,017;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2018-10-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2018-11-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2018-12-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2019-01-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2019-02-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2019-03-01;0,0057;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2019-04-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2019-05-01;0,0057;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2019-06-01;0,0057;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2019-07-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2019-08-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2019-09-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2019-10-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2019-11-01;0,0058;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2019-12-01;0,0058;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2020-01-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2020-02-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2020-03-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2020-04-01;0,0058;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2020-05-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2020-06-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2020-07-01;0,0058;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2020-08-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2020-09-01;0,0058;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2020-10-01;0,0;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2020-11-01;0,0058;10201;Valdemorales;Pol:Buy (C0);regional_unemployment
+2014-01-01;0,1075;12002;Aín;Pol:Buy (C0);regional_unemployment
+2014-02-01;0,0753;12002;Aín;Pol:Buy (C0);regional_unemployment
+2014-03-01;0,0645;12002;Aín;Pol:Buy (C0);regional_unemployment
+2014-04-01;0,043;12002;Aín;Pol:Buy (C0);regional_unemployment
+2014-05-01;0,0435;12002;Aín;Pol:Buy (C0);regional_unemployment
+2014-06-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2014-07-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2014-08-01;0,0222;12002;Aín;Pol:Buy (C0);regional_unemployment
+2014-09-01;0,0222;12002;Aín;Pol:Buy (C0);regional_unemployment
+2014-10-01;0,0111;12002;Aín;Pol:Buy (C0);regional_unemployment
+2014-11-01;0,0222;12002;Aín;Pol:Buy (C0);regional_unemployment
+2014-12-01;0,0111;12002;Aín;Pol:Buy (C0);regional_unemployment
+2015-01-01;0,0444;12002;Aín;Pol:Buy (C0);regional_unemployment
+2015-02-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2015-03-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2015-04-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2015-05-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2015-06-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2015-07-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2015-08-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2015-09-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2015-10-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2015-11-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2015-12-01;0,0111;12002;Aín;Pol:Buy (C0);regional_unemployment
+2016-01-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2016-02-01;0,0112;12002;Aín;Pol:Buy (C0);regional_unemployment
+2016-03-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2016-04-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2016-05-01;0,0112;12002;Aín;Pol:Buy (C0);regional_unemployment
+2016-06-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2016-07-01;0,0337;12002;Aín;Pol:Buy (C0);regional_unemployment
+2016-08-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2016-09-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2016-10-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2016-11-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2016-12-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2017-01-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2017-02-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2017-03-01;0,0116;12002;Aín;Pol:Buy (C0);regional_unemployment
+2017-04-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2017-05-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2017-06-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2017-07-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2017-08-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2017-09-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2017-10-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2017-11-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2017-12-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2018-01-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2018-02-01;0,0118;12002;Aín;Pol:Buy (C0);regional_unemployment
+2018-03-01;0,0118;12002;Aín;Pol:Buy (C0);regional_unemployment
+2018-04-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2018-05-01;0,0118;12002;Aín;Pol:Buy (C0);regional_unemployment
+2018-06-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2018-07-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2018-08-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2018-09-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2018-10-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2018-11-01;0,012;12002;Aín;Pol:Buy (C0);regional_unemployment
+2018-12-01;0,012;12002;Aín;Pol:Buy (C0);regional_unemployment
+2019-01-01;0,0244;12002;Aín;Pol:Buy (C0);regional_unemployment
+2019-02-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2019-03-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2019-04-01;0,0122;12002;Aín;Pol:Buy (C0);regional_unemployment
+2019-05-01;0,0244;12002;Aín;Pol:Buy (C0);regional_unemployment
+2019-06-01;0,0122;12002;Aín;Pol:Buy (C0);regional_unemployment
+2019-07-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2019-08-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2019-09-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2019-10-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2019-11-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2019-12-01;0,0122;12002;Aín;Pol:Buy (C0);regional_unemployment
+2020-01-01;0,0122;12002;Aín;Pol:Buy (C0);regional_unemployment
+2020-02-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2020-03-01;0,0122;12002;Aín;Pol:Buy (C0);regional_unemployment
+2020-04-01;0,012;12002;Aín;Pol:Buy (C0);regional_unemployment
+2020-05-01;0,012;12002;Aín;Pol:Buy (C0);regional_unemployment
+2020-06-01;0,0241;12002;Aín;Pol:Buy (C0);regional_unemployment
+2020-07-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2020-08-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2020-09-01;0,012;12002;Aín;Pol:Buy (C0);regional_unemployment
+2020-10-01;0,0;12002;Aín;Pol:Buy (C0);regional_unemployment
+2020-11-01;0,0241;12002;Aín;Pol:Buy (C0);regional_unemployment
+2014-01-01;0,0634;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2014-02-01;0,049;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2014-03-01;0,0375;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2014-04-01;0,027;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2014-05-01;0,0125;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2014-06-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2014-07-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2014-08-01;0,0021;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2014-09-01;0,0021;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2014-10-01;0,0021;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2014-11-01;0,0052;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2014-12-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2015-01-01;0,0021;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2015-02-01;0,0021;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2015-03-01;0,0021;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2015-04-01;0,0021;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2015-05-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2015-06-01;0,0021;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2015-07-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2015-08-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2015-09-01;0,0031;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2015-10-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2015-11-01;0,0021;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2015-12-01;0,0021;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2016-01-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2016-02-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2016-03-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2016-04-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2016-05-01;0,0021;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2016-06-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2016-07-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2016-08-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2016-09-01;0,0041;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2016-10-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2016-11-01;0,0021;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2016-12-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2017-01-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2017-02-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2017-03-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2017-04-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2017-05-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2017-06-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2017-07-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2017-08-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2017-09-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2017-10-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2017-11-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2017-12-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2018-01-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2018-02-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2018-03-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2018-04-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2018-05-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2018-06-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2018-07-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2018-08-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2018-09-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2018-10-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2018-11-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2018-12-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2019-01-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2019-02-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2019-03-01;0,0021;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2019-04-01;0,0021;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2019-05-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2019-06-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2019-07-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2019-08-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2019-09-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2019-10-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2019-11-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2019-12-01;0,0021;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2020-01-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2020-02-01;0,0021;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2020-03-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2020-04-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2020-05-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2020-06-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2020-07-01;0,0021;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2020-08-01;0,001;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2020-09-01;0,0011;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2020-10-01;0,0021;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2020-11-01;0,0;39057;Ramales de la Victoria;Pol:Buy (C0);regional_unemployment
+2014-01-01;0,0632;39102;Voto;Pol:Buy (C0);regional_unemployment
+2014-02-01;0,0518;39102;Voto;Pol:Buy (C0);regional_unemployment
+2014-03-01;0,0376;39102;Voto;Pol:Buy (C0);regional_unemployment
+2014-04-01;0,0245;39102;Voto;Pol:Buy (C0);regional_unemployment
+2014-05-01;0,0103;39102;Voto;Pol:Buy (C0);regional_unemployment
+2014-06-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2014-07-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2014-08-01;0,0017;39102;Voto;Pol:Buy (C0);regional_unemployment
+2014-09-01;0,0011;39102;Voto;Pol:Buy (C0);regional_unemployment
+2014-10-01;0,0028;39102;Voto;Pol:Buy (C0);regional_unemployment
+2014-11-01;0,0028;39102;Voto;Pol:Buy (C0);regional_unemployment
+2014-12-01;0,0017;39102;Voto;Pol:Buy (C0);regional_unemployment
+2015-01-01;0,0034;39102;Voto;Pol:Buy (C0);regional_unemployment
+2015-02-01;0,004;39102;Voto;Pol:Buy (C0);regional_unemployment
+2015-03-01;0,0034;39102;Voto;Pol:Buy (C0);regional_unemployment
+2015-04-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2015-05-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2015-06-01;0,0011;39102;Voto;Pol:Buy (C0);regional_unemployment
+2015-07-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2015-08-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2015-09-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2015-10-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2015-11-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2015-12-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2016-01-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2016-02-01;0,0017;39102;Voto;Pol:Buy (C0);regional_unemployment
+2016-03-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2016-04-01;0,0011;39102;Voto;Pol:Buy (C0);regional_unemployment
+2016-05-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2016-06-01;0,0011;39102;Voto;Pol:Buy (C0);regional_unemployment
+2016-07-01;0,0011;39102;Voto;Pol:Buy (C0);regional_unemployment
+2016-08-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2016-09-01;0,0011;39102;Voto;Pol:Buy (C0);regional_unemployment
+2016-10-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2016-11-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2016-12-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2017-01-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2017-02-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2017-03-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2017-04-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2017-05-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2017-06-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2017-07-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2017-08-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2017-09-01;0,0011;39102;Voto;Pol:Buy (C0);regional_unemployment
+2017-10-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2017-11-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2017-12-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2018-01-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2018-02-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2018-03-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2018-04-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2018-05-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2018-06-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2018-07-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2018-08-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2018-09-01;0,0012;39102;Voto;Pol:Buy (C0);regional_unemployment
+2018-10-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2018-11-01;0,0012;39102;Voto;Pol:Buy (C0);regional_unemployment
+2018-12-01;0,0012;39102;Voto;Pol:Buy (C0);regional_unemployment
+2019-01-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2019-02-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2019-03-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2019-04-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2019-05-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2019-06-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2019-07-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2019-08-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2019-09-01;0,0012;39102;Voto;Pol:Buy (C0);regional_unemployment
+2019-10-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2019-11-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2019-12-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2020-01-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2020-02-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2020-03-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2020-04-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2020-05-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2020-06-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2020-07-01;0,0012;39102;Voto;Pol:Buy (C0);regional_unemployment
+2020-08-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2020-09-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2020-10-01;0,0006;39102;Voto;Pol:Buy (C0);regional_unemployment
+2020-11-01;0,0;39102;Voto;Pol:Buy (C0);regional_unemployment
+2014-01-01;0,0562;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2014-02-01;0,0503;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2014-03-01;0,0335;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2014-04-01;0,0282;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2014-05-01;0,0056;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2014-06-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2014-07-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2014-08-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2014-09-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2014-10-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2014-11-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2014-12-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2015-01-01;0,0056;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2015-02-01;0,0056;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2015-03-01;0,0169;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2015-04-01;0,0056;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2015-05-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2015-06-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2015-07-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2015-08-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2015-09-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2015-10-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2015-11-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2015-12-01;0,0056;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2016-01-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2016-02-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2016-03-01;0,0056;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2016-04-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2016-05-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2016-06-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2016-07-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2016-08-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2016-09-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2016-10-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2016-11-01;0,0056;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2016-12-01;0,0056;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2017-01-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2017-02-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2017-03-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2017-04-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2017-05-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2017-06-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2017-07-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2017-08-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2017-09-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2017-10-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2017-11-01;0,0056;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2017-12-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2018-01-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2018-02-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2018-03-01;0,0112;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2018-04-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2018-05-01;0,0056;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2018-06-01;0,0057;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2018-07-01;0,0114;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2018-08-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2018-09-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2018-10-01;0,0057;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2018-11-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2018-12-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2019-01-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2019-02-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2019-03-01;0,0114;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2019-04-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2019-05-01;0,0057;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2019-06-01;0,0058;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2019-07-01;0,0058;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2019-08-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2019-09-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2019-10-01;0,0116;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2019-11-01;0,0058;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2019-12-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2020-01-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2020-02-01;0,0116;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2020-03-01;0,0058;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2020-04-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2020-05-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2020-06-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2020-07-01;0,0059;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2020-08-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2020-09-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2020-10-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2020-11-01;0,0;10201;Valdemorales;Pol:Wage (C0);regional_unemployment
+2014-01-01;0,086;12002;Aín;Pol:Wage (C0);regional_unemployment
+2014-02-01;0,086;12002;Aín;Pol:Wage (C0);regional_unemployment
+2014-03-01;0,0753;12002;Aín;Pol:Wage (C0);regional_unemployment
+2014-04-01;0,0538;12002;Aín;Pol:Wage (C0);regional_unemployment
+2014-05-01;0,0326;12002;Aín;Pol:Wage (C0);regional_unemployment
+2014-06-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2014-07-01;0,0111;12002;Aín;Pol:Wage (C0);regional_unemployment
+2014-08-01;0,0111;12002;Aín;Pol:Wage (C0);regional_unemployment
+2014-09-01;0,0111;12002;Aín;Pol:Wage (C0);regional_unemployment
+2014-10-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2014-11-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2014-12-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2015-01-01;0,0333;12002;Aín;Pol:Wage (C0);regional_unemployment
+2015-02-01;0,0111;12002;Aín;Pol:Wage (C0);regional_unemployment
+2015-03-01;0,0108;12002;Aín;Pol:Wage (C0);regional_unemployment
+2015-04-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2015-05-01;0,0108;12002;Aín;Pol:Wage (C0);regional_unemployment
+2015-06-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2015-07-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2015-08-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2015-09-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2015-10-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2015-11-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2015-12-01;0,0104;12002;Aín;Pol:Wage (C0);regional_unemployment
+2016-01-01;0,0211;12002;Aín;Pol:Wage (C0);regional_unemployment
+2016-02-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2016-03-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2016-04-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2016-05-01;0,0105;12002;Aín;Pol:Wage (C0);regional_unemployment
+2016-06-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2016-07-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2016-08-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2016-09-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2016-10-01;0,0106;12002;Aín;Pol:Wage (C0);regional_unemployment
+2016-11-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2016-12-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2017-01-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2017-02-01;0,0109;12002;Aín;Pol:Wage (C0);regional_unemployment
+2017-03-01;0,0109;12002;Aín;Pol:Wage (C0);regional_unemployment
+2017-04-01;0,0109;12002;Aín;Pol:Wage (C0);regional_unemployment
+2017-05-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2017-06-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2017-07-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2017-08-01;0,011;12002;Aín;Pol:Wage (C0);regional_unemployment
+2017-09-01;0,011;12002;Aín;Pol:Wage (C0);regional_unemployment
+2017-10-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2017-11-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2017-12-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2018-01-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2018-02-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2018-03-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2018-04-01;0,011;12002;Aín;Pol:Wage (C0);regional_unemployment
+2018-05-01;0,011;12002;Aín;Pol:Wage (C0);regional_unemployment
+2018-06-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2018-07-01;0,0111;12002;Aín;Pol:Wage (C0);regional_unemployment
+2018-08-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2018-09-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2018-10-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2018-11-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2018-12-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2019-01-01;0,0114;12002;Aín;Pol:Wage (C0);regional_unemployment
+2019-02-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2019-03-01;0,0114;12002;Aín;Pol:Wage (C0);regional_unemployment
+2019-04-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2019-05-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2019-06-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2019-07-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2019-08-01;0,011;12002;Aín;Pol:Wage (C0);regional_unemployment
+2019-09-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2019-10-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2019-11-01;0,011;12002;Aín;Pol:Wage (C0);regional_unemployment
+2019-12-01;0,011;12002;Aín;Pol:Wage (C0);regional_unemployment
+2020-01-01;0,0109;12002;Aín;Pol:Wage (C0);regional_unemployment
+2020-02-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2020-03-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2020-04-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2020-05-01;0,0108;12002;Aín;Pol:Wage (C0);regional_unemployment
+2020-06-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2020-07-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2020-08-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2020-09-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2020-10-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2020-11-01;0,0;12002;Aín;Pol:Wage (C0);regional_unemployment
+2014-01-01;0,0593;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2014-02-01;0,0458;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2014-03-01;0,0312;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2014-04-01;0,0187;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2014-05-01;0,0083;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2014-06-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2014-07-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2014-08-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2014-09-01;0,001;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2014-10-01;0,0021;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2014-11-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2014-12-01;0,0021;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2015-01-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2015-02-01;0,001;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2015-03-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2015-04-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2015-05-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2015-06-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2015-07-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2015-08-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2015-09-01;0,0021;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2015-10-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2015-11-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2015-12-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2016-01-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2016-02-01;0,001;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2016-03-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2016-04-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2016-05-01;0,001;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2016-06-01;0,001;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2016-07-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2016-08-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2016-09-01;0,0021;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2016-10-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2016-11-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2016-12-01;0,0021;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2017-01-01;0,0021;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2017-02-01;0,0021;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2017-03-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2017-04-01;0,001;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2017-05-01;0,0042;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2017-06-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2017-07-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2017-08-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2017-09-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2017-10-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2017-11-01;0,001;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2017-12-01;0,001;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2018-01-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2018-02-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2018-03-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2018-04-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2018-05-01;0,001;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2018-06-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2018-07-01;0,001;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2018-08-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2018-09-01;0,0031;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2018-10-01;0,0031;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2018-11-01;0,001;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2018-12-01;0,001;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2019-01-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2019-02-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2019-03-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2019-04-01;0,0021;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2019-05-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2019-06-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2019-07-01;0,0021;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2019-08-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2019-09-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2019-10-01;0,0042;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2019-11-01;0,0021;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2019-12-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2020-01-01;0,001;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2020-02-01;0,001;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2020-03-01;0,001;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2020-04-01;0,0011;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2020-05-01;0,0021;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2020-06-01;0,0011;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2020-07-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2020-08-01;0,0;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2020-09-01;0,0021;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2020-10-01;0,0011;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2020-11-01;0,0011;39057;Ramales de la Victoria;Pol:Wage (C0);regional_unemployment
+2014-01-01;0,0661;39102;Voto;Pol:Wage (C0);regional_unemployment
+2014-02-01;0,0524;39102;Voto;Pol:Wage (C0);regional_unemployment
+2014-03-01;0,0399;39102;Voto;Pol:Wage (C0);regional_unemployment
+2014-04-01;0,0279;39102;Voto;Pol:Wage (C0);regional_unemployment
+2014-05-01;0,0143;39102;Voto;Pol:Wage (C0);regional_unemployment
+2014-06-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2014-07-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2014-08-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2014-09-01;0,0011;39102;Voto;Pol:Wage (C0);regional_unemployment
+2014-10-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2014-11-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2014-12-01;0,0023;39102;Voto;Pol:Wage (C0);regional_unemployment
+2015-01-01;0,0017;39102;Voto;Pol:Wage (C0);regional_unemployment
+2015-02-01;0,0034;39102;Voto;Pol:Wage (C0);regional_unemployment
+2015-03-01;0,0028;39102;Voto;Pol:Wage (C0);regional_unemployment
+2015-04-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2015-05-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2015-06-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2015-07-01;0,0011;39102;Voto;Pol:Wage (C0);regional_unemployment
+2015-08-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2015-09-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2015-10-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2015-11-01;0,0017;39102;Voto;Pol:Wage (C0);regional_unemployment
+2015-12-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2016-01-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2016-02-01;0,0011;39102;Voto;Pol:Wage (C0);regional_unemployment
+2016-03-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2016-04-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2016-05-01;0,0011;39102;Voto;Pol:Wage (C0);regional_unemployment
+2016-06-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2016-07-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2016-08-01;0,0017;39102;Voto;Pol:Wage (C0);regional_unemployment
+2016-09-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2016-10-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2016-11-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2016-12-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2017-01-01;0,0023;39102;Voto;Pol:Wage (C0);regional_unemployment
+2017-02-01;0,0017;39102;Voto;Pol:Wage (C0);regional_unemployment
+2017-03-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2017-04-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2017-05-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2017-06-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2017-07-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2017-08-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2017-09-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2017-10-01;0,0017;39102;Voto;Pol:Wage (C0);regional_unemployment
+2017-11-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2017-12-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2018-01-01;0,0017;39102;Voto;Pol:Wage (C0);regional_unemployment
+2018-02-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2018-03-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2018-04-01;0,0011;39102;Voto;Pol:Wage (C0);regional_unemployment
+2018-05-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2018-06-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2018-07-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2018-08-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2018-09-01;0,0023;39102;Voto;Pol:Wage (C0);regional_unemployment
+2018-10-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2018-11-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2018-12-01;0,0012;39102;Voto;Pol:Wage (C0);regional_unemployment
+2019-01-01;0,0012;39102;Voto;Pol:Wage (C0);regional_unemployment
+2019-02-01;0,0012;39102;Voto;Pol:Wage (C0);regional_unemployment
+2019-03-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2019-04-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2019-05-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2019-06-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2019-07-01;0,0012;39102;Voto;Pol:Wage (C0);regional_unemployment
+2019-08-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2019-09-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2019-10-01;0,0012;39102;Voto;Pol:Wage (C0);regional_unemployment
+2019-11-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2019-12-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2020-01-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2020-02-01;0,0;39102;Voto;Pol:Wage (C0);regional_unemployment
+2020-03-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2020-04-01;0,0012;39102;Voto;Pol:Wage (C0);regional_unemployment
+2020-05-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2020-06-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2020-07-01;0,0012;39102;Voto;Pol:Wage (C0);regional_unemployment
+2020-08-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment
+2020-09-01;0,0012;39102;Voto;Pol:Wage (C0);regional_unemployment
+2020-10-01;0,0017;39102;Voto;Pol:Wage (C0);regional_unemployment
+2020-11-01;0,0006;39102;Voto;Pol:Wage (C0);regional_unemployment

@@ -1,0 +1,6 @@
+Escenario;Valor Final;Valor Promedio
+Policies: Buy, Rent, Wage (Coef=0);-0,85585;-0,14751957831325307
+Policies: None (Coef=0);-0,37134999999999996;-2,247147289156627
+Policy: Buy (Coef=0);-1,2402;-0,06600331325301204
+Policy: Wage (Coef=0);-1,041175;-0,12482861445783133
+Policy: Wage (Coef=0.8);0,940675;0,15424698795180722

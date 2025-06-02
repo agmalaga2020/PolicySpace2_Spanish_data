@@ -1,0 +1,1329 @@
+month;metric_value;municipality_id;municipality_name;policy_scenario;metric_name
+2014-01-01;0,069;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2014-02-01;0,071;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2014-03-01;0,39;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2014-04-01;0,387;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2014-05-01;0,401;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2014-06-01;0,41;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2014-07-01;0,372;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2014-08-01;0,363;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2014-09-01;0,437;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2014-10-01;0,365;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2014-11-01;0,387;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2014-12-01;0,358;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2015-01-01;0,354;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2015-02-01;0,416;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2015-03-01;0,373;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2015-04-01;0,616;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2015-05-01;0,508;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2015-06-01;0,444;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2015-07-01;0,608;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2015-08-01;0,386;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2015-09-01;0,555;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2015-10-01;0,412;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2015-11-01;0,464;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2015-12-01;0,493;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2016-01-01;0,47;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2016-02-01;0,482;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2016-03-01;0,454;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2016-04-01;0,393;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2016-05-01;0,603;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2016-06-01;0,499;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2016-07-01;0,429;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2016-08-01;0,699;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2016-09-01;0,48;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2016-10-01;0,473;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2016-11-01;0,583;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2016-12-01;0,498;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2017-01-01;0,423;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2017-02-01;0,854;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2017-03-01;0,563;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2017-04-01;0,514;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2017-05-01;0,658;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2017-06-01;0,573;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2017-07-01;0,884;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2017-08-01;0,558;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2017-09-01;0,725;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2017-10-01;0,622;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2017-11-01;0,544;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2017-12-01;0,793;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2018-01-01;0,667;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2018-02-01;0,478;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2018-03-01;0,56;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2018-04-01;0,656;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2018-05-01;1,252;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2018-06-01;1,096;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2018-07-01;0,923;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2018-08-01;0,849;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2018-09-01;0,884;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2018-10-01;1,13;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2018-11-01;1,168;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2018-12-01;0,766;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2019-01-01;0,66;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2019-02-01;0,979;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2019-03-01;0,574;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2019-04-01;0,616;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2019-05-01;1,717;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2019-06-01;0,86;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2019-07-01;1,382;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2019-08-01;0,774;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2019-09-01;0,408;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2019-10-01;1,048;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2019-11-01;0,471;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2019-12-01;0,426;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2020-01-01;3,265;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2020-02-01;0,606;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2020-03-01;1,724;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2020-04-01;0,427;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2020-05-01;0,393;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2020-06-01;0,45;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2020-07-01;2,885;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2020-08-01;1,759;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2020-09-01;0,437;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2020-10-01;0,493;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2020-11-01;0,355;10201;Valdemorales;Pol:All (C0);gdp_percapita
+2014-01-01;0,089;12002;Aín;Pol:All (C0);gdp_percapita
+2014-02-01;0,09;12002;Aín;Pol:All (C0);gdp_percapita
+2014-03-01;0,06;12002;Aín;Pol:All (C0);gdp_percapita
+2014-04-01;0,151;12002;Aín;Pol:All (C0);gdp_percapita
+2014-05-01;0,1;12002;Aín;Pol:All (C0);gdp_percapita
+2014-06-01;1,024;12002;Aín;Pol:All (C0);gdp_percapita
+2014-07-01;1,024;12002;Aín;Pol:All (C0);gdp_percapita
+2014-08-01;1,009;12002;Aín;Pol:All (C0);gdp_percapita
+2014-09-01;1,107;12002;Aín;Pol:All (C0);gdp_percapita
+2014-10-01;1,025;12002;Aín;Pol:All (C0);gdp_percapita
+2014-11-01;0,997;12002;Aín;Pol:All (C0);gdp_percapita
+2014-12-01;1,179;12002;Aín;Pol:All (C0);gdp_percapita
+2015-01-01;1,008;12002;Aín;Pol:All (C0);gdp_percapita
+2015-02-01;1,035;12002;Aín;Pol:All (C0);gdp_percapita
+2015-03-01;0,972;12002;Aín;Pol:All (C0);gdp_percapita
+2015-04-01;1,015;12002;Aín;Pol:All (C0);gdp_percapita
+2015-05-01;1,422;12002;Aín;Pol:All (C0);gdp_percapita
+2015-06-01;1,142;12002;Aín;Pol:All (C0);gdp_percapita
+2015-07-01;1,091;12002;Aín;Pol:All (C0);gdp_percapita
+2015-08-01;1,09;12002;Aín;Pol:All (C0);gdp_percapita
+2015-09-01;1,18;12002;Aín;Pol:All (C0);gdp_percapita
+2015-10-01;1,072;12002;Aín;Pol:All (C0);gdp_percapita
+2015-11-01;1,01;12002;Aín;Pol:All (C0);gdp_percapita
+2015-12-01;1,291;12002;Aín;Pol:All (C0);gdp_percapita
+2016-01-01;0,989;12002;Aín;Pol:All (C0);gdp_percapita
+2016-02-01;1,33;12002;Aín;Pol:All (C0);gdp_percapita
+2016-03-01;1,181;12002;Aín;Pol:All (C0);gdp_percapita
+2016-04-01;1,111;12002;Aín;Pol:All (C0);gdp_percapita
+2016-05-01;1,556;12002;Aín;Pol:All (C0);gdp_percapita
+2016-06-01;1,178;12002;Aín;Pol:All (C0);gdp_percapita
+2016-07-01;1,18;12002;Aín;Pol:All (C0);gdp_percapita
+2016-08-01;1,273;12002;Aín;Pol:All (C0);gdp_percapita
+2016-09-01;1,211;12002;Aín;Pol:All (C0);gdp_percapita
+2016-10-01;1,188;12002;Aín;Pol:All (C0);gdp_percapita
+2016-11-01;1,499;12002;Aín;Pol:All (C0);gdp_percapita
+2016-12-01;1,294;12002;Aín;Pol:All (C0);gdp_percapita
+2017-01-01;1,229;12002;Aín;Pol:All (C0);gdp_percapita
+2017-02-01;1,187;12002;Aín;Pol:All (C0);gdp_percapita
+2017-03-01;1,698;12002;Aín;Pol:All (C0);gdp_percapita
+2017-04-01;1,292;12002;Aín;Pol:All (C0);gdp_percapita
+2017-05-01;1,558;12002;Aín;Pol:All (C0);gdp_percapita
+2017-06-01;1,386;12002;Aín;Pol:All (C0);gdp_percapita
+2017-07-01;1,377;12002;Aín;Pol:All (C0);gdp_percapita
+2017-08-01;1,161;12002;Aín;Pol:All (C0);gdp_percapita
+2017-09-01;1,196;12002;Aín;Pol:All (C0);gdp_percapita
+2017-10-01;1,182;12002;Aín;Pol:All (C0);gdp_percapita
+2017-11-01;1,641;12002;Aín;Pol:All (C0);gdp_percapita
+2017-12-01;1,389;12002;Aín;Pol:All (C0);gdp_percapita
+2018-01-01;2,097;12002;Aín;Pol:All (C0);gdp_percapita
+2018-02-01;1,733;12002;Aín;Pol:All (C0);gdp_percapita
+2018-03-01;2,249;12002;Aín;Pol:All (C0);gdp_percapita
+2018-04-01;1,961;12002;Aín;Pol:All (C0);gdp_percapita
+2018-05-01;1,634;12002;Aín;Pol:All (C0);gdp_percapita
+2018-06-01;1,659;12002;Aín;Pol:All (C0);gdp_percapita
+2018-07-01;1,414;12002;Aín;Pol:All (C0);gdp_percapita
+2018-08-01;1,3;12002;Aín;Pol:All (C0);gdp_percapita
+2018-09-01;1,288;12002;Aín;Pol:All (C0);gdp_percapita
+2018-10-01;2,87;12002;Aín;Pol:All (C0);gdp_percapita
+2018-11-01;1,434;12002;Aín;Pol:All (C0);gdp_percapita
+2018-12-01;1,833;12002;Aín;Pol:All (C0);gdp_percapita
+2019-01-01;2,338;12002;Aín;Pol:All (C0);gdp_percapita
+2019-02-01;1,761;12002;Aín;Pol:All (C0);gdp_percapita
+2019-03-01;1,591;12002;Aín;Pol:All (C0);gdp_percapita
+2019-04-01;1,095;12002;Aín;Pol:All (C0);gdp_percapita
+2019-05-01;1,056;12002;Aín;Pol:All (C0);gdp_percapita
+2019-06-01;1,533;12002;Aín;Pol:All (C0);gdp_percapita
+2019-07-01;1,686;12002;Aín;Pol:All (C0);gdp_percapita
+2019-08-01;1,709;12002;Aín;Pol:All (C0);gdp_percapita
+2019-09-01;1,579;12002;Aín;Pol:All (C0);gdp_percapita
+2019-10-01;5,155;12002;Aín;Pol:All (C0);gdp_percapita
+2019-11-01;1,189;12002;Aín;Pol:All (C0);gdp_percapita
+2019-12-01;1,707;12002;Aín;Pol:All (C0);gdp_percapita
+2020-01-01;1,816;12002;Aín;Pol:All (C0);gdp_percapita
+2020-02-01;0,951;12002;Aín;Pol:All (C0);gdp_percapita
+2020-03-01;0,921;12002;Aín;Pol:All (C0);gdp_percapita
+2020-04-01;0,942;12002;Aín;Pol:All (C0);gdp_percapita
+2020-05-01;0,934;12002;Aín;Pol:All (C0);gdp_percapita
+2020-06-01;0,959;12002;Aín;Pol:All (C0);gdp_percapita
+2020-07-01;1,111;12002;Aín;Pol:All (C0);gdp_percapita
+2020-08-01;0,934;12002;Aín;Pol:All (C0);gdp_percapita
+2020-09-01;0,975;12002;Aín;Pol:All (C0);gdp_percapita
+2020-10-01;1,001;12002;Aín;Pol:All (C0);gdp_percapita
+2020-11-01;0,932;12002;Aín;Pol:All (C0);gdp_percapita
+2014-01-01;0,106;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2014-02-01;0,1;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2014-03-01;0,13;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2014-04-01;0,125;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2014-05-01;0,147;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2014-06-01;0,197;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2014-07-01;0,272;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2014-08-01;0,263;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2014-09-01;0,27;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2014-10-01;0,263;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2014-11-01;0,306;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2014-12-01;0,324;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2015-01-01;0,401;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2015-02-01;0,343;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2015-03-01;0,371;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2015-04-01;0,425;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2015-05-01;0,477;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2015-06-01;0,549;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2015-07-01;0,422;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2015-08-01;0,532;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2015-09-01;0,414;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2015-10-01;0,414;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2015-11-01;0,452;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2015-12-01;0,453;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2016-01-01;0,491;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2016-02-01;0,508;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2016-03-01;0,43;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2016-04-01;0,598;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2016-05-01;0,487;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2016-06-01;0,545;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2016-07-01;0,49;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2016-08-01;0,534;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2016-09-01;0,641;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2016-10-01;0,662;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2016-11-01;0,731;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2016-12-01;0,744;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2017-01-01;0,638;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2017-02-01;0,581;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2017-03-01;0,683;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2017-04-01;0,759;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2017-05-01;0,811;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2017-06-01;0,719;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2017-07-01;0,833;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2017-08-01;0,718;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2017-09-01;0,709;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2017-10-01;0,834;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2017-11-01;1,069;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2017-12-01;0,775;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2018-01-01;1,058;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2018-02-01;0,88;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2018-03-01;0,717;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2018-04-01;0,84;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2018-05-01;1,505;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2018-06-01;1,288;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2018-07-01;1,413;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2018-08-01;1,153;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2018-09-01;1,321;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2018-10-01;1,122;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2018-11-01;1,16;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2018-12-01;1,086;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2019-01-01;0,972;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2019-02-01;0,879;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2019-03-01;1,314;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2019-04-01;2,005;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2019-05-01;1,425;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2019-06-01;1,907;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2019-07-01;1,534;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2019-08-01;1,146;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2019-09-01;1,203;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2019-10-01;0,793;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2019-11-01;0,969;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2019-12-01;0,751;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2020-01-01;0,622;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2020-02-01;0,47;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2020-03-01;0,625;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2020-04-01;0,766;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2020-05-01;0,556;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2020-06-01;1,414;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2020-07-01;1,767;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2020-08-01;1,582;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2020-09-01;1,127;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2020-10-01;2,03;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2020-11-01;2,466;39057;Ramales de la Victoria;Pol:All (C0);gdp_percapita
+2014-01-01;0,1;39102;Voto;Pol:All (C0);gdp_percapita
+2014-02-01;0,101;39102;Voto;Pol:All (C0);gdp_percapita
+2014-03-01;0,113;39102;Voto;Pol:All (C0);gdp_percapita
+2014-04-01;0,167;39102;Voto;Pol:All (C0);gdp_percapita
+2014-05-01;0,209;39102;Voto;Pol:All (C0);gdp_percapita
+2014-06-01;0,207;39102;Voto;Pol:All (C0);gdp_percapita
+2014-07-01;0,172;39102;Voto;Pol:All (C0);gdp_percapita
+2014-08-01;0,182;39102;Voto;Pol:All (C0);gdp_percapita
+2014-09-01;0,166;39102;Voto;Pol:All (C0);gdp_percapita
+2014-10-01;0,154;39102;Voto;Pol:All (C0);gdp_percapita
+2014-11-01;0,149;39102;Voto;Pol:All (C0);gdp_percapita
+2014-12-01;0,148;39102;Voto;Pol:All (C0);gdp_percapita
+2015-01-01;0,197;39102;Voto;Pol:All (C0);gdp_percapita
+2015-02-01;0,179;39102;Voto;Pol:All (C0);gdp_percapita
+2015-03-01;0,213;39102;Voto;Pol:All (C0);gdp_percapita
+2015-04-01;0,305;39102;Voto;Pol:All (C0);gdp_percapita
+2015-05-01;0,432;39102;Voto;Pol:All (C0);gdp_percapita
+2015-06-01;0,454;39102;Voto;Pol:All (C0);gdp_percapita
+2015-07-01;0,38;39102;Voto;Pol:All (C0);gdp_percapita
+2015-08-01;0,29;39102;Voto;Pol:All (C0);gdp_percapita
+2015-09-01;0,266;39102;Voto;Pol:All (C0);gdp_percapita
+2015-10-01;0,304;39102;Voto;Pol:All (C0);gdp_percapita
+2015-11-01;0,309;39102;Voto;Pol:All (C0);gdp_percapita
+2015-12-01;0,322;39102;Voto;Pol:All (C0);gdp_percapita
+2016-01-01;0,366;39102;Voto;Pol:All (C0);gdp_percapita
+2016-02-01;0,359;39102;Voto;Pol:All (C0);gdp_percapita
+2016-03-01;0,348;39102;Voto;Pol:All (C0);gdp_percapita
+2016-04-01;0,378;39102;Voto;Pol:All (C0);gdp_percapita
+2016-05-01;0,375;39102;Voto;Pol:All (C0);gdp_percapita
+2016-06-01;0,44;39102;Voto;Pol:All (C0);gdp_percapita
+2016-07-01;0,436;39102;Voto;Pol:All (C0);gdp_percapita
+2016-08-01;0,399;39102;Voto;Pol:All (C0);gdp_percapita
+2016-09-01;0,448;39102;Voto;Pol:All (C0);gdp_percapita
+2016-10-01;0,488;39102;Voto;Pol:All (C0);gdp_percapita
+2016-11-01;0,471;39102;Voto;Pol:All (C0);gdp_percapita
+2016-12-01;0,434;39102;Voto;Pol:All (C0);gdp_percapita
+2017-01-01;0,458;39102;Voto;Pol:All (C0);gdp_percapita
+2017-02-01;0,555;39102;Voto;Pol:All (C0);gdp_percapita
+2017-03-01;0,516;39102;Voto;Pol:All (C0);gdp_percapita
+2017-04-01;0,577;39102;Voto;Pol:All (C0);gdp_percapita
+2017-05-01;0,717;39102;Voto;Pol:All (C0);gdp_percapita
+2017-06-01;0,841;39102;Voto;Pol:All (C0);gdp_percapita
+2017-07-01;0,65;39102;Voto;Pol:All (C0);gdp_percapita
+2017-08-01;0,613;39102;Voto;Pol:All (C0);gdp_percapita
+2017-09-01;0,662;39102;Voto;Pol:All (C0);gdp_percapita
+2017-10-01;0,662;39102;Voto;Pol:All (C0);gdp_percapita
+2017-11-01;0,707;39102;Voto;Pol:All (C0);gdp_percapita
+2017-12-01;0,602;39102;Voto;Pol:All (C0);gdp_percapita
+2018-01-01;0,665;39102;Voto;Pol:All (C0);gdp_percapita
+2018-02-01;0,709;39102;Voto;Pol:All (C0);gdp_percapita
+2018-03-01;0,717;39102;Voto;Pol:All (C0);gdp_percapita
+2018-04-01;0,983;39102;Voto;Pol:All (C0);gdp_percapita
+2018-05-01;1,293;39102;Voto;Pol:All (C0);gdp_percapita
+2018-06-01;0,869;39102;Voto;Pol:All (C0);gdp_percapita
+2018-07-01;1,076;39102;Voto;Pol:All (C0);gdp_percapita
+2018-08-01;1,144;39102;Voto;Pol:All (C0);gdp_percapita
+2018-09-01;0,876;39102;Voto;Pol:All (C0);gdp_percapita
+2018-10-01;1,11;39102;Voto;Pol:All (C0);gdp_percapita
+2018-11-01;0,856;39102;Voto;Pol:All (C0);gdp_percapita
+2018-12-01;1,028;39102;Voto;Pol:All (C0);gdp_percapita
+2019-01-01;1,034;39102;Voto;Pol:All (C0);gdp_percapita
+2019-02-01;0,991;39102;Voto;Pol:All (C0);gdp_percapita
+2019-03-01;0,891;39102;Voto;Pol:All (C0);gdp_percapita
+2019-04-01;1,046;39102;Voto;Pol:All (C0);gdp_percapita
+2019-05-01;1,416;39102;Voto;Pol:All (C0);gdp_percapita
+2019-06-01;1,652;39102;Voto;Pol:All (C0);gdp_percapita
+2019-07-01;1,18;39102;Voto;Pol:All (C0);gdp_percapita
+2019-08-01;1,334;39102;Voto;Pol:All (C0);gdp_percapita
+2019-09-01;1,207;39102;Voto;Pol:All (C0);gdp_percapita
+2019-10-01;1,055;39102;Voto;Pol:All (C0);gdp_percapita
+2019-11-01;0,858;39102;Voto;Pol:All (C0);gdp_percapita
+2019-12-01;0,608;39102;Voto;Pol:All (C0);gdp_percapita
+2020-01-01;0,492;39102;Voto;Pol:All (C0);gdp_percapita
+2020-02-01;0,952;39102;Voto;Pol:All (C0);gdp_percapita
+2020-03-01;0,661;39102;Voto;Pol:All (C0);gdp_percapita
+2020-04-01;0,844;39102;Voto;Pol:All (C0);gdp_percapita
+2020-05-01;0,643;39102;Voto;Pol:All (C0);gdp_percapita
+2020-06-01;0,673;39102;Voto;Pol:All (C0);gdp_percapita
+2020-07-01;0,613;39102;Voto;Pol:All (C0);gdp_percapita
+2020-08-01;1,24;39102;Voto;Pol:All (C0);gdp_percapita
+2020-09-01;1,082;39102;Voto;Pol:All (C0);gdp_percapita
+2020-10-01;0,586;39102;Voto;Pol:All (C0);gdp_percapita
+2020-11-01;1,319;39102;Voto;Pol:All (C0);gdp_percapita
+2014-01-01;0,065;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2014-02-01;0,089;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2014-03-01;0,201;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2014-04-01;0,196;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2014-05-01;0,198;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2014-06-01;0,217;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2014-07-01;0,19;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2014-08-01;0,188;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2014-09-01;0,19;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2014-10-01;0,186;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2014-11-01;0,19;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2014-12-01;0,171;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2015-01-01;0,282;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2015-02-01;0,243;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2015-03-01;0,335;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2015-04-01;0,267;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2015-05-01;0,242;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2015-06-01;0,468;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2015-07-01;0,217;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2015-08-01;0,287;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2015-09-01;0,308;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2015-10-01;0,227;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2015-11-01;0,242;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2015-12-01;0,281;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2016-01-01;0,51;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2016-02-01;0,292;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2016-03-01;0,299;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2016-04-01;0,269;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2016-05-01;0,389;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2016-06-01;0,414;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2016-07-01;0,313;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2016-08-01;0,335;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2016-09-01;0,293;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2016-10-01;0,421;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2016-11-01;0,559;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2016-12-01;0,399;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2017-01-01;0,385;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2017-02-01;0,234;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2017-03-01;0,537;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2017-04-01;0,314;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2017-05-01;0,507;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2017-06-01;0,646;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2017-07-01;0,501;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2017-08-01;0,46;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2017-09-01;0,579;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2017-10-01;0,417;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2017-11-01;0,733;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2017-12-01;0,42;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2018-01-01;0,593;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2018-02-01;0,65;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2018-03-01;0,387;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2018-04-01;0,656;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2018-05-01;0,69;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2018-06-01;1,019;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2018-07-01;0,714;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2018-08-01;0,815;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2018-09-01;0,918;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2018-10-01;0,668;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2018-11-01;0,953;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2018-12-01;0,298;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2019-01-01;0,268;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2019-02-01;0,696;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2019-03-01;1,563;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2019-04-01;0,442;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2019-05-01;0,66;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2019-06-01;1,232;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2019-07-01;1,569;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2019-08-01;0,9;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2019-09-01;0,409;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2019-10-01;0,323;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2019-11-01;0,287;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2019-12-01;0,298;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2020-01-01;3,526;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2020-02-01;0,408;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2020-03-01;0,306;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2020-04-01;0,306;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2020-05-01;0,775;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2020-06-01;0,852;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2020-07-01;0,331;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2020-08-01;0,897;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2020-09-01;0,288;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2020-10-01;1,242;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2020-11-01;0,35;10201;Valdemorales;Pol:None (C0);gdp_percapita
+2014-01-01;0,079;12002;Aín;Pol:None (C0);gdp_percapita
+2014-02-01;0,061;12002;Aín;Pol:None (C0);gdp_percapita
+2014-03-01;0,11;12002;Aín;Pol:None (C0);gdp_percapita
+2014-04-01;0,093;12002;Aín;Pol:None (C0);gdp_percapita
+2014-05-01;0,101;12002;Aín;Pol:None (C0);gdp_percapita
+2014-06-01;0,548;12002;Aín;Pol:None (C0);gdp_percapita
+2014-07-01;0,517;12002;Aín;Pol:None (C0);gdp_percapita
+2014-08-01;0,515;12002;Aín;Pol:None (C0);gdp_percapita
+2014-09-01;0,534;12002;Aín;Pol:None (C0);gdp_percapita
+2014-10-01;0,491;12002;Aín;Pol:None (C0);gdp_percapita
+2014-11-01;0,55;12002;Aín;Pol:None (C0);gdp_percapita
+2014-12-01;0,477;12002;Aín;Pol:None (C0);gdp_percapita
+2015-01-01;0,538;12002;Aín;Pol:None (C0);gdp_percapita
+2015-02-01;0,555;12002;Aín;Pol:None (C0);gdp_percapita
+2015-03-01;0,645;12002;Aín;Pol:None (C0);gdp_percapita
+2015-04-01;0,598;12002;Aín;Pol:None (C0);gdp_percapita
+2015-05-01;0,551;12002;Aín;Pol:None (C0);gdp_percapita
+2015-06-01;0,783;12002;Aín;Pol:None (C0);gdp_percapita
+2015-07-01;0,681;12002;Aín;Pol:None (C0);gdp_percapita
+2015-08-01;0,533;12002;Aín;Pol:None (C0);gdp_percapita
+2015-09-01;0,653;12002;Aín;Pol:None (C0);gdp_percapita
+2015-10-01;0,63;12002;Aín;Pol:None (C0);gdp_percapita
+2015-11-01;0,551;12002;Aín;Pol:None (C0);gdp_percapita
+2015-12-01;0,56;12002;Aín;Pol:None (C0);gdp_percapita
+2016-01-01;0,677;12002;Aín;Pol:None (C0);gdp_percapita
+2016-02-01;0,722;12002;Aín;Pol:None (C0);gdp_percapita
+2016-03-01;0,627;12002;Aín;Pol:None (C0);gdp_percapita
+2016-04-01;0,806;12002;Aín;Pol:None (C0);gdp_percapita
+2016-05-01;0,887;12002;Aín;Pol:None (C0);gdp_percapita
+2016-06-01;0,631;12002;Aín;Pol:None (C0);gdp_percapita
+2016-07-01;0,906;12002;Aín;Pol:None (C0);gdp_percapita
+2016-08-01;0,723;12002;Aín;Pol:None (C0);gdp_percapita
+2016-09-01;0,584;12002;Aín;Pol:None (C0);gdp_percapita
+2016-10-01;0,816;12002;Aín;Pol:None (C0);gdp_percapita
+2016-11-01;0,801;12002;Aín;Pol:None (C0);gdp_percapita
+2016-12-01;0,73;12002;Aín;Pol:None (C0);gdp_percapita
+2017-01-01;0,641;12002;Aín;Pol:None (C0);gdp_percapita
+2017-02-01;0,75;12002;Aín;Pol:None (C0);gdp_percapita
+2017-03-01;0,603;12002;Aín;Pol:None (C0);gdp_percapita
+2017-04-01;1,015;12002;Aín;Pol:None (C0);gdp_percapita
+2017-05-01;1,339;12002;Aín;Pol:None (C0);gdp_percapita
+2017-06-01;0,961;12002;Aín;Pol:None (C0);gdp_percapita
+2017-07-01;0,861;12002;Aín;Pol:None (C0);gdp_percapita
+2017-08-01;0,718;12002;Aín;Pol:None (C0);gdp_percapita
+2017-09-01;0,639;12002;Aín;Pol:None (C0);gdp_percapita
+2017-10-01;1,226;12002;Aín;Pol:None (C0);gdp_percapita
+2017-11-01;1,42;12002;Aín;Pol:None (C0);gdp_percapita
+2017-12-01;0,867;12002;Aín;Pol:None (C0);gdp_percapita
+2018-01-01;0,574;12002;Aín;Pol:None (C0);gdp_percapita
+2018-02-01;1,212;12002;Aín;Pol:None (C0);gdp_percapita
+2018-03-01;1,289;12002;Aín;Pol:None (C0);gdp_percapita
+2018-04-01;0,95;12002;Aín;Pol:None (C0);gdp_percapita
+2018-05-01;0,97;12002;Aín;Pol:None (C0);gdp_percapita
+2018-06-01;1,392;12002;Aín;Pol:None (C0);gdp_percapita
+2018-07-01;0,999;12002;Aín;Pol:None (C0);gdp_percapita
+2018-08-01;2,377;12002;Aín;Pol:None (C0);gdp_percapita
+2018-09-01;1,202;12002;Aín;Pol:None (C0);gdp_percapita
+2018-10-01;1,092;12002;Aín;Pol:None (C0);gdp_percapita
+2018-11-01;1,099;12002;Aín;Pol:None (C0);gdp_percapita
+2018-12-01;1,615;12002;Aín;Pol:None (C0);gdp_percapita
+2019-01-01;0,978;12002;Aín;Pol:None (C0);gdp_percapita
+2019-02-01;0,926;12002;Aín;Pol:None (C0);gdp_percapita
+2019-03-01;1,797;12002;Aín;Pol:None (C0);gdp_percapita
+2019-04-01;1,185;12002;Aín;Pol:None (C0);gdp_percapita
+2019-05-01;0,934;12002;Aín;Pol:None (C0);gdp_percapita
+2019-06-01;1,561;12002;Aín;Pol:None (C0);gdp_percapita
+2019-07-01;1,044;12002;Aín;Pol:None (C0);gdp_percapita
+2019-08-01;0,745;12002;Aín;Pol:None (C0);gdp_percapita
+2019-09-01;1,808;12002;Aín;Pol:None (C0);gdp_percapita
+2019-10-01;1,822;12002;Aín;Pol:None (C0);gdp_percapita
+2019-11-01;0,991;12002;Aín;Pol:None (C0);gdp_percapita
+2019-12-01;0,833;12002;Aín;Pol:None (C0);gdp_percapita
+2020-01-01;2,563;12002;Aín;Pol:None (C0);gdp_percapita
+2020-02-01;2,109;12002;Aín;Pol:None (C0);gdp_percapita
+2020-03-01;1,307;12002;Aín;Pol:None (C0);gdp_percapita
+2020-04-01;1,036;12002;Aín;Pol:None (C0);gdp_percapita
+2020-05-01;1,089;12002;Aín;Pol:None (C0);gdp_percapita
+2020-06-01;3,765;12002;Aín;Pol:None (C0);gdp_percapita
+2020-07-01;1,19;12002;Aín;Pol:None (C0);gdp_percapita
+2020-08-01;0,861;12002;Aín;Pol:None (C0);gdp_percapita
+2020-09-01;0,878;12002;Aín;Pol:None (C0);gdp_percapita
+2020-10-01;0,724;12002;Aín;Pol:None (C0);gdp_percapita
+2020-11-01;2,941;12002;Aín;Pol:None (C0);gdp_percapita
+2014-01-01;0,102;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2014-02-01;0,103;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2014-03-01;0,104;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2014-04-01;0,129;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2014-05-01;0,144;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2014-06-01;0,175;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2014-07-01;0,159;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2014-08-01;0,327;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2014-09-01;0,391;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2014-10-01;0,399;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2014-11-01;0,431;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2014-12-01;0,481;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2015-01-01;0,477;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2015-02-01;0,474;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2015-03-01;0,517;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2015-04-01;0,562;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2015-05-01;0,552;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2015-06-01;0,628;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2015-07-01;0,546;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2015-08-01;0,502;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2015-09-01;0,504;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2015-10-01;0,507;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2015-11-01;0,566;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2015-12-01;0,543;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2016-01-01;0,601;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2016-02-01;0,578;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2016-03-01;0,537;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2016-04-01;0,649;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2016-05-01;0,641;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2016-06-01;0,653;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2016-07-01;0,622;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2016-08-01;0,768;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2016-09-01;0,702;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2016-10-01;0,7;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2016-11-01;0,695;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2016-12-01;0,722;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2017-01-01;0,742;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2017-02-01;0,797;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2017-03-01;0,709;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2017-04-01;0,874;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2017-05-01;0,811;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2017-06-01;0,918;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2017-07-01;0,965;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2017-08-01;0,978;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2017-09-01;0,944;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2017-10-01;0,986;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2017-11-01;1,116;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2017-12-01;0,972;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2018-01-01;0,901;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2018-02-01;1,191;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2018-03-01;1,123;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2018-04-01;1,077;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2018-05-01;1,296;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2018-06-01;1,292;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2018-07-01;1,187;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2018-08-01;1,334;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2018-09-01;1,303;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2018-10-01;1,352;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2018-11-01;1,3;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2018-12-01;1,122;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2019-01-01;1,4;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2019-02-01;1,441;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2019-03-01;1,235;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2019-04-01;1,428;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2019-05-01;1,303;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2019-06-01;1,653;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2019-07-01;1,374;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2019-08-01;1,876;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2019-09-01;1,345;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2019-10-01;1,317;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2019-11-01;1,622;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2019-12-01;2,517;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2020-01-01;1,609;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2020-02-01;1,22;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2020-03-01;0,928;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2020-04-01;1,357;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2020-05-01;0,994;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2020-06-01;1,663;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2020-07-01;2,011;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2020-08-01;1,258;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2020-09-01;2,373;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2020-10-01;1,445;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2020-11-01;0,959;39057;Ramales de la Victoria;Pol:None (C0);gdp_percapita
+2014-01-01;0,102;39102;Voto;Pol:None (C0);gdp_percapita
+2014-02-01;0,101;39102;Voto;Pol:None (C0);gdp_percapita
+2014-03-01;0,161;39102;Voto;Pol:None (C0);gdp_percapita
+2014-04-01;0,174;39102;Voto;Pol:None (C0);gdp_percapita
+2014-05-01;0,203;39102;Voto;Pol:None (C0);gdp_percapita
+2014-06-01;0,301;39102;Voto;Pol:None (C0);gdp_percapita
+2014-07-01;0,248;39102;Voto;Pol:None (C0);gdp_percapita
+2014-08-01;0,242;39102;Voto;Pol:None (C0);gdp_percapita
+2014-09-01;0,245;39102;Voto;Pol:None (C0);gdp_percapita
+2014-10-01;0,248;39102;Voto;Pol:None (C0);gdp_percapita
+2014-11-01;0,265;39102;Voto;Pol:None (C0);gdp_percapita
+2014-12-01;0,256;39102;Voto;Pol:None (C0);gdp_percapita
+2015-01-01;0,297;39102;Voto;Pol:None (C0);gdp_percapita
+2015-02-01;0,284;39102;Voto;Pol:None (C0);gdp_percapita
+2015-03-01;0,337;39102;Voto;Pol:None (C0);gdp_percapita
+2015-04-01;0,337;39102;Voto;Pol:None (C0);gdp_percapita
+2015-05-01;0,4;39102;Voto;Pol:None (C0);gdp_percapita
+2015-06-01;0,49;39102;Voto;Pol:None (C0);gdp_percapita
+2015-07-01;0,421;39102;Voto;Pol:None (C0);gdp_percapita
+2015-08-01;0,408;39102;Voto;Pol:None (C0);gdp_percapita
+2015-09-01;0,36;39102;Voto;Pol:None (C0);gdp_percapita
+2015-10-01;0,369;39102;Voto;Pol:None (C0);gdp_percapita
+2015-11-01;0,376;39102;Voto;Pol:None (C0);gdp_percapita
+2015-12-01;0,363;39102;Voto;Pol:None (C0);gdp_percapita
+2016-01-01;0,391;39102;Voto;Pol:None (C0);gdp_percapita
+2016-02-01;0,412;39102;Voto;Pol:None (C0);gdp_percapita
+2016-03-01;0,415;39102;Voto;Pol:None (C0);gdp_percapita
+2016-04-01;0,44;39102;Voto;Pol:None (C0);gdp_percapita
+2016-05-01;0,458;39102;Voto;Pol:None (C0);gdp_percapita
+2016-06-01;0,481;39102;Voto;Pol:None (C0);gdp_percapita
+2016-07-01;0,55;39102;Voto;Pol:None (C0);gdp_percapita
+2016-08-01;0,507;39102;Voto;Pol:None (C0);gdp_percapita
+2016-09-01;0,503;39102;Voto;Pol:None (C0);gdp_percapita
+2016-10-01;0,516;39102;Voto;Pol:None (C0);gdp_percapita
+2016-11-01;0,518;39102;Voto;Pol:None (C0);gdp_percapita
+2016-12-01;0,615;39102;Voto;Pol:None (C0);gdp_percapita
+2017-01-01;0,529;39102;Voto;Pol:None (C0);gdp_percapita
+2017-02-01;0,543;39102;Voto;Pol:None (C0);gdp_percapita
+2017-03-01;0,653;39102;Voto;Pol:None (C0);gdp_percapita
+2017-04-01;0,654;39102;Voto;Pol:None (C0);gdp_percapita
+2017-05-01;0,693;39102;Voto;Pol:None (C0);gdp_percapita
+2017-06-01;0,802;39102;Voto;Pol:None (C0);gdp_percapita
+2017-07-01;0,729;39102;Voto;Pol:None (C0);gdp_percapita
+2017-08-01;0,72;39102;Voto;Pol:None (C0);gdp_percapita
+2017-09-01;0,777;39102;Voto;Pol:None (C0);gdp_percapita
+2017-10-01;0,826;39102;Voto;Pol:None (C0);gdp_percapita
+2017-11-01;0,736;39102;Voto;Pol:None (C0);gdp_percapita
+2017-12-01;0,798;39102;Voto;Pol:None (C0);gdp_percapita
+2018-01-01;0,855;39102;Voto;Pol:None (C0);gdp_percapita
+2018-02-01;0,718;39102;Voto;Pol:None (C0);gdp_percapita
+2018-03-01;0,735;39102;Voto;Pol:None (C0);gdp_percapita
+2018-04-01;0,927;39102;Voto;Pol:None (C0);gdp_percapita
+2018-05-01;0,971;39102;Voto;Pol:None (C0);gdp_percapita
+2018-06-01;1,188;39102;Voto;Pol:None (C0);gdp_percapita
+2018-07-01;1,245;39102;Voto;Pol:None (C0);gdp_percapita
+2018-08-01;1,187;39102;Voto;Pol:None (C0);gdp_percapita
+2018-09-01;1,241;39102;Voto;Pol:None (C0);gdp_percapita
+2018-10-01;0,997;39102;Voto;Pol:None (C0);gdp_percapita
+2018-11-01;0,919;39102;Voto;Pol:None (C0);gdp_percapita
+2018-12-01;1,153;39102;Voto;Pol:None (C0);gdp_percapita
+2019-01-01;1,118;39102;Voto;Pol:None (C0);gdp_percapita
+2019-02-01;1,252;39102;Voto;Pol:None (C0);gdp_percapita
+2019-03-01;1,357;39102;Voto;Pol:None (C0);gdp_percapita
+2019-04-01;1,385;39102;Voto;Pol:None (C0);gdp_percapita
+2019-05-01;1,36;39102;Voto;Pol:None (C0);gdp_percapita
+2019-06-01;1,126;39102;Voto;Pol:None (C0);gdp_percapita
+2019-07-01;1,26;39102;Voto;Pol:None (C0);gdp_percapita
+2019-08-01;1,134;39102;Voto;Pol:None (C0);gdp_percapita
+2019-09-01;1,54;39102;Voto;Pol:None (C0);gdp_percapita
+2019-10-01;1,523;39102;Voto;Pol:None (C0);gdp_percapita
+2019-11-01;1,05;39102;Voto;Pol:None (C0);gdp_percapita
+2019-12-01;1,013;39102;Voto;Pol:None (C0);gdp_percapita
+2020-01-01;1,217;39102;Voto;Pol:None (C0);gdp_percapita
+2020-02-01;1,161;39102;Voto;Pol:None (C0);gdp_percapita
+2020-03-01;1,432;39102;Voto;Pol:None (C0);gdp_percapita
+2020-04-01;1,915;39102;Voto;Pol:None (C0);gdp_percapita
+2020-05-01;2,052;39102;Voto;Pol:None (C0);gdp_percapita
+2020-06-01;1,324;39102;Voto;Pol:None (C0);gdp_percapita
+2020-07-01;1,238;39102;Voto;Pol:None (C0);gdp_percapita
+2020-08-01;1,154;39102;Voto;Pol:None (C0);gdp_percapita
+2020-09-01;0,893;39102;Voto;Pol:None (C0);gdp_percapita
+2020-10-01;1,531;39102;Voto;Pol:None (C0);gdp_percapita
+2020-11-01;1,138;39102;Voto;Pol:None (C0);gdp_percapita
+2014-01-01;0,084;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2014-02-01;0,087;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2014-03-01;0,089;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2014-04-01;0,098;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2014-05-01;0,104;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2014-06-01;0,114;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2014-07-01;0,297;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2014-08-01;0,298;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2014-09-01;0,283;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2014-10-01;0,261;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2014-11-01;0,266;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2014-12-01;0,339;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2015-01-01;0,406;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2015-02-01;0,312;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2015-03-01;0,336;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2015-04-01;0,382;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2015-05-01;0,467;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2015-06-01;0,466;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2015-07-01;0,406;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2015-08-01;0,322;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2015-09-01;0,309;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2015-10-01;0,317;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2015-11-01;0,487;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2015-12-01;0,406;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2016-01-01;0,357;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2016-02-01;0,514;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2016-03-01;0,417;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2016-04-01;0,436;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2016-05-01;0,434;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2016-06-01;0,397;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2016-07-01;0,507;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2016-08-01;0,478;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2016-09-01;0,417;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2016-10-01;0,576;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2016-11-01;0,495;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2016-12-01;0,362;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2017-01-01;0,55;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2017-02-01;0,359;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2017-03-01;0,612;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2017-04-01;0,537;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2017-05-01;0,531;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2017-06-01;1,065;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2017-07-01;0,453;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2017-08-01;0,619;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2017-09-01;0,819;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2017-10-01;0,598;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2017-11-01;0,69;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2017-12-01;0,604;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2018-01-01;1,1;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2018-02-01;0,37;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2018-03-01;0,388;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2018-04-01;1,586;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2018-05-01;0,738;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2018-06-01;0,639;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2018-07-01;0,671;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2018-08-01;0,645;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2018-09-01;0,712;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2018-10-01;1,338;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2018-11-01;0,615;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2018-12-01;1,003;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2019-01-01;0,962;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2019-02-01;0,644;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2019-03-01;0,93;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2019-04-01;0,622;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2019-05-01;0,772;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2019-06-01;3,334;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2019-07-01;0,826;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2019-08-01;0,365;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2019-09-01;1,309;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2019-10-01;0,566;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2019-11-01;1,813;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2019-12-01;0,694;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2020-01-01;1,247;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2020-02-01;0,503;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2020-03-01;0,598;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2020-04-01;0,773;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2020-05-01;0,499;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2020-06-01;0,51;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2020-07-01;0,661;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2020-08-01;1,955;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2020-09-01;0,869;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2020-10-01;0,585;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2020-11-01;3,146;10201;Valdemorales;Pol:Buy (C0);gdp_percapita
+2014-01-01;0,081;12002;Aín;Pol:Buy (C0);gdp_percapita
+2014-02-01;0,087;12002;Aín;Pol:Buy (C0);gdp_percapita
+2014-03-01;0,068;12002;Aín;Pol:Buy (C0);gdp_percapita
+2014-04-01;0,136;12002;Aín;Pol:Buy (C0);gdp_percapita
+2014-05-01;0,113;12002;Aín;Pol:Buy (C0);gdp_percapita
+2014-06-01;0,387;12002;Aín;Pol:Buy (C0);gdp_percapita
+2014-07-01;0,314;12002;Aín;Pol:Buy (C0);gdp_percapita
+2014-08-01;0,365;12002;Aín;Pol:Buy (C0);gdp_percapita
+2014-09-01;0,284;12002;Aín;Pol:Buy (C0);gdp_percapita
+2014-10-01;0,289;12002;Aín;Pol:Buy (C0);gdp_percapita
+2014-11-01;0,36;12002;Aín;Pol:Buy (C0);gdp_percapita
+2014-12-01;0,285;12002;Aín;Pol:Buy (C0);gdp_percapita
+2015-01-01;0,377;12002;Aín;Pol:Buy (C0);gdp_percapita
+2015-02-01;0,403;12002;Aín;Pol:Buy (C0);gdp_percapita
+2015-03-01;0,308;12002;Aín;Pol:Buy (C0);gdp_percapita
+2015-04-01;0,307;12002;Aín;Pol:Buy (C0);gdp_percapita
+2015-05-01;0,426;12002;Aín;Pol:Buy (C0);gdp_percapita
+2015-06-01;0,893;12002;Aín;Pol:Buy (C0);gdp_percapita
+2015-07-01;0,415;12002;Aín;Pol:Buy (C0);gdp_percapita
+2015-08-01;0,544;12002;Aín;Pol:Buy (C0);gdp_percapita
+2015-09-01;0,344;12002;Aín;Pol:Buy (C0);gdp_percapita
+2015-10-01;0,449;12002;Aín;Pol:Buy (C0);gdp_percapita
+2015-11-01;0,495;12002;Aín;Pol:Buy (C0);gdp_percapita
+2015-12-01;0,362;12002;Aín;Pol:Buy (C0);gdp_percapita
+2016-01-01;0,449;12002;Aín;Pol:Buy (C0);gdp_percapita
+2016-02-01;0,409;12002;Aín;Pol:Buy (C0);gdp_percapita
+2016-03-01;0,324;12002;Aín;Pol:Buy (C0);gdp_percapita
+2016-04-01;0,536;12002;Aín;Pol:Buy (C0);gdp_percapita
+2016-05-01;0,513;12002;Aín;Pol:Buy (C0);gdp_percapita
+2016-06-01;0,68;12002;Aín;Pol:Buy (C0);gdp_percapita
+2016-07-01;0,324;12002;Aín;Pol:Buy (C0);gdp_percapita
+2016-08-01;0,64;12002;Aín;Pol:Buy (C0);gdp_percapita
+2016-09-01;0,453;12002;Aín;Pol:Buy (C0);gdp_percapita
+2016-10-01;0,386;12002;Aín;Pol:Buy (C0);gdp_percapita
+2016-11-01;0,464;12002;Aín;Pol:Buy (C0);gdp_percapita
+2016-12-01;1,397;12002;Aín;Pol:Buy (C0);gdp_percapita
+2017-01-01;0,587;12002;Aín;Pol:Buy (C0);gdp_percapita
+2017-02-01;0,436;12002;Aín;Pol:Buy (C0);gdp_percapita
+2017-03-01;0,353;12002;Aín;Pol:Buy (C0);gdp_percapita
+2017-04-01;0,491;12002;Aín;Pol:Buy (C0);gdp_percapita
+2017-05-01;1,067;12002;Aín;Pol:Buy (C0);gdp_percapita
+2017-06-01;0,687;12002;Aín;Pol:Buy (C0);gdp_percapita
+2017-07-01;0,587;12002;Aín;Pol:Buy (C0);gdp_percapita
+2017-08-01;0,667;12002;Aín;Pol:Buy (C0);gdp_percapita
+2017-09-01;0,703;12002;Aín;Pol:Buy (C0);gdp_percapita
+2017-10-01;0,684;12002;Aín;Pol:Buy (C0);gdp_percapita
+2017-11-01;0,804;12002;Aín;Pol:Buy (C0);gdp_percapita
+2017-12-01;0,952;12002;Aín;Pol:Buy (C0);gdp_percapita
+2018-01-01;0,42;12002;Aín;Pol:Buy (C0);gdp_percapita
+2018-02-01;0,489;12002;Aín;Pol:Buy (C0);gdp_percapita
+2018-03-01;0,564;12002;Aín;Pol:Buy (C0);gdp_percapita
+2018-04-01;0,518;12002;Aín;Pol:Buy (C0);gdp_percapita
+2018-05-01;1,995;12002;Aín;Pol:Buy (C0);gdp_percapita
+2018-06-01;1,101;12002;Aín;Pol:Buy (C0);gdp_percapita
+2018-07-01;1,118;12002;Aín;Pol:Buy (C0);gdp_percapita
+2018-08-01;0,645;12002;Aín;Pol:Buy (C0);gdp_percapita
+2018-09-01;0,631;12002;Aín;Pol:Buy (C0);gdp_percapita
+2018-10-01;0,723;12002;Aín;Pol:Buy (C0);gdp_percapita
+2018-11-01;1,76;12002;Aín;Pol:Buy (C0);gdp_percapita
+2018-12-01;1,018;12002;Aín;Pol:Buy (C0);gdp_percapita
+2019-01-01;0,441;12002;Aín;Pol:Buy (C0);gdp_percapita
+2019-02-01;0,48;12002;Aín;Pol:Buy (C0);gdp_percapita
+2019-03-01;2,826;12002;Aín;Pol:Buy (C0);gdp_percapita
+2019-04-01;0,65;12002;Aín;Pol:Buy (C0);gdp_percapita
+2019-05-01;1,191;12002;Aín;Pol:Buy (C0);gdp_percapita
+2019-06-01;0,822;12002;Aín;Pol:Buy (C0);gdp_percapita
+2019-07-01;0,876;12002;Aín;Pol:Buy (C0);gdp_percapita
+2019-08-01;0,53;12002;Aín;Pol:Buy (C0);gdp_percapita
+2019-09-01;2,254;12002;Aín;Pol:Buy (C0);gdp_percapita
+2019-10-01;0,503;12002;Aín;Pol:Buy (C0);gdp_percapita
+2019-11-01;0,375;12002;Aín;Pol:Buy (C0);gdp_percapita
+2019-12-01;1,796;12002;Aín;Pol:Buy (C0);gdp_percapita
+2020-01-01;0,581;12002;Aín;Pol:Buy (C0);gdp_percapita
+2020-02-01;1,742;12002;Aín;Pol:Buy (C0);gdp_percapita
+2020-03-01;4,962;12002;Aín;Pol:Buy (C0);gdp_percapita
+2020-04-01;0,254;12002;Aín;Pol:Buy (C0);gdp_percapita
+2020-05-01;1,55;12002;Aín;Pol:Buy (C0);gdp_percapita
+2020-06-01;0,312;12002;Aín;Pol:Buy (C0);gdp_percapita
+2020-07-01;1,621;12002;Aín;Pol:Buy (C0);gdp_percapita
+2020-08-01;1,508;12002;Aín;Pol:Buy (C0);gdp_percapita
+2020-09-01;0,441;12002;Aín;Pol:Buy (C0);gdp_percapita
+2020-10-01;0,449;12002;Aín;Pol:Buy (C0);gdp_percapita
+2020-11-01;0,339;12002;Aín;Pol:Buy (C0);gdp_percapita
+2014-01-01;0,106;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2014-02-01;0,102;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2014-03-01;0,139;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2014-04-01;0,13;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2014-05-01;0,144;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2014-06-01;0,198;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2014-07-01;0,153;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2014-08-01;0,149;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2014-09-01;0,189;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2014-10-01;0,194;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2014-11-01;0,22;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2014-12-01;0,227;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2015-01-01;0,25;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2015-02-01;0,218;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2015-03-01;0,296;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2015-04-01;0,298;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2015-05-01;0,461;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2015-06-01;0,547;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2015-07-01;0,483;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2015-08-01;0,369;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2015-09-01;0,369;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2015-10-01;0,331;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2015-11-01;0,318;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2015-12-01;0,371;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2016-01-01;0,369;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2016-02-01;0,392;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2016-03-01;0,395;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2016-04-01;0,389;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2016-05-01;0,452;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2016-06-01;0,441;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2016-07-01;0,464;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2016-08-01;0,444;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2016-09-01;0,48;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2016-10-01;0,525;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2016-11-01;0,579;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2016-12-01;0,565;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2017-01-01;0,542;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2017-02-01;0,49;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2017-03-01;0,564;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2017-04-01;0,628;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2017-05-01;0,69;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2017-06-01;0,685;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2017-07-01;0,683;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2017-08-01;0,676;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2017-09-01;0,643;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2017-10-01;0,652;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2017-11-01;0,788;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2017-12-01;0,735;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2018-01-01;1,033;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2018-02-01;0,839;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2018-03-01;0,717;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2018-04-01;1,108;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2018-05-01;1,211;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2018-06-01;0,908;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2018-07-01;0,757;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2018-08-01;0,998;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2018-09-01;1,026;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2018-10-01;1,208;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2018-11-01;1,127;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2018-12-01;1,037;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2019-01-01;0,997;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2019-02-01;1,016;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2019-03-01;0,7;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2019-04-01;1,155;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2019-05-01;1,429;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2019-06-01;1,316;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2019-07-01;1,229;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2019-08-01;1,329;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2019-09-01;1,346;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2019-10-01;1,624;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2019-11-01;1,924;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2019-12-01;1,495;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2020-01-01;0,709;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2020-02-01;0,946;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2020-03-01;0,917;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2020-04-01;0,843;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2020-05-01;1,277;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2020-06-01;1,533;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2020-07-01;0,943;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2020-08-01;0,826;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2020-09-01;1,406;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2020-10-01;1,448;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2020-11-01;0,916;39057;Ramales de la Victoria;Pol:Buy (C0);gdp_percapita
+2014-01-01;0,102;39102;Voto;Pol:Buy (C0);gdp_percapita
+2014-02-01;0,098;39102;Voto;Pol:Buy (C0);gdp_percapita
+2014-03-01;0,16;39102;Voto;Pol:Buy (C0);gdp_percapita
+2014-04-01;0,176;39102;Voto;Pol:Buy (C0);gdp_percapita
+2014-05-01;0,217;39102;Voto;Pol:Buy (C0);gdp_percapita
+2014-06-01;0,229;39102;Voto;Pol:Buy (C0);gdp_percapita
+2014-07-01;0,175;39102;Voto;Pol:Buy (C0);gdp_percapita
+2014-08-01;0,154;39102;Voto;Pol:Buy (C0);gdp_percapita
+2014-09-01;0,154;39102;Voto;Pol:Buy (C0);gdp_percapita
+2014-10-01;0,148;39102;Voto;Pol:Buy (C0);gdp_percapita
+2014-11-01;0,16;39102;Voto;Pol:Buy (C0);gdp_percapita
+2014-12-01;0,168;39102;Voto;Pol:Buy (C0);gdp_percapita
+2015-01-01;0,207;39102;Voto;Pol:Buy (C0);gdp_percapita
+2015-02-01;0,215;39102;Voto;Pol:Buy (C0);gdp_percapita
+2015-03-01;0,219;39102;Voto;Pol:Buy (C0);gdp_percapita
+2015-04-01;0,302;39102;Voto;Pol:Buy (C0);gdp_percapita
+2015-05-01;0,35;39102;Voto;Pol:Buy (C0);gdp_percapita
+2015-06-01;0,454;39102;Voto;Pol:Buy (C0);gdp_percapita
+2015-07-01;0,425;39102;Voto;Pol:Buy (C0);gdp_percapita
+2015-08-01;0,29;39102;Voto;Pol:Buy (C0);gdp_percapita
+2015-09-01;0,271;39102;Voto;Pol:Buy (C0);gdp_percapita
+2015-10-01;0,254;39102;Voto;Pol:Buy (C0);gdp_percapita
+2015-11-01;0,322;39102;Voto;Pol:Buy (C0);gdp_percapita
+2015-12-01;0,347;39102;Voto;Pol:Buy (C0);gdp_percapita
+2016-01-01;0,302;39102;Voto;Pol:Buy (C0);gdp_percapita
+2016-02-01;0,346;39102;Voto;Pol:Buy (C0);gdp_percapita
+2016-03-01;0,32;39102;Voto;Pol:Buy (C0);gdp_percapita
+2016-04-01;0,354;39102;Voto;Pol:Buy (C0);gdp_percapita
+2016-05-01;0,345;39102;Voto;Pol:Buy (C0);gdp_percapita
+2016-06-01;0,399;39102;Voto;Pol:Buy (C0);gdp_percapita
+2016-07-01;0,42;39102;Voto;Pol:Buy (C0);gdp_percapita
+2016-08-01;0,426;39102;Voto;Pol:Buy (C0);gdp_percapita
+2016-09-01;0,397;39102;Voto;Pol:Buy (C0);gdp_percapita
+2016-10-01;0,435;39102;Voto;Pol:Buy (C0);gdp_percapita
+2016-11-01;0,456;39102;Voto;Pol:Buy (C0);gdp_percapita
+2016-12-01;0,515;39102;Voto;Pol:Buy (C0);gdp_percapita
+2017-01-01;0,444;39102;Voto;Pol:Buy (C0);gdp_percapita
+2017-02-01;0,469;39102;Voto;Pol:Buy (C0);gdp_percapita
+2017-03-01;0,6;39102;Voto;Pol:Buy (C0);gdp_percapita
+2017-04-01;0,535;39102;Voto;Pol:Buy (C0);gdp_percapita
+2017-05-01;0,635;39102;Voto;Pol:Buy (C0);gdp_percapita
+2017-06-01;0,601;39102;Voto;Pol:Buy (C0);gdp_percapita
+2017-07-01;0,579;39102;Voto;Pol:Buy (C0);gdp_percapita
+2017-08-01;0,577;39102;Voto;Pol:Buy (C0);gdp_percapita
+2017-09-01;0,618;39102;Voto;Pol:Buy (C0);gdp_percapita
+2017-10-01;0,639;39102;Voto;Pol:Buy (C0);gdp_percapita
+2017-11-01;0,639;39102;Voto;Pol:Buy (C0);gdp_percapita
+2017-12-01;0,646;39102;Voto;Pol:Buy (C0);gdp_percapita
+2018-01-01;0,611;39102;Voto;Pol:Buy (C0);gdp_percapita
+2018-02-01;0,711;39102;Voto;Pol:Buy (C0);gdp_percapita
+2018-03-01;0,81;39102;Voto;Pol:Buy (C0);gdp_percapita
+2018-04-01;0,874;39102;Voto;Pol:Buy (C0);gdp_percapita
+2018-05-01;0,815;39102;Voto;Pol:Buy (C0);gdp_percapita
+2018-06-01;1,087;39102;Voto;Pol:Buy (C0);gdp_percapita
+2018-07-01;0,843;39102;Voto;Pol:Buy (C0);gdp_percapita
+2018-08-01;1,002;39102;Voto;Pol:Buy (C0);gdp_percapita
+2018-09-01;0,895;39102;Voto;Pol:Buy (C0);gdp_percapita
+2018-10-01;0,864;39102;Voto;Pol:Buy (C0);gdp_percapita
+2018-11-01;0,95;39102;Voto;Pol:Buy (C0);gdp_percapita
+2018-12-01;0,929;39102;Voto;Pol:Buy (C0);gdp_percapita
+2019-01-01;1,03;39102;Voto;Pol:Buy (C0);gdp_percapita
+2019-02-01;0,96;39102;Voto;Pol:Buy (C0);gdp_percapita
+2019-03-01;1,139;39102;Voto;Pol:Buy (C0);gdp_percapita
+2019-04-01;1,094;39102;Voto;Pol:Buy (C0);gdp_percapita
+2019-05-01;1,161;39102;Voto;Pol:Buy (C0);gdp_percapita
+2019-06-01;1,372;39102;Voto;Pol:Buy (C0);gdp_percapita
+2019-07-01;1,443;39102;Voto;Pol:Buy (C0);gdp_percapita
+2019-08-01;1,478;39102;Voto;Pol:Buy (C0);gdp_percapita
+2019-09-01;0,969;39102;Voto;Pol:Buy (C0);gdp_percapita
+2019-10-01;0,988;39102;Voto;Pol:Buy (C0);gdp_percapita
+2019-11-01;1,127;39102;Voto;Pol:Buy (C0);gdp_percapita
+2019-12-01;1,287;39102;Voto;Pol:Buy (C0);gdp_percapita
+2020-01-01;1,293;39102;Voto;Pol:Buy (C0);gdp_percapita
+2020-02-01;1,002;39102;Voto;Pol:Buy (C0);gdp_percapita
+2020-03-01;0,794;39102;Voto;Pol:Buy (C0);gdp_percapita
+2020-04-01;1,427;39102;Voto;Pol:Buy (C0);gdp_percapita
+2020-05-01;0,929;39102;Voto;Pol:Buy (C0);gdp_percapita
+2020-06-01;0,736;39102;Voto;Pol:Buy (C0);gdp_percapita
+2020-07-01;1,472;39102;Voto;Pol:Buy (C0);gdp_percapita
+2020-08-01;1,084;39102;Voto;Pol:Buy (C0);gdp_percapita
+2020-09-01;1,445;39102;Voto;Pol:Buy (C0);gdp_percapita
+2020-10-01;1,044;39102;Voto;Pol:Buy (C0);gdp_percapita
+2020-11-01;0,956;39102;Voto;Pol:Buy (C0);gdp_percapita
+2014-01-01;0,082;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2014-02-01;0,075;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2014-03-01;0,1;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2014-04-01;0,1;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2014-05-01;0,098;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2014-06-01;0,123;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2014-07-01;0,061;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2014-08-01;0,08;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2014-09-01;0,087;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2014-10-01;0,077;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2014-11-01;0,076;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2014-12-01;0,118;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2015-01-01;0,05;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2015-02-01;1,67;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2015-03-01;1,719;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2015-04-01;1,876;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2015-05-01;1,76;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2015-06-01;1,72;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2015-07-01;1,662;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2015-08-01;1,673;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2015-09-01;1,696;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2015-10-01;1,762;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2015-11-01;1,715;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2015-12-01;1,648;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2016-01-01;1,7;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2016-02-01;1,908;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2016-03-01;1,759;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2016-04-01;1,773;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2016-05-01;1,847;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2016-06-01;1,924;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2016-07-01;1,819;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2016-08-01;1,811;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2016-09-01;1,742;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2016-10-01;1,956;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2016-11-01;1,893;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2016-12-01;1,744;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2017-01-01;1,758;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2017-02-01;1,983;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2017-03-01;1,842;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2017-04-01;2,144;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2017-05-01;1,845;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2017-06-01;1,836;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2017-07-01;2,247;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2017-08-01;1,868;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2017-09-01;2,054;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2017-10-01;1,97;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2017-11-01;1,975;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2017-12-01;1,889;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2018-01-01;1,949;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2018-02-01;1,92;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2018-03-01;1,912;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2018-04-01;1,888;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2018-05-01;1,899;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2018-06-01;2,901;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2018-07-01;2,144;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2018-08-01;2,582;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2018-09-01;1,991;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2018-10-01;1,844;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2018-11-01;2,075;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2018-12-01;2,713;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2019-01-01;2,472;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2019-02-01;2,087;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2019-03-01;2,684;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2019-04-01;2,195;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2019-05-01;2,657;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2019-06-01;2,284;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2019-07-01;1,898;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2019-08-01;1,809;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2019-09-01;1,998;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2019-10-01;2,722;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2019-11-01;3,484;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2019-12-01;4,039;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2020-01-01;3,702;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2020-02-01;3,155;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2020-03-01;2,661;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2020-04-01;1,809;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2020-05-01;1,743;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2020-06-01;1,706;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2020-07-01;1,998;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2020-08-01;1,918;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2020-09-01;1,788;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2020-10-01;1,892;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2020-11-01;1,689;10201;Valdemorales;Pol:Wage (C0);gdp_percapita
+2014-01-01;0,091;12002;Aín;Pol:Wage (C0);gdp_percapita
+2014-02-01;0,085;12002;Aín;Pol:Wage (C0);gdp_percapita
+2014-03-01;0,129;12002;Aín;Pol:Wage (C0);gdp_percapita
+2014-04-01;0,079;12002;Aín;Pol:Wage (C0);gdp_percapita
+2014-05-01;0,154;12002;Aín;Pol:Wage (C0);gdp_percapita
+2014-06-01;0,141;12002;Aín;Pol:Wage (C0);gdp_percapita
+2014-07-01;0,213;12002;Aín;Pol:Wage (C0);gdp_percapita
+2014-08-01;0,222;12002;Aín;Pol:Wage (C0);gdp_percapita
+2014-09-01;0,283;12002;Aín;Pol:Wage (C0);gdp_percapita
+2014-10-01;0,251;12002;Aín;Pol:Wage (C0);gdp_percapita
+2014-11-01;0,335;12002;Aín;Pol:Wage (C0);gdp_percapita
+2014-12-01;0,281;12002;Aín;Pol:Wage (C0);gdp_percapita
+2015-01-01;0,37;12002;Aín;Pol:Wage (C0);gdp_percapita
+2015-02-01;0,387;12002;Aín;Pol:Wage (C0);gdp_percapita
+2015-03-01;0,234;12002;Aín;Pol:Wage (C0);gdp_percapita
+2015-04-01;0,508;12002;Aín;Pol:Wage (C0);gdp_percapita
+2015-05-01;0,336;12002;Aín;Pol:Wage (C0);gdp_percapita
+2015-06-01;0,563;12002;Aín;Pol:Wage (C0);gdp_percapita
+2015-07-01;0,354;12002;Aín;Pol:Wage (C0);gdp_percapita
+2015-08-01;0,482;12002;Aín;Pol:Wage (C0);gdp_percapita
+2015-09-01;0,542;12002;Aín;Pol:Wage (C0);gdp_percapita
+2015-10-01;0,364;12002;Aín;Pol:Wage (C0);gdp_percapita
+2015-11-01;0,418;12002;Aín;Pol:Wage (C0);gdp_percapita
+2015-12-01;0,243;12002;Aín;Pol:Wage (C0);gdp_percapita
+2016-01-01;0,361;12002;Aín;Pol:Wage (C0);gdp_percapita
+2016-02-01;0,282;12002;Aín;Pol:Wage (C0);gdp_percapita
+2016-03-01;0,854;12002;Aín;Pol:Wage (C0);gdp_percapita
+2016-04-01;0,579;12002;Aín;Pol:Wage (C0);gdp_percapita
+2016-05-01;0,518;12002;Aín;Pol:Wage (C0);gdp_percapita
+2016-06-01;0,495;12002;Aín;Pol:Wage (C0);gdp_percapita
+2016-07-01;0,526;12002;Aín;Pol:Wage (C0);gdp_percapita
+2016-08-01;0,569;12002;Aín;Pol:Wage (C0);gdp_percapita
+2016-09-01;0,457;12002;Aín;Pol:Wage (C0);gdp_percapita
+2016-10-01;0,363;12002;Aín;Pol:Wage (C0);gdp_percapita
+2016-11-01;0,537;12002;Aín;Pol:Wage (C0);gdp_percapita
+2016-12-01;0,568;12002;Aín;Pol:Wage (C0);gdp_percapita
+2017-01-01;0,598;12002;Aín;Pol:Wage (C0);gdp_percapita
+2017-02-01;0,618;12002;Aín;Pol:Wage (C0);gdp_percapita
+2017-03-01;0,593;12002;Aín;Pol:Wage (C0);gdp_percapita
+2017-04-01;0,806;12002;Aín;Pol:Wage (C0);gdp_percapita
+2017-05-01;0,825;12002;Aín;Pol:Wage (C0);gdp_percapita
+2017-06-01;0,447;12002;Aín;Pol:Wage (C0);gdp_percapita
+2017-07-01;0,912;12002;Aín;Pol:Wage (C0);gdp_percapita
+2017-08-01;0,705;12002;Aín;Pol:Wage (C0);gdp_percapita
+2017-09-01;0,404;12002;Aín;Pol:Wage (C0);gdp_percapita
+2017-10-01;1,072;12002;Aín;Pol:Wage (C0);gdp_percapita
+2017-11-01;0,755;12002;Aín;Pol:Wage (C0);gdp_percapita
+2017-12-01;0,849;12002;Aín;Pol:Wage (C0);gdp_percapita
+2018-01-01;1,069;12002;Aín;Pol:Wage (C0);gdp_percapita
+2018-02-01;0,719;12002;Aín;Pol:Wage (C0);gdp_percapita
+2018-03-01;1,272;12002;Aín;Pol:Wage (C0);gdp_percapita
+2018-04-01;0,851;12002;Aín;Pol:Wage (C0);gdp_percapita
+2018-05-01;1,188;12002;Aín;Pol:Wage (C0);gdp_percapita
+2018-06-01;0,752;12002;Aín;Pol:Wage (C0);gdp_percapita
+2018-07-01;1,277;12002;Aín;Pol:Wage (C0);gdp_percapita
+2018-08-01;0,95;12002;Aín;Pol:Wage (C0);gdp_percapita
+2018-09-01;1,201;12002;Aín;Pol:Wage (C0);gdp_percapita
+2018-10-01;1,529;12002;Aín;Pol:Wage (C0);gdp_percapita
+2018-11-01;1,142;12002;Aín;Pol:Wage (C0);gdp_percapita
+2018-12-01;0,877;12002;Aín;Pol:Wage (C0);gdp_percapita
+2019-01-01;1,469;12002;Aín;Pol:Wage (C0);gdp_percapita
+2019-02-01;0,903;12002;Aín;Pol:Wage (C0);gdp_percapita
+2019-03-01;1,108;12002;Aín;Pol:Wage (C0);gdp_percapita
+2019-04-01;0,998;12002;Aín;Pol:Wage (C0);gdp_percapita
+2019-05-01;0,751;12002;Aín;Pol:Wage (C0);gdp_percapita
+2019-06-01;0,778;12002;Aín;Pol:Wage (C0);gdp_percapita
+2019-07-01;1,082;12002;Aín;Pol:Wage (C0);gdp_percapita
+2019-08-01;4,724;12002;Aín;Pol:Wage (C0);gdp_percapita
+2019-09-01;1,424;12002;Aín;Pol:Wage (C0);gdp_percapita
+2019-10-01;1,958;12002;Aín;Pol:Wage (C0);gdp_percapita
+2019-11-01;0,924;12002;Aín;Pol:Wage (C0);gdp_percapita
+2019-12-01;0,543;12002;Aín;Pol:Wage (C0);gdp_percapita
+2020-01-01;0,257;12002;Aín;Pol:Wage (C0);gdp_percapita
+2020-02-01;0,4;12002;Aín;Pol:Wage (C0);gdp_percapita
+2020-03-01;0,35;12002;Aín;Pol:Wage (C0);gdp_percapita
+2020-04-01;0,412;12002;Aín;Pol:Wage (C0);gdp_percapita
+2020-05-01;0,321;12002;Aín;Pol:Wage (C0);gdp_percapita
+2020-06-01;0,33;12002;Aín;Pol:Wage (C0);gdp_percapita
+2020-07-01;0,528;12002;Aín;Pol:Wage (C0);gdp_percapita
+2020-08-01;0,646;12002;Aín;Pol:Wage (C0);gdp_percapita
+2020-09-01;0,684;12002;Aín;Pol:Wage (C0);gdp_percapita
+2020-10-01;3,626;12002;Aín;Pol:Wage (C0);gdp_percapita
+2020-11-01;0,654;12002;Aín;Pol:Wage (C0);gdp_percapita
+2014-01-01;0,105;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2014-02-01;0,098;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2014-03-01;0,111;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2014-04-01;0,12;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2014-05-01;0,157;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2014-06-01;0,214;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2014-07-01;0,173;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2014-08-01;0,163;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2014-09-01;0,546;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2014-10-01;0,576;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2014-11-01;0,732;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2014-12-01;0,735;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2015-01-01;0,766;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2015-02-01;0,773;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2015-03-01;0,769;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2015-04-01;0,794;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2015-05-01;0,913;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2015-06-01;0,949;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2015-07-01;0,87;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2015-08-01;0,793;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2015-09-01;0,835;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2015-10-01;0,834;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2015-11-01;0,83;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2015-12-01;0,89;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2016-01-01;0,867;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2016-02-01;0,856;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2016-03-01;0,891;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2016-04-01;0,901;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2016-05-01;0,969;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2016-06-01;0,953;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2016-07-01;0,92;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2016-08-01;0,986;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2016-09-01;0,983;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2016-10-01;1,082;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2016-11-01;1,034;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2016-12-01;1,044;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2017-01-01;1,0;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2017-02-01;1,036;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2017-03-01;1,04;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2017-04-01;1,134;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2017-05-01;1,282;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2017-06-01;1,15;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2017-07-01;1,292;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2017-08-01;1,258;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2017-09-01;1,194;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2017-10-01;1,449;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2017-11-01;1,172;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2017-12-01;1,321;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2018-01-01;1,231;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2018-02-01;1,535;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2018-03-01;1,351;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2018-04-01;1,313;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2018-05-01;1,623;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2018-06-01;1,392;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2018-07-01;1,688;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2018-08-01;1,735;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2018-09-01;1,528;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2018-10-01;1,673;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2018-11-01;1,525;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2018-12-01;1,826;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2019-01-01;1,291;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2019-02-01;1,627;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2019-03-01;1,665;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2019-04-01;2,006;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2019-05-01;2,204;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2019-06-01;2,08;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2019-07-01;1,97;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2019-08-01;1,874;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2019-09-01;1,484;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2019-10-01;2,144;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2019-11-01;1,594;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2019-12-01;1,868;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2020-01-01;2,016;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2020-02-01;2,218;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2020-03-01;1,778;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2020-04-01;1,28;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2020-05-01;1,56;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2020-06-01;1,482;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2020-07-01;1,085;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2020-08-01;1,106;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2020-09-01;1,851;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2020-10-01;1,054;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2020-11-01;1,786;39057;Ramales de la Victoria;Pol:Wage (C0);gdp_percapita
+2014-01-01;0,096;39102;Voto;Pol:Wage (C0);gdp_percapita
+2014-02-01;0,096;39102;Voto;Pol:Wage (C0);gdp_percapita
+2014-03-01;0,131;39102;Voto;Pol:Wage (C0);gdp_percapita
+2014-04-01;0,155;39102;Voto;Pol:Wage (C0);gdp_percapita
+2014-05-01;0,225;39102;Voto;Pol:Wage (C0);gdp_percapita
+2014-06-01;0,321;39102;Voto;Pol:Wage (C0);gdp_percapita
+2014-07-01;0,276;39102;Voto;Pol:Wage (C0);gdp_percapita
+2014-08-01;0,277;39102;Voto;Pol:Wage (C0);gdp_percapita
+2014-09-01;0,262;39102;Voto;Pol:Wage (C0);gdp_percapita
+2014-10-01;0,273;39102;Voto;Pol:Wage (C0);gdp_percapita
+2014-11-01;0,296;39102;Voto;Pol:Wage (C0);gdp_percapita
+2014-12-01;0,313;39102;Voto;Pol:Wage (C0);gdp_percapita
+2015-01-01;0,336;39102;Voto;Pol:Wage (C0);gdp_percapita
+2015-02-01;0,34;39102;Voto;Pol:Wage (C0);gdp_percapita
+2015-03-01;0,363;39102;Voto;Pol:Wage (C0);gdp_percapita
+2015-04-01;0,452;39102;Voto;Pol:Wage (C0);gdp_percapita
+2015-05-01;0,454;39102;Voto;Pol:Wage (C0);gdp_percapita
+2015-06-01;0,49;39102;Voto;Pol:Wage (C0);gdp_percapita
+2015-07-01;0,486;39102;Voto;Pol:Wage (C0);gdp_percapita
+2015-08-01;0,48;39102;Voto;Pol:Wage (C0);gdp_percapita
+2015-09-01;0,4;39102;Voto;Pol:Wage (C0);gdp_percapita
+2015-10-01;0,395;39102;Voto;Pol:Wage (C0);gdp_percapita
+2015-11-01;0,433;39102;Voto;Pol:Wage (C0);gdp_percapita
+2015-12-01;0,429;39102;Voto;Pol:Wage (C0);gdp_percapita
+2016-01-01;0,437;39102;Voto;Pol:Wage (C0);gdp_percapita
+2016-02-01;0,534;39102;Voto;Pol:Wage (C0);gdp_percapita
+2016-03-01;0,483;39102;Voto;Pol:Wage (C0);gdp_percapita
+2016-04-01;0,483;39102;Voto;Pol:Wage (C0);gdp_percapita
+2016-05-01;0,52;39102;Voto;Pol:Wage (C0);gdp_percapita
+2016-06-01;0,548;39102;Voto;Pol:Wage (C0);gdp_percapita
+2016-07-01;0,513;39102;Voto;Pol:Wage (C0);gdp_percapita
+2016-08-01;0,531;39102;Voto;Pol:Wage (C0);gdp_percapita
+2016-09-01;0,571;39102;Voto;Pol:Wage (C0);gdp_percapita
+2016-10-01;0,606;39102;Voto;Pol:Wage (C0);gdp_percapita
+2016-11-01;0,559;39102;Voto;Pol:Wage (C0);gdp_percapita
+2016-12-01;0,587;39102;Voto;Pol:Wage (C0);gdp_percapita
+2017-01-01;0,635;39102;Voto;Pol:Wage (C0);gdp_percapita
+2017-02-01;0,57;39102;Voto;Pol:Wage (C0);gdp_percapita
+2017-03-01;0,628;39102;Voto;Pol:Wage (C0);gdp_percapita
+2017-04-01;0,667;39102;Voto;Pol:Wage (C0);gdp_percapita
+2017-05-01;0,805;39102;Voto;Pol:Wage (C0);gdp_percapita
+2017-06-01;0,86;39102;Voto;Pol:Wage (C0);gdp_percapita
+2017-07-01;0,737;39102;Voto;Pol:Wage (C0);gdp_percapita
+2017-08-01;0,679;39102;Voto;Pol:Wage (C0);gdp_percapita
+2017-09-01;0,783;39102;Voto;Pol:Wage (C0);gdp_percapita
+2017-10-01;0,798;39102;Voto;Pol:Wage (C0);gdp_percapita
+2017-11-01;0,781;39102;Voto;Pol:Wage (C0);gdp_percapita
+2017-12-01;0,703;39102;Voto;Pol:Wage (C0);gdp_percapita
+2018-01-01;0,812;39102;Voto;Pol:Wage (C0);gdp_percapita
+2018-02-01;0,868;39102;Voto;Pol:Wage (C0);gdp_percapita
+2018-03-01;0,949;39102;Voto;Pol:Wage (C0);gdp_percapita
+2018-04-01;1,184;39102;Voto;Pol:Wage (C0);gdp_percapita
+2018-05-01;1,075;39102;Voto;Pol:Wage (C0);gdp_percapita
+2018-06-01;1,147;39102;Voto;Pol:Wage (C0);gdp_percapita
+2018-07-01;0,987;39102;Voto;Pol:Wage (C0);gdp_percapita
+2018-08-01;1,019;39102;Voto;Pol:Wage (C0);gdp_percapita
+2018-09-01;1,24;39102;Voto;Pol:Wage (C0);gdp_percapita
+2018-10-01;1,133;39102;Voto;Pol:Wage (C0);gdp_percapita
+2018-11-01;1,165;39102;Voto;Pol:Wage (C0);gdp_percapita
+2018-12-01;1,08;39102;Voto;Pol:Wage (C0);gdp_percapita
+2019-01-01;1,156;39102;Voto;Pol:Wage (C0);gdp_percapita
+2019-02-01;0,901;39102;Voto;Pol:Wage (C0);gdp_percapita
+2019-03-01;0,93;39102;Voto;Pol:Wage (C0);gdp_percapita
+2019-04-01;1,227;39102;Voto;Pol:Wage (C0);gdp_percapita
+2019-05-01;1,346;39102;Voto;Pol:Wage (C0);gdp_percapita
+2019-06-01;1,584;39102;Voto;Pol:Wage (C0);gdp_percapita
+2019-07-01;1,509;39102;Voto;Pol:Wage (C0);gdp_percapita
+2019-08-01;1,965;39102;Voto;Pol:Wage (C0);gdp_percapita
+2019-09-01;1,673;39102;Voto;Pol:Wage (C0);gdp_percapita
+2019-10-01;0,977;39102;Voto;Pol:Wage (C0);gdp_percapita
+2019-11-01;1,231;39102;Voto;Pol:Wage (C0);gdp_percapita
+2019-12-01;1,477;39102;Voto;Pol:Wage (C0);gdp_percapita
+2020-01-01;1,223;39102;Voto;Pol:Wage (C0);gdp_percapita
+2020-02-01;1,082;39102;Voto;Pol:Wage (C0);gdp_percapita
+2020-03-01;1,422;39102;Voto;Pol:Wage (C0);gdp_percapita
+2020-04-01;1,292;39102;Voto;Pol:Wage (C0);gdp_percapita
+2020-05-01;1,437;39102;Voto;Pol:Wage (C0);gdp_percapita
+2020-06-01;1,406;39102;Voto;Pol:Wage (C0);gdp_percapita
+2020-07-01;1,401;39102;Voto;Pol:Wage (C0);gdp_percapita
+2020-08-01;1,468;39102;Voto;Pol:Wage (C0);gdp_percapita
+2020-09-01;1,236;39102;Voto;Pol:Wage (C0);gdp_percapita
+2020-10-01;1,595;39102;Voto;Pol:Wage (C0);gdp_percapita
+2020-11-01;1,596;39102;Voto;Pol:Wage (C0);gdp_percapita

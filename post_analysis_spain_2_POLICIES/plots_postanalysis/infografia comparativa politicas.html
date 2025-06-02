@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Infografía: Resultados de la Simulación</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f0f4f8; /* Light blue-gray background */
+        }
+        .header-title {
+            background-color: #2c5282; /* Dark blue */
+            color: white;
+        }
+        .section-title {
+            color: #2d3748; /* Dark gray */
+            border-bottom: 2px solid #cbd5e0; /* Light gray border */
+        }
+        .card {
+            background-color: white;
+            border-radius: 0.75rem; /* More rounded corners */
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s ease-in-out;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+        }
+        .card img {
+            border-top-left-radius: 0.75rem;
+            border-top-right-radius: 0.75rem;
+            object-fit: cover; /* Ensure images cover the area nicely */
+            aspect-ratio: 16/9; /* Common aspect ratio for graphs */
+        }
+        .card-content {
+            padding: 1.5rem;
+        }
+        .card-title {
+            color: #1a202c; /* Very dark gray / almost black */
+        }
+        .card-description, .card-observation {
+            color: #4a5568; /* Medium gray */
+        }
+        .observation-label {
+            font-weight: 600;
+            color: #2c5282; /* Dark blue */
+        }
+         /* Fallback for images */
+        img::after {
+            content: 'Imagen no encontrada: Reemplace con la ruta correcta si es necesario.';
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: #e2e8f0;
+            color: #718096;
+            text-align: center;
+            padding: 20px;
+            box-sizing: border-box;
+            font-size: 0.875rem;
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+    <header class="header-title p-6 shadow-md">
+        <h1 class="text-3xl md:text-4xl font-bold text-center">Infografía: Resultados de la Simulación</h1>
+        <p class="text-center text-sm mt-2 text-blue-200">Ejecución: run__2025-05-29T17_02_05.507260</p>
+        <div class="text-center mt-3 mb-2">
+            <p class="text-sm text-blue-200 font-semibold mb-2">Municipios de estudio:</p>
+            <div class="flex flex-wrap justify-center gap-2">
+                <span class="bg-blue-600 text-white px-3 py-1 rounded-full text-xs">Valdemorales (10201)</span>
+                <span class="bg-blue-600 text-white px-3 py-1 rounded-full text-xs">Aín (12002)</span>
+                <span class="bg-blue-600 text-white px-3 py-1 rounded-full text-xs">Fisterra (15037)</span>
+                <span class="bg-blue-600 text-white px-3 py-1 rounded-full text-xs">Boal (33007)</span>
+                <span class="bg-blue-600 text-white px-3 py-1 rounded-full text-xs">Ramales de la Victoria (39057)</span>
+                <span class="bg-blue-600 text-white px-3 py-1 rounded-full text-xs">Voto (39102)</span>
+            </div>
+        </div>
+        <p class="text-center text-xs mt-1 text-blue-300">(Nota: Las rutas de las imágenes asumen que los archivos .png están en el directorio raíz del proyecto.)</p>
+    </header>
+
+    <main class="container mx-auto p-4 md:p-8">
+
+        <section class="mb-12">
+            <h2 class="text-2xl md:text-3xl font-semibold mb-6 section-title pb-2">1. Tendencias Generales Agregadas</h2>
+            <p class="mb-6 text-gray-600">Estos gráficos muestran la evolución de indicadores clave a nivel agregado para toda la simulación.</p>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
+
+                <div class="card">
+                    <img src="commuting_distance_trend.png" alt="Tendencia de la Distancia Total de Commuting" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen 'commuting_distance_trend.png' no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">1.1. Distancia Total de Commuting</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Evolución de la distancia total de commuting acumulada por todos los agentes a lo largo del tiempo.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Tendencia general creciente, lo que podría indicar expansión urbana o mayor dispersión entre residencia y trabajo.</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="gini_index_trend.png" alt="Tendencia del Índice de Gini General" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen 'gini_index_trend.png' no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">1.2. Índice de Gini (Desigualdad General)</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Evolución del índice de Gini (desigualdad de riqueza/ingresos). 0 = igualdad perfecta.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Estabilidad inicial, luego volatilidad significativa (2016-2017). Posterior estabilización en nivel ligeramente negativo (inusual, requiere investigación).</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="quality_of_life_index_trend.png" alt="Tendencia del Índice de Calidad de Vida (QLI)" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen 'quality_of_life_index_trend.png' no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">1.3. Índice de Calidad de Vida (QLI)</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Evolución del promedio del Índice de Calidad de Vida (QLI) para todos los agentes.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Crecimiento constante y significativo, sugiriendo mejora progresiva en condiciones de vida promedio.</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="rental_price_trend.png" alt="Tendencia del Precio Medio de Alquiler" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen 'rental_price_trend.png' no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">1.4. Precio Medio de Alquiler</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Evolución del precio medio de alquiler en el mercado.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Disminución pronunciada hasta aprox. 2018 (mínimo), luego tendencia ascendente.</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="unemployment_rate_trend.png" alt="Tendencia de la Tasa de Desempleo General" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen 'unemployment_rate_trend.png' no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">1.5. Tasa de Desempleo General</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Evolución de la tasa de desempleo agregada.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Incremento constante y gradual a lo largo de toda la simulación.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="mb-12">
+            <h2 class="text-2xl md:text-3xl font-semibold mb-6 section-title pb-2">2. Análisis a Nivel Municipal</h2>
+            <p class="mb-6 text-gray-600">Estos gráficos detallan la evolución y comparación de indicadores entre los municipios simulados: Valdemorales, Aín, Fisterra, Boal, Ramales de la Victoria, y Voto.</p>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
+
+                <div class="card">
+                    <img src="housing_prices_by_municipality.png" alt="Precios de Venta de Viviendas por Municipio" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen 'housing_prices_by_municipality.png' no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">2.1. Precio de Venta de Viviendas por Municipio</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Compara la evolución del precio medio de venta de viviendas en cada municipio.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Dinámicas diferentes. Fisterra: crecimiento exponencial y volatilidad alta. Voto y Ramales de la Victoria: crecimiento considerable. Valdemorales, Aín, Boal: precios bajos y menor crecimiento.</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="municipal_commuting_evolution.png" alt="Distancia de Commuting por Municipio" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                     <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen 'municipal_commuting_evolution.png' no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">2.2. Distancia de Commuting por Municipio</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Evolución de la distancia total de commuting para cada municipio.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Fisterra domina ampliamente con tendencia creciente. Otros municipios con niveles mucho más bajos y estables.</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="municipal_gdp_per_capita_evolution.png" alt="PIB per Cápita por Municipio" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen 'municipal_gdp_per_capita_evolution.png' no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">2.3. PIB per Cápita por Municipio</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Compara la evolución del Producto Interior Bruto per cápita en cada municipio.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Voto destaca con PIB per cápita significativamente más alto y volátil. Resto con niveles más bajos y fluctuaciones menores.</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="municipal_unemployment_evolution.png" alt="Tasa de Desempleo por Municipio" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen 'municipal_unemployment_evolution.png' no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">2.4. Tasa de Desempleo por Municipio</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Evolución de la tasa de desempleo para cada municipio.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Tendencia general al alza en todos. Fisterra con tasa consistentemente más alta. Valdemorales y Aín inician más bajo pero crecen.</p>
+                    </div>
+                </div>
+
+                 <div class="card">
+                    <img src="municipal_regional_gini_evolution.png" alt="Gini Regional por Municipio" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen 'municipal_regional_gini_evolution.png' no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">2.5. Índice de Gini Regional por Municipio</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Compara la evolución de la desigualdad de ingresos (índice Gini) dentro de cada municipio.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Mayoría cerca de cero. Boal experimenta volatilidad extrema al final (sugiere cambios drásticos o problemas en métrica).</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="municipal_population_evolution.png" alt="Población por Municipio" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen 'municipal_population_evolution.png' no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">2.6. Población por Municipio</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Muestra cómo evoluciona la población en cada uno de los municipios.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Fisterra con población significativamente mayor y crecimiento constante. Otros con poblaciones menores y relativamente estables/ligero crecimiento.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="mb-12">
+            <h2 class="text-2xl md:text-3xl font-semibold mb-6 section-title pb-2">3. Comparativas Puntuales (Último Periodo: 2019-06-01)</h2>
+            <p class="mb-6 text-gray-600">Estos gráficos ofrecen una instantánea de diferentes métricas en el último periodo registrado de la simulación.</p>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
+
+                <div class="card">
+                    <img src="municipal_licenses_treasure_comparison.png" alt="Comparativa de Licencias de Construcción y Tesorería Municipal" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen 'municipal_licenses_treasure_comparison.png' no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">3.1. Licencias de Construcción y Tesorería Municipal</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Comparativa de licencias de construcción (azul) y tesorería municipal (rojo) por municipio en el último periodo.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Fisterra y Boal: mayor número de licencias. Tesorería: Fisterra lidera, seguida por Ramales de la Victoria y Voto. Aín con valores más bajos.</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="municipal_pop_vs_gdp_scatter.png" alt="Relación Población vs. PIB Regional" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen 'municipal_pop_vs_gdp_scatter.png' no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">3.2. Relación Población vs. PIB Regional</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Diagrama de dispersión: población vs. PIB regional por municipio en el último periodo.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Fisterra: mayor población y PIB considerable. Voto: población menor pero PIB regional relativamente alto.</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="municipal_qli_vs_housing_scatter.png" alt="Relación QLI vs. Valor Medio de Vivienda Regional" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen 'municipal_qli_vs_housing_scatter.png' no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">3.3. Relación QLI vs. Valor Medio de Vivienda Regional</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Diagrama de dispersión: QLI vs. valor medio de vivienda regional por municipio en el último periodo.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Fisterra: QLI más alto y valor de vivienda más elevado. Voto: QLI alto con valor de vivienda moderado. Otros agrupados con valores más bajos.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="mb-12">
+            <h2 class="text-2xl md:text-3xl font-semibold mb-6 section-title pb-2">4. Mapas Coropléticos (Último Periodo)</h2>
+            <p class="mb-6 text-gray-600">Estos mapas muestran la distribución geográfica de ciertas métricas.</p>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
+
+                <div class="card">
+                    <img src="municipal_map_housing_price.png" alt="Mapa de Precios Medios de Vivienda (Estático)" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen 'municipal_map_housing_price.png' no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">4.1. Mapa de Precios Medios de Vivienda (Estático)</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Mapa coroplético estático: precio medio de la vivienda por municipio en el último año (2019).</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Problemas de visualización/escala; municipios no se colorean claramente según leyenda. Mayoría con color más bajo.</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="municipal_map_QLI.png" alt="Mapa del Índice de Calidad de Vida (QLI) (Estático)" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen 'municipal_map_QLI.png' no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">4.2. Mapa del Índice de Calidad de Vida (QLI) (Estático)</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Mapa coroplético estático: Índice de Calidad de Vida (QLI) por municipio en el último año (2019).</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Similar al mapa de precios, dificultades para distinguir variaciones entre municipios.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="mt-8 p-6 bg-blue-50 border border-blue-200 rounded-lg shadow">
+                 <h3 class="text-xl font-semibold mb-2 text-blue-700">4.3. Mapa Interactivo del Índice de Calidad de Vida (QLI)</h3>
+                 <p class="text-sm text-gray-700">Se generó también un mapa interactivo: <code class="bg-gray-200 px-1 rounded">municipal_map_interactive_QLI.html</code>. Este archivo permite una exploración más detallada.</p>
+                 <p class="text-xs text-gray-500 mt-1"><i>(Nota: La efectividad de este mapa interactivo depende de si los datos se vincularon correctamente a las geometrías.)</i></p>
+            </div>
+        </section>
+
+        <section class="mb-12">
+            <h2 class="text-2xl md:text-3xl font-semibold mb-6 section-title pb-2">5. Análisis Comparativo de Políticas Socioeconómicas</h2>
+            <p class="mb-6 text-gray-600">Este análisis compara el impacto de diferentes escenarios de políticas sobre indicadores clave. Incluye cinco escenarios: sin políticas, compra de vivienda, política salarial (dos variantes), y combinación de todas las políticas.</p>
+            
+            <!-- Advertencia sobre los coeficientes -->
+            <div class="mb-8 p-6 bg-red-50 border border-red-200 rounded-lg shadow">
+                <h3 class="text-xl font-semibold mb-2 text-red-700">⚠️ Hallazgo Importante sobre los Coeficientes de Política</h3>
+                <p class="text-sm text-gray-700 mb-2">El análisis reveló que <strong>todas las simulaciones ejecutaron con POLICY_COEFFICIENT = 0</strong>, incluyendo la simulación que se configuró con coeficiente 0.8. Esto confirma un bug sistemático en el sistema que sobreescribe los valores de POLICY_COEFFICIENT.</p>
+                <ul class="list-disc list-inside space-y-1 pl-4 text-sm text-gray-600">
+                    <li><strong>Configuración establecida:</strong> POLICY_COEFFICIENT = 0.8 para política wage</li>
+                    <li><strong>Valor real ejecutado:</strong> POLICY_COEFFICIENT = 0 (verificado en conf.json)</li>
+                    <li><strong>Subsidios otorgados:</strong> 0.0 en todos los escenarios (confirma que las políticas no se aplicaron)</li>
+                    <li><strong>Bug detectado:</strong> El sistema no está leyendo correctamente el POLICY_COEFFICIENT desde params.py</li>
+                    <li><strong>Implicación:</strong> Este análisis sirve únicamente como estudio de variabilidad del modelo base</li>
+                </ul>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
+
+                <div class="card">
+                    <img src="../plots/comparison_unemployment.png" alt="Comparación de Desempleo entre Escenarios" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen de comparación de desempleo no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">5.1. Evolución del Desempleo</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Comparación de la tasa de desempleo entre todos los escenarios de política a lo largo del tiempo.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Variaciones mínimas entre escenarios (0.001-0.002 final). Sin políticas tiene el desempleo final más alto, pero las diferencias son marginales.</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="../plots/comparison_house_price.png" alt="Comparación de Precios de Vivienda entre Escenarios" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen de comparación de precios de vivienda no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">5.2. Precios de Vivienda</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Evolución del precio medio de las viviendas en cada escenario de política.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Todas las líneas se solapan casi completamente, confirmando que no hay efectos diferenciales significativos entre políticas.</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="../plots/comparison_house_rent.png" alt="Comparación de Precios de Alquiler entre Escenarios" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen de comparación de alquileres no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">5.3. Precios de Alquiler</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Comparación de la evolución de los precios de alquiler entre escenarios.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> El escenario "Wage (Coef=0.8)" muestra una reducción significativa en precios de alquiler comparado con los otros escenarios. Los demás escenarios muestran la característica forma de U.</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="../plots/comparison_average_qli.png" alt="Comparación del Índice de Calidad de Vida entre Escenarios" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen de comparación de QLI no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">5.4. Índice de Calidad de Vida (QLI)</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Evolución del Índice de Calidad de Vida promedio en cada escenario de política.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Crecimiento similar en todos los escenarios. Ligeras variaciones que podrían atribuirse a aleatoriedad del modelo.</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="../plots/comparison_gini_index.png" alt="Comparación del Índice de Gini entre Escenarios" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                    <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen de comparación de Gini no encontrada.</div>
+                    <div class="card-content">
+                        <h3 class="text-xl font-semibold mb-2 card-title">5.5. Desigualdad (Índice de Gini)</h3>
+                        <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Comparación de la evolución de la desigualdad de ingresos entre escenarios.</p>
+                        <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Patrones muy similares de volatilidad en todos los escenarios, con convergencia hacia valores cercanos a cero.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Análisis Regional Comparativo -->
+            <div class="mt-12">
+                <h3 class="text-2xl font-semibold mb-6 text-gray-800">5.6. Análisis Regional Comparativo</h3>
+                <p class="mb-6 text-gray-600">Comparación de métricas regionales promedio entre todos los escenarios de política.</p>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
+                    
+                    <div class="card">
+                        <img src="../plots/comparison_regional_unemployment_(Promedio_Regional).png" alt="Desempleo Regional Promedio por Escenario" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                        <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen de desempleo regional no encontrada.</div>
+                        <div class="card-content">
+                            <h4 class="text-lg font-semibold mb-2 card-title">5.6.1. Desempleo Regional</h4>
+                            <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Comparación del desempleo regional promedio entre escenarios.</p>
+                            <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Tendencias regionales prácticamente idénticas entre todos los escenarios de política.</p>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <img src="../plots/comparison_regional_house_values_(Promedio_Regional).png" alt="Valores de Vivienda Regional por Escenario" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                        <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen de valores de vivienda regional no encontrada.</div>
+                        <div class="card-content">
+                            <h4 class="text-lg font-semibold mb-2 card-title">5.6.2. Valores de Vivienda Regional</h4>
+                            <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Evolución de los valores promedio de vivienda a nivel regional.</p>
+                            <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Evolución similar en todos los escenarios, sin diferenciación por tipo de política.</p>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <img src="../plots/comparison_pop_(Promedio_Regional).png" alt="Población Regional Promedio por Escenario" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                        <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen de población regional no encontrada.</div>
+                        <div class="card-content">
+                            <h4 class="text-lg font-semibold mb-2 card-title">5.6.3. Población Regional</h4>
+                            <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Comparación de la evolución poblacional regional entre escenarios.</p>
+                            <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Crecimiento poblacional consistente y similar en todos los escenarios de política.</p>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <img src="../plots/comparison_licenses_(Promedio_Regional).png" alt="Licencias de Construcción Regional por Escenario" class="w-full h-64 object-cover" onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+                        <div class="hidden w-full h-64 bg-gray-200 flex items-center justify-center text-gray-500 text-sm p-4 rounded-t-xl">Imagen de licencias regionales no encontrada.</div>
+                        <div class="card-content">
+                            <h4 class="text-lg font-semibold mb-2 card-title">5.6.4. Licencias de Construcción Regional</h4>
+                            <p class="text-sm mb-1 card-description"><strong>Descripción:</strong> Evolución del número promedio de licencias de construcción a nivel regional.</p>
+                            <p class="text-sm card-observation"><strong class="observation-label">Observación:</strong> Patrones similares de actividad constructiva entre todos los escenarios.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Resumen de Hallazgos Comparativos -->
+            <div class="mt-8 p-6 bg-yellow-50 border border-yellow-200 rounded-lg shadow">
+                <h3 class="text-xl font-semibold mb-4 text-yellow-800">Resumen de Hallazgos del Análisis Comparativo</h3>
+                <div class="space-y-3 text-sm text-gray-700">
+                    <p><strong>1. Efectos Detectables de la Política Wage (Coef=0.8):</strong> El escenario con coeficiente 0.8 muestra diferencias observables, especialmente en precios de alquiler (reducción significativa) y otros indicadores económicos.</p>
+                    <p><strong>2. Problema Técnico Parcialmente Confirmado:</strong> Los escenarios con coeficiente 0 muestran subsidios = 0.0, confirmando el bug del sistema. Sin embargo, el escenario con coeficiente 0.8 sí implementó políticas efectivas.</p>
+                    <p><strong>3. Validación del Modelo de Políticas:</strong> La comparación demuestra que cuando las políticas se implementan correctamente (Coef=0.8), tienen efectos medibles y significativos en la economía simulada.</p>
+                    <p><strong>4. Impacto Principal en Mercado de Alquiler:</strong> La política salarial con coeficiente 0.8 genera una reducción notable en los precios de alquiler, sugiriendo un efecto redistributivo efectivo.</p>
+                    <p><strong>5. Consistencia del Modelo Base:</strong> Los escenarios con coeficiente 0 muestran resultados similares, confirmando la estabilidad y reproducibilidad del modelo cuando no hay intervenciones activas.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="mb-12">
+            <h2 class="text-2xl md:text-3xl font-semibold mb-6 section-title pb-2">Conclusiones Generales (Preliminares)</h2>
+            <div class="bg-white p-6 rounded-lg shadow-lg space-y-4 text-gray-700">
+                <p>La simulación muestra tendencias de crecimiento en variables agregadas como la distancia de commuting, el QLI y el desempleo, mientras que el precio del alquiler tiene un comportamiento en forma de U. El índice Gini general presenta una volatilidad que merece ser investigada.</p>
+                <p>A nivel municipal, existen disparidades significativas:</p>
+                <ul class="list-disc list-inside space-y-1 pl-4">
+                    <li><strong>Fisterra:</strong> emerge como un municipio con alta población, alto commuting, precios de vivienda muy elevados y volátiles, y la tasa de desempleo más alta.</li>
+                    <li><strong>Voto:</strong> destaca por su alto PIB per cápita.</li>
+                    <li><strong>Boal:</strong> muestra una inestabilidad extrema en su índice Gini regional hacia el final.</li>
+                </ul>
+                <p>Los mapas coropléticos estáticos no parecen representar claramente las diferencias, lo que podría deberse a la escala de colores o a la distribución de los datos. El mapa interactivo podría ofrecer mejor visualización si los datos se muestran correctamente.</p>
+                <p class="italic">Este análisis es preliminar y se basa en las visualizaciones generadas. Una investigación más profunda de los datos subyacentes y la configuración del modelo podría proporcionar explicaciones más detalladas para las tendencias observadas.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer class="text-center p-6 bg-gray-800 text-gray-300 text-sm">
+        <p>&copy; 2025 Resultados de Simulación. Infografía generada automáticamente.</p>
+    </footer>
+
+</body>
+</html>

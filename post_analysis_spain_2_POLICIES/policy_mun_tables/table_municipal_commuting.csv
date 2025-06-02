@@ -1,0 +1,1329 @@
+month;metric_value;municipality_id;municipality_name;policy_scenario;metric_name
+2014-01-01;28406285,191;10201;Valdemorales;Pol:All (C0);commuting
+2014-02-01;28903731,175;10201;Valdemorales;Pol:All (C0);commuting
+2014-03-01;29616021,582;10201;Valdemorales;Pol:All (C0);commuting
+2014-04-01;29616021,582;10201;Valdemorales;Pol:All (C0);commuting
+2014-05-01;29616021,582;10201;Valdemorales;Pol:All (C0);commuting
+2014-06-01;29830856,394;10201;Valdemorales;Pol:All (C0);commuting
+2014-07-01;29830856,394;10201;Valdemorales;Pol:All (C0);commuting
+2014-08-01;29830856,394;10201;Valdemorales;Pol:All (C0);commuting
+2014-09-01;29404666,393;10201;Valdemorales;Pol:All (C0);commuting
+2014-10-01;29401651,143;10201;Valdemorales;Pol:All (C0);commuting
+2014-11-01;29472771,134;10201;Valdemorales;Pol:All (C0);commuting
+2014-12-01;29472771,134;10201;Valdemorales;Pol:All (C0);commuting
+2015-01-01;29824667,692;10201;Valdemorales;Pol:All (C0);commuting
+2015-02-01;29395209,579;10201;Valdemorales;Pol:All (C0);commuting
+2015-03-01;29392249,732;10201;Valdemorales;Pol:All (C0);commuting
+2015-04-01;30245092,692;10201;Valdemorales;Pol:All (C0);commuting
+2015-05-01;30245092,692;10201;Valdemorales;Pol:All (C0);commuting
+2015-06-01;30245092,692;10201;Valdemorales;Pol:All (C0);commuting
+2015-07-01;31102544,085;10201;Valdemorales;Pol:All (C0);commuting
+2015-08-01;31102544,085;10201;Valdemorales;Pol:All (C0);commuting
+2015-09-01;31102544,085;10201;Valdemorales;Pol:All (C0);commuting
+2015-10-01;31102544,085;10201;Valdemorales;Pol:All (C0);commuting
+2015-11-01;31102544,085;10201;Valdemorales;Pol:All (C0);commuting
+2015-12-01;31102544,085;10201;Valdemorales;Pol:All (C0);commuting
+2016-01-01;31102544,085;10201;Valdemorales;Pol:All (C0);commuting
+2016-02-01;30605333,26;10201;Valdemorales;Pol:All (C0);commuting
+2016-03-01;30676512,74;10201;Valdemorales;Pol:All (C0);commuting
+2016-04-01;30676512,74;10201;Valdemorales;Pol:All (C0);commuting
+2016-05-01;30676512,74;10201;Valdemorales;Pol:All (C0);commuting
+2016-06-01;30676512,74;10201;Valdemorales;Pol:All (C0);commuting
+2016-07-01;30747827,901;10201;Valdemorales;Pol:All (C0);commuting
+2016-08-01;30819089,119;10201;Valdemorales;Pol:All (C0);commuting
+2016-09-01;30819089,119;10201;Valdemorales;Pol:All (C0);commuting
+2016-10-01;30819089,119;10201;Valdemorales;Pol:All (C0);commuting
+2016-11-01;30819089,119;10201;Valdemorales;Pol:All (C0);commuting
+2016-12-01;30392353,169;10201;Valdemorales;Pol:All (C0);commuting
+2017-01-01;30463347,139;10201;Valdemorales;Pol:All (C0);commuting
+2017-02-01;30036988,088;10201;Valdemorales;Pol:All (C0);commuting
+2017-03-01;30108152,462;10201;Valdemorales;Pol:All (C0);commuting
+2017-04-01;30108152,462;10201;Valdemorales;Pol:All (C0);commuting
+2017-05-01;30108152,462;10201;Valdemorales;Pol:All (C0);commuting
+2017-06-01;29681677,142;10201;Valdemorales;Pol:All (C0);commuting
+2017-07-01;29326640,912;10201;Valdemorales;Pol:All (C0);commuting
+2017-08-01;29398213,059;10201;Valdemorales;Pol:All (C0);commuting
+2017-09-01;28973512,164;10201;Valdemorales;Pol:All (C0);commuting
+2017-10-01;29046453,787;10201;Valdemorales;Pol:All (C0);commuting
+2017-11-01;29046453,787;10201;Valdemorales;Pol:All (C0);commuting
+2017-12-01;29046453,787;10201;Valdemorales;Pol:All (C0);commuting
+2018-01-01;29046453,787;10201;Valdemorales;Pol:All (C0);commuting
+2018-02-01;29188988,364;10201;Valdemorales;Pol:All (C0);commuting
+2018-03-01;29188988,364;10201;Valdemorales;Pol:All (C0);commuting
+2018-04-01;29114722,553;10201;Valdemorales;Pol:All (C0);commuting
+2018-05-01;29185932,432;10201;Valdemorales;Pol:All (C0);commuting
+2018-06-01;29185932,432;10201;Valdemorales;Pol:All (C0);commuting
+2018-07-01;29185932,432;10201;Valdemorales;Pol:All (C0);commuting
+2018-08-01;28759364,369;10201;Valdemorales;Pol:All (C0);commuting
+2018-09-01;28830483,781;10201;Valdemorales;Pol:All (C0);commuting
+2018-10-01;28830483,781;10201;Valdemorales;Pol:All (C0);commuting
+2018-11-01;28475239,9;10201;Valdemorales;Pol:All (C0);commuting
+2018-12-01;28119646,06;10201;Valdemorales;Pol:All (C0);commuting
+2019-01-01;28546019,243;10201;Valdemorales;Pol:All (C0);commuting
+2019-02-01;27620448,276;10201;Valdemorales;Pol:All (C0);commuting
+2019-03-01;28823478,992;10201;Valdemorales;Pol:All (C0);commuting
+2019-04-01;28894751,288;10201;Valdemorales;Pol:All (C0);commuting
+2019-05-01;27967839,701;10201;Valdemorales;Pol:All (C0);commuting
+2019-06-01;28037508,596;10201;Valdemorales;Pol:All (C0);commuting
+2019-07-01;28108753,423;10201;Valdemorales;Pol:All (C0);commuting
+2019-08-01;27755426,273;10201;Valdemorales;Pol:All (C0);commuting
+2019-09-01;27905724,038;10201;Valdemorales;Pol:All (C0);commuting
+2019-10-01;27763397,305;10201;Valdemorales;Pol:All (C0);commuting
+2019-11-01;28189643,497;10201;Valdemorales;Pol:All (C0);commuting
+2019-12-01;28118323,654;10201;Valdemorales;Pol:All (C0);commuting
+2020-01-01;28262630,386;10201;Valdemorales;Pol:All (C0);commuting
+2020-02-01;28262630,386;10201;Valdemorales;Pol:All (C0);commuting
+2020-03-01;28262630,386;10201;Valdemorales;Pol:All (C0);commuting
+2020-04-01;27267593,848;10201;Valdemorales;Pol:All (C0);commuting
+2020-05-01;28831629,952;10201;Valdemorales;Pol:All (C0);commuting
+2020-06-01;29608490,701;10201;Valdemorales;Pol:All (C0);commuting
+2020-07-01;28827693,357;10201;Valdemorales;Pol:All (C0);commuting
+2020-08-01;29111320,561;10201;Valdemorales;Pol:All (C0);commuting
+2020-09-01;29182543,403;10201;Valdemorales;Pol:All (C0);commuting
+2020-10-01;27903229,666;10201;Valdemorales;Pol:All (C0);commuting
+2020-11-01;29037877,685;10201;Valdemorales;Pol:All (C0);commuting
+2014-01-01;4677125,1;12002;Aín;Pol:All (C0);commuting
+2014-02-01;4681218,414;12002;Aín;Pol:All (C0);commuting
+2014-03-01;4682621,708;12002;Aín;Pol:All (C0);commuting
+2014-04-01;4692602,353;12002;Aín;Pol:All (C0);commuting
+2014-05-01;5147229,276;12002;Aín;Pol:All (C0);commuting
+2014-06-01;5147229,276;12002;Aín;Pol:All (C0);commuting
+2014-07-01;5147229,276;12002;Aín;Pol:All (C0);commuting
+2014-08-01;5147229,276;12002;Aín;Pol:All (C0);commuting
+2014-09-01;5144626,985;12002;Aín;Pol:All (C0);commuting
+2014-10-01;5146007,951;12002;Aín;Pol:All (C0);commuting
+2014-11-01;5146007,951;12002;Aín;Pol:All (C0);commuting
+2014-12-01;5146007,951;12002;Aín;Pol:All (C0);commuting
+2015-01-01;5146007,951;12002;Aín;Pol:All (C0);commuting
+2015-02-01;5146007,951;12002;Aín;Pol:All (C0);commuting
+2015-03-01;4692242,443;12002;Aín;Pol:All (C0);commuting
+2015-04-01;4246774,219;12002;Aín;Pol:All (C0);commuting
+2015-05-01;4248035,768;12002;Aín;Pol:All (C0);commuting
+2015-06-01;4248035,768;12002;Aín;Pol:All (C0);commuting
+2015-07-01;4248035,768;12002;Aín;Pol:All (C0);commuting
+2015-08-01;4248035,768;12002;Aín;Pol:All (C0);commuting
+2015-09-01;4244624,117;12002;Aín;Pol:All (C0);commuting
+2015-10-01;3795122,231;12002;Aín;Pol:All (C0);commuting
+2015-11-01;3797661,883;12002;Aín;Pol:All (C0);commuting
+2015-12-01;3797661,883;12002;Aín;Pol:All (C0);commuting
+2016-01-01;3797661,883;12002;Aín;Pol:All (C0);commuting
+2016-02-01;3797661,883;12002;Aín;Pol:All (C0);commuting
+2016-03-01;3797661,883;12002;Aín;Pol:All (C0);commuting
+2016-04-01;3797661,883;12002;Aín;Pol:All (C0);commuting
+2016-05-01;3796425,18;12002;Aín;Pol:All (C0);commuting
+2016-06-01;3345728,849;12002;Aín;Pol:All (C0);commuting
+2016-07-01;3349227,84;12002;Aín;Pol:All (C0);commuting
+2016-08-01;3349227,84;12002;Aín;Pol:All (C0);commuting
+2016-09-01;2897855,285;12002;Aín;Pol:All (C0);commuting
+2016-10-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2016-11-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2016-12-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2017-01-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2017-02-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2017-03-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2017-04-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2017-05-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2017-06-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2017-07-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2017-08-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2017-09-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2017-10-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2017-11-01;2897724,864;12002;Aín;Pol:All (C0);commuting
+2017-12-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2018-01-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2018-02-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2018-03-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2018-04-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2018-05-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2018-06-01;2901123,466;12002;Aín;Pol:All (C0);commuting
+2018-07-01;4258753,979;12002;Aín;Pol:All (C0);commuting
+2018-08-01;4707112,548;12002;Aín;Pol:All (C0);commuting
+2018-09-01;4709714,765;12002;Aín;Pol:All (C0);commuting
+2018-10-01;4709714,765;12002;Aín;Pol:All (C0);commuting
+2018-11-01;4709714,765;12002;Aín;Pol:All (C0);commuting
+2018-12-01;4709714,765;12002;Aín;Pol:All (C0);commuting
+2019-01-01;4709714,765;12002;Aín;Pol:All (C0);commuting
+2019-02-01;4706338,867;12002;Aín;Pol:All (C0);commuting
+2019-03-01;4708975,889;12002;Aín;Pol:All (C0);commuting
+2019-04-01;4708975,889;12002;Aín;Pol:All (C0);commuting
+2019-05-01;4708975,889;12002;Aín;Pol:All (C0);commuting
+2019-06-01;4708975,889;12002;Aín;Pol:All (C0);commuting
+2019-07-01;4706394,924;12002;Aín;Pol:All (C0);commuting
+2019-08-01;4706394,924;12002;Aín;Pol:All (C0);commuting
+2019-09-01;4705013,958;12002;Aín;Pol:All (C0);commuting
+2019-10-01;4703632,992;12002;Aín;Pol:All (C0);commuting
+2019-11-01;4703632,992;12002;Aín;Pol:All (C0);commuting
+2019-12-01;4703632,992;12002;Aín;Pol:All (C0);commuting
+2020-01-01;5148944,535;12002;Aín;Pol:All (C0);commuting
+2020-02-01;5597879,585;12002;Aín;Pol:All (C0);commuting
+2020-03-01;6499528,814;12002;Aín;Pol:All (C0);commuting
+2020-04-01;6496833,221;12002;Aín;Pol:All (C0);commuting
+2020-05-01;6497224,833;12002;Aín;Pol:All (C0);commuting
+2020-06-01;6497231,277;12002;Aín;Pol:All (C0);commuting
+2020-07-01;6945594,663;12002;Aín;Pol:All (C0);commuting
+2020-08-01;6942120,941;12002;Aín;Pol:All (C0);commuting
+2020-09-01;7842674,842;12002;Aín;Pol:All (C0);commuting
+2020-10-01;8293539,848;12002;Aín;Pol:All (C0);commuting
+2020-11-01;8290794,824;12002;Aín;Pol:All (C0);commuting
+2014-01-01;473211,096;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2014-02-01;477606,18;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2014-03-01;481719,081;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2014-04-01;486932,543;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2014-05-01;496335,802;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2014-06-01;505677,644;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2014-07-01;505677,644;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2014-08-01;505677,644;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2014-09-01;505677,644;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2014-10-01;504102,294;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2014-11-01;503620,067;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2014-12-01;508367,2;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2015-01-01;512044,704;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2015-02-01;513525,049;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2015-03-01;513695,76;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2015-04-01;511999,027;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2015-05-01;511727,135;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2015-06-01;512010,539;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2015-07-01;512457,393;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2015-08-01;512457,393;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2015-09-01;509739,949;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2015-10-01;511185,091;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2015-11-01;508989,571;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2015-12-01;509885,429;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2016-01-01;509772,245;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2016-02-01;510522,062;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2016-03-01;512404,637;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2016-04-01;513698,494;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2016-05-01;512081,268;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2016-06-01;514965,019;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2016-07-01;517332,023;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2016-08-01;518177,94;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2016-09-01;518907,472;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2016-10-01;519844,299;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2016-11-01;522805,544;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2016-12-01;522284,221;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2017-01-01;520699,948;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2017-02-01;521175,699;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2017-03-01;523830,614;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2017-04-01;525778,195;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2017-05-01;526070,281;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2017-06-01;525570,05;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2017-07-01;528135,299;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2017-08-01;527653,172;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2017-09-01;525181,297;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2017-10-01;526303,437;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2017-11-01;529138,234;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2017-12-01;530276,666;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2018-01-01;532366,229;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2018-02-01;533238,11;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2018-03-01;535704,186;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2018-04-01;539499,565;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2018-05-01;540056,729;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2018-06-01;541774,644;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2018-07-01;540767,088;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2018-08-01;540767,088;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2018-09-01;538277,317;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2018-10-01;541392,769;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2018-11-01;541392,769;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2018-12-01;542638,897;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2019-01-01;541480,044;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2019-02-01;539547,066;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2019-03-01;540493,178;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2019-04-01;542359,941;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2019-05-01;546222,221;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2019-06-01;548706,788;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2019-07-01;548818,607;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2019-08-01;548136,157;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2019-09-01;548564,217;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2019-10-01;548457,804;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2019-11-01;551393,176;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2019-12-01;554069,734;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2020-01-01;558222,327;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2020-02-01;558238,988;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2020-03-01;560262,296;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2020-04-01;559613,084;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2020-05-01;559520,061;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2020-06-01;559128,931;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2020-07-01;559233,148;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2020-08-01;559461,056;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2020-09-01;558548,646;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2020-10-01;559544,964;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2020-11-01;559222,521;39057;Ramales de la Victoria;Pol:All (C0);commuting
+2014-01-01;1548152,215;39102;Voto;Pol:All (C0);commuting
+2014-02-01;1574315,102;39102;Voto;Pol:All (C0);commuting
+2014-03-01;1602077,052;39102;Voto;Pol:All (C0);commuting
+2014-04-01;1637144,72;39102;Voto;Pol:All (C0);commuting
+2014-05-01;1652085,373;39102;Voto;Pol:All (C0);commuting
+2014-06-01;1668800,272;39102;Voto;Pol:All (C0);commuting
+2014-07-01;1670899,228;39102;Voto;Pol:All (C0);commuting
+2014-08-01;1672245,318;39102;Voto;Pol:All (C0);commuting
+2014-09-01;1669761,745;39102;Voto;Pol:All (C0);commuting
+2014-10-01;1669032,939;39102;Voto;Pol:All (C0);commuting
+2014-11-01;1673749,196;39102;Voto;Pol:All (C0);commuting
+2014-12-01;1663456,426;39102;Voto;Pol:All (C0);commuting
+2015-01-01;1654446,453;39102;Voto;Pol:All (C0);commuting
+2015-02-01;1659724,837;39102;Voto;Pol:All (C0);commuting
+2015-03-01;1659949,966;39102;Voto;Pol:All (C0);commuting
+2015-04-01;1655605,717;39102;Voto;Pol:All (C0);commuting
+2015-05-01;1660838,331;39102;Voto;Pol:All (C0);commuting
+2015-06-01;1654342,89;39102;Voto;Pol:All (C0);commuting
+2015-07-01;1655978,282;39102;Voto;Pol:All (C0);commuting
+2015-08-01;1657312,439;39102;Voto;Pol:All (C0);commuting
+2015-09-01;1658798,42;39102;Voto;Pol:All (C0);commuting
+2015-10-01;1658213,61;39102;Voto;Pol:All (C0);commuting
+2015-11-01;1659330,838;39102;Voto;Pol:All (C0);commuting
+2015-12-01;1650881,517;39102;Voto;Pol:All (C0);commuting
+2016-01-01;1654778,739;39102;Voto;Pol:All (C0);commuting
+2016-02-01;1652207,571;39102;Voto;Pol:All (C0);commuting
+2016-03-01;1653532,934;39102;Voto;Pol:All (C0);commuting
+2016-04-01;1654325,408;39102;Voto;Pol:All (C0);commuting
+2016-05-01;1655377,137;39102;Voto;Pol:All (C0);commuting
+2016-06-01;1651664,217;39102;Voto;Pol:All (C0);commuting
+2016-07-01;1648871,219;39102;Voto;Pol:All (C0);commuting
+2016-08-01;1649314,462;39102;Voto;Pol:All (C0);commuting
+2016-09-01;1652827,907;39102;Voto;Pol:All (C0);commuting
+2016-10-01;1651168,054;39102;Voto;Pol:All (C0);commuting
+2016-11-01;1647346,619;39102;Voto;Pol:All (C0);commuting
+2016-12-01;1651770,817;39102;Voto;Pol:All (C0);commuting
+2017-01-01;1650434,677;39102;Voto;Pol:All (C0);commuting
+2017-02-01;1653629,731;39102;Voto;Pol:All (C0);commuting
+2017-03-01;1655860,903;39102;Voto;Pol:All (C0);commuting
+2017-04-01;1656727,97;39102;Voto;Pol:All (C0);commuting
+2017-05-01;1654796,714;39102;Voto;Pol:All (C0);commuting
+2017-06-01;1650622,785;39102;Voto;Pol:All (C0);commuting
+2017-07-01;1653488,897;39102;Voto;Pol:All (C0);commuting
+2017-08-01;1653204,13;39102;Voto;Pol:All (C0);commuting
+2017-09-01;1653884,358;39102;Voto;Pol:All (C0);commuting
+2017-10-01;1654980,46;39102;Voto;Pol:All (C0);commuting
+2017-11-01;1653102,577;39102;Voto;Pol:All (C0);commuting
+2017-12-01;1646784,833;39102;Voto;Pol:All (C0);commuting
+2018-01-01;1651484,167;39102;Voto;Pol:All (C0);commuting
+2018-02-01;1651222,2;39102;Voto;Pol:All (C0);commuting
+2018-03-01;1653605,185;39102;Voto;Pol:All (C0);commuting
+2018-04-01;1653763,795;39102;Voto;Pol:All (C0);commuting
+2018-05-01;1654770,437;39102;Voto;Pol:All (C0);commuting
+2018-06-01;1655223,347;39102;Voto;Pol:All (C0);commuting
+2018-07-01;1660360,873;39102;Voto;Pol:All (C0);commuting
+2018-08-01;1656243,718;39102;Voto;Pol:All (C0);commuting
+2018-09-01;1662672,376;39102;Voto;Pol:All (C0);commuting
+2018-10-01;1666518,789;39102;Voto;Pol:All (C0);commuting
+2018-11-01;1665482,769;39102;Voto;Pol:All (C0);commuting
+2018-12-01;1666295,302;39102;Voto;Pol:All (C0);commuting
+2019-01-01;1664483,687;39102;Voto;Pol:All (C0);commuting
+2019-02-01;1668409,223;39102;Voto;Pol:All (C0);commuting
+2019-03-01;1669717,787;39102;Voto;Pol:All (C0);commuting
+2019-04-01;1671864,305;39102;Voto;Pol:All (C0);commuting
+2019-05-01;1679723,675;39102;Voto;Pol:All (C0);commuting
+2019-06-01;1681258,243;39102;Voto;Pol:All (C0);commuting
+2019-07-01;1677370,139;39102;Voto;Pol:All (C0);commuting
+2019-08-01;1679884,055;39102;Voto;Pol:All (C0);commuting
+2019-09-01;1683436,817;39102;Voto;Pol:All (C0);commuting
+2019-10-01;1687884,676;39102;Voto;Pol:All (C0);commuting
+2019-11-01;1693265,718;39102;Voto;Pol:All (C0);commuting
+2019-12-01;1702403,78;39102;Voto;Pol:All (C0);commuting
+2020-01-01;1705540,14;39102;Voto;Pol:All (C0);commuting
+2020-02-01;1707366,89;39102;Voto;Pol:All (C0);commuting
+2020-03-01;1708801,659;39102;Voto;Pol:All (C0);commuting
+2020-04-01;1712308,553;39102;Voto;Pol:All (C0);commuting
+2020-05-01;1707784,656;39102;Voto;Pol:All (C0);commuting
+2020-06-01;1711881,875;39102;Voto;Pol:All (C0);commuting
+2020-07-01;1711281,247;39102;Voto;Pol:All (C0);commuting
+2020-08-01;1715032,546;39102;Voto;Pol:All (C0);commuting
+2020-09-01;1714757,377;39102;Voto;Pol:All (C0);commuting
+2020-10-01;1714509,278;39102;Voto;Pol:All (C0);commuting
+2020-11-01;1716177,085;39102;Voto;Pol:All (C0);commuting
+2014-01-01;28480203,408;10201;Valdemorales;Pol:None (C0);commuting
+2014-02-01;28551632,214;10201;Valdemorales;Pol:None (C0);commuting
+2014-03-01;29192346,886;10201;Valdemorales;Pol:None (C0);commuting
+2014-04-01;29407891,675;10201;Valdemorales;Pol:None (C0);commuting
+2014-05-01;29478999,211;10201;Valdemorales;Pol:None (C0);commuting
+2014-06-01;29550488,364;10201;Valdemorales;Pol:None (C0);commuting
+2014-07-01;29550488,364;10201;Valdemorales;Pol:None (C0);commuting
+2014-08-01;29550488,364;10201;Valdemorales;Pol:None (C0);commuting
+2014-09-01;28697155,749;10201;Valdemorales;Pol:None (C0);commuting
+2014-10-01;28769649,168;10201;Valdemorales;Pol:None (C0);commuting
+2014-11-01;27842068,369;10201;Valdemorales;Pol:None (C0);commuting
+2014-12-01;28340198,159;10201;Valdemorales;Pol:None (C0);commuting
+2015-01-01;28411143,267;10201;Valdemorales;Pol:None (C0);commuting
+2015-02-01;28482433,022;10201;Valdemorales;Pol:None (C0);commuting
+2015-03-01;29478585,689;10201;Valdemorales;Pol:None (C0);commuting
+2015-04-01;29478585,689;10201;Valdemorales;Pol:None (C0);commuting
+2015-05-01;29406834,981;10201;Valdemorales;Pol:None (C0);commuting
+2015-06-01;29478078,601;10201;Valdemorales;Pol:None (C0);commuting
+2015-07-01;29551560,626;10201;Valdemorales;Pol:None (C0);commuting
+2015-08-01;29623058,791;10201;Valdemorales;Pol:None (C0);commuting
+2015-09-01;29623058,791;10201;Valdemorales;Pol:None (C0);commuting
+2015-10-01;29623058,791;10201;Valdemorales;Pol:None (C0);commuting
+2015-11-01;29196778,454;10201;Valdemorales;Pol:None (C0);commuting
+2015-12-01;29623069,917;10201;Valdemorales;Pol:None (C0);commuting
+2016-01-01;29623069,917;10201;Valdemorales;Pol:None (C0);commuting
+2016-02-01;29548772,422;10201;Valdemorales;Pol:None (C0);commuting
+2016-03-01;29193973,648;10201;Valdemorales;Pol:None (C0);commuting
+2016-04-01;29265264,116;10201;Valdemorales;Pol:None (C0);commuting
+2016-05-01;28838428,573;10201;Valdemorales;Pol:None (C0);commuting
+2016-06-01;28911832,009;10201;Valdemorales;Pol:None (C0);commuting
+2016-07-01;29338274,82;10201;Valdemorales;Pol:None (C0);commuting
+2016-08-01;29764430,06;10201;Valdemorales;Pol:None (C0);commuting
+2016-09-01;29764430,06;10201;Valdemorales;Pol:None (C0);commuting
+2016-10-01;29764430,06;10201;Valdemorales;Pol:None (C0);commuting
+2016-11-01;29764430,06;10201;Valdemorales;Pol:None (C0);commuting
+2016-12-01;29691991,711;10201;Valdemorales;Pol:None (C0);commuting
+2017-01-01;30118186,677;10201;Valdemorales;Pol:None (C0);commuting
+2017-02-01;29691474,711;10201;Valdemorales;Pol:None (C0);commuting
+2017-03-01;29762759,709;10201;Valdemorales;Pol:None (C0);commuting
+2017-04-01;29617357,088;10201;Valdemorales;Pol:None (C0);commuting
+2017-05-01;29262156,243;10201;Valdemorales;Pol:None (C0);commuting
+2017-06-01;29333277,977;10201;Valdemorales;Pol:None (C0);commuting
+2017-07-01;30328527,47;10201;Valdemorales;Pol:None (C0);commuting
+2017-08-01;30328527,47;10201;Valdemorales;Pol:None (C0);commuting
+2017-09-01;30328527,47;10201;Valdemorales;Pol:None (C0);commuting
+2017-10-01;30328527,47;10201;Valdemorales;Pol:None (C0);commuting
+2017-11-01;30328527,47;10201;Valdemorales;Pol:None (C0);commuting
+2017-12-01;30328527,47;10201;Valdemorales;Pol:None (C0);commuting
+2018-01-01;30328527,47;10201;Valdemorales;Pol:None (C0);commuting
+2018-02-01;31181500,196;10201;Valdemorales;Pol:None (C0);commuting
+2018-03-01;30683037,714;10201;Valdemorales;Pol:None (C0);commuting
+2018-04-01;30688863,902;10201;Valdemorales;Pol:None (C0);commuting
+2018-05-01;30688863,902;10201;Valdemorales;Pol:None (C0);commuting
+2018-06-01;30688863,902;10201;Valdemorales;Pol:None (C0);commuting
+2018-07-01;30688863,902;10201;Valdemorales;Pol:None (C0);commuting
+2018-08-01;30688863,902;10201;Valdemorales;Pol:None (C0);commuting
+2018-09-01;29764242,18;10201;Valdemorales;Pol:None (C0);commuting
+2018-10-01;30262337,396;10201;Valdemorales;Pol:None (C0);commuting
+2018-11-01;30333835,561;10201;Valdemorales;Pol:None (C0);commuting
+2018-12-01;30333835,561;10201;Valdemorales;Pol:None (C0);commuting
+2019-01-01;30333835,561;10201;Valdemorales;Pol:None (C0);commuting
+2019-02-01;30262062,481;10201;Valdemorales;Pol:None (C0);commuting
+2019-03-01;30187590,259;10201;Valdemorales;Pol:None (C0);commuting
+2019-04-01;29831996,145;10201;Valdemorales;Pol:None (C0);commuting
+2019-05-01;29903290,397;10201;Valdemorales;Pol:None (C0);commuting
+2019-06-01;29476474,932;10201;Valdemorales;Pol:None (C0);commuting
+2019-07-01;29476150,706;10201;Valdemorales;Pol:None (C0);commuting
+2019-08-01;29476507,154;10201;Valdemorales;Pol:None (C0);commuting
+2019-09-01;29122845,741;10201;Valdemorales;Pol:None (C0);commuting
+2019-10-01;28767733,134;10201;Valdemorales;Pol:None (C0);commuting
+2019-11-01;28839091,792;10201;Valdemorales;Pol:None (C0);commuting
+2019-12-01;28839091,792;10201;Valdemorales;Pol:None (C0);commuting
+2020-01-01;29191342,442;10201;Valdemorales;Pol:None (C0);commuting
+2020-02-01;29188345,32;10201;Valdemorales;Pol:None (C0);commuting
+2020-03-01;29263465,016;10201;Valdemorales;Pol:None (C0);commuting
+2020-04-01;29263465,016;10201;Valdemorales;Pol:None (C0);commuting
+2020-05-01;28410339,379;10201;Valdemorales;Pol:None (C0);commuting
+2020-06-01;29269128,193;10201;Valdemorales;Pol:None (C0);commuting
+2020-07-01;29269128,193;10201;Valdemorales;Pol:None (C0);commuting
+2020-08-01;29269128,193;10201;Valdemorales;Pol:None (C0);commuting
+2020-09-01;29269128,193;10201;Valdemorales;Pol:None (C0);commuting
+2020-10-01;29194778,518;10201;Valdemorales;Pol:None (C0);commuting
+2020-11-01;29267841,672;10201;Valdemorales;Pol:None (C0);commuting
+2014-01-01;4593202,254;12002;Aín;Pol:None (C0);commuting
+2014-02-01;5046512,076;12002;Aín;Pol:None (C0);commuting
+2014-03-01;5049940,849;12002;Aín;Pol:None (C0);commuting
+2014-04-01;5049940,849;12002;Aín;Pol:None (C0);commuting
+2014-05-01;5501619,778;12002;Aín;Pol:None (C0);commuting
+2014-06-01;5502799,175;12002;Aín;Pol:None (C0);commuting
+2014-07-01;5502799,175;12002;Aín;Pol:None (C0);commuting
+2014-08-01;5501417,653;12002;Aín;Pol:None (C0);commuting
+2014-09-01;5499950,848;12002;Aín;Pol:None (C0);commuting
+2014-10-01;5498257,084;12002;Aín;Pol:None (C0);commuting
+2014-11-01;5047768,732;12002;Aín;Pol:None (C0);commuting
+2014-12-01;4599048,649;12002;Aín;Pol:None (C0);commuting
+2015-01-01;4599423,442;12002;Aín;Pol:None (C0);commuting
+2015-02-01;4149705,132;12002;Aín;Pol:None (C0);commuting
+2015-03-01;3697019,399;12002;Aín;Pol:None (C0);commuting
+2015-04-01;3696541,123;12002;Aín;Pol:None (C0);commuting
+2015-05-01;3696928,579;12002;Aín;Pol:None (C0);commuting
+2015-06-01;3698119,661;12002;Aín;Pol:None (C0);commuting
+2015-07-01;3698119,661;12002;Aín;Pol:None (C0);commuting
+2015-08-01;3698119,661;12002;Aín;Pol:None (C0);commuting
+2015-09-01;3698119,661;12002;Aín;Pol:None (C0);commuting
+2015-10-01;3698119,661;12002;Aín;Pol:None (C0);commuting
+2015-11-01;3698119,661;12002;Aín;Pol:None (C0);commuting
+2015-12-01;3696713,595;12002;Aín;Pol:None (C0);commuting
+2016-01-01;3698119,661;12002;Aín;Pol:None (C0);commuting
+2016-02-01;3698119,661;12002;Aín;Pol:None (C0);commuting
+2016-03-01;3698119,661;12002;Aín;Pol:None (C0);commuting
+2016-04-01;3698119,661;12002;Aín;Pol:None (C0);commuting
+2016-05-01;3698119,661;12002;Aín;Pol:None (C0);commuting
+2016-06-01;3698119,661;12002;Aín;Pol:None (C0);commuting
+2016-07-01;3247138,706;12002;Aín;Pol:None (C0);commuting
+2016-08-01;3248138,205;12002;Aín;Pol:None (C0);commuting
+2016-09-01;3248138,205;12002;Aín;Pol:None (C0);commuting
+2016-10-01;3248138,205;12002;Aín;Pol:None (C0);commuting
+2016-11-01;2797124,229;12002;Aín;Pol:None (C0);commuting
+2016-12-01;2799367,116;12002;Aín;Pol:None (C0);commuting
+2017-01-01;2796781,889;12002;Aín;Pol:None (C0);commuting
+2017-02-01;2798184,805;12002;Aín;Pol:None (C0);commuting
+2017-03-01;2798184,805;12002;Aín;Pol:None (C0);commuting
+2017-04-01;2798184,805;12002;Aín;Pol:None (C0);commuting
+2017-05-01;2798184,805;12002;Aín;Pol:None (C0);commuting
+2017-06-01;2347171,988;12002;Aín;Pol:None (C0);commuting
+2017-07-01;2347645,636;12002;Aín;Pol:None (C0);commuting
+2017-08-01;2344899,696;12002;Aín;Pol:None (C0);commuting
+2017-09-01;2793608,257;12002;Aín;Pol:None (C0);commuting
+2017-10-01;2794109,678;12002;Aín;Pol:None (C0);commuting
+2017-11-01;2794109,678;12002;Aín;Pol:None (C0);commuting
+2017-12-01;2794109,678;12002;Aín;Pol:None (C0);commuting
+2018-01-01;2794109,678;12002;Aín;Pol:None (C0);commuting
+2018-02-01;2794109,678;12002;Aín;Pol:None (C0);commuting
+2018-03-01;2794109,678;12002;Aín;Pol:None (C0);commuting
+2018-04-01;2793608,257;12002;Aín;Pol:None (C0);commuting
+2018-05-01;2794109,678;12002;Aín;Pol:None (C0);commuting
+2018-06-01;2343290,268;12002;Aín;Pol:None (C0);commuting
+2018-07-01;2793802,622;12002;Aín;Pol:None (C0);commuting
+2018-08-01;2797812,041;12002;Aín;Pol:None (C0);commuting
+2018-09-01;2797812,041;12002;Aín;Pol:None (C0);commuting
+2018-10-01;2795222,751;12002;Aín;Pol:None (C0);commuting
+2018-11-01;2796410,469;12002;Aín;Pol:None (C0);commuting
+2018-12-01;2796410,469;12002;Aín;Pol:None (C0);commuting
+2019-01-01;2796410,469;12002;Aín;Pol:None (C0);commuting
+2019-02-01;2796410,469;12002;Aín;Pol:None (C0);commuting
+2019-03-01;2796410,469;12002;Aín;Pol:None (C0);commuting
+2019-04-01;2344199,622;12002;Aín;Pol:None (C0);commuting
+2019-05-01;2347456,647;12002;Aín;Pol:None (C0);commuting
+2019-06-01;2347456,647;12002;Aín;Pol:None (C0);commuting
+2019-07-01;2347456,647;12002;Aín;Pol:None (C0);commuting
+2019-08-01;2347456,647;12002;Aín;Pol:None (C0);commuting
+2019-09-01;2347456,647;12002;Aín;Pol:None (C0);commuting
+2019-10-01;2347456,647;12002;Aín;Pol:None (C0);commuting
+2019-11-01;2344878,346;12002;Aín;Pol:None (C0);commuting
+2019-12-01;2342733,121;12002;Aín;Pol:None (C0);commuting
+2020-01-01;2342381,465;12002;Aín;Pol:None (C0);commuting
+2020-02-01;2343245,632;12002;Aín;Pol:None (C0);commuting
+2020-03-01;2343245,632;12002;Aín;Pol:None (C0);commuting
+2020-04-01;2344653,431;12002;Aín;Pol:None (C0);commuting
+2020-05-01;2344653,431;12002;Aín;Pol:None (C0);commuting
+2020-06-01;2344653,431;12002;Aín;Pol:None (C0);commuting
+2020-07-01;1893863,052;12002;Aín;Pol:None (C0);commuting
+2020-08-01;1894290,253;12002;Aín;Pol:None (C0);commuting
+2020-09-01;1893863,052;12002;Aín;Pol:None (C0);commuting
+2020-10-01;1895252,675;12002;Aín;Pol:None (C0);commuting
+2020-11-01;1895252,675;12002;Aín;Pol:None (C0);commuting
+2014-01-01;475874,998;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2014-02-01;480946,315;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2014-03-01;486743,832;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2014-04-01;493472,798;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2014-05-01;500807,671;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2014-06-01;506630,85;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2014-07-01;506290,602;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2014-08-01;505973,222;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2014-09-01;506561,162;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2014-10-01;505826,094;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2014-11-01;509589,129;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2014-12-01;511034,908;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2015-01-01;512707,215;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2015-02-01;511470,792;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2015-03-01;511222,147;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2015-04-01;513661,198;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2015-05-01;514332,09;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2015-06-01;512383,241;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2015-07-01;511051,066;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2015-08-01;510336,928;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2015-09-01;510966,954;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2015-10-01;510966,954;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2015-11-01;514620,983;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2015-12-01;515293,635;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2016-01-01;513212,835;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2016-02-01;514203,817;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2016-03-01;515197,125;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2016-04-01;514516,88;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2016-05-01;517474,629;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2016-06-01;515746,198;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2016-07-01;514306,53;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2016-08-01;517954,537;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2016-09-01;517515,27;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2016-10-01;518481,879;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2016-11-01;519513,324;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2016-12-01;518373,34;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2017-01-01;519371,538;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2017-02-01;519371,538;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2017-03-01;519180,153;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2017-04-01;518357,249;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2017-05-01;522866,498;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2017-06-01;522866,498;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2017-07-01;523994,808;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2017-08-01;523638,268;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2017-09-01;524042,172;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2017-10-01;524636,666;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2017-11-01;525118,059;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2017-12-01;527131,039;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2018-01-01;527233,28;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2018-02-01;528376,173;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2018-03-01;529554,092;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2018-04-01;528909,355;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2018-05-01;529845,581;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2018-06-01;532338,358;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2018-07-01;531415,125;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2018-08-01;532170,3;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2018-09-01;533460,559;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2018-10-01;534384,402;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2018-11-01;539056,954;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2018-12-01;538818,961;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2019-01-01;540030,157;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2019-02-01;537062,385;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2019-03-01;537665,266;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2019-04-01;539578,526;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2019-05-01;542259,87;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2019-06-01;540261,153;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2019-07-01;539888,155;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2019-08-01;540562,48;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2019-09-01;541261,316;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2019-10-01;545435,042;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2019-11-01;549218,32;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2019-12-01;547059,418;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2020-01-01;550492,225;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2020-02-01;550657,628;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2020-03-01;553785,502;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2020-04-01;552872,33;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2020-05-01;549496,675;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2020-06-01;551306,107;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2020-07-01;554355,787;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2020-08-01;553843,188;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2020-09-01;555963,949;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2020-10-01;559310,749;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2020-11-01;559575,261;39057;Ramales de la Victoria;Pol:None (C0);commuting
+2014-01-01;1441814,984;39102;Voto;Pol:None (C0);commuting
+2014-02-01;1466022,013;39102;Voto;Pol:None (C0);commuting
+2014-03-01;1483016,655;39102;Voto;Pol:None (C0);commuting
+2014-04-01;1501701,643;39102;Voto;Pol:None (C0);commuting
+2014-05-01;1523083,353;39102;Voto;Pol:None (C0);commuting
+2014-06-01;1547313,679;39102;Voto;Pol:None (C0);commuting
+2014-07-01;1548444,631;39102;Voto;Pol:None (C0);commuting
+2014-08-01;1545668,698;39102;Voto;Pol:None (C0);commuting
+2014-09-01;1544186,138;39102;Voto;Pol:None (C0);commuting
+2014-10-01;1545828,16;39102;Voto;Pol:None (C0);commuting
+2014-11-01;1544702,586;39102;Voto;Pol:None (C0);commuting
+2014-12-01;1548882,693;39102;Voto;Pol:None (C0);commuting
+2015-01-01;1544341,388;39102;Voto;Pol:None (C0);commuting
+2015-02-01;1545809,93;39102;Voto;Pol:None (C0);commuting
+2015-03-01;1542003,659;39102;Voto;Pol:None (C0);commuting
+2015-04-01;1548092,519;39102;Voto;Pol:None (C0);commuting
+2015-05-01;1545521,514;39102;Voto;Pol:None (C0);commuting
+2015-06-01;1548113,142;39102;Voto;Pol:None (C0);commuting
+2015-07-01;1550852,338;39102;Voto;Pol:None (C0);commuting
+2015-08-01;1553011,873;39102;Voto;Pol:None (C0);commuting
+2015-09-01;1551255,664;39102;Voto;Pol:None (C0);commuting
+2015-10-01;1550888,863;39102;Voto;Pol:None (C0);commuting
+2015-11-01;1551791,124;39102;Voto;Pol:None (C0);commuting
+2015-12-01;1553143,274;39102;Voto;Pol:None (C0);commuting
+2016-01-01;1551670,626;39102;Voto;Pol:None (C0);commuting
+2016-02-01;1558015,492;39102;Voto;Pol:None (C0);commuting
+2016-03-01;1558554,233;39102;Voto;Pol:None (C0);commuting
+2016-04-01;1559618,196;39102;Voto;Pol:None (C0);commuting
+2016-05-01;1559999,449;39102;Voto;Pol:None (C0);commuting
+2016-06-01;1556714,461;39102;Voto;Pol:None (C0);commuting
+2016-07-01;1557812,938;39102;Voto;Pol:None (C0);commuting
+2016-08-01;1559469,169;39102;Voto;Pol:None (C0);commuting
+2016-09-01;1560121,133;39102;Voto;Pol:None (C0);commuting
+2016-10-01;1558277,673;39102;Voto;Pol:None (C0);commuting
+2016-11-01;1557234,472;39102;Voto;Pol:None (C0);commuting
+2016-12-01;1562555,877;39102;Voto;Pol:None (C0);commuting
+2017-01-01;1560331,813;39102;Voto;Pol:None (C0);commuting
+2017-02-01;1560553,764;39102;Voto;Pol:None (C0);commuting
+2017-03-01;1566263,68;39102;Voto;Pol:None (C0);commuting
+2017-04-01;1566263,68;39102;Voto;Pol:None (C0);commuting
+2017-05-01;1566263,68;39102;Voto;Pol:None (C0);commuting
+2017-06-01;1566263,68;39102;Voto;Pol:None (C0);commuting
+2017-07-01;1569025,371;39102;Voto;Pol:None (C0);commuting
+2017-08-01;1569945,885;39102;Voto;Pol:None (C0);commuting
+2017-09-01;1569945,885;39102;Voto;Pol:None (C0);commuting
+2017-10-01;1570784,214;39102;Voto;Pol:None (C0);commuting
+2017-11-01;1569453,882;39102;Voto;Pol:None (C0);commuting
+2017-12-01;1573067,088;39102;Voto;Pol:None (C0);commuting
+2018-01-01;1572656,934;39102;Voto;Pol:None (C0);commuting
+2018-02-01;1579620,359;39102;Voto;Pol:None (C0);commuting
+2018-03-01;1582070,799;39102;Voto;Pol:None (C0);commuting
+2018-04-01;1581823,944;39102;Voto;Pol:None (C0);commuting
+2018-05-01;1583560,97;39102;Voto;Pol:None (C0);commuting
+2018-06-01;1589050,259;39102;Voto;Pol:None (C0);commuting
+2018-07-01;1589225,393;39102;Voto;Pol:None (C0);commuting
+2018-08-01;1593347,539;39102;Voto;Pol:None (C0);commuting
+2018-09-01;1595542,198;39102;Voto;Pol:None (C0);commuting
+2018-10-01;1598530,383;39102;Voto;Pol:None (C0);commuting
+2018-11-01;1594673,177;39102;Voto;Pol:None (C0);commuting
+2018-12-01;1596402,734;39102;Voto;Pol:None (C0);commuting
+2019-01-01;1599660,588;39102;Voto;Pol:None (C0);commuting
+2019-02-01;1603400,615;39102;Voto;Pol:None (C0);commuting
+2019-03-01;1609458,679;39102;Voto;Pol:None (C0);commuting
+2019-04-01;1610548,227;39102;Voto;Pol:None (C0);commuting
+2019-05-01;1617176,333;39102;Voto;Pol:None (C0);commuting
+2019-06-01;1619214,535;39102;Voto;Pol:None (C0);commuting
+2019-07-01;1624887,478;39102;Voto;Pol:None (C0);commuting
+2019-08-01;1629094,115;39102;Voto;Pol:None (C0);commuting
+2019-09-01;1626324,775;39102;Voto;Pol:None (C0);commuting
+2019-10-01;1632054,147;39102;Voto;Pol:None (C0);commuting
+2019-11-01;1635052,779;39102;Voto;Pol:None (C0);commuting
+2019-12-01;1635710,511;39102;Voto;Pol:None (C0);commuting
+2020-01-01;1641645,873;39102;Voto;Pol:None (C0);commuting
+2020-02-01;1647980,01;39102;Voto;Pol:None (C0);commuting
+2020-03-01;1651124,424;39102;Voto;Pol:None (C0);commuting
+2020-04-01;1653523,527;39102;Voto;Pol:None (C0);commuting
+2020-05-01;1663294,586;39102;Voto;Pol:None (C0);commuting
+2020-06-01;1663294,586;39102;Voto;Pol:None (C0);commuting
+2020-07-01;1663294,586;39102;Voto;Pol:None (C0);commuting
+2020-08-01;1665222,507;39102;Voto;Pol:None (C0);commuting
+2020-09-01;1668474,348;39102;Voto;Pol:None (C0);commuting
+2020-10-01;1677063,447;39102;Voto;Pol:None (C0);commuting
+2020-11-01;1672156,755;39102;Voto;Pol:None (C0);commuting
+2014-01-01;28468974,686;10201;Valdemorales;Pol:Buy (C0);commuting
+2014-02-01;29036585,056;10201;Valdemorales;Pol:Buy (C0);commuting
+2014-03-01;29252291,023;10201;Valdemorales;Pol:Buy (C0);commuting
+2014-04-01;29252291,023;10201;Valdemorales;Pol:Buy (C0);commuting
+2014-05-01;29323261,171;10201;Valdemorales;Pol:Buy (C0);commuting
+2014-06-01;29541047,596;10201;Valdemorales;Pol:Buy (C0);commuting
+2014-07-01;29468300,48;10201;Valdemorales;Pol:Buy (C0);commuting
+2014-08-01;29465895,591;10201;Valdemorales;Pol:Buy (C0);commuting
+2014-09-01;29745894,402;10201;Valdemorales;Pol:Buy (C0);commuting
+2014-10-01;30023462,411;10201;Valdemorales;Pol:Buy (C0);commuting
+2014-11-01;30948583,19;10201;Valdemorales;Pol:Buy (C0);commuting
+2014-12-01;30875011,818;10201;Valdemorales;Pol:Buy (C0);commuting
+2015-01-01;30520361,634;10201;Valdemorales;Pol:Buy (C0);commuting
+2015-02-01;30873577,622;10201;Valdemorales;Pol:Buy (C0);commuting
+2015-03-01;31016387,917;10201;Valdemorales;Pol:Buy (C0);commuting
+2015-04-01;30589606,094;10201;Valdemorales;Pol:Buy (C0);commuting
+2015-05-01;30663024,649;10201;Valdemorales;Pol:Buy (C0);commuting
+2015-06-01;30663024,649;10201;Valdemorales;Pol:Buy (C0);commuting
+2015-07-01;31162438,097;10201;Valdemorales;Pol:Buy (C0);commuting
+2015-08-01;31162438,097;10201;Valdemorales;Pol:Buy (C0);commuting
+2015-09-01;31089019,542;10201;Valdemorales;Pol:Buy (C0);commuting
+2015-10-01;31087360,293;10201;Valdemorales;Pol:Buy (C0);commuting
+2015-11-01;31159151,847;10201;Valdemorales;Pol:Buy (C0);commuting
+2015-12-01;31159151,847;10201;Valdemorales;Pol:Buy (C0);commuting
+2016-01-01;31159151,847;10201;Valdemorales;Pol:Buy (C0);commuting
+2016-02-01;31159151,847;10201;Valdemorales;Pol:Buy (C0);commuting
+2016-03-01;30733981,564;10201;Valdemorales;Pol:Buy (C0);commuting
+2016-04-01;30380657,245;10201;Valdemorales;Pol:Buy (C0);commuting
+2016-05-01;30454245,112;10201;Valdemorales;Pol:Buy (C0);commuting
+2016-06-01;30454245,112;10201;Valdemorales;Pol:Buy (C0);commuting
+2016-07-01;30880341,612;10201;Valdemorales;Pol:Buy (C0);commuting
+2016-08-01;31306528,671;10201;Valdemorales;Pol:Buy (C0);commuting
+2016-09-01;30880289,425;10201;Valdemorales;Pol:Buy (C0);commuting
+2016-10-01;31306429,388;10201;Valdemorales;Pol:Buy (C0);commuting
+2016-11-01;30880170,732;10201;Valdemorales;Pol:Buy (C0);commuting
+2016-12-01;30951186,039;10201;Valdemorales;Pol:Buy (C0);commuting
+2017-01-01;30951186,039;10201;Valdemorales;Pol:Buy (C0);commuting
+2017-02-01;30451269,165;10201;Valdemorales;Pol:Buy (C0);commuting
+2017-03-01;30596034,852;10201;Valdemorales;Pol:Buy (C0);commuting
+2017-04-01;30596034,852;10201;Valdemorales;Pol:Buy (C0);commuting
+2017-05-01;30596034,852;10201;Valdemorales;Pol:Buy (C0);commuting
+2017-06-01;30596034,852;10201;Valdemorales;Pol:Buy (C0);commuting
+2017-07-01;30168974,38;10201;Valdemorales;Pol:Buy (C0);commuting
+2017-08-01;29813350,092;10201;Valdemorales;Pol:Buy (C0);commuting
+2017-09-01;30239446,592;10201;Valdemorales;Pol:Buy (C0);commuting
+2017-10-01;30239446,592;10201;Valdemorales;Pol:Buy (C0);commuting
+2017-11-01;30239446,592;10201;Valdemorales;Pol:Buy (C0);commuting
+2017-12-01;30239446,592;10201;Valdemorales;Pol:Buy (C0);commuting
+2018-01-01;30239446,592;10201;Valdemorales;Pol:Buy (C0);commuting
+2018-02-01;30666878,728;10201;Valdemorales;Pol:Buy (C0);commuting
+2018-03-01;30739235,739;10201;Valdemorales;Pol:Buy (C0);commuting
+2018-04-01;30739235,739;10201;Valdemorales;Pol:Buy (C0);commuting
+2018-05-01;30739235,739;10201;Valdemorales;Pol:Buy (C0);commuting
+2018-06-01;30739235,739;10201;Valdemorales;Pol:Buy (C0);commuting
+2018-07-01;30739235,739;10201;Valdemorales;Pol:Buy (C0);commuting
+2018-08-01;30668168,9;10201;Valdemorales;Pol:Buy (C0);commuting
+2018-09-01;29812201,207;10201;Valdemorales;Pol:Buy (C0);commuting
+2018-10-01;31091992,787;10201;Valdemorales;Pol:Buy (C0);commuting
+2018-11-01;31163165,873;10201;Valdemorales;Pol:Buy (C0);commuting
+2018-12-01;31163165,873;10201;Valdemorales;Pol:Buy (C0);commuting
+2019-01-01;31163165,873;10201;Valdemorales;Pol:Buy (C0);commuting
+2019-02-01;31163165,873;10201;Valdemorales;Pol:Buy (C0);commuting
+2019-03-01;31090242,839;10201;Valdemorales;Pol:Buy (C0);commuting
+2019-04-01;31163726,719;10201;Valdemorales;Pol:Buy (C0);commuting
+2019-05-01;31090176,729;10201;Valdemorales;Pol:Buy (C0);commuting
+2019-06-01;31087889,464;10201;Valdemorales;Pol:Buy (C0);commuting
+2019-07-01;31514099,872;10201;Valdemorales;Pol:Buy (C0);commuting
+2019-08-01;31514099,872;10201;Valdemorales;Pol:Buy (C0);commuting
+2019-09-01;31939135,334;10201;Valdemorales;Pol:Buy (C0);commuting
+2019-10-01;31939135,334;10201;Valdemorales;Pol:Buy (C0);commuting
+2019-11-01;31865547,468;10201;Valdemorales;Pol:Buy (C0);commuting
+2019-12-01;31863187,667;10201;Valdemorales;Pol:Buy (C0);commuting
+2020-01-01;32008578,908;10201;Valdemorales;Pol:Buy (C0);commuting
+2020-02-01;32008578,908;10201;Valdemorales;Pol:Buy (C0);commuting
+2020-03-01;32008578,908;10201;Valdemorales;Pol:Buy (C0);commuting
+2020-04-01;31581785,883;10201;Valdemorales;Pol:Buy (C0);commuting
+2020-05-01;31579305,45;10201;Valdemorales;Pol:Buy (C0);commuting
+2020-06-01;31579305,45;10201;Valdemorales;Pol:Buy (C0);commuting
+2020-07-01;31153229,96;10201;Valdemorales;Pol:Buy (C0);commuting
+2020-08-01;31224472,512;10201;Valdemorales;Pol:Buy (C0);commuting
+2020-09-01;30797582,601;10201;Valdemorales;Pol:Buy (C0);commuting
+2020-10-01;30868838,836;10201;Valdemorales;Pol:Buy (C0);commuting
+2020-11-01;30797665,75;10201;Valdemorales;Pol:Buy (C0);commuting
+2014-01-01;4616022,869;12002;Aín;Pol:Buy (C0);commuting
+2014-02-01;4619944,217;12002;Aín;Pol:Buy (C0);commuting
+2014-03-01;4620481,113;12002;Aín;Pol:Buy (C0);commuting
+2014-04-01;4621846,17;12002;Aín;Pol:Buy (C0);commuting
+2014-05-01;4621846,17;12002;Aín;Pol:Buy (C0);commuting
+2014-06-01;5078309,362;12002;Aín;Pol:Buy (C0);commuting
+2014-07-01;5078309,362;12002;Aín;Pol:Buy (C0);commuting
+2014-08-01;5073326,914;12002;Aín;Pol:Buy (C0);commuting
+2014-09-01;5073855,391;12002;Aín;Pol:Buy (C0);commuting
+2014-10-01;5973091,251;12002;Aín;Pol:Buy (C0);commuting
+2014-11-01;6418853,939;12002;Aín;Pol:Buy (C0);commuting
+2014-12-01;6867794,893;12002;Aín;Pol:Buy (C0);commuting
+2015-01-01;5962581,362;12002;Aín;Pol:Buy (C0);commuting
+2015-02-01;7316758,55;12002;Aín;Pol:Buy (C0);commuting
+2015-03-01;7316758,55;12002;Aín;Pol:Buy (C0);commuting
+2015-04-01;7316758,55;12002;Aín;Pol:Buy (C0);commuting
+2015-05-01;7316758,55;12002;Aín;Pol:Buy (C0);commuting
+2015-06-01;7316758,55;12002;Aín;Pol:Buy (C0);commuting
+2015-07-01;7316758,55;12002;Aín;Pol:Buy (C0);commuting
+2015-08-01;7316758,55;12002;Aín;Pol:Buy (C0);commuting
+2015-09-01;7316758,55;12002;Aín;Pol:Buy (C0);commuting
+2015-10-01;7316758,55;12002;Aín;Pol:Buy (C0);commuting
+2015-11-01;6865990,69;12002;Aín;Pol:Buy (C0);commuting
+2015-12-01;6865192,153;12002;Aín;Pol:Buy (C0);commuting
+2016-01-01;6865679,351;12002;Aín;Pol:Buy (C0);commuting
+2016-02-01;6864815,574;12002;Aín;Pol:Buy (C0);commuting
+2016-03-01;6865377,233;12002;Aín;Pol:Buy (C0);commuting
+2016-04-01;6865377,233;12002;Aín;Pol:Buy (C0);commuting
+2016-05-01;6414060,679;12002;Aín;Pol:Buy (C0);commuting
+2016-06-01;6414912,839;12002;Aín;Pol:Buy (C0);commuting
+2016-07-01;5512749,898;12002;Aín;Pol:Buy (C0);commuting
+2016-08-01;5967090,127;12002;Aín;Pol:Buy (C0);commuting
+2016-09-01;5967090,127;12002;Aín;Pol:Buy (C0);commuting
+2016-10-01;5967090,127;12002;Aín;Pol:Buy (C0);commuting
+2016-11-01;5967090,127;12002;Aín;Pol:Buy (C0);commuting
+2016-12-01;5967090,127;12002;Aín;Pol:Buy (C0);commuting
+2017-01-01;5966593,53;12002;Aín;Pol:Buy (C0);commuting
+2017-02-01;5966593,53;12002;Aín;Pol:Buy (C0);commuting
+2017-03-01;5964222,699;12002;Aín;Pol:Buy (C0);commuting
+2017-04-01;5965199,672;12002;Aín;Pol:Buy (C0);commuting
+2017-05-01;5965199,672;12002;Aín;Pol:Buy (C0);commuting
+2017-06-01;5965199,672;12002;Aín;Pol:Buy (C0);commuting
+2017-07-01;5965199,672;12002;Aín;Pol:Buy (C0);commuting
+2017-08-01;5965199,672;12002;Aín;Pol:Buy (C0);commuting
+2017-09-01;5965199,672;12002;Aín;Pol:Buy (C0);commuting
+2017-10-01;5965199,672;12002;Aín;Pol:Buy (C0);commuting
+2017-11-01;5965199,672;12002;Aín;Pol:Buy (C0);commuting
+2017-12-01;5965199,672;12002;Aín;Pol:Buy (C0);commuting
+2018-01-01;5965199,672;12002;Aín;Pol:Buy (C0);commuting
+2018-02-01;5514348,13;12002;Aín;Pol:Buy (C0);commuting
+2018-03-01;5065059,959;12002;Aín;Pol:Buy (C0);commuting
+2018-04-01;5515944,816;12002;Aín;Pol:Buy (C0);commuting
+2018-05-01;5065059,959;12002;Aín;Pol:Buy (C0);commuting
+2018-06-01;5067107,763;12002;Aín;Pol:Buy (C0);commuting
+2018-07-01;5518010,972;12002;Aín;Pol:Buy (C0);commuting
+2018-08-01;5520058,776;12002;Aín;Pol:Buy (C0);commuting
+2018-09-01;5520058,776;12002;Aín;Pol:Buy (C0);commuting
+2018-10-01;5520058,776;12002;Aín;Pol:Buy (C0);commuting
+2018-11-01;5069138,79;12002;Aín;Pol:Buy (C0);commuting
+2018-12-01;5068845,165;12002;Aín;Pol:Buy (C0);commuting
+2019-01-01;4169329,378;12002;Aín;Pol:Buy (C0);commuting
+2019-02-01;4173784,903;12002;Aín;Pol:Buy (C0);commuting
+2019-03-01;4173784,903;12002;Aín;Pol:Buy (C0);commuting
+2019-04-01;3722881,694;12002;Aín;Pol:Buy (C0);commuting
+2019-05-01;2821179,599;12002;Aín;Pol:Buy (C0);commuting
+2019-06-01;3721393,177;12002;Aín;Pol:Buy (C0);commuting
+2019-07-01;3722169,752;12002;Aín;Pol:Buy (C0);commuting
+2019-08-01;3722169,752;12002;Aín;Pol:Buy (C0);commuting
+2019-09-01;3722169,752;12002;Aín;Pol:Buy (C0);commuting
+2019-10-01;3722169,752;12002;Aín;Pol:Buy (C0);commuting
+2019-11-01;3722169,752;12002;Aín;Pol:Buy (C0);commuting
+2019-12-01;3270836,579;12002;Aín;Pol:Buy (C0);commuting
+2020-01-01;3723253,755;12002;Aín;Pol:Buy (C0);commuting
+2020-02-01;3723748,776;12002;Aín;Pol:Buy (C0);commuting
+2020-03-01;3722872,523;12002;Aín;Pol:Buy (C0);commuting
+2020-04-01;4620562,317;12002;Aín;Pol:Buy (C0);commuting
+2020-05-01;4622135,813;12002;Aín;Pol:Buy (C0);commuting
+2020-06-01;5069940,839;12002;Aín;Pol:Buy (C0);commuting
+2020-07-01;5074800,609;12002;Aín;Pol:Buy (C0);commuting
+2020-08-01;5074800,609;12002;Aín;Pol:Buy (C0);commuting
+2020-09-01;5072441,513;12002;Aín;Pol:Buy (C0);commuting
+2020-10-01;5073256,289;12002;Aín;Pol:Buy (C0);commuting
+2020-11-01;4619953,907;12002;Aín;Pol:Buy (C0);commuting
+2014-01-01;443140,326;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2014-02-01;448191,158;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2014-03-01;453518,636;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2014-04-01;462218,18;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2014-05-01;467968,688;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2014-06-01;471135,892;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2014-07-01;471135,892;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2014-08-01;469407,558;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2014-09-01;470594,674;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2014-10-01;470655,105;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2014-11-01;468066,574;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2014-12-01;471529,625;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2015-01-01;471219,509;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2015-02-01;471077,332;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2015-03-01;471780,185;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2015-04-01;472173,721;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2015-05-01;473489,872;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2015-06-01;471347,757;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2015-07-01;471494,651;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2015-08-01;472588,313;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2015-09-01;470451,327;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2015-10-01;471551,736;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2015-11-01;471357,031;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2015-12-01;470645,752;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2016-01-01;471826,827;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2016-02-01;472303,854;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2016-03-01;471799,928;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2016-04-01;473652,548;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2016-05-01;472323,458;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2016-06-01;471947,513;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2016-07-01;471021,049;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2016-08-01;471615,872;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2016-09-01;467619,011;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2016-10-01;470824,862;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2016-11-01;469632,176;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2016-12-01;470246,522;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2017-01-01;469437,548;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2017-02-01;468819,832;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2017-03-01;469963,05;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2017-04-01;469963,05;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2017-05-01;468567,239;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2017-06-01;467654,055;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2017-07-01;468934,848;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2017-08-01;469607,037;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2017-09-01;469117,117;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2017-10-01;467925,323;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2017-11-01;467572,043;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2017-12-01;469097,603;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2018-01-01;469594,757;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2018-02-01;470130,578;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2018-03-01;471921,308;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2018-04-01;471556,084;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2018-05-01;473284,911;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2018-06-01;474805,159;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2018-07-01;473572,155;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2018-08-01;474493,75;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2018-09-01;474603,794;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2018-10-01;476119,256;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2018-11-01;476212,318;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2018-12-01;476670,846;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2019-01-01;477580,157;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2019-02-01;478521,678;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2019-03-01;476779,389;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2019-04-01;477462,406;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2019-05-01;480645,916;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2019-06-01;482805,033;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2019-07-01;481801,664;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2019-08-01;482868,567;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2019-09-01;485776,032;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2019-10-01;486342,55;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2019-11-01;488673,453;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2019-12-01;486963,853;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2020-01-01;487952,334;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2020-02-01;486664,096;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2020-03-01;489044,917;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2020-04-01;491075,843;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2020-05-01;490529,953;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2020-06-01;490058,484;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2020-07-01;497698,933;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2020-08-01;498352,188;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2020-09-01;499312,017;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2020-10-01;501539,731;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2020-11-01;505797,629;39057;Ramales de la Victoria;Pol:Buy (C0);commuting
+2014-01-01;1402052,306;39102;Voto;Pol:Buy (C0);commuting
+2014-02-01;1419763,053;39102;Voto;Pol:Buy (C0);commuting
+2014-03-01;1441532,084;39102;Voto;Pol:Buy (C0);commuting
+2014-04-01;1460878,065;39102;Voto;Pol:Buy (C0);commuting
+2014-05-01;1482805,507;39102;Voto;Pol:Buy (C0);commuting
+2014-06-01;1500947,976;39102;Voto;Pol:Buy (C0);commuting
+2014-07-01;1502931,366;39102;Voto;Pol:Buy (C0);commuting
+2014-08-01;1499713,895;39102;Voto;Pol:Buy (C0);commuting
+2014-09-01;1500392,762;39102;Voto;Pol:Buy (C0);commuting
+2014-10-01;1495411,642;39102;Voto;Pol:Buy (C0);commuting
+2014-11-01;1490889,082;39102;Voto;Pol:Buy (C0);commuting
+2014-12-01;1496612,242;39102;Voto;Pol:Buy (C0);commuting
+2015-01-01;1490831,24;39102;Voto;Pol:Buy (C0);commuting
+2015-02-01;1491106,165;39102;Voto;Pol:Buy (C0);commuting
+2015-03-01;1492867,78;39102;Voto;Pol:Buy (C0);commuting
+2015-04-01;1497195,605;39102;Voto;Pol:Buy (C0);commuting
+2015-05-01;1494867,705;39102;Voto;Pol:Buy (C0);commuting
+2015-06-01;1490644,217;39102;Voto;Pol:Buy (C0);commuting
+2015-07-01;1493245,549;39102;Voto;Pol:Buy (C0);commuting
+2015-08-01;1496240,091;39102;Voto;Pol:Buy (C0);commuting
+2015-09-01;1498318,0;39102;Voto;Pol:Buy (C0);commuting
+2015-10-01;1499897,908;39102;Voto;Pol:Buy (C0);commuting
+2015-11-01;1500915,091;39102;Voto;Pol:Buy (C0);commuting
+2015-12-01;1502244,828;39102;Voto;Pol:Buy (C0);commuting
+2016-01-01;1500927,481;39102;Voto;Pol:Buy (C0);commuting
+2016-02-01;1497464,596;39102;Voto;Pol:Buy (C0);commuting
+2016-03-01;1496548,46;39102;Voto;Pol:Buy (C0);commuting
+2016-04-01;1497230,846;39102;Voto;Pol:Buy (C0);commuting
+2016-05-01;1499766,5;39102;Voto;Pol:Buy (C0);commuting
+2016-06-01;1496775,848;39102;Voto;Pol:Buy (C0);commuting
+2016-07-01;1498634,317;39102;Voto;Pol:Buy (C0);commuting
+2016-08-01;1500156,805;39102;Voto;Pol:Buy (C0);commuting
+2016-09-01;1497514,138;39102;Voto;Pol:Buy (C0);commuting
+2016-10-01;1498440,596;39102;Voto;Pol:Buy (C0);commuting
+2016-11-01;1499699,138;39102;Voto;Pol:Buy (C0);commuting
+2016-12-01;1503813,257;39102;Voto;Pol:Buy (C0);commuting
+2017-01-01;1503195,556;39102;Voto;Pol:Buy (C0);commuting
+2017-02-01;1504521,305;39102;Voto;Pol:Buy (C0);commuting
+2017-03-01;1511870,342;39102;Voto;Pol:Buy (C0);commuting
+2017-04-01;1508652,6;39102;Voto;Pol:Buy (C0);commuting
+2017-05-01;1510071,667;39102;Voto;Pol:Buy (C0);commuting
+2017-06-01;1510071,667;39102;Voto;Pol:Buy (C0);commuting
+2017-07-01;1511515,9;39102;Voto;Pol:Buy (C0);commuting
+2017-08-01;1509189,878;39102;Voto;Pol:Buy (C0);commuting
+2017-09-01;1504265,228;39102;Voto;Pol:Buy (C0);commuting
+2017-10-01;1505667,715;39102;Voto;Pol:Buy (C0);commuting
+2017-11-01;1507547,701;39102;Voto;Pol:Buy (C0);commuting
+2017-12-01;1507946,61;39102;Voto;Pol:Buy (C0);commuting
+2018-01-01;1509201,396;39102;Voto;Pol:Buy (C0);commuting
+2018-02-01;1513247,493;39102;Voto;Pol:Buy (C0);commuting
+2018-03-01;1512976,915;39102;Voto;Pol:Buy (C0);commuting
+2018-04-01;1513502,824;39102;Voto;Pol:Buy (C0);commuting
+2018-05-01;1512172,361;39102;Voto;Pol:Buy (C0);commuting
+2018-06-01;1516020,433;39102;Voto;Pol:Buy (C0);commuting
+2018-07-01;1518989,621;39102;Voto;Pol:Buy (C0);commuting
+2018-08-01;1520207,52;39102;Voto;Pol:Buy (C0);commuting
+2018-09-01;1524587,211;39102;Voto;Pol:Buy (C0);commuting
+2018-10-01;1524501,635;39102;Voto;Pol:Buy (C0);commuting
+2018-11-01;1521018,652;39102;Voto;Pol:Buy (C0);commuting
+2018-12-01;1525856,013;39102;Voto;Pol:Buy (C0);commuting
+2019-01-01;1525809,601;39102;Voto;Pol:Buy (C0);commuting
+2019-02-01;1531605,774;39102;Voto;Pol:Buy (C0);commuting
+2019-03-01;1536829,93;39102;Voto;Pol:Buy (C0);commuting
+2019-04-01;1532746,764;39102;Voto;Pol:Buy (C0);commuting
+2019-05-01;1535400,179;39102;Voto;Pol:Buy (C0);commuting
+2019-06-01;1537501,508;39102;Voto;Pol:Buy (C0);commuting
+2019-07-01;1537862,631;39102;Voto;Pol:Buy (C0);commuting
+2019-08-01;1545257,322;39102;Voto;Pol:Buy (C0);commuting
+2019-09-01;1545259,867;39102;Voto;Pol:Buy (C0);commuting
+2019-10-01;1552478,201;39102;Voto;Pol:Buy (C0);commuting
+2019-11-01;1555096,162;39102;Voto;Pol:Buy (C0);commuting
+2019-12-01;1559009,941;39102;Voto;Pol:Buy (C0);commuting
+2020-01-01;1563961,035;39102;Voto;Pol:Buy (C0);commuting
+2020-02-01;1569924,293;39102;Voto;Pol:Buy (C0);commuting
+2020-03-01;1569506,875;39102;Voto;Pol:Buy (C0);commuting
+2020-04-01;1570024,162;39102;Voto;Pol:Buy (C0);commuting
+2020-05-01;1570917,922;39102;Voto;Pol:Buy (C0);commuting
+2020-06-01;1570771,418;39102;Voto;Pol:Buy (C0);commuting
+2020-07-01;1570429,664;39102;Voto;Pol:Buy (C0);commuting
+2020-08-01;1573186,882;39102;Voto;Pol:Buy (C0);commuting
+2020-09-01;1580446,776;39102;Voto;Pol:Buy (C0);commuting
+2020-10-01;1581037,892;39102;Voto;Pol:Buy (C0);commuting
+2020-11-01;1581769,606;39102;Voto;Pol:Buy (C0);commuting
+2014-01-01;28419234,215;10201;Valdemorales;Pol:Wage (C0);commuting
+2014-02-01;28563546,635;10201;Valdemorales;Pol:Wage (C0);commuting
+2014-03-01;28779577,435;10201;Valdemorales;Pol:Wage (C0);commuting
+2014-04-01;28853598,315;10201;Valdemorales;Pol:Wage (C0);commuting
+2014-05-01;29142626,536;10201;Valdemorales;Pol:Wage (C0);commuting
+2014-06-01;29213872,131;10201;Valdemorales;Pol:Wage (C0);commuting
+2014-07-01;29213872,131;10201;Valdemorales;Pol:Wage (C0);commuting
+2014-08-01;29213872,131;10201;Valdemorales;Pol:Wage (C0);commuting
+2014-09-01;29213872,131;10201;Valdemorales;Pol:Wage (C0);commuting
+2014-10-01;29213872,131;10201;Valdemorales;Pol:Wage (C0);commuting
+2014-11-01;29213872,131;10201;Valdemorales;Pol:Wage (C0);commuting
+2014-12-01;29213872,131;10201;Valdemorales;Pol:Wage (C0);commuting
+2015-01-01;28859630,984;10201;Valdemorales;Pol:Wage (C0);commuting
+2015-02-01;28505849,225;10201;Valdemorales;Pol:Wage (C0);commuting
+2015-03-01;27298116,969;10201;Valdemorales;Pol:Wage (C0);commuting
+2015-04-01;27442466,059;10201;Valdemorales;Pol:Wage (C0);commuting
+2015-05-01;27087889,412;10201;Valdemorales;Pol:Wage (C0);commuting
+2015-06-01;27087889,412;10201;Valdemorales;Pol:Wage (C0);commuting
+2015-07-01;27940816,588;10201;Valdemorales;Pol:Wage (C0);commuting
+2015-08-01;27940816,588;10201;Valdemorales;Pol:Wage (C0);commuting
+2015-09-01;27940816,588;10201;Valdemorales;Pol:Wage (C0);commuting
+2015-10-01;27940816,588;10201;Valdemorales;Pol:Wage (C0);commuting
+2015-11-01;27940816,588;10201;Valdemorales;Pol:Wage (C0);commuting
+2015-12-01;27514030,725;10201;Valdemorales;Pol:Wage (C0);commuting
+2016-01-01;27940561,945;10201;Valdemorales;Pol:Wage (C0);commuting
+2016-02-01;27940561,945;10201;Valdemorales;Pol:Wage (C0);commuting
+2016-03-01;27513686,849;10201;Valdemorales;Pol:Wage (C0);commuting
+2016-04-01;27584724,544;10201;Valdemorales;Pol:Wage (C0);commuting
+2016-05-01;27584724,544;10201;Valdemorales;Pol:Wage (C0);commuting
+2016-06-01;27584724,544;10201;Valdemorales;Pol:Wage (C0);commuting
+2016-07-01;27657084,184;10201;Valdemorales;Pol:Wage (C0);commuting
+2016-08-01;27729468,075;10201;Valdemorales;Pol:Wage (C0);commuting
+2016-09-01;27303170,861;10201;Valdemorales;Pol:Wage (C0);commuting
+2016-10-01;27303170,861;10201;Valdemorales;Pol:Wage (C0);commuting
+2016-11-01;26876640,02;10201;Valdemorales;Pol:Wage (C0);commuting
+2016-12-01;26876686,772;10201;Valdemorales;Pol:Wage (C0);commuting
+2017-01-01;26949058,88;10201;Valdemorales;Pol:Wage (C0);commuting
+2017-02-01;26949058,88;10201;Valdemorales;Pol:Wage (C0);commuting
+2017-03-01;26949058,88;10201;Valdemorales;Pol:Wage (C0);commuting
+2017-04-01;26949058,88;10201;Valdemorales;Pol:Wage (C0);commuting
+2017-05-01;26949058,88;10201;Valdemorales;Pol:Wage (C0);commuting
+2017-06-01;26949058,88;10201;Valdemorales;Pol:Wage (C0);commuting
+2017-07-01;26949058,88;10201;Valdemorales;Pol:Wage (C0);commuting
+2017-08-01;26949058,88;10201;Valdemorales;Pol:Wage (C0);commuting
+2017-09-01;26949058,88;10201;Valdemorales;Pol:Wage (C0);commuting
+2017-10-01;26949058,88;10201;Valdemorales;Pol:Wage (C0);commuting
+2017-11-01;26522221,586;10201;Valdemorales;Pol:Wage (C0);commuting
+2017-12-01;26948527,037;10201;Valdemorales;Pol:Wage (C0);commuting
+2018-01-01;26948527,037;10201;Valdemorales;Pol:Wage (C0);commuting
+2018-02-01;27093255,766;10201;Valdemorales;Pol:Wage (C0);commuting
+2018-03-01;26593909,518;10201;Valdemorales;Pol:Wage (C0);commuting
+2018-04-01;27091166,358;10201;Valdemorales;Pol:Wage (C0);commuting
+2018-05-01;26664551,947;10201;Valdemorales;Pol:Wage (C0);commuting
+2018-06-01;27018949,977;10201;Valdemorales;Pol:Wage (C0);commuting
+2018-07-01;26591193,516;10201;Valdemorales;Pol:Wage (C0);commuting
+2018-08-01;27089510,993;10201;Valdemorales;Pol:Wage (C0);commuting
+2018-09-01;27089510,993;10201;Valdemorales;Pol:Wage (C0);commuting
+2018-10-01;27017281,624;10201;Valdemorales;Pol:Wage (C0);commuting
+2018-11-01;27162690,578;10201;Valdemorales;Pol:Wage (C0);commuting
+2018-12-01;27162690,578;10201;Valdemorales;Pol:Wage (C0);commuting
+2019-01-01;27162690,578;10201;Valdemorales;Pol:Wage (C0);commuting
+2019-02-01;27162690,578;10201;Valdemorales;Pol:Wage (C0);commuting
+2019-03-01;26309758,415;10201;Valdemorales;Pol:Wage (C0);commuting
+2019-04-01;26453178,531;10201;Valdemorales;Pol:Wage (C0);commuting
+2019-05-01;26028574,961;10201;Valdemorales;Pol:Wage (C0);commuting
+2019-06-01;26030240,325;10201;Valdemorales;Pol:Wage (C0);commuting
+2019-07-01;26386064,369;10201;Valdemorales;Pol:Wage (C0);commuting
+2019-08-01;26459968,984;10201;Valdemorales;Pol:Wage (C0);commuting
+2019-09-01;26533863,542;10201;Valdemorales;Pol:Wage (C0);commuting
+2019-10-01;25680660,303;10201;Valdemorales;Pol:Wage (C0);commuting
+2019-11-01;26106779,92;10201;Valdemorales;Pol:Wage (C0);commuting
+2019-12-01;26179145,577;10201;Valdemorales;Pol:Wage (C0);commuting
+2020-01-01;26251357,82;10201;Valdemorales;Pol:Wage (C0);commuting
+2020-02-01;25399996,068;10201;Valdemorales;Pol:Wage (C0);commuting
+2020-03-01;25118609,795;10201;Valdemorales;Pol:Wage (C0);commuting
+2020-04-01;25190791,874;10201;Valdemorales;Pol:Wage (C0);commuting
+2020-05-01;25190791,874;10201;Valdemorales;Pol:Wage (C0);commuting
+2020-06-01;25190791,874;10201;Valdemorales;Pol:Wage (C0);commuting
+2020-07-01;24693083,399;10201;Valdemorales;Pol:Wage (C0);commuting
+2020-08-01;24765488,741;10201;Valdemorales;Pol:Wage (C0);commuting
+2020-09-01;24765488,741;10201;Valdemorales;Pol:Wage (C0);commuting
+2020-10-01;24768783,349;10201;Valdemorales;Pol:Wage (C0);commuting
+2020-11-01;24768783,349;10201;Valdemorales;Pol:Wage (C0);commuting
+2014-01-01;5481417,94;12002;Aín;Pol:Wage (C0);commuting
+2014-02-01;5481417,94;12002;Aín;Pol:Wage (C0);commuting
+2014-03-01;5481938,789;12002;Aín;Pol:Wage (C0);commuting
+2014-04-01;5483714,438;12002;Aín;Pol:Wage (C0);commuting
+2014-05-01;5485181,717;12002;Aín;Pol:Wage (C0);commuting
+2014-06-01;5489380,323;12002;Aín;Pol:Wage (C0);commuting
+2014-07-01;5486394,542;12002;Aín;Pol:Wage (C0);commuting
+2014-08-01;5484151,236;12002;Aín;Pol:Wage (C0);commuting
+2014-09-01;5033935,159;12002;Aín;Pol:Wage (C0);commuting
+2014-10-01;5034622,34;12002;Aín;Pol:Wage (C0);commuting
+2014-11-01;5034622,34;12002;Aín;Pol:Wage (C0);commuting
+2014-12-01;5034622,34;12002;Aín;Pol:Wage (C0);commuting
+2015-01-01;4579924,892;12002;Aín;Pol:Wage (C0);commuting
+2015-02-01;5484205,516;12002;Aín;Pol:Wage (C0);commuting
+2015-03-01;7281767,211;12002;Aín;Pol:Wage (C0);commuting
+2015-04-01;7732556,262;12002;Aín;Pol:Wage (C0);commuting
+2015-05-01;7729594,693;12002;Aín;Pol:Wage (C0);commuting
+2015-06-01;7730410,86;12002;Aín;Pol:Wage (C0);commuting
+2015-07-01;7730410,86;12002;Aín;Pol:Wage (C0);commuting
+2015-08-01;7730410,86;12002;Aín;Pol:Wage (C0);commuting
+2015-09-01;7730410,86;12002;Aín;Pol:Wage (C0);commuting
+2015-10-01;7730410,86;12002;Aín;Pol:Wage (C0);commuting
+2015-11-01;7730410,86;12002;Aín;Pol:Wage (C0);commuting
+2015-12-01;7730364,527;12002;Aín;Pol:Wage (C0);commuting
+2016-01-01;7280742,973;12002;Aín;Pol:Wage (C0);commuting
+2016-02-01;7284203,459;12002;Aín;Pol:Wage (C0);commuting
+2016-03-01;7284203,459;12002;Aín;Pol:Wage (C0);commuting
+2016-04-01;7284203,459;12002;Aín;Pol:Wage (C0);commuting
+2016-05-01;6833222,888;12002;Aín;Pol:Wage (C0);commuting
+2016-06-01;7284386,459;12002;Aín;Pol:Wage (C0);commuting
+2016-07-01;7284386,459;12002;Aín;Pol:Wage (C0);commuting
+2016-08-01;7284386,459;12002;Aín;Pol:Wage (C0);commuting
+2016-09-01;7284386,459;12002;Aín;Pol:Wage (C0);commuting
+2016-10-01;6832837,546;12002;Aín;Pol:Wage (C0);commuting
+2016-11-01;6833912,414;12002;Aín;Pol:Wage (C0);commuting
+2016-12-01;6833912,414;12002;Aín;Pol:Wage (C0);commuting
+2017-01-01;6833912,414;12002;Aín;Pol:Wage (C0);commuting
+2017-02-01;6384085,521;12002;Aín;Pol:Wage (C0);commuting
+2017-03-01;5935444,867;12002;Aín;Pol:Wage (C0);commuting
+2017-04-01;5935867,36;12002;Aín;Pol:Wage (C0);commuting
+2017-05-01;5936842,534;12002;Aín;Pol:Wage (C0);commuting
+2017-06-01;5936842,534;12002;Aín;Pol:Wage (C0);commuting
+2017-07-01;5936842,534;12002;Aín;Pol:Wage (C0);commuting
+2017-08-01;5485438,495;12002;Aín;Pol:Wage (C0);commuting
+2017-09-01;5034968,557;12002;Aín;Pol:Wage (C0);commuting
+2017-10-01;5035548,871;12002;Aín;Pol:Wage (C0);commuting
+2017-11-01;5035548,871;12002;Aín;Pol:Wage (C0);commuting
+2017-12-01;5035548,871;12002;Aín;Pol:Wage (C0);commuting
+2018-01-01;5035548,871;12002;Aín;Pol:Wage (C0);commuting
+2018-02-01;5035548,871;12002;Aín;Pol:Wage (C0);commuting
+2018-03-01;5035548,871;12002;Aín;Pol:Wage (C0);commuting
+2018-04-01;4584551,477;12002;Aín;Pol:Wage (C0);commuting
+2018-05-01;5035034,214;12002;Aín;Pol:Wage (C0);commuting
+2018-06-01;5035614,528;12002;Aín;Pol:Wage (C0);commuting
+2018-07-01;5037393,595;12002;Aín;Pol:Wage (C0);commuting
+2018-08-01;5039153,031;12002;Aín;Pol:Wage (C0);commuting
+2018-09-01;5039153,031;12002;Aín;Pol:Wage (C0);commuting
+2018-10-01;5039153,031;12002;Aín;Pol:Wage (C0);commuting
+2018-11-01;5039153,031;12002;Aín;Pol:Wage (C0);commuting
+2018-12-01;5039153,031;12002;Aín;Pol:Wage (C0);commuting
+2019-01-01;5037839,083;12002;Aín;Pol:Wage (C0);commuting
+2019-02-01;5488612,91;12002;Aín;Pol:Wage (C0);commuting
+2019-03-01;5036543,764;12002;Aín;Pol:Wage (C0);commuting
+2019-04-01;6396062,896;12002;Aín;Pol:Wage (C0);commuting
+2019-05-01;6396062,896;12002;Aín;Pol:Wage (C0);commuting
+2019-06-01;6396062,896;12002;Aín;Pol:Wage (C0);commuting
+2019-07-01;6396062,896;12002;Aín;Pol:Wage (C0);commuting
+2019-08-01;6394843,777;12002;Aín;Pol:Wage (C0);commuting
+2019-09-01;6397478,504;12002;Aín;Pol:Wage (C0);commuting
+2019-10-01;6397478,504;12002;Aín;Pol:Wage (C0);commuting
+2019-11-01;6396294,378;12002;Aín;Pol:Wage (C0);commuting
+2019-12-01;5947723,1;12002;Aín;Pol:Wage (C0);commuting
+2020-01-01;7300941,671;12002;Aín;Pol:Wage (C0);commuting
+2020-02-01;7756003,624;12002;Aín;Pol:Wage (C0);commuting
+2020-03-01;7756003,624;12002;Aín;Pol:Wage (C0);commuting
+2020-04-01;7757192,41;12002;Aín;Pol:Wage (C0);commuting
+2020-05-01;7756034,357;12002;Aín;Pol:Wage (C0);commuting
+2020-06-01;8206997,502;12002;Aín;Pol:Wage (C0);commuting
+2020-07-01;8206997,502;12002;Aín;Pol:Wage (C0);commuting
+2020-08-01;8206997,502;12002;Aín;Pol:Wage (C0);commuting
+2020-09-01;8206997,502;12002;Aín;Pol:Wage (C0);commuting
+2020-10-01;8206997,502;12002;Aín;Pol:Wage (C0);commuting
+2020-11-01;8206997,502;12002;Aín;Pol:Wage (C0);commuting
+2014-01-01;382839,629;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2014-02-01;387864,26;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2014-03-01;394126,185;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2014-04-01;399945,831;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2014-05-01;404100,351;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2014-06-01;407969,306;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2014-07-01;407494,485;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2014-08-01;407494,485;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2014-09-01;405720,702;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2014-10-01;406086,074;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2014-11-01;408255,381;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2014-12-01;407399,925;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2015-01-01;408816,698;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2015-02-01;408230,382;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2015-03-01;409352,693;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2015-04-01;409352,693;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2015-05-01;409352,693;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2015-06-01;409029,375;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2015-07-01;409029,375;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2015-08-01;408306,826;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2015-09-01;406713,302;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2015-10-01;407417,89;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2015-11-01;407526,248;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2015-12-01;407552,936;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2016-01-01;407891,259;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2016-02-01;406663,294;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2016-03-01;406961,182;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2016-04-01;407515,506;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2016-05-01;406910,305;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2016-06-01;406616,044;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2016-07-01;407626,615;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2016-08-01;409352,863;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2016-09-01;407963,516;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2016-10-01;410217,822;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2016-11-01;410790,055;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2016-12-01;408466,667;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2017-01-01;407252,054;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2017-02-01;406513,916;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2017-03-01;409323,078;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2017-04-01;406882,371;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2017-05-01;403854,135;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2017-06-01;405679,722;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2017-07-01;407016,336;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2017-08-01;407941,325;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2017-09-01;407941,325;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2017-10-01;408417,982;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2017-11-01;408227,949;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2017-12-01;407282,314;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2018-01-01;409399,285;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2018-02-01;409939,604;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2018-03-01;410472,252;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2018-04-01;412115,916;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2018-05-01;412546,058;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2018-06-01;415388,522;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2018-07-01;413341,116;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2018-08-01;413665,058;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2018-09-01;411645,468;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2018-10-01;411993,394;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2018-11-01;412173,94;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2018-12-01;414636,175;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2019-01-01;416517,186;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2019-02-01;416517,186;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2019-03-01;417641,553;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2019-04-01;420170,909;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2019-05-01;421511,897;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2019-06-01;422951,488;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2019-07-01;418697,241;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2019-08-01;421464,556;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2019-09-01;422880,45;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2019-10-01;419215,351;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2019-11-01;421586,859;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2019-12-01;422831,066;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2020-01-01;424463,128;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2020-02-01;424325,722;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2020-03-01;424667,902;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2020-04-01;424713,695;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2020-05-01;426715,125;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2020-06-01;429472,913;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2020-07-01;430020,615;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2020-08-01;430424,904;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2020-09-01;433428,96;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2020-10-01;433831,17;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2020-11-01;434902,978;39057;Ramales de la Victoria;Pol:Wage (C0);commuting
+2014-01-01;1556988,18;39102;Voto;Pol:Wage (C0);commuting
+2014-02-01;1580402,039;39102;Voto;Pol:Wage (C0);commuting
+2014-03-01;1600766,359;39102;Voto;Pol:Wage (C0);commuting
+2014-04-01;1622234,589;39102;Voto;Pol:Wage (C0);commuting
+2014-05-01;1645487,42;39102;Voto;Pol:Wage (C0);commuting
+2014-06-01;1670996,545;39102;Voto;Pol:Wage (C0);commuting
+2014-07-01;1673047,418;39102;Voto;Pol:Wage (C0);commuting
+2014-08-01;1674755,571;39102;Voto;Pol:Wage (C0);commuting
+2014-09-01;1675256,444;39102;Voto;Pol:Wage (C0);commuting
+2014-10-01;1676712,428;39102;Voto;Pol:Wage (C0);commuting
+2014-11-01;1679409,033;39102;Voto;Pol:Wage (C0);commuting
+2014-12-01;1674094,422;39102;Voto;Pol:Wage (C0);commuting
+2015-01-01;1669794,853;39102;Voto;Pol:Wage (C0);commuting
+2015-02-01;1666877,874;39102;Voto;Pol:Wage (C0);commuting
+2015-03-01;1673587,678;39102;Voto;Pol:Wage (C0);commuting
+2015-04-01;1681801,459;39102;Voto;Pol:Wage (C0);commuting
+2015-05-01;1682305,152;39102;Voto;Pol:Wage (C0);commuting
+2015-06-01;1681543,212;39102;Voto;Pol:Wage (C0);commuting
+2015-07-01;1679533,497;39102;Voto;Pol:Wage (C0);commuting
+2015-08-01;1681144,112;39102;Voto;Pol:Wage (C0);commuting
+2015-09-01;1683017,048;39102;Voto;Pol:Wage (C0);commuting
+2015-10-01;1687102,59;39102;Voto;Pol:Wage (C0);commuting
+2015-11-01;1683683,098;39102;Voto;Pol:Wage (C0);commuting
+2015-12-01;1687400,286;39102;Voto;Pol:Wage (C0);commuting
+2016-01-01;1685572,767;39102;Voto;Pol:Wage (C0);commuting
+2016-02-01;1683202,333;39102;Voto;Pol:Wage (C0);commuting
+2016-03-01;1683283,697;39102;Voto;Pol:Wage (C0);commuting
+2016-04-01;1682978,365;39102;Voto;Pol:Wage (C0);commuting
+2016-05-01;1679916,251;39102;Voto;Pol:Wage (C0);commuting
+2016-06-01;1680792,059;39102;Voto;Pol:Wage (C0);commuting
+2016-07-01;1682636,461;39102;Voto;Pol:Wage (C0);commuting
+2016-08-01;1675756,685;39102;Voto;Pol:Wage (C0);commuting
+2016-09-01;1680451,693;39102;Voto;Pol:Wage (C0);commuting
+2016-10-01;1678465,794;39102;Voto;Pol:Wage (C0);commuting
+2016-11-01;1679292,647;39102;Voto;Pol:Wage (C0);commuting
+2016-12-01;1685369,207;39102;Voto;Pol:Wage (C0);commuting
+2017-01-01;1679909,418;39102;Voto;Pol:Wage (C0);commuting
+2017-02-01;1678003,315;39102;Voto;Pol:Wage (C0);commuting
+2017-03-01;1685090,179;39102;Voto;Pol:Wage (C0);commuting
+2017-04-01;1683415,889;39102;Voto;Pol:Wage (C0);commuting
+2017-05-01;1682947,434;39102;Voto;Pol:Wage (C0);commuting
+2017-06-01;1682605,503;39102;Voto;Pol:Wage (C0);commuting
+2017-07-01;1680928,81;39102;Voto;Pol:Wage (C0);commuting
+2017-08-01;1682806,042;39102;Voto;Pol:Wage (C0);commuting
+2017-09-01;1681540,178;39102;Voto;Pol:Wage (C0);commuting
+2017-10-01;1681984,033;39102;Voto;Pol:Wage (C0);commuting
+2017-11-01;1689877,519;39102;Voto;Pol:Wage (C0);commuting
+2017-12-01;1691296,359;39102;Voto;Pol:Wage (C0);commuting
+2018-01-01;1690360,235;39102;Voto;Pol:Wage (C0);commuting
+2018-02-01;1695271,056;39102;Voto;Pol:Wage (C0);commuting
+2018-03-01;1693705,57;39102;Voto;Pol:Wage (C0);commuting
+2018-04-01;1693028,563;39102;Voto;Pol:Wage (C0);commuting
+2018-05-01;1695498,329;39102;Voto;Pol:Wage (C0);commuting
+2018-06-01;1699251,087;39102;Voto;Pol:Wage (C0);commuting
+2018-07-01;1706336,27;39102;Voto;Pol:Wage (C0);commuting
+2018-08-01;1709282,094;39102;Voto;Pol:Wage (C0);commuting
+2018-09-01;1708487,939;39102;Voto;Pol:Wage (C0);commuting
+2018-10-01;1714855,524;39102;Voto;Pol:Wage (C0);commuting
+2018-11-01;1714157,799;39102;Voto;Pol:Wage (C0);commuting
+2018-12-01;1713896,931;39102;Voto;Pol:Wage (C0);commuting
+2019-01-01;1710589,757;39102;Voto;Pol:Wage (C0);commuting
+2019-02-01;1716569,803;39102;Voto;Pol:Wage (C0);commuting
+2019-03-01;1721226,758;39102;Voto;Pol:Wage (C0);commuting
+2019-04-01;1723661,285;39102;Voto;Pol:Wage (C0);commuting
+2019-05-01;1729183,373;39102;Voto;Pol:Wage (C0);commuting
+2019-06-01;1728978,691;39102;Voto;Pol:Wage (C0);commuting
+2019-07-01;1728950,683;39102;Voto;Pol:Wage (C0);commuting
+2019-08-01;1734995,884;39102;Voto;Pol:Wage (C0);commuting
+2019-09-01;1737649,61;39102;Voto;Pol:Wage (C0);commuting
+2019-10-01;1740723,421;39102;Voto;Pol:Wage (C0);commuting
+2019-11-01;1748068,056;39102;Voto;Pol:Wage (C0);commuting
+2019-12-01;1752914,254;39102;Voto;Pol:Wage (C0);commuting
+2020-01-01;1753278,293;39102;Voto;Pol:Wage (C0);commuting
+2020-02-01;1757525,792;39102;Voto;Pol:Wage (C0);commuting
+2020-03-01;1756399,457;39102;Voto;Pol:Wage (C0);commuting
+2020-04-01;1760113,164;39102;Voto;Pol:Wage (C0);commuting
+2020-05-01;1764413,826;39102;Voto;Pol:Wage (C0);commuting
+2020-06-01;1762285,313;39102;Voto;Pol:Wage (C0);commuting
+2020-07-01;1761657,424;39102;Voto;Pol:Wage (C0);commuting
+2020-08-01;1765183,666;39102;Voto;Pol:Wage (C0);commuting
+2020-09-01;1771522,611;39102;Voto;Pol:Wage (C0);commuting
+2020-10-01;1770801,515;39102;Voto;Pol:Wage (C0);commuting
+2020-11-01;1772062,765;39102;Voto;Pol:Wage (C0);commuting

@@ -1,0 +1,1329 @@
+month;metric_value;municipality_id;municipality_name;policy_scenario;metric_name
+2014-01-01;1,46535;10201;Valdemorales;Pol:All (C0);qli_index
+2014-02-01;1,92938;10201;Valdemorales;Pol:All (C0);qli_index
+2014-03-01;2,39303;10201;Valdemorales;Pol:All (C0);qli_index
+2014-04-01;2,85794;10201;Valdemorales;Pol:All (C0);qli_index
+2014-05-01;3,32393;10201;Valdemorales;Pol:All (C0);qli_index
+2014-06-01;3,79374;10201;Valdemorales;Pol:All (C0);qli_index
+2014-07-01;4,25639;10201;Valdemorales;Pol:All (C0);qli_index
+2014-08-01;4,71829;10201;Valdemorales;Pol:All (C0);qli_index
+2014-09-01;5,18556;10201;Valdemorales;Pol:All (C0);qli_index
+2014-10-01;5,60716;10201;Valdemorales;Pol:All (C0);qli_index
+2014-11-01;6,04976;10201;Valdemorales;Pol:All (C0);qli_index
+2014-12-01;6,51328;10201;Valdemorales;Pol:All (C0);qli_index
+2015-01-01;6,97477;10201;Valdemorales;Pol:All (C0);qli_index
+2015-02-01;7,43312;10201;Valdemorales;Pol:All (C0);qli_index
+2015-03-01;7,89186;10201;Valdemorales;Pol:All (C0);qli_index
+2015-04-01;8,35254;10201;Valdemorales;Pol:All (C0);qli_index
+2015-05-01;8,81268;10201;Valdemorales;Pol:All (C0);qli_index
+2015-06-01;9,27179;10201;Valdemorales;Pol:All (C0);qli_index
+2015-07-01;9,69638;10201;Valdemorales;Pol:All (C0);qli_index
+2015-08-01;10,15475;10201;Valdemorales;Pol:All (C0);qli_index
+2015-09-01;10,61479;10201;Valdemorales;Pol:All (C0);qli_index
+2015-10-01;11,0722;10201;Valdemorales;Pol:All (C0);qli_index
+2015-11-01;11,5304;10201;Valdemorales;Pol:All (C0);qli_index
+2015-12-01;11,98797;10201;Valdemorales;Pol:All (C0);qli_index
+2016-01-01;12,4479;10201;Valdemorales;Pol:All (C0);qli_index
+2016-02-01;12,85679;10201;Valdemorales;Pol:All (C0);qli_index
+2016-03-01;13,26371;10201;Valdemorales;Pol:All (C0);qli_index
+2016-04-01;13,72094;10201;Valdemorales;Pol:All (C0);qli_index
+2016-05-01;14,17986;10201;Valdemorales;Pol:All (C0);qli_index
+2016-06-01;14,63793;10201;Valdemorales;Pol:All (C0);qli_index
+2016-07-01;15,03949;10201;Valdemorales;Pol:All (C0);qli_index
+2016-08-01;15,50048;10201;Valdemorales;Pol:All (C0);qli_index
+2016-09-01;15,95855;10201;Valdemorales;Pol:All (C0);qli_index
+2016-10-01;16,41686;10201;Valdemorales;Pol:All (C0);qli_index
+2016-11-01;16,8755;10201;Valdemorales;Pol:All (C0);qli_index
+2016-12-01;17,33297;10201;Valdemorales;Pol:All (C0);qli_index
+2017-01-01;17,78942;10201;Valdemorales;Pol:All (C0);qli_index
+2017-02-01;18,18065;10201;Valdemorales;Pol:All (C0);qli_index
+2017-03-01;18,50103;10201;Valdemorales;Pol:All (C0);qli_index
+2017-04-01;18,95915;10201;Valdemorales;Pol:All (C0);qli_index
+2017-05-01;19,34817;10201;Valdemorales;Pol:All (C0);qli_index
+2017-06-01;19,80977;10201;Valdemorales;Pol:All (C0);qli_index
+2017-07-01;20,27448;10201;Valdemorales;Pol:All (C0);qli_index
+2017-08-01;20,73396;10201;Valdemorales;Pol:All (C0);qli_index
+2017-09-01;21,19624;10201;Valdemorales;Pol:All (C0);qli_index
+2017-10-01;21,65709;10201;Valdemorales;Pol:All (C0);qli_index
+2017-11-01;22,1177;10201;Valdemorales;Pol:All (C0);qli_index
+2017-12-01;22,57728;10201;Valdemorales;Pol:All (C0);qli_index
+2018-01-01;23,03801;10201;Valdemorales;Pol:All (C0);qli_index
+2018-02-01;23,49498;10201;Valdemorales;Pol:All (C0);qli_index
+2018-03-01;23,95261;10201;Valdemorales;Pol:All (C0);qli_index
+2018-04-01;24,41252;10201;Valdemorales;Pol:All (C0);qli_index
+2018-05-01;24,8702;10201;Valdemorales;Pol:All (C0);qli_index
+2018-06-01;25,33853;10201;Valdemorales;Pol:All (C0);qli_index
+2018-07-01;25,8053;10201;Valdemorales;Pol:All (C0);qli_index
+2018-08-01;26,26874;10201;Valdemorales;Pol:All (C0);qli_index
+2018-09-01;26,73227;10201;Valdemorales;Pol:All (C0);qli_index
+2018-10-01;27,09627;10201;Valdemorales;Pol:All (C0);qli_index
+2018-11-01;27,56446;10201;Valdemorales;Pol:All (C0);qli_index
+2018-12-01;27,92229;10201;Valdemorales;Pol:All (C0);qli_index
+2019-01-01;28,38727;10201;Valdemorales;Pol:All (C0);qli_index
+2019-02-01;28,85141;10201;Valdemorales;Pol:All (C0);qli_index
+2019-03-01;29,31131;10201;Valdemorales;Pol:All (C0);qli_index
+2019-04-01;29,77557;10201;Valdemorales;Pol:All (C0);qli_index
+2019-05-01;30,25121;10201;Valdemorales;Pol:All (C0);qli_index
+2019-06-01;30,71879;10201;Valdemorales;Pol:All (C0);qli_index
+2019-07-01;31,19241;10201;Valdemorales;Pol:All (C0);qli_index
+2019-08-01;31,65582;10201;Valdemorales;Pol:All (C0);qli_index
+2019-09-01;32,11516;10201;Valdemorales;Pol:All (C0);qli_index
+2019-10-01;32,57907;10201;Valdemorales;Pol:All (C0);qli_index
+2019-11-01;32,92119;10201;Valdemorales;Pol:All (C0);qli_index
+2019-12-01;33,38129;10201;Valdemorales;Pol:All (C0);qli_index
+2020-01-01;33,63523;10201;Valdemorales;Pol:All (C0);qli_index
+2020-02-01;33,96936;10201;Valdemorales;Pol:All (C0);qli_index
+2020-03-01;34,44224;10201;Valdemorales;Pol:All (C0);qli_index
+2020-04-01;34,90071;10201;Valdemorales;Pol:All (C0);qli_index
+2020-05-01;35,35799;10201;Valdemorales;Pol:All (C0);qli_index
+2020-06-01;35,8205;10201;Valdemorales;Pol:All (C0);qli_index
+2020-07-01;36,31282;10201;Valdemorales;Pol:All (C0);qli_index
+2020-08-01;36,78866;10201;Valdemorales;Pol:All (C0);qli_index
+2020-09-01;37,2491;10201;Valdemorales;Pol:All (C0);qli_index
+2020-10-01;37,7081;10201;Valdemorales;Pol:All (C0);qli_index
+2020-11-01;38,02882;10201;Valdemorales;Pol:All (C0);qli_index
+2014-01-01;1,24792;12002;Aín;Pol:All (C0);qli_index
+2014-02-01;1,49576;12002;Aín;Pol:All (C0);qli_index
+2014-03-01;1,74311;12002;Aín;Pol:All (C0);qli_index
+2014-04-01;1,98601;12002;Aín;Pol:All (C0);qli_index
+2014-05-01;2,23751;12002;Aín;Pol:All (C0);qli_index
+2014-06-01;2,48629;12002;Aín;Pol:All (C0);qli_index
+2014-07-01;2,73601;12002;Aín;Pol:All (C0);qli_index
+2014-08-01;2,98433;12002;Aín;Pol:All (C0);qli_index
+2014-09-01;3,23778;12002;Aín;Pol:All (C0);qli_index
+2014-10-01;3,46254;12002;Aín;Pol:All (C0);qli_index
+2014-11-01;3,71173;12002;Aín;Pol:All (C0);qli_index
+2014-12-01;3,96156;12002;Aín;Pol:All (C0);qli_index
+2015-01-01;4,21172;12002;Aín;Pol:All (C0);qli_index
+2015-02-01;4,46014;12002;Aín;Pol:All (C0);qli_index
+2015-03-01;4,70867;12002;Aín;Pol:All (C0);qli_index
+2015-04-01;4,92328;12002;Aín;Pol:All (C0);qli_index
+2015-05-01;5,17682;12002;Aín;Pol:All (C0);qli_index
+2015-06-01;5,42838;12002;Aín;Pol:All (C0);qli_index
+2015-07-01;5,67847;12002;Aín;Pol:All (C0);qli_index
+2015-08-01;5,92827;12002;Aín;Pol:All (C0);qli_index
+2015-09-01;6,17854;12002;Aín;Pol:All (C0);qli_index
+2015-10-01;6,42788;12002;Aín;Pol:All (C0);qli_index
+2015-11-01;6,67673;12002;Aín;Pol:All (C0);qli_index
+2015-12-01;6,92689;12002;Aín;Pol:All (C0);qli_index
+2016-01-01;7,17423;12002;Aín;Pol:All (C0);qli_index
+2016-02-01;7,42185;12002;Aín;Pol:All (C0);qli_index
+2016-03-01;7,66804;12002;Aín;Pol:All (C0);qli_index
+2016-04-01;7,91368;12002;Aín;Pol:All (C0);qli_index
+2016-05-01;8,16239;12002;Aín;Pol:All (C0);qli_index
+2016-06-01;8,40912;12002;Aín;Pol:All (C0);qli_index
+2016-07-01;8,65541;12002;Aín;Pol:All (C0);qli_index
+2016-08-01;8,90194;12002;Aín;Pol:All (C0);qli_index
+2016-09-01;9,14821;12002;Aín;Pol:All (C0);qli_index
+2016-10-01;9,39468;12002;Aín;Pol:All (C0);qli_index
+2016-11-01;9,64266;12002;Aín;Pol:All (C0);qli_index
+2016-12-01;9,88758;12002;Aín;Pol:All (C0);qli_index
+2017-01-01;10,135;12002;Aín;Pol:All (C0);qli_index
+2017-02-01;10,38128;12002;Aín;Pol:All (C0);qli_index
+2017-03-01;10,63203;12002;Aín;Pol:All (C0);qli_index
+2017-04-01;10,87777;12002;Aín;Pol:All (C0);qli_index
+2017-05-01;11,12592;12002;Aín;Pol:All (C0);qli_index
+2017-06-01;11,37289;12002;Aín;Pol:All (C0);qli_index
+2017-07-01;11,61974;12002;Aín;Pol:All (C0);qli_index
+2017-08-01;11,8646;12002;Aín;Pol:All (C0);qli_index
+2017-09-01;12,10991;12002;Aín;Pol:All (C0);qli_index
+2017-10-01;12,35524;12002;Aín;Pol:All (C0);qli_index
+2017-11-01;12,60377;12002;Aín;Pol:All (C0);qli_index
+2017-12-01;12,84868;12002;Aín;Pol:All (C0);qli_index
+2018-01-01;13,09782;12002;Aín;Pol:All (C0);qli_index
+2018-02-01;13,24837;12002;Aín;Pol:All (C0);qli_index
+2018-03-01;13,49901;12002;Aín;Pol:All (C0);qli_index
+2018-04-01;13,74786;12002;Aín;Pol:All (C0);qli_index
+2018-05-01;13,8894;12002;Aín;Pol:All (C0);qli_index
+2018-06-01;14,14015;12002;Aín;Pol:All (C0);qli_index
+2018-07-01;13,98439;12002;Aín;Pol:All (C0);qli_index
+2018-08-01;14,23619;12002;Aín;Pol:All (C0);qli_index
+2018-09-01;14,4877;12002;Aín;Pol:All (C0);qli_index
+2018-10-01;14,74913;12002;Aín;Pol:All (C0);qli_index
+2018-11-01;15,00121;12002;Aín;Pol:All (C0);qli_index
+2018-12-01;15,25574;12002;Aín;Pol:All (C0);qli_index
+2019-01-01;15,39739;12002;Aín;Pol:All (C0);qli_index
+2019-02-01;15,64557;12002;Aín;Pol:All (C0);qli_index
+2019-03-01;15,89135;12002;Aín;Pol:All (C0);qli_index
+2019-04-01;16,13446;12002;Aín;Pol:All (C0);qli_index
+2019-05-01;16,37737;12002;Aín;Pol:All (C0);qli_index
+2019-06-01;16,62502;12002;Aín;Pol:All (C0);qli_index
+2019-07-01;16,87231;12002;Aín;Pol:All (C0);qli_index
+2019-08-01;17,11812;12002;Aín;Pol:All (C0);qli_index
+2019-09-01;17,3625;12002;Aín;Pol:All (C0);qli_index
+2019-10-01;17,63125;12002;Aín;Pol:All (C0);qli_index
+2019-11-01;17,87307;12002;Aín;Pol:All (C0);qli_index
+2019-12-01;17,8659;12002;Aín;Pol:All (C0);qli_index
+2020-01-01;18,1247;12002;Aín;Pol:All (C0);qli_index
+2020-02-01;18,37389;12002;Aín;Pol:All (C0);qli_index
+2020-03-01;18,62414;12002;Aín;Pol:All (C0);qli_index
+2020-04-01;18,8748;12002;Aín;Pol:All (C0);qli_index
+2020-05-01;19,12503;12002;Aín;Pol:All (C0);qli_index
+2020-06-01;19,24315;12002;Aín;Pol:All (C0);qli_index
+2020-07-01;19,49717;12002;Aín;Pol:All (C0);qli_index
+2020-08-01;19,75139;12002;Aín;Pol:All (C0);qli_index
+2020-09-01;20,00396;12002;Aín;Pol:All (C0);qli_index
+2020-10-01;20,25663;12002;Aín;Pol:All (C0);qli_index
+2020-11-01;20,50935;12002;Aín;Pol:All (C0);qli_index
+2014-01-01;3,40187;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2014-02-01;6,53817;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2014-03-01;9,66626;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2014-04-01;12,79915;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2014-05-01;15,92239;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2014-06-01;19,05386;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2014-07-01;22,11485;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2014-08-01;25,25274;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2014-09-01;28,38473;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2014-10-01;31,49414;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2014-11-01;34,62432;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2014-12-01;37,70551;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2015-01-01;40,82639;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2015-02-01;43,97827;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2015-03-01;47,10745;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2015-04-01;50,17355;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2015-05-01;53,27846;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2015-06-01;56,31412;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2015-07-01;59,37032;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2015-08-01;62,50847;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2015-09-01;65,67469;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2015-10-01;68,79464;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2015-11-01;71,7315;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2015-12-01;74,80635;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2016-01-01;77,90132;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2016-02-01;80,92403;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2016-03-01;83,71342;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2016-04-01;86,9059;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2016-05-01;90,02884;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2016-06-01;93,03757;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2016-07-01;96,16495;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2016-08-01;99,35563;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2016-09-01;102,41447;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2016-10-01;105,61427;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2016-11-01;108,31748;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2016-12-01;111,44716;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2017-01-01;114,66347;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2017-02-01;117,71138;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2017-03-01;120,76633;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2017-04-01;123,16846;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2017-05-01;126,40273;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2017-06-01;129,54634;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2017-07-01;132,78067;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2017-08-01;135,90942;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2017-09-01;139,13003;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2017-10-01;142,35882;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2017-11-01;145,51293;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2017-12-01;148,62502;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2018-01-01;151,77475;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2018-02-01;155,00335;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2018-03-01;158,22052;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2018-04-01;161,13217;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2018-05-01;164,2611;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2018-06-01;167,52709;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2018-07-01;170,80423;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2018-08-01;173,8233;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2018-09-01;176,73718;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2018-10-01;179,87311;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2018-11-01;182,41073;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2018-12-01;185,42485;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2019-01-01;188,31403;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2019-02-01;191,43762;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2019-03-01;194,46266;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2019-04-01;197,29004;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2019-05-01;200,465;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2019-06-01;203,15699;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2019-07-01;206,20902;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2019-08-01;209,48953;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2019-09-01;212,77962;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2019-10-01;215,60408;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2019-11-01;218,8743;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2019-12-01;221,82272;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2020-01-01;225,09544;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2020-02-01;227,58403;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2020-03-01;230,81721;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2020-04-01;233,76129;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2020-05-01;236,99043;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2020-06-01;239,97294;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2020-07-01;242,06873;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2020-08-01;245,39912;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2020-09-01;248,69025;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2020-10-01;251,72868;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2020-11-01;254,81391;39057;Ramales de la Victoria;Pol:All (C0);qli_index
+2014-01-01;5,06518;39102;Voto;Pol:All (C0);qli_index
+2014-02-01;9,85493;39102;Voto;Pol:All (C0);qli_index
+2014-03-01;14,66391;39102;Voto;Pol:All (C0);qli_index
+2014-04-01;19,47219;39102;Voto;Pol:All (C0);qli_index
+2014-05-01;24,23718;39102;Voto;Pol:All (C0);qli_index
+2014-06-01;29,04667;39102;Voto;Pol:All (C0);qli_index
+2014-07-01;33,87182;39102;Voto;Pol:All (C0);qli_index
+2014-08-01;38,58177;39102;Voto;Pol:All (C0);qli_index
+2014-09-01;43,27967;39102;Voto;Pol:All (C0);qli_index
+2014-10-01;48,03401;39102;Voto;Pol:All (C0);qli_index
+2014-11-01;52,76687;39102;Voto;Pol:All (C0);qli_index
+2014-12-01;57,47286;39102;Voto;Pol:All (C0);qli_index
+2015-01-01;62,20115;39102;Voto;Pol:All (C0);qli_index
+2015-02-01;66,93874;39102;Voto;Pol:All (C0);qli_index
+2015-03-01;71,71306;39102;Voto;Pol:All (C0);qli_index
+2015-04-01;76,43998;39102;Voto;Pol:All (C0);qli_index
+2015-05-01;81,21321;39102;Voto;Pol:All (C0);qli_index
+2015-06-01;86,01319;39102;Voto;Pol:All (C0);qli_index
+2015-07-01;90,62792;39102;Voto;Pol:All (C0);qli_index
+2015-08-01;95,32992;39102;Voto;Pol:All (C0);qli_index
+2015-09-01;99,94876;39102;Voto;Pol:All (C0);qli_index
+2015-10-01;104,64213;39102;Voto;Pol:All (C0);qli_index
+2015-11-01;109,3359;39102;Voto;Pol:All (C0);qli_index
+2015-12-01;114,02162;39102;Voto;Pol:All (C0);qli_index
+2016-01-01;118,72853;39102;Voto;Pol:All (C0);qli_index
+2016-02-01;123,30692;39102;Voto;Pol:All (C0);qli_index
+2016-03-01;128,00981;39102;Voto;Pol:All (C0);qli_index
+2016-04-01;132,77032;39102;Voto;Pol:All (C0);qli_index
+2016-05-01;137,51742;39102;Voto;Pol:All (C0);qli_index
+2016-06-01;142,22096;39102;Voto;Pol:All (C0);qli_index
+2016-07-01;146,92192;39102;Voto;Pol:All (C0);qli_index
+2016-08-01;151,50059;39102;Voto;Pol:All (C0);qli_index
+2016-09-01;156,01648;39102;Voto;Pol:All (C0);qli_index
+2016-10-01;160,72216;39102;Voto;Pol:All (C0);qli_index
+2016-11-01;165,41399;39102;Voto;Pol:All (C0);qli_index
+2016-12-01;170,15648;39102;Voto;Pol:All (C0);qli_index
+2017-01-01;174,89293;39102;Voto;Pol:All (C0);qli_index
+2017-02-01;179,2227;39102;Voto;Pol:All (C0);qli_index
+2017-03-01;183,96213;39102;Voto;Pol:All (C0);qli_index
+2017-04-01;188,61095;39102;Voto;Pol:All (C0);qli_index
+2017-05-01;193,36095;39102;Voto;Pol:All (C0);qli_index
+2017-06-01;197,97315;39102;Voto;Pol:All (C0);qli_index
+2017-07-01;202,56121;39102;Voto;Pol:All (C0);qli_index
+2017-08-01;206,97341;39102;Voto;Pol:All (C0);qli_index
+2017-09-01;211,70924;39102;Voto;Pol:All (C0);qli_index
+2017-10-01;216,28526;39102;Voto;Pol:All (C0);qli_index
+2017-11-01;220,87624;39102;Voto;Pol:All (C0);qli_index
+2017-12-01;225,24638;39102;Voto;Pol:All (C0);qli_index
+2018-01-01;230,0003;39102;Voto;Pol:All (C0);qli_index
+2018-02-01;234,56566;39102;Voto;Pol:All (C0);qli_index
+2018-03-01;239,04321;39102;Voto;Pol:All (C0);qli_index
+2018-04-01;243,82146;39102;Voto;Pol:All (C0);qli_index
+2018-05-01;248,55937;39102;Voto;Pol:All (C0);qli_index
+2018-06-01;253,33118;39102;Voto;Pol:All (C0);qli_index
+2018-07-01;258,04224;39102;Voto;Pol:All (C0);qli_index
+2018-08-01;262,44038;39102;Voto;Pol:All (C0);qli_index
+2018-09-01;267,20442;39102;Voto;Pol:All (C0);qli_index
+2018-10-01;271,81147;39102;Voto;Pol:All (C0);qli_index
+2018-11-01;276,69259;39102;Voto;Pol:All (C0);qli_index
+2018-12-01;281,38215;39102;Voto;Pol:All (C0);qli_index
+2019-01-01;286,25846;39102;Voto;Pol:All (C0);qli_index
+2019-02-01;291,11907;39102;Voto;Pol:All (C0);qli_index
+2019-03-01;295,63687;39102;Voto;Pol:All (C0);qli_index
+2019-04-01;300,43787;39102;Voto;Pol:All (C0);qli_index
+2019-05-01;305,27094;39102;Voto;Pol:All (C0);qli_index
+2019-06-01;310,02749;39102;Voto;Pol:All (C0);qli_index
+2019-07-01;314,83058;39102;Voto;Pol:All (C0);qli_index
+2019-08-01;319,15678;39102;Voto;Pol:All (C0);qli_index
+2019-09-01;323,6889;39102;Voto;Pol:All (C0);qli_index
+2019-10-01;328,29552;39102;Voto;Pol:All (C0);qli_index
+2019-11-01;332,89973;39102;Voto;Pol:All (C0);qli_index
+2019-12-01;336,94747;39102;Voto;Pol:All (C0);qli_index
+2020-01-01;341,29067;39102;Voto;Pol:All (C0);qli_index
+2020-02-01;345,99448;39102;Voto;Pol:All (C0);qli_index
+2020-03-01;350,40529;39102;Voto;Pol:All (C0);qli_index
+2020-04-01;355,09485;39102;Voto;Pol:All (C0);qli_index
+2020-05-01;359,75145;39102;Voto;Pol:All (C0);qli_index
+2020-06-01;363,0844;39102;Voto;Pol:All (C0);qli_index
+2020-07-01;366,83585;39102;Voto;Pol:All (C0);qli_index
+2020-08-01;370,94832;39102;Voto;Pol:All (C0);qli_index
+2020-09-01;375,69653;39102;Voto;Pol:All (C0);qli_index
+2020-10-01;380,24646;39102;Voto;Pol:All (C0);qli_index
+2020-11-01;385,1944;39102;Voto;Pol:All (C0);qli_index
+2014-01-01;1,46451;10201;Valdemorales;Pol:None (C0);qli_index
+2014-02-01;1,9298;10201;Valdemorales;Pol:None (C0);qli_index
+2014-03-01;2,39316;10201;Valdemorales;Pol:None (C0);qli_index
+2014-04-01;2,86301;10201;Valdemorales;Pol:None (C0);qli_index
+2014-05-01;3,32626;10201;Valdemorales;Pol:None (C0);qli_index
+2014-06-01;3,78969;10201;Valdemorales;Pol:None (C0);qli_index
+2014-07-01;4,24271;10201;Valdemorales;Pol:None (C0);qli_index
+2014-08-01;4,70585;10201;Valdemorales;Pol:None (C0);qli_index
+2014-09-01;5,16822;10201;Valdemorales;Pol:None (C0);qli_index
+2014-10-01;5,63074;10201;Valdemorales;Pol:None (C0);qli_index
+2014-11-01;6,0929;10201;Valdemorales;Pol:None (C0);qli_index
+2014-12-01;6,55393;10201;Valdemorales;Pol:None (C0);qli_index
+2015-01-01;6,98622;10201;Valdemorales;Pol:None (C0);qli_index
+2015-02-01;7,44128;10201;Valdemorales;Pol:None (C0);qli_index
+2015-03-01;7,78594;10201;Valdemorales;Pol:None (C0);qli_index
+2015-04-01;8,24706;10201;Valdemorales;Pol:None (C0);qli_index
+2015-05-01;8,70792;10201;Valdemorales;Pol:None (C0);qli_index
+2015-06-01;9,17223;10201;Valdemorales;Pol:None (C0);qli_index
+2015-07-01;9,63189;10201;Valdemorales;Pol:None (C0);qli_index
+2015-08-01;10,09215;10201;Valdemorales;Pol:None (C0);qli_index
+2015-09-01;10,55216;10201;Valdemorales;Pol:None (C0);qli_index
+2015-10-01;11,01114;10201;Valdemorales;Pol:None (C0);qli_index
+2015-11-01;11,42851;10201;Valdemorales;Pol:None (C0);qli_index
+2015-12-01;11,84489;10201;Valdemorales;Pol:None (C0);qli_index
+2016-01-01;12,31143;10201;Valdemorales;Pol:None (C0);qli_index
+2016-02-01;12,77204;10201;Valdemorales;Pol:None (C0);qli_index
+2016-03-01;13,23272;10201;Valdemorales;Pol:None (C0);qli_index
+2016-04-01;13,69282;10201;Valdemorales;Pol:None (C0);qli_index
+2016-05-01;14,15501;10201;Valdemorales;Pol:None (C0);qli_index
+2016-06-01;14,40408;10201;Valdemorales;Pol:None (C0);qli_index
+2016-07-01;14,87059;10201;Valdemorales;Pol:None (C0);qli_index
+2016-08-01;15,33731;10201;Valdemorales;Pol:None (C0);qli_index
+2016-09-01;15,80122;10201;Valdemorales;Pol:None (C0);qli_index
+2016-10-01;16,26749;10201;Valdemorales;Pol:None (C0);qli_index
+2016-11-01;16,73755;10201;Valdemorales;Pol:None (C0);qli_index
+2016-12-01;17,20275;10201;Valdemorales;Pol:None (C0);qli_index
+2017-01-01;17,60509;10201;Valdemorales;Pol:None (C0);qli_index
+2017-02-01;17,87148;10201;Valdemorales;Pol:None (C0);qli_index
+2017-03-01;18,34345;10201;Valdemorales;Pol:None (C0);qli_index
+2017-04-01;18,81529;10201;Valdemorales;Pol:None (C0);qli_index
+2017-05-01;19,28958;10201;Valdemorales;Pol:None (C0);qli_index
+2017-06-01;19,76682;10201;Valdemorales;Pol:None (C0);qli_index
+2017-07-01;19,95127;10201;Valdemorales;Pol:None (C0);qli_index
+2017-08-01;20,42987;10201;Valdemorales;Pol:None (C0);qli_index
+2017-09-01;20,90981;10201;Valdemorales;Pol:None (C0);qli_index
+2017-10-01;21,16045;10201;Valdemorales;Pol:None (C0);qli_index
+2017-11-01;21,64686;10201;Valdemorales;Pol:None (C0);qli_index
+2017-12-01;22,12825;10201;Valdemorales;Pol:None (C0);qli_index
+2018-01-01;22,53093;10201;Valdemorales;Pol:None (C0);qli_index
+2018-02-01;23,01523;10201;Valdemorales;Pol:None (C0);qli_index
+2018-03-01;23,24694;10201;Valdemorales;Pol:None (C0);qli_index
+2018-04-01;23,40495;10201;Valdemorales;Pol:None (C0);qli_index
+2018-05-01;23,89945;10201;Valdemorales;Pol:None (C0);qli_index
+2018-06-01;24,39774;10201;Valdemorales;Pol:None (C0);qli_index
+2018-07-01;24,89369;10201;Valdemorales;Pol:None (C0);qli_index
+2018-08-01;25,39038;10201;Valdemorales;Pol:None (C0);qli_index
+2018-09-01;25,79785;10201;Valdemorales;Pol:None (C0);qli_index
+2018-10-01;26,29156;10201;Valdemorales;Pol:None (C0);qli_index
+2018-11-01;26,69434;10201;Valdemorales;Pol:None (C0);qli_index
+2018-12-01;27,18354;10201;Valdemorales;Pol:None (C0);qli_index
+2019-01-01;27,67508;10201;Valdemorales;Pol:None (C0);qli_index
+2019-02-01;28,06827;10201;Valdemorales;Pol:None (C0);qli_index
+2019-03-01;28,47761;10201;Valdemorales;Pol:None (C0);qli_index
+2019-04-01;28,96714;10201;Valdemorales;Pol:None (C0);qli_index
+2019-05-01;29,4668;10201;Valdemorales;Pol:None (C0);qli_index
+2019-06-01;29,97637;10201;Valdemorales;Pol:None (C0);qli_index
+2019-07-01;30,49185;10201;Valdemorales;Pol:None (C0);qli_index
+2019-08-01;30,99548;10201;Valdemorales;Pol:None (C0);qli_index
+2019-09-01;31,49353;10201;Valdemorales;Pol:None (C0);qli_index
+2019-10-01;31,9892;10201;Valdemorales;Pol:None (C0);qli_index
+2019-11-01;32,48324;10201;Valdemorales;Pol:None (C0);qli_index
+2019-12-01;32,97861;10201;Valdemorales;Pol:None (C0);qli_index
+2020-01-01;33,51673;10201;Valdemorales;Pol:None (C0);qli_index
+2020-02-01;34,01429;10201;Valdemorales;Pol:None (C0);qli_index
+2020-03-01;34,15472;10201;Valdemorales;Pol:None (C0);qli_index
+2020-04-01;34,65541;10201;Valdemorales;Pol:None (C0);qli_index
+2020-05-01;35,16249;10201;Valdemorales;Pol:None (C0);qli_index
+2020-06-01;35,42754;10201;Valdemorales;Pol:None (C0);qli_index
+2020-07-01;35,93106;10201;Valdemorales;Pol:None (C0);qli_index
+2020-08-01;36,44256;10201;Valdemorales;Pol:None (C0);qli_index
+2020-09-01;36,81887;10201;Valdemorales;Pol:None (C0);qli_index
+2020-10-01;37,33428;10201;Valdemorales;Pol:None (C0);qli_index
+2020-11-01;37,45516;10201;Valdemorales;Pol:None (C0);qli_index
+2014-01-01;1,2478;12002;Aín;Pol:None (C0);qli_index
+2014-02-01;1,49523;12002;Aín;Pol:None (C0);qli_index
+2014-03-01;1,74278;12002;Aín;Pol:None (C0);qli_index
+2014-04-01;1,97818;12002;Aín;Pol:None (C0);qli_index
+2014-05-01;2,23007;12002;Aín;Pol:None (C0);qli_index
+2014-06-01;2,48552;12002;Aín;Pol:None (C0);qli_index
+2014-07-01;2,74142;12002;Aín;Pol:None (C0);qli_index
+2014-08-01;2,99014;12002;Aín;Pol:None (C0);qli_index
+2014-09-01;3,23868;12002;Aín;Pol:None (C0);qli_index
+2014-10-01;3,48717;12002;Aín;Pol:None (C0);qli_index
+2014-11-01;3,71069;12002;Aín;Pol:None (C0);qli_index
+2014-12-01;3,9596;12002;Aín;Pol:None (C0);qli_index
+2015-01-01;4,1804;12002;Aín;Pol:None (C0);qli_index
+2015-02-01;4,42948;12002;Aín;Pol:None (C0);qli_index
+2015-03-01;4,67922;12002;Aín;Pol:None (C0);qli_index
+2015-04-01;4,92822;12002;Aín;Pol:None (C0);qli_index
+2015-05-01;5,17682;12002;Aín;Pol:None (C0);qli_index
+2015-06-01;5,42724;12002;Aín;Pol:None (C0);qli_index
+2015-07-01;5,63725;12002;Aín;Pol:None (C0);qli_index
+2015-08-01;5,88698;12002;Aín;Pol:None (C0);qli_index
+2015-09-01;6,09461;12002;Aín;Pol:None (C0);qli_index
+2015-10-01;6,34602;12002;Aín;Pol:None (C0);qli_index
+2015-11-01;6,59705;12002;Aín;Pol:None (C0);qli_index
+2015-12-01;6,84732;12002;Aín;Pol:None (C0);qli_index
+2016-01-01;7,09703;12002;Aín;Pol:None (C0);qli_index
+2016-02-01;7,34528;12002;Aín;Pol:None (C0);qli_index
+2016-03-01;7,59324;12002;Aín;Pol:None (C0);qli_index
+2016-04-01;7,78711;12002;Aín;Pol:None (C0);qli_index
+2016-05-01;8,03782;12002;Aín;Pol:None (C0);qli_index
+2016-06-01;8,28649;12002;Aín;Pol:None (C0);qli_index
+2016-07-01;8,53713;12002;Aín;Pol:None (C0);qli_index
+2016-08-01;8,78679;12002;Aín;Pol:None (C0);qli_index
+2016-09-01;9,03471;12002;Aín;Pol:None (C0);qli_index
+2016-10-01;9,28386;12002;Aín;Pol:None (C0);qli_index
+2016-11-01;9,53318;12002;Aín;Pol:None (C0);qli_index
+2016-12-01;9,78161;12002;Aín;Pol:None (C0);qli_index
+2017-01-01;10,03236;12002;Aín;Pol:None (C0);qli_index
+2017-02-01;10,21038;12002;Aín;Pol:None (C0);qli_index
+2017-03-01;10,46166;12002;Aín;Pol:None (C0);qli_index
+2017-04-01;10,71548;12002;Aín;Pol:None (C0);qli_index
+2017-05-01;10,97225;12002;Aín;Pol:None (C0);qli_index
+2017-06-01;11,22583;12002;Aín;Pol:None (C0);qli_index
+2017-07-01;11,39854;12002;Aín;Pol:None (C0);qli_index
+2017-08-01;11,65134;12002;Aín;Pol:None (C0);qli_index
+2017-09-01;11,90341;12002;Aín;Pol:None (C0);qli_index
+2017-10-01;12,15948;12002;Aín;Pol:None (C0);qli_index
+2017-11-01;12,41643;12002;Aín;Pol:None (C0);qli_index
+2017-12-01;12,66906;12002;Aín;Pol:None (C0);qli_index
+2018-01-01;12,91885;12002;Aín;Pol:None (C0);qli_index
+2018-02-01;13,17254;12002;Aín;Pol:None (C0);qli_index
+2018-03-01;13,33479;12002;Aín;Pol:None (C0);qli_index
+2018-04-01;13,58796;12002;Aín;Pol:None (C0);qli_index
+2018-05-01;13,84268;12002;Aín;Pol:None (C0);qli_index
+2018-06-01;14,09977;12002;Aín;Pol:None (C0);qli_index
+2018-07-01;14,35371;12002;Aín;Pol:None (C0);qli_index
+2018-08-01;14,61708;12002;Aín;Pol:None (C0);qli_index
+2018-09-01;14,7688;12002;Aín;Pol:None (C0);qli_index
+2018-10-01;15,02347;12002;Aín;Pol:None (C0);qli_index
+2018-11-01;15,27883;12002;Aín;Pol:None (C0);qli_index
+2018-12-01;15,53888;12002;Aín;Pol:None (C0);qli_index
+2019-01-01;15,78537;12002;Aín;Pol:None (C0);qli_index
+2019-02-01;16,02807;12002;Aín;Pol:None (C0);qli_index
+2019-03-01;16,27917;12002;Aín;Pol:None (C0);qli_index
+2019-04-01;16,40829;12002;Aín;Pol:None (C0);qli_index
+2019-05-01;16,65582;12002;Aín;Pol:None (C0);qli_index
+2019-06-01;16,90884;12002;Aín;Pol:None (C0);qli_index
+2019-07-01;17,0393;12002;Aín;Pol:None (C0);qli_index
+2019-08-01;17,28764;12002;Aín;Pol:None (C0);qli_index
+2019-09-01;17,54354;12002;Aín;Pol:None (C0);qli_index
+2019-10-01;17,79873;12002;Aín;Pol:None (C0);qli_index
+2019-11-01;18,04813;12002;Aín;Pol:None (C0);qli_index
+2019-12-01;18,17116;12002;Aín;Pol:None (C0);qli_index
+2020-01-01;18,44348;12002;Aín;Pol:None (C0);qli_index
+2020-02-01;18,70867;12002;Aín;Pol:None (C0);qli_index
+2020-03-01;18,96939;12002;Aín;Pol:None (C0);qli_index
+2020-04-01;19,2292;12002;Aín;Pol:None (C0);qli_index
+2020-05-01;19,48939;12002;Aín;Pol:None (C0);qli_index
+2020-06-01;19,7657;12002;Aín;Pol:None (C0);qli_index
+2020-07-01;20,02622;12002;Aín;Pol:None (C0);qli_index
+2020-08-01;20,28365;12002;Aín;Pol:None (C0);qli_index
+2020-09-01;20,5408;12002;Aín;Pol:None (C0);qli_index
+2020-10-01;20,79695;12002;Aín;Pol:None (C0);qli_index
+2020-11-01;21,06785;12002;Aín;Pol:None (C0);qli_index
+2014-01-01;3,39892;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2014-02-01;6,53117;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2014-03-01;9,65087;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2014-04-01;12,77837;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2014-05-01;15,91792;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2014-06-01;19,02664;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2014-07-01;22,13357;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2014-08-01;25,29788;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2014-09-01;28,40659;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2014-10-01;31,55295;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2014-11-01;34,6156;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2014-12-01;37,6725;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2015-01-01;40,57097;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2015-02-01;43,69226;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2015-03-01;46,84663;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2015-04-01;49,78001;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2015-05-01;52,91064;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2015-06-01;56,01116;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2015-07-01;59,13737;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2015-08-01;62,177;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2015-09-01;65,33741;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2015-10-01;68,49537;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2015-11-01;71,42699;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2015-12-01;74,49062;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2016-01-01;77,62832;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2016-02-01;80,74299;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2016-03-01;83,79876;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2016-04-01;86,9164;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2016-05-01;90,0299;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2016-06-01;93,14427;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2016-07-01;96,25639;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2016-08-01;99,43993;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2016-09-01;102,47694;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2016-10-01;105,58477;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2016-11-01;108,69398;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2016-12-01;111,72383;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2017-01-01;114,84652;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2017-02-01;118,03799;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2017-03-01;120,99045;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2017-04-01;124,11678;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2017-05-01;127,06987;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2017-06-01;130,20411;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2017-07-01;133,42805;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2017-08-01;136,46228;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2017-09-01;139,67795;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2017-10-01;142,89817;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2017-11-01;145,73792;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2017-12-01;148,75685;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2018-01-01;151,67032;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2018-02-01;154,70046;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2018-03-01;157,50741;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2018-04-01;160,62678;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2018-05-01;163,87367;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2018-06-01;167,0152;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2018-07-01;169,92259;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2018-08-01;173,0682;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2018-09-01;175,9753;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2018-10-01;179,22501;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2018-11-01;181,64181;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2018-12-01;184,77252;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2019-01-01;187,68811;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2019-02-01;190,44591;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2019-03-01;193,09417;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2019-04-01;196,10515;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2019-05-01;198,76517;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2019-06-01;201,96989;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2019-07-01;205,15994;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2019-08-01;208,51139;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2019-09-01;211,55467;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2019-10-01;214,73403;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2019-11-01;218,06825;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2019-12-01;221,47043;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2020-01-01;224,53356;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2020-02-01;227,84117;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2020-03-01;231,12758;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2020-04-01;234,3103;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2020-05-01;237,61585;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2020-06-01;240,64746;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2020-07-01;243,87021;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2020-08-01;246,70217;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2020-09-01;249,62249;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2020-10-01;252,63198;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2020-11-01;255,75926;39057;Ramales de la Victoria;Pol:None (C0);qli_index
+2014-01-01;5,06884;39102;Voto;Pol:None (C0);qli_index
+2014-02-01;9,85761;39102;Voto;Pol:None (C0);qli_index
+2014-03-01;14,70406;39102;Voto;Pol:None (C0);qli_index
+2014-04-01;19,48393;39102;Voto;Pol:None (C0);qli_index
+2014-05-01;24,32828;39102;Voto;Pol:None (C0);qli_index
+2014-06-01;29,1593;39102;Voto;Pol:None (C0);qli_index
+2014-07-01;34,01282;39102;Voto;Pol:None (C0);qli_index
+2014-08-01;38,75663;39102;Voto;Pol:None (C0);qli_index
+2014-09-01;43,47809;39102;Voto;Pol:None (C0);qli_index
+2014-10-01;48,24741;39102;Voto;Pol:None (C0);qli_index
+2014-11-01;53,01312;39102;Voto;Pol:None (C0);qli_index
+2014-12-01;57,62779;39102;Voto;Pol:None (C0);qli_index
+2015-01-01;62,40858;39102;Voto;Pol:None (C0);qli_index
+2015-02-01;67,15574;39102;Voto;Pol:None (C0);qli_index
+2015-03-01;71,83662;39102;Voto;Pol:None (C0);qli_index
+2015-04-01;76,61621;39102;Voto;Pol:None (C0);qli_index
+2015-05-01;81,2553;39102;Voto;Pol:None (C0);qli_index
+2015-06-01;85,96645;39102;Voto;Pol:None (C0);qli_index
+2015-07-01;90,59452;39102;Voto;Pol:None (C0);qli_index
+2015-08-01;95,35234;39102;Voto;Pol:None (C0);qli_index
+2015-09-01;100,06233;39102;Voto;Pol:None (C0);qli_index
+2015-10-01;104,69354;39102;Voto;Pol:None (C0);qli_index
+2015-11-01;109,40632;39102;Voto;Pol:None (C0);qli_index
+2015-12-01;113,766;39102;Voto;Pol:None (C0);qli_index
+2016-01-01;118,32088;39102;Voto;Pol:None (C0);qli_index
+2016-02-01;122,97611;39102;Voto;Pol:None (C0);qli_index
+2016-03-01;127,6757;39102;Voto;Pol:None (C0);qli_index
+2016-04-01;132,42164;39102;Voto;Pol:None (C0);qli_index
+2016-05-01;137,16485;39102;Voto;Pol:None (C0);qli_index
+2016-06-01;141,64618;39102;Voto;Pol:None (C0);qli_index
+2016-07-01;146,2985;39102;Voto;Pol:None (C0);qli_index
+2016-08-01;151,05278;39102;Voto;Pol:None (C0);qli_index
+2016-09-01;155,56109;39102;Voto;Pol:None (C0);qli_index
+2016-10-01;160,31515;39102;Voto;Pol:None (C0);qli_index
+2016-11-01;165,07003;39102;Voto;Pol:None (C0);qli_index
+2016-12-01;169,70062;39102;Voto;Pol:None (C0);qli_index
+2017-01-01;174,37891;39102;Voto;Pol:None (C0);qli_index
+2017-02-01;179,03782;39102;Voto;Pol:None (C0);qli_index
+2017-03-01;183,7157;39102;Voto;Pol:None (C0);qli_index
+2017-04-01;188,53385;39102;Voto;Pol:None (C0);qli_index
+2017-05-01;193,13993;39102;Voto;Pol:None (C0);qli_index
+2017-06-01;197,90779;39102;Voto;Pol:None (C0);qli_index
+2017-07-01;202,66791;39102;Voto;Pol:None (C0);qli_index
+2017-08-01;207,17943;39102;Voto;Pol:None (C0);qli_index
+2017-09-01;211,85187;39102;Voto;Pol:None (C0);qli_index
+2017-10-01;216,61156;39102;Voto;Pol:None (C0);qli_index
+2017-11-01;221,0296;39102;Voto;Pol:None (C0);qli_index
+2017-12-01;225,44205;39102;Voto;Pol:None (C0);qli_index
+2018-01-01;230,20595;39102;Voto;Pol:None (C0);qli_index
+2018-02-01;234,94665;39102;Voto;Pol:None (C0);qli_index
+2018-03-01;239,49091;39102;Voto;Pol:None (C0);qli_index
+2018-04-01;244,05734;39102;Voto;Pol:None (C0);qli_index
+2018-05-01;248,92068;39102;Voto;Pol:None (C0);qli_index
+2018-06-01;253,43429;39102;Voto;Pol:None (C0);qli_index
+2018-07-01;258,14086;39102;Voto;Pol:None (C0);qli_index
+2018-08-01;263,03511;39102;Voto;Pol:None (C0);qli_index
+2018-09-01;267,83045;39102;Voto;Pol:None (C0);qli_index
+2018-10-01;272,38324;39102;Voto;Pol:None (C0);qli_index
+2018-11-01;276,82068;39102;Voto;Pol:None (C0);qli_index
+2018-12-01;281,60171;39102;Voto;Pol:None (C0);qli_index
+2019-01-01;286,16812;39102;Voto;Pol:None (C0);qli_index
+2019-02-01;290,80051;39102;Voto;Pol:None (C0);qli_index
+2019-03-01;295,70459;39102;Voto;Pol:None (C0);qli_index
+2019-04-01;300,22444;39102;Voto;Pol:None (C0);qli_index
+2019-05-01;305,03994;39102;Voto;Pol:None (C0);qli_index
+2019-06-01;309,72529;39102;Voto;Pol:None (C0);qli_index
+2019-07-01;314,42303;39102;Voto;Pol:None (C0);qli_index
+2019-08-01;319,344;39102;Voto;Pol:None (C0);qli_index
+2019-09-01;323,95258;39102;Voto;Pol:None (C0);qli_index
+2019-10-01;328,43879;39102;Voto;Pol:None (C0);qli_index
+2019-11-01;333,34709;39102;Voto;Pol:None (C0);qli_index
+2019-12-01;337,75687;39102;Voto;Pol:None (C0);qli_index
+2020-01-01;342,32489;39102;Voto;Pol:None (C0);qli_index
+2020-02-01;346,59269;39102;Voto;Pol:None (C0);qli_index
+2020-03-01;351,27766;39102;Voto;Pol:None (C0);qli_index
+2020-04-01;356,18756;39102;Voto;Pol:None (C0);qli_index
+2020-05-01;361,23291;39102;Voto;Pol:None (C0);qli_index
+2020-06-01;365,90461;39102;Voto;Pol:None (C0);qli_index
+2020-07-01;370,84189;39102;Voto;Pol:None (C0);qli_index
+2020-08-01;375,61533;39102;Voto;Pol:None (C0);qli_index
+2020-09-01;380,36994;39102;Voto;Pol:None (C0);qli_index
+2020-10-01;384,91555;39102;Voto;Pol:None (C0);qli_index
+2020-11-01;389,66852;39102;Voto;Pol:None (C0);qli_index
+2014-01-01;1,46549;10201;Valdemorales;Pol:Buy (C0);qli_index
+2014-02-01;1,92966;10201;Valdemorales;Pol:Buy (C0);qli_index
+2014-03-01;2,3872;10201;Valdemorales;Pol:Buy (C0);qli_index
+2014-04-01;2,856;10201;Valdemorales;Pol:Buy (C0);qli_index
+2014-05-01;3,33821;10201;Valdemorales;Pol:Buy (C0);qli_index
+2014-06-01;3,81497;10201;Valdemorales;Pol:Buy (C0);qli_index
+2014-07-01;4,28722;10201;Valdemorales;Pol:Buy (C0);qli_index
+2014-08-01;4,75091;10201;Valdemorales;Pol:Buy (C0);qli_index
+2014-09-01;5,21401;10201;Valdemorales;Pol:Buy (C0);qli_index
+2014-10-01;5,67643;10201;Valdemorales;Pol:Buy (C0);qli_index
+2014-11-01;6,11728;10201;Valdemorales;Pol:Buy (C0);qli_index
+2014-12-01;6,58119;10201;Valdemorales;Pol:Buy (C0);qli_index
+2015-01-01;6,99391;10201;Valdemorales;Pol:Buy (C0);qli_index
+2015-02-01;7,45466;10201;Valdemorales;Pol:Buy (C0);qli_index
+2015-03-01;7,91567;10201;Valdemorales;Pol:Buy (C0);qli_index
+2015-04-01;8,37628;10201;Valdemorales;Pol:Buy (C0);qli_index
+2015-05-01;8,80686;10201;Valdemorales;Pol:Buy (C0);qli_index
+2015-06-01;9,27168;10201;Valdemorales;Pol:Buy (C0);qli_index
+2015-07-01;9,73438;10201;Valdemorales;Pol:Buy (C0);qli_index
+2015-08-01;10,19508;10201;Valdemorales;Pol:Buy (C0);qli_index
+2015-09-01;10,65466;10201;Valdemorales;Pol:Buy (C0);qli_index
+2015-10-01;11,1142;10201;Valdemorales;Pol:Buy (C0);qli_index
+2015-11-01;11,57605;10201;Valdemorales;Pol:Buy (C0);qli_index
+2015-12-01;12,0357;10201;Valdemorales;Pol:Buy (C0);qli_index
+2016-01-01;12,495;10201;Valdemorales;Pol:Buy (C0);qli_index
+2016-02-01;12,8584;10201;Valdemorales;Pol:Buy (C0);qli_index
+2016-03-01;13,3183;10201;Valdemorales;Pol:Buy (C0);qli_index
+2016-04-01;13,77802;10201;Valdemorales;Pol:Buy (C0);qli_index
+2016-05-01;14,23676;10201;Valdemorales;Pol:Buy (C0);qli_index
+2016-06-01;14,69591;10201;Valdemorales;Pol:Buy (C0);qli_index
+2016-07-01;15,10002;10201;Valdemorales;Pol:Buy (C0);qli_index
+2016-08-01;15,56087;10201;Valdemorales;Pol:Buy (C0);qli_index
+2016-09-01;15,96118;10201;Valdemorales;Pol:Buy (C0);qli_index
+2016-10-01;16,42489;10201;Valdemorales;Pol:Buy (C0);qli_index
+2016-11-01;16,88931;10201;Valdemorales;Pol:Buy (C0);qli_index
+2016-12-01;17,35002;10201;Valdemorales;Pol:Buy (C0);qli_index
+2017-01-01;17,81391;10201;Valdemorales;Pol:Buy (C0);qli_index
+2017-02-01;18,20394;10201;Valdemorales;Pol:Buy (C0);qli_index
+2017-03-01;18,66694;10201;Valdemorales;Pol:Buy (C0);qli_index
+2017-04-01;19,06023;10201;Valdemorales;Pol:Buy (C0);qli_index
+2017-05-01;19,5261;10201;Valdemorales;Pol:Buy (C0);qli_index
+2017-06-01;19,92332;10201;Valdemorales;Pol:Buy (C0);qli_index
+2017-07-01;20,38943;10201;Valdemorales;Pol:Buy (C0);qli_index
+2017-08-01;20,85693;10201;Valdemorales;Pol:Buy (C0);qli_index
+2017-09-01;21,32567;10201;Valdemorales;Pol:Buy (C0);qli_index
+2017-10-01;21,79206;10201;Valdemorales;Pol:Buy (C0);qli_index
+2017-11-01;22,17735;10201;Valdemorales;Pol:Buy (C0);qli_index
+2017-12-01;22,64527;10201;Valdemorales;Pol:Buy (C0);qli_index
+2018-01-01;23,03321;10201;Valdemorales;Pol:Buy (C0);qli_index
+2018-02-01;23,49928;10201;Valdemorales;Pol:Buy (C0);qli_index
+2018-03-01;23,96501;10201;Valdemorales;Pol:Buy (C0);qli_index
+2018-04-01;24,44112;10201;Valdemorales;Pol:Buy (C0);qli_index
+2018-05-01;24,9117;10201;Valdemorales;Pol:Buy (C0);qli_index
+2018-06-01;25,38047;10201;Valdemorales;Pol:Buy (C0);qli_index
+2018-07-01;25,84948;10201;Valdemorales;Pol:Buy (C0);qli_index
+2018-08-01;26,31652;10201;Valdemorales;Pol:Buy (C0);qli_index
+2018-09-01;26,78392;10201;Valdemorales;Pol:Buy (C0);qli_index
+2018-10-01;27,15739;10201;Valdemorales;Pol:Buy (C0);qli_index
+2018-11-01;27,52346;10201;Valdemorales;Pol:Buy (C0);qli_index
+2018-12-01;27,99556;10201;Valdemorales;Pol:Buy (C0);qli_index
+2019-01-01;28,47024;10201;Valdemorales;Pol:Buy (C0);qli_index
+2019-02-01;28,72603;10201;Valdemorales;Pol:Buy (C0);qli_index
+2019-03-01;29,1967;10201;Valdemorales;Pol:Buy (C0);qli_index
+2019-04-01;29,55686;10201;Valdemorales;Pol:Buy (C0);qli_index
+2019-05-01;30,03152;10201;Valdemorales;Pol:Buy (C0);qli_index
+2019-06-01;30,53256;10201;Valdemorales;Pol:Buy (C0);qli_index
+2019-07-01;31,01823;10201;Valdemorales;Pol:Buy (C0);qli_index
+2019-08-01;31,48799;10201;Valdemorales;Pol:Buy (C0);qli_index
+2019-09-01;31,96695;10201;Valdemorales;Pol:Buy (C0);qli_index
+2019-10-01;32,43682;10201;Valdemorales;Pol:Buy (C0);qli_index
+2019-11-01;32,80133;10201;Valdemorales;Pol:Buy (C0);qli_index
+2019-12-01;33,154;10201;Valdemorales;Pol:Buy (C0);qli_index
+2020-01-01;33,63922;10201;Valdemorales;Pol:Buy (C0);qli_index
+2020-02-01;34,10935;10201;Valdemorales;Pol:Buy (C0);qli_index
+2020-03-01;34,45479;10201;Valdemorales;Pol:Buy (C0);qli_index
+2020-04-01;34,92933;10201;Valdemorales;Pol:Buy (C0);qli_index
+2020-05-01;35,39993;10201;Valdemorales;Pol:Buy (C0);qli_index
+2020-06-01;35,7404;10201;Valdemorales;Pol:Buy (C0);qli_index
+2020-07-01;36,0849;10201;Valdemorales;Pol:Buy (C0);qli_index
+2020-08-01;36,57802;10201;Valdemorales;Pol:Buy (C0);qli_index
+2020-09-01;36,79126;10201;Valdemorales;Pol:Buy (C0);qli_index
+2020-10-01;37,26753;10201;Valdemorales;Pol:Buy (C0);qli_index
+2020-11-01;37,76946;10201;Valdemorales;Pol:Buy (C0);qli_index
+2014-01-01;1,24789;12002;Aín;Pol:Buy (C0);qli_index
+2014-02-01;1,49572;12002;Aín;Pol:Buy (C0);qli_index
+2014-03-01;1,74696;12002;Aín;Pol:Buy (C0);qli_index
+2014-04-01;1,99452;12002;Aín;Pol:Buy (C0);qli_index
+2014-05-01;2,24548;12002;Aín;Pol:Buy (C0);qli_index
+2014-06-01;2,49396;12002;Aín;Pol:Buy (C0);qli_index
+2014-07-01;2,71518;12002;Aín;Pol:Buy (C0);qli_index
+2014-08-01;2,96521;12002;Aín;Pol:Buy (C0);qli_index
+2014-09-01;3,214;12002;Aín;Pol:Buy (C0);qli_index
+2014-10-01;3,46283;12002;Aín;Pol:Buy (C0);qli_index
+2014-11-01;3,71208;12002;Aín;Pol:Buy (C0);qli_index
+2014-12-01;3,9605;12002;Aín;Pol:Buy (C0);qli_index
+2015-01-01;4,21073;12002;Aín;Pol:Buy (C0);qli_index
+2015-02-01;4,45993;12002;Aín;Pol:Buy (C0);qli_index
+2015-03-01;4,70855;12002;Aín;Pol:Buy (C0);qli_index
+2015-04-01;4,95698;12002;Aín;Pol:Buy (C0);qli_index
+2015-05-01;5,20591;12002;Aín;Pol:Buy (C0);qli_index
+2015-06-01;5,45784;12002;Aín;Pol:Buy (C0);qli_index
+2015-07-01;5,70648;12002;Aín;Pol:Buy (C0);qli_index
+2015-08-01;5,95522;12002;Aín;Pol:Buy (C0);qli_index
+2015-09-01;6,20268;12002;Aín;Pol:Buy (C0);qli_index
+2015-10-01;6,45027;12002;Aín;Pol:Buy (C0);qli_index
+2015-11-01;6,69858;12002;Aín;Pol:Buy (C0);qli_index
+2015-12-01;6,94584;12002;Aín;Pol:Buy (C0);qli_index
+2016-01-01;7,19102;12002;Aín;Pol:Buy (C0);qli_index
+2016-02-01;7,3294;12002;Aín;Pol:Buy (C0);qli_index
+2016-03-01;7,57528;12002;Aín;Pol:Buy (C0);qli_index
+2016-04-01;7,82237;12002;Aín;Pol:Buy (C0);qli_index
+2016-05-01;8,0684;12002;Aín;Pol:Buy (C0);qli_index
+2016-06-01;8,31569;12002;Aín;Pol:Buy (C0);qli_index
+2016-07-01;8,56071;12002;Aín;Pol:Buy (C0);qli_index
+2016-08-01;8,80764;12002;Aín;Pol:Buy (C0);qli_index
+2016-09-01;8,9888;12002;Aín;Pol:Buy (C0);qli_index
+2016-10-01;9,23525;12002;Aín;Pol:Buy (C0);qli_index
+2016-11-01;9,48224;12002;Aín;Pol:Buy (C0);qli_index
+2016-12-01;9,7344;12002;Aín;Pol:Buy (C0);qli_index
+2017-01-01;9,98396;12002;Aín;Pol:Buy (C0);qli_index
+2017-02-01;10,23144;12002;Aín;Pol:Buy (C0);qli_index
+2017-03-01;10,47876;12002;Aín;Pol:Buy (C0);qli_index
+2017-04-01;10,72695;12002;Aín;Pol:Buy (C0);qli_index
+2017-05-01;10,97887;12002;Aín;Pol:Buy (C0);qli_index
+2017-06-01;11,22777;12002;Aín;Pol:Buy (C0);qli_index
+2017-07-01;11,47602;12002;Aín;Pol:Buy (C0);qli_index
+2017-08-01;11,72457;12002;Aín;Pol:Buy (C0);qli_index
+2017-09-01;11,97319;12002;Aín;Pol:Buy (C0);qli_index
+2017-10-01;12,22158;12002;Aín;Pol:Buy (C0);qli_index
+2017-11-01;12,47064;12002;Aín;Pol:Buy (C0);qli_index
+2017-12-01;12,72068;12002;Aín;Pol:Buy (C0);qli_index
+2018-01-01;12,96679;12002;Aín;Pol:Buy (C0);qli_index
+2018-02-01;13,21261;12002;Aín;Pol:Buy (C0);qli_index
+2018-03-01;13,45913;12002;Aín;Pol:Buy (C0);qli_index
+2018-04-01;13,70335;12002;Aín;Pol:Buy (C0);qli_index
+2018-05-01;13,95976;12002;Aín;Pol:Buy (C0);qli_index
+2018-06-01;14,20966;12002;Aín;Pol:Buy (C0);qli_index
+2018-07-01;14,46023;12002;Aín;Pol:Buy (C0);qli_index
+2018-08-01;14,70703;12002;Aín;Pol:Buy (C0);qli_index
+2018-09-01;14,84506;12002;Aín;Pol:Buy (C0);qli_index
+2018-10-01;14,98564;12002;Aín;Pol:Buy (C0);qli_index
+2018-11-01;15,24171;12002;Aín;Pol:Buy (C0);qli_index
+2018-12-01;15,49287;12002;Aín;Pol:Buy (C0);qli_index
+2019-01-01;15,73269;12002;Aín;Pol:Buy (C0);qli_index
+2019-02-01;15,85806;12002;Aín;Pol:Buy (C0);qli_index
+2019-03-01;16,11453;12002;Aín;Pol:Buy (C0);qli_index
+2019-04-01;16,23889;12002;Aín;Pol:Buy (C0);qli_index
+2019-05-01;16,4852;12002;Aín;Pol:Buy (C0);qli_index
+2019-06-01;16,72876;12002;Aín;Pol:Buy (C0);qli_index
+2019-07-01;16,97781;12002;Aín;Pol:Buy (C0);qli_index
+2019-08-01;17,09904;12002;Aín;Pol:Buy (C0);qli_index
+2019-09-01;17,35311;12002;Aín;Pol:Buy (C0);qli_index
+2019-10-01;17,59563;12002;Aín;Pol:Buy (C0);qli_index
+2019-11-01;17,83777;12002;Aín;Pol:Buy (C0);qli_index
+2019-12-01;18,0886;12002;Aín;Pol:Buy (C0);qli_index
+2020-01-01;18,34116;12002;Aín;Pol:Buy (C0);qli_index
+2020-02-01;18,59799;12002;Aín;Pol:Buy (C0);qli_index
+2020-03-01;18,87922;12002;Aín;Pol:Buy (C0);qli_index
+2020-04-01;19,12654;12002;Aín;Pol:Buy (C0);qli_index
+2020-05-01;19,38214;12002;Aín;Pol:Buy (C0);qli_index
+2020-06-01;19,62869;12002;Aín;Pol:Buy (C0);qli_index
+2020-07-01;19,88529;12002;Aín;Pol:Buy (C0);qli_index
+2020-08-01;19,99982;12002;Aín;Pol:Buy (C0);qli_index
+2020-09-01;20,24953;12002;Aín;Pol:Buy (C0);qli_index
+2020-10-01;20,3562;12002;Aín;Pol:Buy (C0);qli_index
+2020-11-01;20,60578;12002;Aín;Pol:Buy (C0);qli_index
+2014-01-01;3,40198;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2014-02-01;6,53844;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2014-03-01;9,67712;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2014-04-01;12,78579;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2014-05-01;15,92013;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2014-06-01;19,0649;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2014-07-01;22,17564;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2014-08-01;25,29431;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2014-09-01;28,42492;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2014-10-01;31,55492;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2014-11-01;34,686;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2014-12-01;37,81172;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2015-01-01;40,92287;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2015-02-01;44,06762;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2015-03-01;47,13003;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2015-04-01;50,18879;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2015-05-01;53,36056;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2015-06-01;56,39257;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2015-07-01;59,56774;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2015-08-01;62,52399;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2015-09-01;65,64513;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2015-10-01;68,77262;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2015-11-01;71,6107;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2015-12-01;74,7364;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2016-01-01;77,45926;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2016-02-01;80,53163;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2016-03-01;83,65617;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2016-04-01;86,55197;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2016-05-01;89,67884;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2016-06-01;92,74645;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2016-07-01;95,94055;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2016-08-01;98,93546;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2016-09-01;102,12665;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2016-10-01;105,25474;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2016-11-01;108,31719;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2016-12-01;111,30193;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2017-01-01;114,21922;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2017-02-01;117,20097;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2017-03-01;120,41813;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2017-04-01;123,47589;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2017-05-01;126,45812;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2017-06-01;129,4368;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2017-07-01;132,66893;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2017-08-01;135,72104;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2017-09-01;138,67807;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2017-10-01;141,72493;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2017-11-01;144,78098;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2017-12-01;148,01974;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2018-01-01;151,08923;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2018-02-01;154,13619;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2018-03-01;157,07073;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2018-04-01;160,11779;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2018-05-01;163,40563;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2018-06-01;166,35072;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2018-07-01;169,61347;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2018-08-01;172,55205;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2018-09-01;175,70765;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2018-10-01;178,76501;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2018-11-01;181,81405;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2018-12-01;184,85355;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2019-01-01;188,02624;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2019-02-01;191,06153;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2019-03-01;194,05531;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2019-04-01;196,70598;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2019-05-01;200,02919;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2019-06-01;202,82593;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2019-07-01;206,20221;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2019-08-01;209,39191;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2019-09-01;212,43326;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2019-10-01;215,63428;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2019-11-01;219,00395;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2019-12-01;222,32782;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2020-01-01;225,48595;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2020-02-01;227,89112;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2020-03-01;230,88108;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2020-04-01;233,87049;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2020-05-01;237,03781;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2020-06-01;239,75125;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2020-07-01;243,05638;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2020-08-01;246,18992;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2020-09-01;249,36773;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2020-10-01;252,69573;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2020-11-01;255,82517;39057;Ramales de la Victoria;Pol:Buy (C0);qli_index
+2014-01-01;5,06561;39102;Voto;Pol:Buy (C0);qli_index
+2014-02-01;9,85505;39102;Voto;Pol:Buy (C0);qli_index
+2014-03-01;14,67522;39102;Voto;Pol:Buy (C0);qli_index
+2014-04-01;19,45311;39102;Voto;Pol:Buy (C0);qli_index
+2014-05-01;24,22115;39102;Voto;Pol:Buy (C0);qli_index
+2014-06-01;28,97895;39102;Voto;Pol:Buy (C0);qli_index
+2014-07-01;33,73943;39102;Voto;Pol:Buy (C0);qli_index
+2014-08-01;38,4825;39102;Voto;Pol:Buy (C0);qli_index
+2014-09-01;43,22305;39102;Voto;Pol:Buy (C0);qli_index
+2014-10-01;47,97241;39102;Voto;Pol:Buy (C0);qli_index
+2014-11-01;52,72052;39102;Voto;Pol:Buy (C0);qli_index
+2014-12-01;57,38429;39102;Voto;Pol:Buy (C0);qli_index
+2015-01-01;62,13168;39102;Voto;Pol:Buy (C0);qli_index
+2015-02-01;66,8931;39102;Voto;Pol:Buy (C0);qli_index
+2015-03-01;71,53672;39102;Voto;Pol:Buy (C0);qli_index
+2015-04-01;76,2896;39102;Voto;Pol:Buy (C0);qli_index
+2015-05-01;80,98761;39102;Voto;Pol:Buy (C0);qli_index
+2015-06-01;85,66196;39102;Voto;Pol:Buy (C0);qli_index
+2015-07-01;90,32605;39102;Voto;Pol:Buy (C0);qli_index
+2015-08-01;95,09984;39102;Voto;Pol:Buy (C0);qli_index
+2015-09-01;99,83015;39102;Voto;Pol:Buy (C0);qli_index
+2015-10-01;104,59339;39102;Voto;Pol:Buy (C0);qli_index
+2015-11-01;109,36421;39102;Voto;Pol:Buy (C0);qli_index
+2015-12-01;114,00346;39102;Voto;Pol:Buy (C0);qli_index
+2016-01-01;118,75543;39102;Voto;Pol:Buy (C0);qli_index
+2016-02-01;123,48424;39102;Voto;Pol:Buy (C0);qli_index
+2016-03-01;128,16122;39102;Voto;Pol:Buy (C0);qli_index
+2016-04-01;132,88304;39102;Voto;Pol:Buy (C0);qli_index
+2016-05-01;137,49578;39102;Voto;Pol:Buy (C0);qli_index
+2016-06-01;142,16928;39102;Voto;Pol:Buy (C0);qli_index
+2016-07-01;146,9002;39102;Voto;Pol:Buy (C0);qli_index
+2016-08-01;151,62646;39102;Voto;Pol:Buy (C0);qli_index
+2016-09-01;156,34055;39102;Voto;Pol:Buy (C0);qli_index
+2016-10-01;161,0047;39102;Voto;Pol:Buy (C0);qli_index
+2016-11-01;165,79496;39102;Voto;Pol:Buy (C0);qli_index
+2016-12-01;170,33165;39102;Voto;Pol:Buy (C0);qli_index
+2017-01-01;174,77549;39102;Voto;Pol:Buy (C0);qli_index
+2017-02-01;179,47335;39102;Voto;Pol:Buy (C0);qli_index
+2017-03-01;183,70817;39102;Voto;Pol:Buy (C0);qli_index
+2017-04-01;188,49427;39102;Voto;Pol:Buy (C0);qli_index
+2017-05-01;193,22127;39102;Voto;Pol:Buy (C0);qli_index
+2017-06-01;198,01467;39102;Voto;Pol:Buy (C0);qli_index
+2017-07-01;202,65102;39102;Voto;Pol:Buy (C0);qli_index
+2017-08-01;207,28114;39102;Voto;Pol:Buy (C0);qli_index
+2017-09-01;211,91004;39102;Voto;Pol:Buy (C0);qli_index
+2017-10-01;216,37544;39102;Voto;Pol:Buy (C0);qli_index
+2017-11-01;221,00644;39102;Voto;Pol:Buy (C0);qli_index
+2017-12-01;225,71659;39102;Voto;Pol:Buy (C0);qli_index
+2018-01-01;230,34813;39102;Voto;Pol:Buy (C0);qli_index
+2018-02-01;235,15378;39102;Voto;Pol:Buy (C0);qli_index
+2018-03-01;239,96954;39102;Voto;Pol:Buy (C0);qli_index
+2018-04-01;244,6651;39102;Voto;Pol:Buy (C0);qli_index
+2018-05-01;249,51592;39102;Voto;Pol:Buy (C0);qli_index
+2018-06-01;254,2978;39102;Voto;Pol:Buy (C0);qli_index
+2018-07-01;258,6438;39102;Voto;Pol:Buy (C0);qli_index
+2018-08-01;263,19228;39102;Voto;Pol:Buy (C0);qli_index
+2018-09-01;267,81783;39102;Voto;Pol:Buy (C0);qli_index
+2018-10-01;272,34141;39102;Voto;Pol:Buy (C0);qli_index
+2018-11-01;277,18303;39102;Voto;Pol:Buy (C0);qli_index
+2018-12-01;281,69957;39102;Voto;Pol:Buy (C0);qli_index
+2019-01-01;286,44972;39102;Voto;Pol:Buy (C0);qli_index
+2019-02-01;290,95443;39102;Voto;Pol:Buy (C0);qli_index
+2019-03-01;295,65804;39102;Voto;Pol:Buy (C0);qli_index
+2019-04-01;300,49196;39102;Voto;Pol:Buy (C0);qli_index
+2019-05-01;305,24613;39102;Voto;Pol:Buy (C0);qli_index
+2019-06-01;309,89181;39102;Voto;Pol:Buy (C0);qli_index
+2019-07-01;314,5299;39102;Voto;Pol:Buy (C0);qli_index
+2019-08-01;319,07443;39102;Voto;Pol:Buy (C0);qli_index
+2019-09-01;323,6702;39102;Voto;Pol:Buy (C0);qli_index
+2019-10-01;328,02199;39102;Voto;Pol:Buy (C0);qli_index
+2019-11-01;332,65721;39102;Voto;Pol:Buy (C0);qli_index
+2019-12-01;337,53986;39102;Voto;Pol:Buy (C0);qli_index
+2020-01-01;342,195;39102;Voto;Pol:Buy (C0);qli_index
+2020-02-01;346,10704;39102;Voto;Pol:Buy (C0);qli_index
+2020-03-01;350,64171;39102;Voto;Pol:Buy (C0);qli_index
+2020-04-01;355,25697;39102;Voto;Pol:Buy (C0);qli_index
+2020-05-01;359,67192;39102;Voto;Pol:Buy (C0);qli_index
+2020-06-01;363,78117;39102;Voto;Pol:Buy (C0);qli_index
+2020-07-01;368,40768;39102;Voto;Pol:Buy (C0);qli_index
+2020-08-01;373,25372;39102;Voto;Pol:Buy (C0);qli_index
+2020-09-01;377,16494;39102;Voto;Pol:Buy (C0);qli_index
+2020-10-01;381,58106;39102;Voto;Pol:Buy (C0);qli_index
+2020-11-01;386,27851;39102;Voto;Pol:Buy (C0);qli_index
+2014-01-01;1,46582;10201;Valdemorales;Pol:Wage (C0);qli_index
+2014-02-01;1,9296;10201;Valdemorales;Pol:Wage (C0);qli_index
+2014-03-01;2,38074;10201;Valdemorales;Pol:Wage (C0);qli_index
+2014-04-01;2,8511;10201;Valdemorales;Pol:Wage (C0);qli_index
+2014-05-01;3,31663;10201;Valdemorales;Pol:Wage (C0);qli_index
+2014-06-01;3,78222;10201;Valdemorales;Pol:Wage (C0);qli_index
+2014-07-01;4,247;10201;Valdemorales;Pol:Wage (C0);qli_index
+2014-08-01;4,71149;10201;Valdemorales;Pol:Wage (C0);qli_index
+2014-09-01;5,1925;10201;Valdemorales;Pol:Wage (C0);qli_index
+2014-10-01;5,63671;10201;Valdemorales;Pol:Wage (C0);qli_index
+2014-11-01;6,08044;10201;Valdemorales;Pol:Wage (C0);qli_index
+2014-12-01;6,54667;10201;Valdemorales;Pol:Wage (C0);qli_index
+2015-01-01;6,98426;10201;Valdemorales;Pol:Wage (C0);qli_index
+2015-02-01;7,44551;10201;Valdemorales;Pol:Wage (C0);qli_index
+2015-03-01;7,88172;10201;Valdemorales;Pol:Wage (C0);qli_index
+2015-04-01;8,34915;10201;Valdemorales;Pol:Wage (C0);qli_index
+2015-05-01;8,81705;10201;Valdemorales;Pol:Wage (C0);qli_index
+2015-06-01;9,28472;10201;Valdemorales;Pol:Wage (C0);qli_index
+2015-07-01;9,75015;10201;Valdemorales;Pol:Wage (C0);qli_index
+2015-08-01;10,21482;10201;Valdemorales;Pol:Wage (C0);qli_index
+2015-09-01;10,67938;10201;Valdemorales;Pol:Wage (C0);qli_index
+2015-10-01;11,14343;10201;Valdemorales;Pol:Wage (C0);qli_index
+2015-11-01;11,60755;10201;Valdemorales;Pol:Wage (C0);qli_index
+2015-12-01;12,07003;10201;Valdemorales;Pol:Wage (C0);qli_index
+2016-01-01;12,53388;10201;Valdemorales;Pol:Wage (C0);qli_index
+2016-02-01;12,99777;10201;Valdemorales;Pol:Wage (C0);qli_index
+2016-03-01;13,4615;10201;Valdemorales;Pol:Wage (C0);qli_index
+2016-04-01;13,9221;10201;Valdemorales;Pol:Wage (C0);qli_index
+2016-05-01;14,38502;10201;Valdemorales;Pol:Wage (C0);qli_index
+2016-06-01;14,85051;10201;Valdemorales;Pol:Wage (C0);qli_index
+2016-07-01;15,31234;10201;Valdemorales;Pol:Wage (C0);qli_index
+2016-08-01;15,77432;10201;Valdemorales;Pol:Wage (C0);qli_index
+2016-09-01;16,23618;10201;Valdemorales;Pol:Wage (C0);qli_index
+2016-10-01;16,63969;10201;Valdemorales;Pol:Wage (C0);qli_index
+2016-11-01;17,10793;10201;Valdemorales;Pol:Wage (C0);qli_index
+2016-12-01;17,57144;10201;Valdemorales;Pol:Wage (C0);qli_index
+2017-01-01;18,03811;10201;Valdemorales;Pol:Wage (C0);qli_index
+2017-02-01;18,29908;10201;Valdemorales;Pol:Wage (C0);qli_index
+2017-03-01;18,76859;10201;Valdemorales;Pol:Wage (C0);qli_index
+2017-04-01;19,24413;10201;Valdemorales;Pol:Wage (C0);qli_index
+2017-05-01;19,71736;10201;Valdemorales;Pol:Wage (C0);qli_index
+2017-06-01;20,1892;10201;Valdemorales;Pol:Wage (C0);qli_index
+2017-07-01;20,51384;10201;Valdemorales;Pol:Wage (C0);qli_index
+2017-08-01;20,98824;10201;Valdemorales;Pol:Wage (C0);qli_index
+2017-09-01;21,46481;10201;Valdemorales;Pol:Wage (C0);qli_index
+2017-10-01;21,94066;10201;Valdemorales;Pol:Wage (C0);qli_index
+2017-11-01;22,41588;10201;Valdemorales;Pol:Wage (C0);qli_index
+2017-12-01;22,89047;10201;Valdemorales;Pol:Wage (C0);qli_index
+2018-01-01;23,36579;10201;Valdemorales;Pol:Wage (C0);qli_index
+2018-02-01;23,75198;10201;Valdemorales;Pol:Wage (C0);qli_index
+2018-03-01;24,22648;10201;Valdemorales;Pol:Wage (C0);qli_index
+2018-04-01;24,70203;10201;Valdemorales;Pol:Wage (C0);qli_index
+2018-05-01;25,17706;10201;Valdemorales;Pol:Wage (C0);qli_index
+2018-06-01;25,66397;10201;Valdemorales;Pol:Wage (C0);qli_index
+2018-07-01;26,0453;10201;Valdemorales;Pol:Wage (C0);qli_index
+2018-08-01;26,52701;10201;Valdemorales;Pol:Wage (C0);qli_index
+2018-09-01;26,90191;10201;Valdemorales;Pol:Wage (C0);qli_index
+2018-10-01;27,37644;10201;Valdemorales;Pol:Wage (C0);qli_index
+2018-11-01;27,8521;10201;Valdemorales;Pol:Wage (C0);qli_index
+2018-12-01;28,22999;10201;Valdemorales;Pol:Wage (C0);qli_index
+2019-01-01;28,71578;10201;Valdemorales;Pol:Wage (C0);qli_index
+2019-02-01;29,18981;10201;Valdemorales;Pol:Wage (C0);qli_index
+2019-03-01;29,66464;10201;Valdemorales;Pol:Wage (C0);qli_index
+2019-04-01;30,03447;10201;Valdemorales;Pol:Wage (C0);qli_index
+2019-05-01;30,52442;10201;Valdemorales;Pol:Wage (C0);qli_index
+2019-06-01;31,00811;10201;Valdemorales;Pol:Wage (C0);qli_index
+2019-07-01;31,48782;10201;Valdemorales;Pol:Wage (C0);qli_index
+2019-08-01;31,96221;10201;Valdemorales;Pol:Wage (C0);qli_index
+2019-09-01;32,4397;10201;Valdemorales;Pol:Wage (C0);qli_index
+2019-10-01;32,92646;10201;Valdemorales;Pol:Wage (C0);qli_index
+2019-11-01;33,29958;10201;Valdemorales;Pol:Wage (C0);qli_index
+2019-12-01;33,68494;10201;Valdemorales;Pol:Wage (C0);qli_index
+2020-01-01;34,18392;10201;Valdemorales;Pol:Wage (C0);qli_index
+2020-02-01;34,54948;10201;Valdemorales;Pol:Wage (C0);qli_index
+2020-03-01;35,03785;10201;Valdemorales;Pol:Wage (C0);qli_index
+2020-04-01;35,51423;10201;Valdemorales;Pol:Wage (C0);qli_index
+2020-05-01;35,99249;10201;Valdemorales;Pol:Wage (C0);qli_index
+2020-06-01;36,46682;10201;Valdemorales;Pol:Wage (C0);qli_index
+2020-07-01;36,94253;10201;Valdemorales;Pol:Wage (C0);qli_index
+2020-08-01;37,41967;10201;Valdemorales;Pol:Wage (C0);qli_index
+2020-09-01;37,89757;10201;Valdemorales;Pol:Wage (C0);qli_index
+2020-10-01;37,55036;10201;Valdemorales;Pol:Wage (C0);qli_index
+2020-11-01;38,03404;10201;Valdemorales;Pol:Wage (C0);qli_index
+2014-01-01;1,24792;12002;Aín;Pol:Wage (C0);qli_index
+2014-02-01;1,48881;12002;Aín;Pol:Wage (C0);qli_index
+2014-03-01;1,73798;12002;Aín;Pol:Wage (C0);qli_index
+2014-04-01;1,97488;12002;Aín;Pol:Wage (C0);qli_index
+2014-05-01;2,22525;12002;Aín;Pol:Wage (C0);qli_index
+2014-06-01;2,47538;12002;Aín;Pol:Wage (C0);qli_index
+2014-07-01;2,73368;12002;Aín;Pol:Wage (C0);qli_index
+2014-08-01;2,98756;12002;Aín;Pol:Wage (C0);qli_index
+2014-09-01;3,23881;12002;Aín;Pol:Wage (C0);qli_index
+2014-10-01;3,48814;12002;Aín;Pol:Wage (C0);qli_index
+2014-11-01;3,7379;12002;Aín;Pol:Wage (C0);qli_index
+2014-12-01;3,9871;12002;Aín;Pol:Wage (C0);qli_index
+2015-01-01;4,2377;12002;Aín;Pol:Wage (C0);qli_index
+2015-02-01;4,45624;12002;Aín;Pol:Wage (C0);qli_index
+2015-03-01;4,58111;12002;Aín;Pol:Wage (C0);qli_index
+2015-04-01;4,80621;12002;Aín;Pol:Wage (C0);qli_index
+2015-05-01;5,02998;12002;Aín;Pol:Wage (C0);qli_index
+2015-06-01;5,2905;12002;Aín;Pol:Wage (C0);qli_index
+2015-07-01;5,5495;12002;Aín;Pol:Wage (C0);qli_index
+2015-08-01;5,80863;12002;Aín;Pol:Wage (C0);qli_index
+2015-09-01;6,06763;12002;Aín;Pol:Wage (C0);qli_index
+2015-10-01;6,32548;12002;Aín;Pol:Wage (C0);qli_index
+2015-11-01;6,58356;12002;Aín;Pol:Wage (C0);qli_index
+2015-12-01;6,79492;12002;Aín;Pol:Wage (C0);qli_index
+2016-01-01;7,05246;12002;Aín;Pol:Wage (C0);qli_index
+2016-02-01;7,3085;12002;Aín;Pol:Wage (C0);qli_index
+2016-03-01;7,56774;12002;Aín;Pol:Wage (C0);qli_index
+2016-04-01;7,82444;12002;Aín;Pol:Wage (C0);qli_index
+2016-05-01;8,07945;12002;Aín;Pol:Wage (C0);qli_index
+2016-06-01;8,335;12002;Aín;Pol:Wage (C0);qli_index
+2016-07-01;8,59028;12002;Aín;Pol:Wage (C0);qli_index
+2016-08-01;8,84569;12002;Aín;Pol:Wage (C0);qli_index
+2016-09-01;9,10034;12002;Aín;Pol:Wage (C0);qli_index
+2016-10-01;9,35423;12002;Aín;Pol:Wage (C0);qli_index
+2016-11-01;9,60898;12002;Aín;Pol:Wage (C0);qli_index
+2016-12-01;9,86379;12002;Aín;Pol:Wage (C0);qli_index
+2017-01-01;10,1213;12002;Aín;Pol:Wage (C0);qli_index
+2017-02-01;10,37805;12002;Aín;Pol:Wage (C0);qli_index
+2017-03-01;10,63498;12002;Aín;Pol:Wage (C0);qli_index
+2017-04-01;10,89359;12002;Aín;Pol:Wage (C0);qli_index
+2017-05-01;11,15295;12002;Aín;Pol:Wage (C0);qli_index
+2017-06-01;11,40918;12002;Aín;Pol:Wage (C0);qli_index
+2017-07-01;11,5877;12002;Aín;Pol:Wage (C0);qli_index
+2017-08-01;11,76585;12002;Aín;Pol:Wage (C0);qli_index
+2017-09-01;12,0239;12002;Aín;Pol:Wage (C0);qli_index
+2017-10-01;12,2866;12002;Aín;Pol:Wage (C0);qli_index
+2017-11-01;12,54667;12002;Aín;Pol:Wage (C0);qli_index
+2017-12-01;12,80813;12002;Aín;Pol:Wage (C0);qli_index
+2018-01-01;13,06948;12002;Aín;Pol:Wage (C0);qli_index
+2018-02-01;13,32869;12002;Aín;Pol:Wage (C0);qli_index
+2018-03-01;13,59169;12002;Aín;Pol:Wage (C0);qli_index
+2018-04-01;13,85174;12002;Aín;Pol:Wage (C0);qli_index
+2018-05-01;14,11449;12002;Aín;Pol:Wage (C0);qli_index
+2018-06-01;14,37479;12002;Aín;Pol:Wage (C0);qli_index
+2018-07-01;14,63806;12002;Aín;Pol:Wage (C0);qli_index
+2018-08-01;14,89788;12002;Aín;Pol:Wage (C0);qli_index
+2018-09-01;15,15866;12002;Aín;Pol:Wage (C0);qli_index
+2018-10-01;15,42243;12002;Aín;Pol:Wage (C0);qli_index
+2018-11-01;15,68355;12002;Aín;Pol:Wage (C0);qli_index
+2018-12-01;15,94266;12002;Aín;Pol:Wage (C0);qli_index
+2019-01-01;16,19798;12002;Aín;Pol:Wage (C0);qli_index
+2019-02-01;16,44677;12002;Aín;Pol:Wage (C0);qli_index
+2019-03-01;16,69486;12002;Aín;Pol:Wage (C0);qli_index
+2019-04-01;16,38166;12002;Aín;Pol:Wage (C0);qli_index
+2019-05-01;16,63933;12002;Aín;Pol:Wage (C0);qli_index
+2019-06-01;16,78478;12002;Aín;Pol:Wage (C0);qli_index
+2019-07-01;17,04564;12002;Aín;Pol:Wage (C0);qli_index
+2019-08-01;17,33467;12002;Aín;Pol:Wage (C0);qli_index
+2019-09-01;17,59694;12002;Aín;Pol:Wage (C0);qli_index
+2019-10-01;17,86393;12002;Aín;Pol:Wage (C0);qli_index
+2019-11-01;18,12288;12002;Aín;Pol:Wage (C0);qli_index
+2019-12-01;18,25846;12002;Aín;Pol:Wage (C0);qli_index
+2020-01-01;18,52287;12002;Aín;Pol:Wage (C0);qli_index
+2020-02-01;18,66443;12002;Aín;Pol:Wage (C0);qli_index
+2020-03-01;18,92998;12002;Aín;Pol:Wage (C0);qli_index
+2020-04-01;19,19549;12002;Aín;Pol:Wage (C0);qli_index
+2020-05-01;19,46066;12002;Aín;Pol:Wage (C0);qli_index
+2020-06-01;19,72533;12002;Aín;Pol:Wage (C0);qli_index
+2020-07-01;19,99101;12002;Aín;Pol:Wage (C0);qli_index
+2020-08-01;20,25759;12002;Aín;Pol:Wage (C0);qli_index
+2020-09-01;20,52423;12002;Aín;Pol:Wage (C0);qli_index
+2020-10-01;20,80915;12002;Aín;Pol:Wage (C0);qli_index
+2020-11-01;21,07653;12002;Aín;Pol:Wage (C0);qli_index
+2014-01-01;3,40233;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2014-02-01;6,53674;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2014-03-01;9,66744;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2014-04-01;12,78971;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2014-05-01;15,90958;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2014-06-01;19,09446;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2014-07-01;22,22633;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2014-08-01;25,36822;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2014-09-01;28,4732;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2014-10-01;31,59749;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2014-11-01;34,65893;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2014-12-01;37,7389;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2015-01-01;40,85098;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2015-02-01;43,94349;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2015-03-01;47,03687;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2015-04-01;50,12709;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2015-05-01;53,15603;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2015-06-01;56,22072;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2015-07-01;59,35197;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2015-08-01;62,51214;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2015-09-01;65,67062;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2015-10-01;68,69123;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2015-11-01;71,75922;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2015-12-01;74,82447;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2016-01-01;77,74846;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2016-02-01;80,76522;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2016-03-01;83,78095;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2016-04-01;86,55262;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2016-05-01;89,73301;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2016-06-01;92,61023;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2016-07-01;95,66924;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2016-08-01;98,60157;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2016-09-01;101,66116;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2016-10-01;104,7953;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2016-11-01;107,71318;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2016-12-01;110,91403;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2017-01-01;113,90348;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2017-02-01;117,03862;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2017-03-01;120,17184;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2017-04-01;123,31054;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2017-05-01;126,54547;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2017-06-01;129,59912;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2017-07-01;132,05238;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2017-08-01;135,28699;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2017-09-01;138,338;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2017-10-01;141,59297;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2017-11-01;144,63555;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2017-12-01;147,87914;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2018-01-01;151,02295;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2018-02-01;154,18188;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2018-03-01;157,22629;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2018-04-01;160,47611;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2018-05-01;163,64054;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2018-06-01;165,92975;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2018-07-01;169,10968;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2018-08-01;172,07041;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2018-09-01;175,35197;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2018-10-01;178,64561;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2018-11-01;181,45729;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2018-12-01;184,76607;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2019-01-01;187,80282;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2019-02-01;190,84844;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2019-03-01;193,96758;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2019-04-01;197,04551;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2019-05-01;200,39877;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2019-06-01;202,95942;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2019-07-01;206,16909;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2019-08-01;208,969;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2019-09-01;212,27442;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2019-10-01;215,61617;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2019-11-01;218,78824;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2019-12-01;221,55539;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2020-01-01;224,92237;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2020-02-01;228,28482;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2020-03-01;231,61526;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2020-04-01;234,746;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2020-05-01;238,05662;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2020-06-01;240,89051;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2020-07-01;244,163;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2020-08-01;247,44159;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2020-09-01;250,45087;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2020-10-01;253,72415;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2020-11-01;256,72781;39057;Ramales de la Victoria;Pol:Wage (C0);qli_index
+2014-01-01;5,06477;39102;Voto;Pol:Wage (C0);qli_index
+2014-02-01;9,84958;39102;Voto;Pol:Wage (C0);qli_index
+2014-03-01;14,64741;39102;Voto;Pol:Wage (C0);qli_index
+2014-04-01;19,42489;39102;Voto;Pol:Wage (C0);qli_index
+2014-05-01;24,21849;39102;Voto;Pol:Wage (C0);qli_index
+2014-06-01;29,07168;39102;Voto;Pol:Wage (C0);qli_index
+2014-07-01;33,83153;39102;Voto;Pol:Wage (C0);qli_index
+2014-08-01;38,58711;39102;Voto;Pol:Wage (C0);qli_index
+2014-09-01;43,45068;39102;Voto;Pol:Wage (C0);qli_index
+2014-10-01;48,20865;39102;Voto;Pol:Wage (C0);qli_index
+2014-11-01;52,97542;39102;Voto;Pol:Wage (C0);qli_index
+2014-12-01;57,67813;39102;Voto;Pol:Wage (C0);qli_index
+2015-01-01;62,39219;39102;Voto;Pol:Wage (C0);qli_index
+2015-02-01;67,0946;39102;Voto;Pol:Wage (C0);qli_index
+2015-03-01;71,86578;39102;Voto;Pol:Wage (C0);qli_index
+2015-04-01;76,49577;39102;Voto;Pol:Wage (C0);qli_index
+2015-05-01;81,26574;39102;Voto;Pol:Wage (C0);qli_index
+2015-06-01;86,03649;39102;Voto;Pol:Wage (C0);qli_index
+2015-07-01;90,7685;39102;Voto;Pol:Wage (C0);qli_index
+2015-08-01;95,46053;39102;Voto;Pol:Wage (C0);qli_index
+2015-09-01;100,09908;39102;Voto;Pol:Wage (C0);qli_index
+2015-10-01;104,72905;39102;Voto;Pol:Wage (C0);qli_index
+2015-11-01;109,52401;39102;Voto;Pol:Wage (C0);qli_index
+2015-12-01;114,18391;39102;Voto;Pol:Wage (C0);qli_index
+2016-01-01;118,97973;39102;Voto;Pol:Wage (C0);qli_index
+2016-02-01;123,67398;39102;Voto;Pol:Wage (C0);qli_index
+2016-03-01;128,40564;39102;Voto;Pol:Wage (C0);qli_index
+2016-04-01;133,10853;39102;Voto;Pol:Wage (C0);qli_index
+2016-05-01;137,70951;39102;Voto;Pol:Wage (C0);qli_index
+2016-06-01;142,47054;39102;Voto;Pol:Wage (C0);qli_index
+2016-07-01;147,22466;39102;Voto;Pol:Wage (C0);qli_index
+2016-08-01;151,86137;39102;Voto;Pol:Wage (C0);qli_index
+2016-09-01;156,61048;39102;Voto;Pol:Wage (C0);qli_index
+2016-10-01;161,24976;39102;Voto;Pol:Wage (C0);qli_index
+2016-11-01;165,99959;39102;Voto;Pol:Wage (C0);qli_index
+2016-12-01;170,68536;39102;Voto;Pol:Wage (C0);qli_index
+2017-01-01;175,29884;39102;Voto;Pol:Wage (C0);qli_index
+2017-02-01;180,02332;39102;Voto;Pol:Wage (C0);qli_index
+2017-03-01;184,41451;39102;Voto;Pol:Wage (C0);qli_index
+2017-04-01;189,01635;39102;Voto;Pol:Wage (C0);qli_index
+2017-05-01;193,71157;39102;Voto;Pol:Wage (C0);qli_index
+2017-06-01;198,4077;39102;Voto;Pol:Wage (C0);qli_index
+2017-07-01;203,00308;39102;Voto;Pol:Wage (C0);qli_index
+2017-08-01;207,81331;39102;Voto;Pol:Wage (C0);qli_index
+2017-09-01;212,47718;39102;Voto;Pol:Wage (C0);qli_index
+2017-10-01;217,06623;39102;Voto;Pol:Wage (C0);qli_index
+2017-11-01;221,89147;39102;Voto;Pol:Wage (C0);qli_index
+2017-12-01;226,7072;39102;Voto;Pol:Wage (C0);qli_index
+2018-01-01;231,45912;39102;Voto;Pol:Wage (C0);qli_index
+2018-02-01;236,12392;39102;Voto;Pol:Wage (C0);qli_index
+2018-03-01;240,70248;39102;Voto;Pol:Wage (C0);qli_index
+2018-04-01;245,49414;39102;Voto;Pol:Wage (C0);qli_index
+2018-05-01;250,08532;39102;Voto;Pol:Wage (C0);qli_index
+2018-06-01;254,97176;39102;Voto;Pol:Wage (C0);qli_index
+2018-07-01;259,35533;39102;Voto;Pol:Wage (C0);qli_index
+2018-08-01;264,13243;39102;Voto;Pol:Wage (C0);qli_index
+2018-09-01;268,82035;39102;Voto;Pol:Wage (C0);qli_index
+2018-10-01;273,39778;39102;Voto;Pol:Wage (C0);qli_index
+2018-11-01;277,87289;39102;Voto;Pol:Wage (C0);qli_index
+2018-12-01;282,55155;39102;Voto;Pol:Wage (C0);qli_index
+2019-01-01;287,33999;39102;Voto;Pol:Wage (C0);qli_index
+2019-02-01;291,43256;39102;Voto;Pol:Wage (C0);qli_index
+2019-03-01;296,09195;39102;Voto;Pol:Wage (C0);qli_index
+2019-04-01;300,77687;39102;Voto;Pol:Wage (C0);qli_index
+2019-05-01;305,48559;39102;Voto;Pol:Wage (C0);qli_index
+2019-06-01;310,21306;39102;Voto;Pol:Wage (C0);qli_index
+2019-07-01;314,81098;39102;Voto;Pol:Wage (C0);qli_index
+2019-08-01;319,81104;39102;Voto;Pol:Wage (C0);qli_index
+2019-09-01;324,76617;39102;Voto;Pol:Wage (C0);qli_index
+2019-10-01;329,50816;39102;Voto;Pol:Wage (C0);qli_index
+2019-11-01;334,16615;39102;Voto;Pol:Wage (C0);qli_index
+2019-12-01;339,10576;39102;Voto;Pol:Wage (C0);qli_index
+2020-01-01;343,87825;39102;Voto;Pol:Wage (C0);qli_index
+2020-02-01;348,48044;39102;Voto;Pol:Wage (C0);qli_index
+2020-03-01;353,00139;39102;Voto;Pol:Wage (C0);qli_index
+2020-04-01;357,88214;39102;Voto;Pol:Wage (C0);qli_index
+2020-05-01;362,66837;39102;Voto;Pol:Wage (C0);qli_index
+2020-06-01;367,29306;39102;Voto;Pol:Wage (C0);qli_index
+2020-07-01;371,36987;39102;Voto;Pol:Wage (C0);qli_index
+2020-08-01;376,14508;39102;Voto;Pol:Wage (C0);qli_index
+2020-09-01;380,88973;39102;Voto;Pol:Wage (C0);qli_index
+2020-10-01;385,38421;39102;Voto;Pol:Wage (C0);qli_index
+2020-11-01;390,04854;39102;Voto;Pol:Wage (C0);qli_index
