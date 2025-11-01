@@ -60,19 +60,45 @@ Este archivo documenta las tareas para el desarrollo del dashboard interactivo c
 - [X] **Diseño y Estilo:**
     - [X] Mejorar la apariencia visual (CSS personalizado en `assets/style.css`, aplicado en `app.py`).
     - [ ] Añadir logo o branding si es necesario.
-- [ ] **Usabilidad:**
+- [X] **Usabilidad:**
     - [X] Añadir mensajes de ayuda, tooltips, y descripciones claras. (Added to main widgets in app.py)
-    - [ ] Optimizar la carga de datos y la respuesta de la interfaz. (Partially done with @st.cache)
-    - [ ] Manejo de errores y excepciones. (Basic handling exists)
-- [ ] **Documentación:**
-    - [ ] Comentarios en el código.
-    - [ ] Actualizar este `TODO.md` y `README.md` del proyecto.
+    - [X] Optimizar la carga de datos y la respuesta de la interfaz. (Done with @st.cache_data and @st.cache_resource)
+    - [X] Manejo de errores y excepciones. (Mejorado con logging y mensajes detallados)
+- [X] **Documentación:**
+    - [X] Comentarios en el código (docstrings añadidos a funciones principales).
+    - [X] Actualizar este `TODO.md` y `README.md` del proyecto.
 
 ## 💡 Anotaciones y Próximos Pasos
 
-- *Aquí se pueden añadir notas durante el desarrollo.*
-- Considerar el uso de `st.cache_data` y `st.cache_resource` para optimizar el rendimiento al cargar datos y recursos.
-- Explorar componentes de la comunidad de Streamlit para funcionalidades avanzadas.
+### ✅ Completado Recientemente (2025)
+- Añadido logging comprehensivo para debugging
+- Mejorados mensajes de error con contexto útil
+- Añadida documentación en código (docstrings)
+- Implementado uso correcto de `st.cache_data` y `st.cache_resource`
+- Mejorada experiencia de usuario con mensajes informativos
+
+### 🔜 Próximas Mejoras Sugeridas
+- [ ] Añadir logo personalizado del proyecto en el sidebar
+- [ ] Implementar caché de consultas SQL complejas
+- [ ] Añadir tests automatizados con pytest
+- [ ] Crear página de estadísticas de uso del dashboard
+- [ ] Implementar exportación de informes en formato PDF
+- [ ] Añadir autenticación de usuarios (opcional)
+- [ ] Integrar mapas con más capas de datos
+- [ ] Implementar comparativas entre múltiples municipios
+- [ ] Añadir análisis de series temporales avanzados
+- [ ] Crear sistema de alertas para datos anómalos
+
+### 🛠️ Herramientas de Desarrollo Añadidas
+- `check_database_health.py`: Verifica integridad de la base de datos
+- `validate_data.py`: Valida calidad de datos en las tablas
+- `CONTRIBUTING.md`: Guía para nuevos contribuidores
+- README.md actualizado con instrucciones de instalación
+
+### 📚 Recursos Útiles
+- Considerar componentes de la comunidad de Streamlit: streamlit-aggrid, streamlit-extras
+- Explorar Plotly Dash como alternativa para visualizaciones más complejas
+- Investigar integración con Apache Superset para analytics empresariales
 
 ---
-*Este TODO se irá actualizando a medida que avance el proyecto.*
+*Este TODO se actualiza a medida que avanza el proyecto. Última actualización: 2025*

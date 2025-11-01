@@ -65,11 +65,108 @@ Cada notebook incluye un informe detallado del proceso, decisiones de limpieza, 
 
 ---
 
+## 🚀 Inicio Rápido
+
+### Requisitos Previos
+
+- Python 3.8 o superior
+- pip (gestor de paquetes de Python)
+- 500 MB de espacio libre en disco
+- Conexión a Internet (para descargar datos actualizados)
+
+### Instalación
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone https://github.com/agmalaga2020/PolicySpace2_Spanish_data.git
+   cd PolicySpace2_Spanish_data
+   ```
+
+2. **Crear entorno virtual (recomendado):**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # En Windows: venv\Scripts\activate
+   ```
+
+3. **Instalar dependencias:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Verificar la instalación:**
+   ```bash
+   python check_database_health.py
+   ```
+
+### Uso del Dashboard Interactivo
+
+El proyecto incluye un dashboard Streamlit para explorar los datos de forma interactiva:
+
+1. **Instalar dependencias del dashboard:**
+   ```bash
+   cd dashboard
+   pip install -r requirements.txt
+   ```
+
+2. **Ejecutar el dashboard:**
+   ```bash
+   streamlit run app.py
+   ```
+
+3. **Abrir en el navegador:**
+   El dashboard se abrirá automáticamente en `http://localhost:8501`
+
+### Uso de Scripts ETL
+
+Para reproducir o actualizar los procesos de limpieza y transformación de datos:
+
+1. **Navegar a la carpeta ETL específica:**
+   ```bash
+   cd ETL/estimativas_pop  # Ejemplo: datos de población
+   ```
+
+2. **Abrir el notebook Jupyter:**
+   ```bash
+   jupyter notebook
+   ```
+
+3. **Ejecutar el notebook completo o celdas individuales** para reproducir el proceso ETL
+
+---
+
 ## 🧑‍💻 ¿Cómo usarlo?
 
-1. Revisa los notebooks de ETL para entender y reproducir cada flujo de datos.
-2. Usa los datasets finales para alimentar modelos de simulación, análisis estadístico o visualizaciones.
-3. Consulta los informes incluidos en cada notebook para entender las decisiones de limpieza y modelado.
+### Opción 1: Dashboard Interactivo (Recomendado para exploración)
+- Ejecuta `streamlit run dashboard/app.py`
+- Explora datos, crea visualizaciones y exporta resultados
+- Genera informes personalizados
+
+### Opción 2: Scripts Python
+- Usa los scripts principales para obtener datos actualizados:
+  ```bash
+  python adaptar_policyspace2_espana.py
+  ```
+- Consulta `guia_uso.md` para opciones avanzadas
+
+### Opción 3: Notebooks Jupyter (Para desarrollo)
+1. Revisa los notebooks de ETL para entender y reproducir cada flujo de datos
+2. Usa los datasets finales para alimentar modelos de simulación, análisis estadístico o visualizaciones
+3. Consulta los informes incluidos en cada notebook para entender las decisiones de limpieza y modelado
+
+### Opción 4: Acceso Directo a la Base de Datos
+```python
+import sqlite3
+import pandas as pd
+
+# Conectar a la base de datos
+conn = sqlite3.connect('data base/datawarehouse.db')
+
+# Consultar datos
+df = pd.read_sql_query("SELECT * FROM tabla_poblacion LIMIT 100", conn)
+print(df.head())
+
+conn.close()
+```
 
 ---
 
@@ -85,9 +182,71 @@ Supón que quieres analizar cómo afectaría una subida de los tipos de interés
    
 ---
 
+## 🛠️ Herramientas Útiles
+
+### Verificar Salud de la Base de Datos
+```bash
+python check_database_health.py
+```
+Este script verifica la integridad de los datos y proporciona estadísticas sobre las tablas.
+
+### Generar Mapas Pregenerados
+```bash
+python pregenerar_mapas_pie.py
+```
+Genera visualizaciones geoespaciales para análisis rápido.
+
+### Adaptar Datos de PolicySpace2
+```bash
+python adaptar_policyspace2_espana.py --help
+```
+Ver todas las opciones para obtener y actualizar datos.
+
+---
+
+## 🤝 Contribuir
+
+¡Las contribuciones son bienvenidas! Por favor, lee [CONTRIBUTING.md](CONTRIBUTING.md) para conocer los detalles sobre:
+- Cómo reportar bugs
+- Cómo proponer nuevas funcionalidades
+- Guías de estilo de código
+- Proceso de pull requests
+
+---
+
+## 📄 Documentación Adicional
+
+- **[guia_uso.md](guia_uso.md)**: Guía detallada de uso de scripts y APIs
+- **[fuentes_datos_espanolas.md](fuentes_datos_espanolas.md)**: Documentación de fuentes de datos
+- **[equivalencias_detalladas.md](equivalencias_detalladas.md)**: Mapeo entre datos brasileños y españoles
+- **[CONTRIBUTING.md](CONTRIBUTING.md)**: Guía para contribuidores
+- **[dashboard/TODO.md](dashboard/TODO.md)**: Estado del desarrollo del dashboard
+
+---
+
+## 📊 Estadísticas del Proyecto
+
+- **Municipios cubiertos**: 8.131
+- **Provincias**: 50
+- **Comunidades Autónomas**: 17 + 2 ciudades autónomas
+- **Años de datos**: 2013-2022 (según la fuente)
+- **Tablas en la base de datos**: 30+
+- **Tamaño de la base de datos**: ~25 MB
+
+---
+
 ## 📬 Contacto
 
-¿Dudas o sugerencias? Consulta la documentación o contacta al desarrollador.
+¿Dudas o sugerencias? 
+- Abre un [issue](https://github.com/agmalaga2020/PolicySpace2_Spanish_data/issues)
+- Consulta la [documentación](guia_uso.md)
+- Revisa los [issues existentes](https://github.com/agmalaga2020/PolicySpace2_Spanish_data/issues)
+
+---
+
+## 📝 Licencia
+
+Ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 

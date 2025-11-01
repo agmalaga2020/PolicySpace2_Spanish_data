@@ -1,3 +1,22 @@
+"""
+PolicySpace2 Dashboard - Aplicación Streamlit para explorar datos socioeconómicos de España
+
+Este dashboard proporciona una interfaz interactiva para visualizar y analizar datos
+del proyecto PolicySpace2 adaptado al contexto español. Permite explorar indicadores
+demográficos, económicos y sociales a nivel municipal, provincial y autonómico.
+
+Características principales:
+- Visualización interactiva de datos
+- Filtros dinámicos por múltiples dimensiones
+- Exportación de datos en CSV y Excel
+- Generación de informes personalizados
+- Mapas interactivos geoespaciales
+
+Autor: PolicySpace2 España
+Fecha: 2025
+Licencia: Ver LICENSE en el repositorio
+"""
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -6,6 +25,14 @@ import os
 import json
 from io import BytesIO
 import plotly.express as px
+import logging
+
+# Configuración de logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
 
 # Configuración de la página
 st.set_page_config(
@@ -15,19 +42,36 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Conexión a la Base de Datos
+# Configuración de la Base de Datos
 DB_FILENAME = "datawarehouse.db"
 DB_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data base", DB_FILENAME)
 
 @st.cache_resource
 def get_engine():
+    """
+    Crea y cachea una conexión a la base de datos SQLite.
+    
+    Returns:
+        sqlalchemy.engine.Engine: Motor de conexión a la base de datos o None si falla
+        
+    Note:
+        Esta función utiliza @st.cache_resource para evitar crear múltiples conexiones
+        a la base de datos en cada recarga de la aplicación.
+    """
     if not os.path.exists(DB_PATH):
-        st.error(f"Error: No se encontró la base de datos en: {DB_PATH}")
+        error_msg = f"No se encontró la base de datos en: {DB_PATH}"
+        logger.error(error_msg)
+        st.error(f"❌ Error: {error_msg}")
+        st.info("💡 Asegúrate de que el archivo datawarehouse.db existe en la carpeta 'data base'")
         return None
     try:
-        return create_engine(f"sqlite:///{DB_PATH}")
+        engine = create_engine(f"sqlite:///{DB_PATH}")
+        logger.info(f"Conexión establecida con la base de datos: {DB_PATH}")
+        return engine
     except Exception as e:
-        st.error(f"Error al conectar con la base de datos: {e}")
+        error_msg = f"Error al conectar con la base de datos: {str(e)}"
+        logger.error(error_msg)
+        st.error(f"❌ {error_msg}")
         return None
 
 # Crear menú superior con pestañas
@@ -218,11 +262,25 @@ with tab3:
         
         @st.cache_data
         def get_table_names(_engine):
+            """
+            Obtiene la lista de nombres de tablas disponibles en la base de datos.
+            
+            Args:
+                _engine: Motor de conexión SQLAlchemy (con _ para evitar hash en cache)
+                
+            Returns:
+                list: Lista de nombres de tablas o lista vacía si hay error
+            """
             try:
                 with _engine.connect() as conn:
-                    return pd.read_sql_query("SELECT name FROM sqlite_master WHERE type='table';", conn)['name'].tolist()
+                    query = "SELECT name FROM sqlite_master WHERE type='table';"
+                    tables = pd.read_sql_query(query, conn)['name'].tolist()
+                    logger.info(f"Se encontraron {len(tables)} tablas en la base de datos")
+                    return tables
             except Exception as e:
-                st.error(f"Error al obtener tablas: {e}")
+                error_msg = f"Error al obtener tablas: {str(e)}"
+                logger.error(error_msg)
+                st.error(f"❌ {error_msg}")
                 return []
 
         # Selección de tabla en el sidebar
@@ -238,12 +296,24 @@ with tab3:
             if selected_table:
                 @st.cache_data
                 def load_data(_engine, _table):
+                    """
+                    Carga datos de una tabla específica de la base de datos.
+                    
+                    Args:
+                        _engine: Motor de conexión SQLAlchemy
+                        _table: Nombre de la tabla a cargar
+                        
+                    Returns:
+                        pd.DataFrame: DataFrame con los datos de la tabla
+                    """
+                    logger.info(f"Cargando datos de la tabla: {_table}")
                     return pd.read_sql_table(_table, _engine)
 
                 try:
                     df = load_data(engine, selected_table)
                     st.write(f"### Tabla: {selected_table}")
-                    st.dataframe(df.head(100))
+                    st.info(f"📊 Mostrando las primeras 100 filas de {len(df):,} registros totales")
+                    st.dataframe(df.head(100), use_container_width=True)
 
                     # Filtros en el sidebar
                     with st.sidebar:
