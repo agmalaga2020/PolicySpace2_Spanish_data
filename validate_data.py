@@ -33,6 +33,12 @@ import json
 from datetime import datetime
 from pathlib import Path
 
+# Configuración de validación
+NULL_PERCENTAGE_HIGH_THRESHOLD = 10  # Porcentaje de nulos considerado alto
+NULL_PERCENTAGE_CRITICAL_THRESHOLD = 50  # Porcentaje de nulos considerado crítico
+OUTLIER_IQR_MULTIPLIER = 3  # Multiplicador IQR para detección de outliers extremos
+OUTLIER_PERCENTAGE_THRESHOLD = 5  # Porcentaje máximo de outliers aceptable
+
 
 class DataValidator:
     """Clase para validar datos en la base de datos PolicySpace2."""
@@ -109,13 +115,13 @@ class DataValidator:
             if len(critical_null_cols) > 0:
                 for col, count in critical_null_cols.items():
                     pct = (count / len(df)) * 100
-                    if pct > 10:  # Más del 10% de valores nulos es un problema
+                    if pct > NULL_PERCENTAGE_HIGH_THRESHOLD:
                         results['issues'].append({
                             'type': 'high_null_percentage',
                             'column': col,
                             'count': int(count),
                             'percentage': round(pct, 2),
-                            'severity': 'high' if pct > 50 else 'medium'
+                            'severity': 'high' if pct > NULL_PERCENTAGE_CRITICAL_THRESHOLD else 'medium'
                         })
                         results['checks_failed'] += 1
                     else:
@@ -166,9 +172,10 @@ class DataValidator:
                 Q1 = df[col].quantile(0.25)
                 Q3 = df[col].quantile(0.75)
                 IQR = Q3 - Q1
-                outliers = ((df[col] < (Q1 - 3 * IQR)) | (df[col] > (Q3 + 3 * IQR))).sum()
+                outliers = ((df[col] < (Q1 - OUTLIER_IQR_MULTIPLIER * IQR)) | 
+                           (df[col] > (Q3 + OUTLIER_IQR_MULTIPLIER * IQR))).sum()
                 
-                if outliers > len(df) * 0.05:  # Más del 5% son outliers
+                if outliers > len(df) * (OUTLIER_PERCENTAGE_THRESHOLD / 100):
                     results['warnings'].append({
                         'type': 'high_outlier_count',
                         'column': col,

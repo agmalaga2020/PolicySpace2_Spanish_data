@@ -27,6 +27,9 @@ from io import BytesIO
 import plotly.express as px
 import logging
 
+# Configuración
+MAX_ROWS_DISPLAY = 100  # Número máximo de filas a mostrar en la exploración de datos
+
 # Configuración de logging
 logging.basicConfig(
     level=logging.INFO,
@@ -312,8 +315,8 @@ with tab3:
                 try:
                     df = load_data(engine, selected_table)
                     st.write(f"### Tabla: {selected_table}")
-                    st.info(f"📊 Mostrando las primeras 100 filas de {len(df):,} registros totales")
-                    st.dataframe(df.head(100), use_container_width=True)
+                    st.info(f"📊 Mostrando las primeras {MAX_ROWS_DISPLAY} filas de {len(df):,} registros totales")
+                    st.dataframe(df.head(MAX_ROWS_DISPLAY), use_container_width=True)
 
                     # Filtros en el sidebar
                     with st.sidebar:

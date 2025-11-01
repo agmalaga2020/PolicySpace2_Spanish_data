@@ -38,6 +38,10 @@ def print_section(text):
     print(f"{'─'*80}")
 
 
+# Configuración
+MIN_PYTHON_VERSION = (3, 8)  # Versión mínima de Python requerida
+
+
 def check_python_version():
     """Verifica la versión de Python."""
     print_section("🐍 Verificando versión de Python")
@@ -45,8 +49,8 @@ def check_python_version():
     version = sys.version_info
     print(f"   Python {version.major}.{version.minor}.{version.micro}")
     
-    if version.major < 3 or (version.major == 3 and version.minor < 8):
-        print("   ❌ Se requiere Python 3.8 o superior")
+    if version.major < MIN_PYTHON_VERSION[0] or (version.major == MIN_PYTHON_VERSION[0] and version.minor < MIN_PYTHON_VERSION[1]):
+        print(f"   ❌ Se requiere Python {MIN_PYTHON_VERSION[0]}.{MIN_PYTHON_VERSION[1]} o superior")
         return False
     else:
         print("   ✅ Versión de Python compatible")

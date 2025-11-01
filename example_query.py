@@ -16,6 +16,10 @@ import sqlite3
 import pandas as pd
 from pathlib import Path
 
+# Configuración
+YEARS_TO_DISPLAY = 5  # Número de años a mostrar en ejemplos de evolución
+MAX_ROWS_DISPLAY = 10  # Número máximo de filas a mostrar en ejemplos
+
 
 def connect_database():
     """
@@ -96,10 +100,10 @@ def example_2_population_trend(conn):
         print("⚠️  No se encontraron columnas de año en la tabla\n")
         return
     
-    # Calcular población total por año (usando primeros 5 años como ejemplo)
-    print("📈 Población total en España (primeros 5 años disponibles):\n")
+    # Calcular población total por año (usando primeros N años como ejemplo)
+    print(f"📈 Población total en España (primeros {YEARS_TO_DISPLAY} años disponibles):\n")
     
-    for year in year_columns[:5]:
+    for year in year_columns[:YEARS_TO_DISPLAY]:
         query = f'SELECT SUM(CAST("{year}" AS INTEGER)) as total FROM estimativas_pop WHERE "{year}" IS NOT NULL;'
         result = pd.read_sql_query(query, conn)
         total = result['total'].iloc[0]
