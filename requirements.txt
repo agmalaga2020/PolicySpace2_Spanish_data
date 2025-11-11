@@ -1,22 +1,75 @@
-# Dependencias básicas de Streamlit
-streamlit
-streamlit-option-menu
+# ==================================
+# CORE DEPENDENCIES
+# ==================================
 
-# Conexión a bases de datos
-sqlalchemy     # motor ORM
+# Web Framework & Dashboard
+streamlit>=1.28.0,<2.0.0
+streamlit-option-menu>=0.3.6,<1.0.0
 
-# Para manejo de datos
-pandas
-openpyxl
-plotly
+# Database
+sqlalchemy>=2.0.23,<3.0.0
 
-# GeoPandas y dependencias
-geopandas
-fiona
-pyproj
-shapely
-rtree
-folium
-streamlit-folium
-topojson
-scikit-learn
+# Data Processing
+pandas>=2.0.3,<3.0.0
+numpy>=1.24.3,<2.0.0
+
+# Data Export
+openpyxl>=3.1.2,<4.0.0
+xlsxwriter>=3.1.9,<4.0.0
+
+# Visualization
+plotly>=5.17.0,<6.0.0
+matplotlib>=3.7.2,<4.0.0
+
+# ==================================
+# GIS & SPATIAL DATA
+# ==================================
+
+# GeoPandas ecosystem
+geopandas>=0.14.0,<1.0.0
+fiona>=1.9.5,<2.0.0
+pyproj>=3.6.1,<4.0.0
+shapely>=2.0.2,<3.0.0
+rtree>=1.1.0,<2.0.0
+
+# Maps
+folium>=0.15.0,<1.0.0
+streamlit-folium>=0.15.1,<1.0.0
+topojson>=1.5.0,<2.0.0
+
+# ==================================
+# MACHINE LEARNING
+# ==================================
+
+scikit-learn>=1.3.2,<2.0.0
+
+# ==================================
+# WEB SCRAPING & APIs
+# ==================================
+
+requests>=2.31.0,<3.0.0
+beautifulsoup4>=4.12.2,<5.0.0
+lxml>=4.9.3,<5.0.0
+
+# ==================================
+# UTILITIES
+# ==================================
+
+python-dotenv>=1.0.0,<2.0.0
+tqdm>=4.66.1,<5.0.0
+
+# ==================================
+# DATE/TIME
+# ==================================
+
+python-dateutil>=2.8.2,<3.0.0
+
+# ==================================
+# API BACKEND (FastAPI)
+# ==================================
+
+fastapi>=0.104.1,<1.0.0
+uvicorn[standard]>=0.24.0,<1.0.0
+pydantic>=2.5.0,<3.0.0
+pydantic-settings>=2.1.0,<3.0.0
+httpx>=0.25.2,<1.0.0
