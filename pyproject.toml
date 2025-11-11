@@ -1,0 +1,166 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "policyspace2-spanish-data"
+version = "0.1.0"
+description = "Adaptación de PolicySpace2 al contexto español con datos oficiales del INE, Banco de España y otras fuentes"
+readme = "README.md"
+authors = [
+    {name = "Alberto Giménez Mut", email = "agmalaga2020@example.com"}
+]
+license = {text = "MIT"}
+requires-python = ">=3.11"
+keywords = ["policyspace", "simulation", "public-policy", "demographics", "spain", "etl"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering",
+]
+
+dependencies = [
+    "streamlit>=1.28.0",
+    "streamlit-option-menu>=0.3.6",
+    "sqlalchemy>=2.0.0",
+    "pandas>=2.0.0",
+    "openpyxl>=3.1.0",
+    "plotly>=5.17.0",
+    "geopandas>=0.14.0",
+    "fiona>=1.9.0",
+    "pyproj>=3.6.0",
+    "shapely>=2.0.0",
+    "rtree>=1.1.0",
+    "folium>=0.15.0",
+    "streamlit-folium>=0.15.0",
+    "topojson>=1.5.0",
+    "scikit-learn>=1.3.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-cov>=4.1.0",
+    "pytest-mock>=3.12.0",
+    "black>=23.9.0",
+    "flake8>=6.1.0",
+    "isort>=5.12.0",
+    "mypy>=1.5.0",
+    "bandit>=1.7.5",
+    "safety>=2.3.5",
+    "pre-commit>=3.5.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/agmalaga2020/PolicySpace2_Spanish_data"
+Documentation = "https://github.com/agmalaga2020/PolicySpace2_Spanish_data/blob/main/README.md"
+Repository = "https://github.com/agmalaga2020/PolicySpace2_Spanish_data"
+Issues = "https://github.com/agmalaga2020/PolicySpace2_Spanish_data/issues"
+
+[tool.setuptools]
+packages = ["policyspace2"]
+
+[tool.setuptools.package-data]
+policyspace2 = ["py.typed"]
+
+# Black configuration
+[tool.black]
+line-length = 100
+target-version = ['py311']
+include = '\.pyi?$'
+extend-exclude = '''
+/(
+  # directories
+  \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | _build
+  | buck-out
+  | build
+  | dist
+  | venv
+  | env
+)/
+'''
+
+# isort configuration
+[tool.isort]
+profile = "black"
+line_length = 100
+skip_gitignore = true
+known_first_party = ["policyspace2"]
+sections = ["FUTURE", "STDLIB", "THIRDPARTY", "FIRSTPARTY", "LOCALFOLDER"]
+
+# mypy configuration
+[tool.mypy]
+python_version = "3.11"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = false
+ignore_missing_imports = true
+check_untyped_defs = true
+warn_redundant_casts = true
+warn_unused_ignores = false
+show_error_codes = true
+
+[[tool.mypy.overrides]]
+module = "tests.*"
+ignore_errors = true
+
+# pytest configuration (also in pytest.ini for compatibility)
+[tool.pytest.ini_options]
+minversion = "7.0"
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = [
+    "-v",
+    "-ra",
+    "--strict-markers",
+    "--cov=.",
+    "--cov-report=html",
+    "--cov-report=term-missing",
+]
+markers = [
+    "slow: marks tests as slow",
+    "integration: marks tests as integration tests",
+    "unit: marks tests as unit tests",
+    "etl: marks tests related to ETL pipelines",
+    "api: marks tests related to API calls",
+    "database: marks tests related to database operations",
+]
+
+# Coverage configuration
+[tool.coverage.run]
+source = ["."]
+omit = [
+    "*/tests/*",
+    "*/test_*.py",
+    "*/__pycache__/*",
+    "*/venv/*",
+    "*/env/*",
+    "*/.venv/*",
+    "*/setup.py",
+    "*/conftest.py",
+]
+
+[tool.coverage.report]
+precision = 2
+show_missing = true
+skip_covered = false
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "raise AssertionError",
+    "raise NotImplementedError",
+    "if __name__ == .__main__.:",
+    "@abstractmethod",
+]

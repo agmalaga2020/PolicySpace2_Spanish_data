@@ -1,5 +1,11 @@
 # PolicySpace2_Spanish_data 🇪🇸
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Documentation](https://img.shields.io/badge/docs-detailed-brightgreen.svg)
+
 ¡Bienvenido! Este proyecto adapta el modelo PolicySpace2 al contexto español, integrando datos oficiales y procesos ETL avanzados para simular y analizar políticas públicas, dinámicas demográficas y socioeconómicas a nivel municipal y regional.
 
 ---

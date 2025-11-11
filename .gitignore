@@ -1,2 +1,170 @@
+# ==================================
+# Python
+# ==================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
 
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# ==================================
+# IDEs and Editors
+# ==================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# ==================================
+# OS Files
+# ==================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.lnk
+
+# ==================================
+# Secrets and Credentials
+# ==================================
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets.yaml
+secrets.json
+credentials.json
+config/secrets/
+
+# ==================================
+# Databases
+# ==================================
+*.db
+*.sqlite
+*.sqlite3
+!schema.db
+
+# ==================================
+# Logs
+# ==================================
+*.log
+logs/
+*.log.*
+
+# ==================================
+# Data files (large/processed)
+# ==================================
+data/raw/*
+data/processed/*
+*.csv
+!*example*.csv
+!equivalencias*.csv
+*.xlsx
+*.xls
+!*example*.xlsx
+
+# Keep specific files needed
+!df_final_single_row.csv
+!equivalencias_datos_espana.csv
+!interest_nominal.csv
+!interest_real.csv
+
+# ==================================
+# Jupyter Notebook
+# ==================================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints
+
+# ==================================
+# Testing
+# ==================================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# ==================================
+# Documentation builds
+# ==================================
+docs/_build/
+docs/.doctrees/
+site/
+
+# ==================================
+# Cache
+# ==================================
+.cache/
+*.cache
+
+# ==================================
+# Temporary files
+# ==================================
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# ==================================
+# Project specific
+# ==================================
 ETL/cifras_poblacion_municipio/content/33575.csv
+
+# Backup databases
+backups/
+*.db.backup
+
+# Reports
+reports/*.json
+reports/*.html
+
+# Large data files
+*.parquet
+*.feather
